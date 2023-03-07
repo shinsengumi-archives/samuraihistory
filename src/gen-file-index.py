@@ -109,7 +109,10 @@ def gen(type, group):
         if isdir(group+path):
             content, added = getFilesInDirectory(type, content, group, path, file, md, 3)
             if added:
-                nav = nav + '<li>'+'<a href="#'+file+'">'+md[nameKey]+'</a> - '+md['description']+'</li>\n'
+                desc = md['description']
+                if desc != '':
+                    desc = ' - ' + desc
+                nav = nav + '<li>'+'<a href="#'+file+'">'+md[nameKey]+'</a>'+desc+'</li>\n'
         else:
             content = content + getListing(type, group, path, file, md)
 
