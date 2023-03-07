@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 27940151,
+            "authorName": "Barbara Nostrand",
+            "from": "Barbara Nostrand &lt;nostrand@...&gt;",
+            "profile": "drnostrand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [samuraihistory] I need help",
+            "postDate": "1137284988",
+            "msgId": 8191,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNiZmQ5NzI3YmY4NGU5MDc1YmQ2YjdlOGRjYzYzYTEyQGFjbS5vcmc+",
+                "inReplyToHeader": "PDAwMDUwMWM2MTg4MiQ4YWZjZGI4MCQxN2ZkNjg0NEBERDAwTjIxMT4=",
+                "referencesHeader": "PGRxOGczNytsbDBvQGVHcm91cHMuY29tPiA8MDAwNTAxYzYxODgyJDhhZmNkYjgwJDE3ZmQ2ODQ0QEREMDBOMjExPg=="
+            },
+            "prevInTopic": 8184,
+            "nextInTopic": 0,
+            "prevInTime": 8190,
+            "nextInTime": 8192,
+            "topicId": 8183,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. Tsunoda Bunei lists in Kamon Kakei Jiten about 42 family names for 3 variations on kashiwa leaves.",
+            "messageBody": "<div id=\"ygrps-yiv-503166357\">Hi.<br/>\n<br/>\nTsunoda Bunei lists in Kamon Kakei Jiten about 42 family names for 3 <br/>\nvariations on kashiwa leaves.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 150733417,
+            "authorName": "Robert Corella",
+            "from": "&quot;Robert Corella&quot; &lt;bcorella@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] I need help",
+            "postDate": "1137185237",
+            "msgId": 8184,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDUwMWM2MTg4MiQ4YWZjZGI4MCQxN2ZkNjg0NEBERDAwTjIxMT4=",
+                "referencesHeader": "PGRxOGczNytsbDBvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8183,
+            "nextInTopic": 8191,
+            "prevInTime": 8183,
+            "nextInTime": 8185,
+            "topicId": 8183,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, The leaves are Kashiwa (oak). I do not know the family name. Sorry. But try a search on kamon and you should be able to find a family name. Be aware",
+            "messageBody": "<div id=\"ygrps-yiv-601328400\">Hello,<br/>\n<br/>\nThe leaves are Kashiwa (oak). I do not know the family name. Sorry. But try a search on &quot;kamon&quot; and you should be able to find a family name. Be aware that there might be several family names for the same mon.<br/>\n<br/>\nRobert Corella<br/>\nAraki Ryu Iaido<br/>\nwww.kenshindojo.net <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 254246063,
+            "authorName": "mwsecord",
+            "from": "&quot;mwsecord&quot; &lt;mwsecord@...&gt;",
+            "profile": "mwsecord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I need help",
+            "postDate": "1137165223",
+            "msgId": 8183,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxOGczNytsbDBvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8184,
+            "prevInTime": 8182,
+            "nextInTime": 8184,
+            "topicId": 8183,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know which family name this kamon is from http://www.yoroduya.co.jp/kamon/ka/kashiwa_11.gif I am giving a jingasa as a gift tomorrow and it has it",
+            "messageBody": "<div id=\"ygrps-yiv-78959457\">Does anyone know which family name this kamon is from<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.yoroduya.co.jp/kamon/ka/kashiwa_11.gif\">http://www.yoroduya.co.jp/kamon/ka/kashiwa_11.gif</a><br/>\nI am giving a jingasa as a gift tomorrow and it has it on it I would<br/>\nlike to be able to tell my Sensei the name<br/>\n<br/>\nThanks<br/>\n<br/>\nMark</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8190,
+    "nextTopicId": 8214
+}

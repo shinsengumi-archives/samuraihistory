@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 130998285,
+            "authorName": "Mark Arsenault",
+            "from": "Mark Arsenault &lt;taisho@...&gt;",
+            "profile": "goldrushg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Samurai Archives Updates - list 11/06/04",
+            "postDate": "1099855559",
+            "msgId": 5885,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMS4xLjEuMi4yMDA0MTEwNzExMjUwNi4wNGJlMjE3MEBtYWlsLnNlbmdva3UuY29tPg==",
+                "inReplyToHeader": "PDEwOTk4NDkwMDQuMzYxNy41MTMwNy5tMTJAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwOTk4NDkwMDQuMzYxNy41MTMwNy5tMTJAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5884,
+            "nextInTopic": 0,
+            "prevInTime": 5884,
+            "nextInTime": 5886,
+            "topicId": 5884,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Have you mentioned this on the Sengoku list? If not, you should. Nearly 400 members there who would probably like to know about the updates to your awesome",
+            "messageBody": "<div id=\"ygrps-yiv-464477578\">Have you mentioned this on the Sengoku list? If not, you should. Nearly <br/>\n400 members there who would probably like to know about the updates to your <br/>\nawesome site. :)<br/>\n<br/>\n<br/>\n    Mark Arsenault<br/>\n    Sengoku List Taisho<br/>\n    ----------------------------------------------<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com\">http://www.sengoku.com</a> - The official site of the Sengoku RPG!</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives Updates - list 11/06/04",
+            "postDate": "1099771519",
+            "msgId": 5884,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtamFwditycHVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5885,
+            "prevInTime": 5883,
+            "nextInTime": 5885,
+            "topicId": 5884,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is the next batch of updates as of 11/06/04: (UPDATED BIOS) Imagawa Yoshimoto: http://www.samurai-archives.com/Yoshimoto.html (NEW BIOS) Imagawa Ujichika:",
+            "messageBody": "<div id=\"ygrps-yiv-1090083515\">Here is the next batch of updates as of 11/06/04:<br/>\n<br/>\n(UPDATED BIOS)<br/>\n<br/>\nImagawa Yoshimoto:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/Yoshimoto.html\">http://www.samurai-archives.com/Yoshimoto.html</a><br/>\n<br/>\n(NEW BIOS)<br/>\n<br/>\nImagawa Ujichika:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/ujichika.html\">http://www.samurai-archives.com/ujichika.html</a><br/>\n<br/>\nWakizaka Yasuharu:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/wyasuharu.html\">http://www.samurai-archives.com/wyasuharu.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5882,
+    "nextTopicId": 5889
+}

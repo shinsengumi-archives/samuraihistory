@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] TACHI  and tai chi--resp to Tom Helm",
+            "postDate": "1069389334",
+            "msgId": 2530,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFlLjRiNjU5NGZhLjJjZWVmMDE2QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2529,
+            "nextInTime": 2531,
+            "topicId": 2530,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tom, Thanks a lot for taking the time to respond.  The comment was intended to be in general.  My own research interests have been largely in the later Age of ",
+            "messageBody": "<div id=\"ygrps-yiv-1794195209\">Tom,<br/>\nThanks a lot for taking the time to respond.  The comment was intended to be <br/>\nin general.  My own research interests have been largely in the later Age of <br/>\nthe Country at War, and therefore my knowledge of weaponry specifically relates <br/>\nto that era.  I will certainly look more deeply into Kamakura weaponry,  and <br/>\nI look forward to any further thoughts you share on this topic.  Thanks, <br/>\nProfessor Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2514,
+    "nextTopicId": 2537
+}

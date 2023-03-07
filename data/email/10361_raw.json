@@ -1,0 +1,31 @@
+{
+    "userId": 298565512,
+    "authorName": "Dennis Sheridan",
+    "from": "Dennis Sheridan &lt;ldsheridan@...&gt;",
+    "profile": "ldsheridan",
+    "replyTo": "LIST",
+    "senderId": "5HnMAnWQfoulOfdLXOPcTZVEO1TWGBr-TD3iu80KsJC9gM8y9UyXMFerKz1lQanGhbx-XZci24nYmPpN2I3Zo5zLTQlXgkXGjYYZ3XY",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Re: [samuraihistory] S-A Podcast EP05 The Myth of Samurai Giving Up the Gun",
+    "postDate": "1314915850",
+    "msgId": 10361,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PENBREdreXZyVVdEV18tb2VNWDNxUVhjS1Z6Vit0SmtLU3MzdlIzWlpjdVprZ2dhY2NGZ0BtYWlsLmdtYWlsLmNvbT4=",
+        "inReplyToHeader": "PGlzMG5qNit0cnRyQGVHcm91cHMuY29tPg==",
+        "referencesHeader": "PGlzMG5qNit0cnRyQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 10321,
+    "nextInTopic": 10363,
+    "prevInTime": 10360,
+    "nextInTime": 10362,
+    "topicId": 10321,
+    "numMessagesInTopic": 7,
+    "msgSnippet": "The Chinese discovered gunpowder in the 9th century.  Do I understand correctly that the Japanese did not acquire this technology until the mid 16th century",
+    "rawEmail": "Return-Path: &lt;ldsheridan@...&gt;\r\nReceived: (qmail 67510 invoked from network); 7 Sep 2011 04:32:45 -0000\r\nReceived: from unknown (98.137.34.46)\n  by m15.grp.sp2.yahoo.com with QMQP; 7 Sep 2011 04:32:45 -0000\r\nReceived: from unknown (HELO n41b.bullet.mail.sp1.yahoo.com) (66.163.168.155)\n  by mta3.grp.sp2.yahoo.com with SMTP; 7 Sep 2011 04:32:45 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1315369965; bh=weeWXU89nTk+hvepm2NVzR452a8BySfictpv8UaXFLI=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:MIME-Version:X-Received:In-Reply-To:References:Date:Message-ID:To:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=N6ejliFYYEV1nWCGI2LDBiGf0VUjB0Rvef99fT3kciWT4Rn357EqsTjvI5w8qd7mGDh8NmTsJX/fyJQotIDZn44uJ/vil4DEJH+Z40V1FboHC8/hk3xsVR753d9JAl89\r\nReceived: from [69.147.65.149] by n41.bullet.mail.sp1.yahoo.com with NNFMP; 07 Sep 2011 04:32:45 -0000\r\nReceived: from [98.137.34.34] by t9.bullet.mail.sp1.yahoo.com with NNFMP; 07 Sep 2011 04:32:45 -0000\r\nX-Sender: ldsheridan@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 48986 invoked from network); 1 Sep 2011 22:24:52 -0000\r\nX-Received: from unknown (98.137.34.45)\n  by m10.grp.sp2.yahoo.com with QMQP; 1 Sep 2011 22:24:52 -0000\r\nX-Received: from unknown (HELO mail-fx0-f54.google.com) (209.85.161.54)\n  by mta2.grp.sp2.yahoo.com with SMTP; 1 Sep 2011 22:24:52 -0000\r\nX-Received: by fxe4 with SMTP id 4so1551558fxe.41\n        for &lt;samuraihistory@yahoogroups.com&gt;; Thu, 01 Sep 2011 15:24:51 -0700 (PDT)\r\nX-Received: by 10.223.27.193 with SMTP id j1mr543925fac.37.1314915891251; Thu,\n 01 Sep 2011 15:24:51 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.152.21.164 with HTTP; Thu, 1 Sep 2011 15:24:10 -0700 (PDT)\r\nIn-Reply-To: &lt;is0nj6+trtr@...&gt;\r\nReferences: &lt;is0nj6+trtr@...&gt;\r\nDate: Thu, 1 Sep 2011 15:24:10 -0700\r\nMessage-ID: &lt;CADGkyvrUWDW_-oeMX3qQXcKVzV+tJkKSs3vR3ZZcuZkggaccFg@...&gt;\r\nTo: samuraihistory@yahoogroups.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Dennis Sheridan &lt;ldsheridan@...&gt;\r\nSubject: Re: [samuraihistory] S-A Podcast EP05 The Myth of Samurai Giving Up\n the Gun\r\nX-Yahoo-Group-Post: member; u=298565512; y=HvFCDTCK9mPdToiy_gYUVqKwAAs7Bfz3VIqA9rkTj4Fh1zzKkw\r\nX-Yahoo-Profile: ldsheridan\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via web; 07 Sep 2011 04:32:42 -0000\r\n\r\nThe Chinese discovered gunpowder in the 9th century.  Do I understand\ncorrectly that the Japanese did not acquire this technology until the mid\n16th century with Portuguese guns? (The route would be from China to Arabia\nto Europe and from there all the way back to Japan..  This is not at all\nintuitive.)  Similarly, the Chinese had movable type and a crude printing\npress (via India) by the mid 11th c., the Koreans the same 3 centuries later\nand apparently the Japanese even later than that.  Given the geographical\njuxtaposition, the treaties, diplomatic missions, the trade, and countless\nother factors, I am completely mystified that a technological advance by one\ncountry would not be almost immediately adopted by the other two.  I demand\nan explanation.  (But if that is impolite I meekly beg one.)\n\n-d\n\nRide wanted, off planet. Will share driving/expenses\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

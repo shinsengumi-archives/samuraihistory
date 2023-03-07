@@ -1,0 +1,34 @@
+[
+    {
+        "fileName": "Ginkaku-ji temple.jpg",
+        "description": "Ginkaku-ji",
+        "ownerName": "nahless",
+        "pathURI": "/Ginkaku-ji/Ginkaku-ji%20temple.jpg",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/Ginkaku-ji+temple.jpg?token=FHXVlHGtGHdM_AbycCfITEJ0iLx7Oof-oP3gq595mg5-ex5--gQTlIv2bpE9JXEdFWizjLY9MuhzzLXJhPEiLVv8Iu1uNwz5DgS9eV5VQ0g9-RXP_835IyLSaT_3YS3QoQ&type=download",
+        "userID": 219054323,
+        "createdTime": 1112186106,
+        "type": 0,
+        "size": 90865,
+        "mimeType": "image/pjpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "Ginkaku-ji.jpg",
+        "description": "Ginkaku-ji covered in snow",
+        "ownerName": "nahless",
+        "pathURI": "/Ginkaku-ji/Ginkaku-ji.jpg",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/Ginkaku-ji.jpg?token=qXKIn_b5ub8uaX6we3a_u4zg-i_Xvg7sj-Iw1jn2zL5jgIrSjoc4d0ZlNCyG7InI_ImIPtAn-gr6sI7OOhhy0kk60-I4vmo_C1zcCO0Qp_-r4j_uWCYK1w&type=download",
+        "userID": 219054323,
+        "createdTime": 1112186046,
+        "type": 0,
+        "size": 318637,
+        "mimeType": "image/pjpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    }
+]

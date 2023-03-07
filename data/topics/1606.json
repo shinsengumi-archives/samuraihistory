@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 110738720,
+            "authorName": "eelunico",
+            "from": "&quot;eelunico&quot; &lt;eelunico@...&gt;",
+            "profile": "eelunico",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "thanks guys........",
+            "postDate": "1048529566",
+            "msgId": 1606,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI1bmhxdStkMWk2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1605,
+            "nextInTime": 1607,
+            "topicId": 1606,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yessssssssss finally I have the right title, and the right author s name.....somehow gibson(of roman history)never left my mind,wonder why?anyhow, thanks a",
+            "messageBody": "<div id=\"ygrps-yiv-1432871828\">yessssssssss finally I have the right title, and the right author&#39;s <br/>\nname.....somehow gibson(of roman history)never left my mind,wonder <br/>\nwhy?anyhow, thanks a million fellow ronins...........ever read any <br/>\nof mishima&#39;s books on japanese events as the ronins?once more, <br/>\nthanks for the tip, I will have some good reading for a while...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1603,
+    "nextTopicId": 1607
+}

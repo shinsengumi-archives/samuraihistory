@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 256500464,
+            "authorName": "Rob",
+            "from": "&quot;Rob&quot; &lt;capt_bochan@...&gt;",
+            "profile": "capt_bochan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Tokugawa",
+            "postDate": "1139574106",
+            "msgId": 8381,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRzaTBncSsxZnU3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8380,
+            "nextInTime": 8382,
+            "topicId": 8381,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sadly those who beleive the longevity of the Tokugawa clan s control of Japan is due to any particular martial arts form are, with no doubt, wrong. It was from",
+            "messageBody": "<div id=\"ygrps-yiv-88994442\">Sadly those who beleive the longevity of the Tokugawa clan&#39;s control of <br/>\nJapan is due to any particular martial arts form are, with no doubt, <br/>\nwrong. It was from the beginning a solid understanding and practice of <br/>\nConfucian political beleifs and studies. This has been well documented <br/>\nand is without argument. Rather my change of subject conversation was <br/>\nhow modern Japan has developed, no, rather profitted from 200 years of <br/>\nTokugawa control. I beleive the beauty that is Japan would not be so if <br/>\nwere not for the 200 years of isolation mandated by the Tokugawas. <br/>\nStarting with Ueyesu the Tokugawas ruled unlike any other leaders. Of <br/>\ncourse those who enjoy the battle will say life was better under <br/>\nHideyoshi or even Noubanaga. That exciting timeframe was not the topic <br/>\nin the least. My thoughts were directed more to the enforcement of non <br/>\nmilitaristic training for all Tokugawa senior warriors such as the <br/>\narts, his mircomanagement of all aspects of daily life from the only <br/>\napproved design and measurement of building houses to how a bucket of <br/>\nrice was to be sold and on to even what could and could not be spoken <br/>\nof in public.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8380,
+    "nextTopicId": 8385
+}

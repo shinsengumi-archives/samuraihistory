@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives Updates Newsletter",
+            "postDate": "1131504844",
+            "msgId": 7985,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRrcm9jYytxOWtwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7984,
+            "nextInTime": 7986,
+            "topicId": 7985,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "From now on, I ll be posting updates to the Samurai Archives here: http://groups.yahoo.com/group/samarchupdates/ so anyone who wants to keep abreast of the",
+            "messageBody": "<div id=\"ygrps-yiv-1648135097\">From now on, I&#39;ll be posting updates to the Samurai Archives here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samarchupdates/\">http://groups.yahoo.com/group/samarchupdates/</a><br/>\n<br/>\nso anyone who wants to keep abreast of the updates, feel free to join <br/>\nup. The group is brand new, so there isn&#39;t much to look at yet, but <br/>\nfeel free to join the group.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7982,
+    "nextTopicId": 7986
+}

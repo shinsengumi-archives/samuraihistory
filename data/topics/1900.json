@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The New Samurai Archives Store",
+            "postDate": "1056317504",
+            "msgId": 1900,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJkNTc4MCt1NGJnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1899,
+            "nextInTime": 1901,
+            "topicId": 1900,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To help offset the cost of the web server for http://www.samurai- archives.com we ve developed the Samurai Archives store, with various merchandise, including",
+            "messageBody": "<div id=\"ygrps-yiv-2138606271\">To help offset the cost of the web server for http://www.samurai-<br/>\narchives.com we&#39;ve developed the Samurai Archives store, with <br/>\nvarious merchandise, including mugs, T-shirts, etc.  We&#39;ll be adding <br/>\nmore items soon: <br/>\nhttp://www.cafeshops.com/samuraiarchives<br/>\nTake a look and help support the Samurai Archives!<br/>\n<br/>\nThank You</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1899,
+    "nextTopicId": 1906
+}

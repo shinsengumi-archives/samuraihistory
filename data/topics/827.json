@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 55069340,
+            "authorName": "Richardson Paul",
+            "from": "Richardson Paul &lt;umaryu@...&gt;",
+            "profile": "umaryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Samurai battle axe",
+            "postDate": "1020444917",
+            "msgId": 830,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwNTAzMTY1NTE3Ljc4ODIucW1haWxAd2ViMTE0MDQubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PGFhdDdtMyttaHJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 827,
+            "nextInTopic": 833,
+            "prevInTime": 829,
+            "nextInTime": 831,
+            "topicId": 827,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi he only battle axe I know of is the Ono and masakari. The Ono is supposed to be quite big. Ihave apic somewhere which I can find and post. I have been told",
+            "messageBody": "<div id=\"ygrps-yiv-1466340910\">Hi<br/>\n<br/>\nhe only battle axe I know of is the Ono and masakari.<br/>\n<br/>\nThe Ono is supposed to be quite big. Ihave apic<br/>\nsomewhere which I can find and post.<br/>\n<br/>\nI have been told that one branch of the Shindenfudo<br/>\nRyu once used the Ono but I have been unable to<br/>\ncomfirm it.<br/>\n<br/>\nI think I saw one in use in the Ghost story movie -<br/>\nKwaidan in the story called Hoichi the earless<br/>\n<br/>\n<br/>\nPaul</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 89983221,
+            "authorName": "Sheldon",
+            "from": "&quot;Sheldon&quot; &lt;mwelaing@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [samuraihistory] Re: Samurai battle axe",
+            "postDate": "1020433153",
+            "msgId": 833,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxZjJhNyRlZGE1YTI4MCQ3MGNhMDdjNEBtd2VsYWluZz4=",
+                "inReplyToHeader": "PGFhdDdtMyttaHJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 830,
+            "nextInTopic": 0,
+            "prevInTime": 832,
+            "nextInTime": 834,
+            "topicId": 827,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Well, I think that the weapon was more effective than you may think. The Vikings from Scandinavia often used a large battle axe in their left hand so as to",
+            "messageBody": "<div id=\"ygrps-yiv-1659086239\">Well, I think that the weapon was more effective than you may think. The<br/>\n&quot;Vikings&quot; from Scandinavia often used a large battle axe in their left<br/>\nhand so as to catch their opponents on their unshielded side. At the<br/>\nsame time they could carry a smaller lighter weapon with which to defend<br/>\nthemselves whilst they were getting ready for another blow with their<br/>\naxe. Does anyone know if the samurai ever carried two weapons at once<br/>\nlike this, especially an axe and a tanto? I think an axe and a katana or<br/>\nnodachi would be too much to handle.<br/>\n<br/>\nSheldon</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 68548757,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;kitsuno@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Samurai battle axe",
+            "postDate": "1020404227",
+            "msgId": 827,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFhdDdtMyttaHJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 830,
+            "prevInTime": 826,
+            "nextInTime": 828,
+            "topicId": 827,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know battle axes?  This is an interesting string - but my image of a battle axe seems to parallel IGANOKAMI s.  I have the image of a really",
+            "messageBody": "<div id=\"ygrps-yiv-1379259192\">Does anyone &#39;know&#39; battle axes?  This is an interesting string - but <br/>\nmy image of a battle axe seems to parallel IGANOKAMI&#39;s.  I have the <br/>\nimage of a really unbalanced weapon, if you hit, you win, if you <br/>\nmiss, you are dead... or am I wrong about axes made for battle - are <br/>\nthey light enough to recover quickly from a missed swing?  Maybe a <br/>\nthin blade that you grasp near the blade rather than low on the <br/>\nhandle like a baseball bat...?  I know swords and staffs, not cudgels <br/>\nand axes...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 766,
+    "nextTopicId": 814
+}

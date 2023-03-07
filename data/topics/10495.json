@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 582495258,
+            "authorName": "",
+            "from": "kohan.davis8@...",
+            "profile": "kohan.davis8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nukui Clan",
+            "postDate": "1527899492",
+            "msgId": 10495,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PHBlc29oNCtibzJhcGpAWWFob29Hcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10494,
+            "nextInTime": 10496,
+            "topicId": 10495,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering what happened to the Nukui clan after the Hatakeyama clan was diminished. Did all of the retainers become ronin? Did the whole clan move to a",
+            "messageBody": "<div id=\"ygrps-yiv-1125374375\"><p><span>I was wondering what happened to the Nukui clan after the Hatakeyama clan was diminished. Did all of the retainers become ronin? Did the whole clan move to a different clan?</span></p><p><span><br></span></p><p><span><span style=\"white-space:pre;\">\t</span>Thanks, Kohan</span></p></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10487,
+    "nextTopicId": 10488
+}

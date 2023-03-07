@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 815408,
+            "authorName": "mieusedai",
+            "from": "&quot;mieusedai&quot; &lt;mieu@...&gt;",
+            "profile": "mieusedai",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Nobunaga&#39;s heirs.",
+            "postDate": "1012758648",
+            "msgId": 552,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEzanQ5bys3a2NhQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGEzNG9rcytidnZpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 529,
+            "nextInTopic": 0,
+            "prevInTime": 551,
+            "nextInTime": 553,
+            "topicId": 529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... why ... Nobunaga did had several sons. Since he was assassinated unexpectedly, an heir to the Oda family had yet to be chosen. After Hideyoshi (then a",
+            "messageBody": "<div id=\"ygrps-yiv-2029134583\">Jeff M. wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I am also trying to find out if Nobunaga had any sons, and if so <br/>\n </span></blockquote>why <br/>\n<blockquote><span title=\"ireply\"> &gt; did they not succeed him after his death?<br/>\n<br/>\n </span></blockquote>Nobunaga did had several sons. Since he was assassinated <br/>\nunexpectedly, an heir to the Oda family had yet to be chosen. After <br/>\nHideyoshi (then a general of the Oda) rushed to avenge Nobunaga&#39;s <br/>\ndeath, there was a big dispute about who would succeed him. <br/>\nNobunaga&#39;s eldest son Nobutada was killed during the attempt on his <br/>\nfather&#39;s life, so he was out of the question. The second and third <br/>\nsons (Nobukatsu and Nobutaka) were left to quarrel over who was <br/>\nworthy of succeeding Nobunaga. Hideyoshi&#39;s solution to this was to <br/>\nsuggest that Nobutada&#39;s son Samboshi should succeed him, since <br/>\nSamboshi was the eldest son of Nobunaga&#39;s eldest son, and thus had <br/>\nthe most direct lineage. (Hmm, did that sentence make sense? I hope <br/>\nso.) The problem was that Samboshi was still an infant, so he would <br/>\nneed regents to rule in his place until he grew old enough to take <br/>\nover. Hideyoshi&#39;s opinion eventually won out, and Hideyoshi himself <br/>\nended up as one of the regents ruling in Samboshi&#39;s place. Hideyoshi <br/>\ntook up the reins where Nobunaga left off, and through that position <br/>\nof power ended up playing a big role in the unification of Japan. So <br/>\nI guess that once Hideyoshi rose to power in his own right, the issue <br/>\nof who became head of the Oda family kind of just faded into the <br/>\nbackground. <br/>\n<br/>\nThat&#39;s all I know, and I doubt it&#39;s helpful, but I&#39;m sure the smarter <br/>\npeople here can clarify things (and tell me where I&#39;m wrong! -_^)<br/>\n<br/>\nSally</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 55234638,
+            "authorName": "shogun2k2002",
+            "from": "&quot;shogun2k2002&quot; &lt;irishman_2k@...&gt;",
+            "profile": "shogun2k2002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Nobunaga&#39;s heirs.",
+            "postDate": "1012262364",
+            "msgId": 529,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEzNG9rcytidnZpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 552,
+            "prevInTime": 528,
+            "nextInTime": 530,
+            "topicId": 529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello again, I am also trying to find out if Nobunaga had any sons, and if so why did they not succeed him after his death?",
+            "messageBody": "<div id=\"ygrps-yiv-96221527\">Hello again,<br/>\n<br/>\nI am also trying to find out if Nobunaga had any sons, and if so why <br/>\ndid they not succeed him after his death?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 550,
+    "nextTopicId": 553
+}

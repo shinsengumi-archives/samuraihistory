@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "lbmd@webtv.net",
+            "from": "lbmd@...",
+            "profile": "megadrop2000",
+            "replyTo": "LIST",
+            "senderId": "RelPsgz2p6JePX-jcsNGCiDHYzgU6mel3SQ7Tjxv-2z3lvAoc28t1QC9Tu1iK02ojwWDQ8g",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Naval books",
+            "postDate": "1006005498",
+            "msgId": 347,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDl0NXFkcStmaTd1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 346,
+            "nextInTime": 348,
+            "topicId": 347,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Osprey is releasing 2 new Naval warefare books,  Fighting ships of the Far East  Vol.1 and Vol 2. Volume one is China and S E Asia Volume two is Korea and",
+            "messageBody": "<div id=\"ygrps-yiv-1160657593\">Osprey is releasing 2 new Naval warefare books, &quot; Fighting ships of the Far East&quot;  Vol.1 and Vol 2.<br/>\nVolume one is China and S E Asia<br/>\nVolume two is Korea and Japan<br/>\nVol. 1 is set for a 2002 release and 2003 for vol. 2.  Both by Stephen Turnbull.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 346,
+    "nextTopicId": 349
+}

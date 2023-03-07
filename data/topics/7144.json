@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 62491063,
+            "authorName": "Kyle Segall",
+            "from": "&quot;Kyle Segall&quot; &lt;klancesegall@...&gt;",
+            "profile": "klancesegall",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: list of 11 misconceptions",
+            "postDate": "1117424478",
+            "msgId": 7153,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ3ZTIwdStpZWk5QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDE2NjQwNTE3LjExMTcyNzM2NDIxOTcuSmF2YU1haWwucm9uaW42NEBuZXR0aS5maT4="
+            },
+            "prevInTopic": 7144,
+            "nextInTopic": 0,
+            "prevInTime": 7152,
+            "nextInTime": 7154,
+            "topicId": 7144,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "When you say its all untrue, you mean all the misconceptions are, in fact, correct? That is, there were in fact ninja with straight swords and the samurai did",
+            "messageBody": "<div id=\"ygrps-yiv-1938531835\">When you say its all untrue, you mean all the misconceptions are, in <br/>\nfact, correct? That is, there were in fact ninja with straight swords <br/>\nand the samurai did refuse to use the &#39;coward&#39;s weapon&#39; gun? If this <br/>\nis what you mean, please state your scholarly sources. Otherwise, you <br/>\nneed to accept the truth of those misconceptions quick. &lt;g&gt;</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 225755910,
+            "authorName": "ronin64@netti.fi",
+            "from": "ronin64@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "list of 11 misconceptions",
+            "postDate": "1117273642",
+            "msgId": 7144,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE2NjQwNTE3LjExMTcyNzM2NDIxOTcuSmF2YU1haWwucm9uaW42NEBuZXR0aS5maT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7153,
+            "prevInTime": 7143,
+            "nextInTime": 7145,
+            "topicId": 7144,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "konnichiwa!i reaqd the list .i didnt understand why,because all 11 are not true.but lets begin.i have to said that im so very bad with computers.they normally",
+            "messageBody": "<div id=\"ygrps-yiv-576889747\">konnichiwa!i reaqd the &quot;list&quot;.i didnt understand why,because all 11 are <br/>\nnot true.but lets begin.i have to said that im so very bad with <br/>\ncomputers.they normally dont work with me.so im hoping to get through to <br/>\nyou!an other warning;english is not my native language,so there is going <br/>\nto be lot of misstakes!now my first question:i need to read theNITEN-KI <br/>\nchronick by Shinmen Musashi.have anybody read it?is it in english?how <br/>\ncan i get it(if it is in english)?iv been trying to get the book over 20 <br/>\nyears,so PLEASE,HELP me somebody!!!ill be ever gratefull!!yours truly <br/>\nJORE from Finland<br/>\n<br/>\n__<br/>\nSaunalahti Xtra - Uusi GSM-vuokrapuhelin ja edistykselliset Xtra-palvelut käyttöösi alk. 4,95 e/kk! <a rel=\"nofollow\" target=\"_blank\" href=\"http://saunalahti.fi/xtra/\">http://saunalahti.fi/xtra/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7145,
+    "nextTopicId": 7151
+}

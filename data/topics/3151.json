@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New &quot;Japanese Entertaiment&quot; Forum",
+            "postDate": "1074227680",
+            "msgId": 3151,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1N3BsMCszdnBjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3150,
+            "nextInTime": 3152,
+            "topicId": 3151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve created a new Delphi groups forum for Japanese Entertainment that I thought people here might be interested in: http://forums.about.com/jtainment/start ",
+            "messageBody": "<div id=\"ygrps-yiv-772654190\">I&#39;ve created a new Delphi groups forum for &quot;Japanese Entertainment&quot; <br/>\nthat I thought people here might be interested in:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.about.com/jtainment/start\">http://forums.about.com/jtainment/start</a><br/>\n<br/>\nIt encompasses the entire range of Japanese entertainment from music <br/>\nto movies to anime to games to jidai geki.  I also have a Modern <br/>\nJapan forum set up as well:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.delphiforums.com/mjapan/start\">http://forums.delphiforums.com/mjapan/start</a><br/>\n<br/>\nDrop by!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3149,
+    "nextTopicId": 3154
+}

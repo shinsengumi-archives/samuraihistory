@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 181311489,
+            "authorName": "chipmunkoverlord",
+            "from": "&quot;chipmunkoverlord&quot; &lt;chipmunkoverlord@...&gt;",
+            "profile": "chipmunkoverlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: ~.~&quot;",
+            "postDate": "1198122462",
+            "msgId": 9673,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZrY29rdSs3M3N1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQ3Njk2MzkyLjYwMTAxMDhAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 9672,
+            "nextInTopic": 0,
+            "prevInTime": 9672,
+            "nextInTime": 9674,
+            "topicId": 9659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To elaborate on what Mr. Cooper said, a social class and in this day in age, profession does not determine whether people are heroes or villains. Look at it",
+            "messageBody": "<div id=\"ygrps-yiv-543897790\">To elaborate on what Mr. Cooper said, a social class and in this day in <br/>\nage, profession does not determine whether people are heroes or <br/>\nvillains. Look at it this way. A lawyer can be seen as a hero by his <br/>\nclient and as a villain as the plaintiff. It&#39;s a matter of perspective, <br/>\nand where this person stands in your life. <br/>\n<br/>\n--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, Dan Cooper <br/>\n&lt;captainharlockssx@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; The answer to that is that no one type/class/profession of people are <br/>\n&gt; all heroes.  Some samurai could be considered heroes while others <br/>\n </span></blockquote>could <br/>\n<blockquote><span title=\"ireply\"> &gt; be considered villains.  It all depends on the samurai and your point <br/>\n </span></blockquote>of <br/>\n<blockquote><span title=\"qreply\"> &gt; view on them.<br/>\n&gt; <br/>\n&gt;   pettorisuka82 wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt; was samurai really hero?!<br/>\n&gt; &gt; i read Mitsuo Kure&#39;s book &quot;Samurai&quot; and it said opposite things.<br/>\n&gt; &gt;<br/>\n&gt; &gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 327834339,
+            "authorName": "Dan Cooper",
+            "from": "Dan Cooper &lt;captainharlockssx@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] ~.~&quot;",
+            "postDate": "1198089106",
+            "msgId": 9672,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3Njk2MzkyLjYwMTAxMDhAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGZpcm9sZytkb3B0QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGZpcm9sZytkb3B0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9659,
+            "nextInTopic": 9673,
+            "prevInTime": 9671,
+            "nextInTime": 9673,
+            "topicId": 9659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The answer to that is that no one type/class/profession of people are all heroes.  Some samurai could be considered heroes while others could be considered",
+            "messageBody": "<div id=\"ygrps-yiv-148698639\">The answer to that is that no one type/class/profession of people are <br/>\nall heroes.  Some samurai could be considered heroes while others could <br/>\nbe considered villains.  It all depends on the samurai and your point of <br/>\nview on them.<br/>\n<br/>\n  pettorisuka82 wrote:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt; was samurai really hero?!<br/>\n&gt; i read Mitsuo Kure&#39;s book &quot;Samurai&quot; and it said opposite things.<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 280008824,
+            "authorName": "pettorisuka82",
+            "from": "&quot;pettorisuka82&quot; &lt;pettorisuka82@...&gt;",
+            "profile": "pettorisuka82",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "~.~&quot;",
+            "postDate": "1196516848",
+            "msgId": 9659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZpcm9sZytkb3B0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9672,
+            "prevInTime": 9658,
+            "nextInTime": 9660,
+            "topicId": 9659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "was samurai really hero?! i read Mitsuo Kure s book Samurai and it said opposite things.",
+            "messageBody": "<div id=\"ygrps-yiv-1676464849\">was samurai really hero?!<br/>\ni read Mitsuo Kure&#39;s book &quot;Samurai&quot; and it said opposite things.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9648,
+    "nextTopicId": 9653
+}

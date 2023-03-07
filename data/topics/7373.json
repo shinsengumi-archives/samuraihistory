@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Royal Armouries",
+            "postDate": "1122317963",
+            "msgId": 7373,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWM1OTE0YiQxZDJhMThjMCQ3NDlkMmY1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7372,
+            "nextInTime": 7374,
+            "topicId": 7373,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all You may be interested in the exhibition being held at the Royal Armouries in Leeds (UK) called The Shogun Exhibition which concentrates on the life",
+            "messageBody": "<div id=\"ygrps-yiv-1286228830\">Dear all<br/>\nYou may be interested in the exhibition being held at the Royal Armouries in Leeds (UK) called The Shogun Exhibition which concentrates on the life and achievements of Tokugawa Ieyasu. It was put together in conjunction with the Nikko Toshogu Shrine. Last Sunday there was a one-day seminar comprising of 3 lectures, which I attended. My report on this may be found on the web site www.to-ken.com under Articles.<br/>\nClive Sinclaire<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7360,
+    "nextTopicId": 7374
+}

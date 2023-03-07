@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "tom.davidson@realtime.co.uk",
+            "from": "tom.davidson@...",
+            "replyTo": "LIST",
+            "senderId": "ThwB-483i-Hcb-tnAmra6-ul3T3EDUk1wgMsvmGHwUlM3OCeyuOhTDlWWROOcQLyXCJcmZVTTefxJAOy9ceWMJFO",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Gohatto",
+            "postDate": "997781155",
+            "msgId": 293,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlsYXFyMytwcWVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 292,
+            "nextInTime": 294,
+            "topicId": 293,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings all - I saw Gohatto last night, the Oshima movie, I think it s been around for a while, but the kind of film that will only play in arthouse",
+            "messageBody": "<div id=\"ygrps-yiv-1883925507\">Greetings all - <br/>\n<br/>\nI saw Gohatto last night, the Oshima movie, I think it&#39;s been around for a while, but the kind of film that will only <br/>\nplay in arthouse theatres, and as far as I know, on first release in the UK.<br/>\n<br/>\nThe action takes place within the Shinsengumi (set in 1865) - the storyline concerns homosexual passions - a <br/>\nbeautiful young swordsman joins the ranks causing &#39;ripples&#39; - but the fencing scenes, both within the dojo and <br/>\nin the street, are some of, if not the best, I&#39;ve ever seen. <br/>\n<br/>\nI cannot recommend this film highly enough. It will definitely join my library where I shall wear out the tape <br/>\nreplaying the dojo fencing sessions again and again.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 292,
+    "nextTopicId": 300
+}

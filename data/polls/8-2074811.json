@@ -1,0 +1,119 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2074811,
+    "listId": 2247946,
+    "dateCreated": 1134479257,
+    "userIdCreated": 210287375,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "The Oda army started as a very small force but beat the largest army in all of Japan (the Imagawa)due to weather,  Every since that day fortune and the weather was on Oda&#39;s side. \nOn top of everything else Nobunaga was one of the only warlords that supported Christianty.  Do you think that a divine force was aiding Nobunaga?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 15142024,
+            "selectionText": "Yes, a divine force was helping",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 15142024,
+                    "surveyId": 2074811,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 15142024,
+                    "surveyId": 2074811,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 15142024,
+                    "surveyId": 2074811,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15142025,
+            "selectionText": "No, it was pure luck",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 15142025,
+                    "surveyId": 2074811,
+                    "userId": 286881682,
+                    "guid": "MEP2V2XES3R26YXR3TLW5WK7EQ",
+                    "nickname": "boojienacpil",
+                    "email": "boojienacpil@yahoo.com"
+                },
+                {
+                    "selectionId": 15142025,
+                    "surveyId": 2074811,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15142026,
+            "selectionText": "Maybe, there are things out there we don&#39;t understand",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 15142026,
+                    "surveyId": 2074811,
+                    "userId": 162727959,
+                    "guid": "CHLLFD4HOWSBUYGL432RECSEZM",
+                    "nickname": "eisuke_2001",
+                    "email": "eisuke_2001@yahoo.com"
+                },
+                {
+                    "selectionId": 15142026,
+                    "surveyId": 2074811,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 15142026,
+                    "surveyId": 2074811,
+                    "userId": 292922662,
+                    "nickname": "classy_gui",
+                    "email": "classy_gui@yahoo.com"
+                },
+                {
+                    "selectionId": 15142026,
+                    "surveyId": 2074811,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 14,
+    "previousSurveyId": 2077096,
+    "nextSurveyId": 2034750
+}

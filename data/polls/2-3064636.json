@@ -1,0 +1,136 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 3064636,
+    "listId": 2247946,
+    "dateCreated": 1315973773,
+    "userIdCreated": 145759856,
+    "dateEnd": 1325066340,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "What do you think of the Samurai Archives Podcast so far?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 21548291,
+            "selectionText": "I listen, and it&#39;s great, I like the way it is.",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 21548291,
+                    "surveyId": 3064636,
+                    "userId": 470474550,
+                    "guid": "Y2DXKBQPVGKYOG77I3GQK6JCBI",
+                    "nickname": "cynbun2",
+                    "email": "cynbun2@yahoo.com"
+                },
+                {
+                    "selectionId": 21548291,
+                    "surveyId": 3064636,
+                    "userId": 468655601,
+                    "guid": "7NHJWGB7OYICPQ5SKSCDHOC56M",
+                    "nickname": "kbat62@sbcglobal.net",
+                    "email": "kbat62@sbcglobal.net"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 21548292,
+            "selectionText": "I listen, and it&#39;s too complex",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548293,
+            "selectionText": "I listen, and it&#39;s too simple",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548294,
+            "selectionText": "I listen, and the content is good, but would like more discussion and analysis",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 21548294,
+                    "surveyId": 3064636,
+                    "userId": 78149821,
+                    "guid": "3WQGBBDQGSVSQPLTX7KZABQKII",
+                    "nickname": "thebigz_or",
+                    "email": "thebigz_or@yahoo.com"
+                },
+                {
+                    "selectionId": 21548294,
+                    "surveyId": 3064636,
+                    "userId": 30905016,
+                    "guid": "PKI3IFPSHUTMSS72PYQXRF7CWU",
+                    "nickname": "yourlakings",
+                    "email": "yourlakings@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 21548295,
+            "selectionText": "I listen, and have other suggestions (Please comment)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 21548295,
+                    "surveyId": 3064636,
+                    "userId": 134498325,
+                    "guid": "4VSHFJOK6YORMB73Z6XO4T7HLI",
+                    "nickname": "soshuju",
+                    "email": "junkmail@toryu-mon.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 21548296,
+            "selectionText": "I don&#39;t listen, because (Please comment)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548297,
+            "selectionText": "I don&#39;t listen because it&#39;s too dull",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548298,
+            "selectionText": "I don&#39;t listen because I don&#39;t like you guys",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548299,
+            "selectionText": "I disagree with your premises and conclusions (please comment)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 21548300,
+            "selectionText": "I pick and choose which episodes to listen to",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 8,
+    "previousSurveyId": 3134447,
+    "nextSurveyId": 2712759
+}

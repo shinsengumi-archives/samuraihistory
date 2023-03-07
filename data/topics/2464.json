@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] THANKS!!--------resp",
+            "postDate": "1069006567",
+            "msgId": 2464,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFiLjM0ZTgxZDY2LjJjZTkxOGU3QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2463,
+            "nextInTime": 2465,
+            "topicId": 2464,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just make sure neither Japanese samurai or European knight uses a cork bat. [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1037880151\">Just make sure neither Japanese samurai or European knight uses a cork bat.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2463,
+    "nextTopicId": 2467
+}

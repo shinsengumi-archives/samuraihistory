@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andjoysmith",
+            "from": "&quot;andjoysmith&quot; &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Okita Souji and Saitou Hajime",
+            "postDate": "1059745149",
+            "msgId": 2009,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJnZHFodCttY3JwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2008,
+            "nextInTime": 2010,
+            "topicId": 2009,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have some information about Okita Souji and I ll pick more up about Saitou Hajime, you may correct me if I m wrong, I think Okita had entered the dojo at age",
+            "messageBody": "<div id=\"ygrps-yiv-1248821949\">I have some information about Okita Souji and I&#39;ll pick more up about<br/>\nSaitou Hajime, you may correct me if I&#39;m wrong, I think Okita had<br/>\nentered the dojo at age 6. I forget the rest, fill me in on this.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1996,
+    "nextTopicId": 2035
+}

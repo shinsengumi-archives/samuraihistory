@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 42330449,
+            "authorName": "bobar57",
+            "from": "&quot;bobar57&quot; &lt;bobar57@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "War and weather",
+            "postDate": "1008335893",
+            "msgId": 446,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzcwMWMxODRhMSRjYTJjODE4MCQ0NjIzM2RkMEBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 445,
+            "nextInTime": 447,
+            "topicId": 446,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The snow and cold definitely affected the status of battles,there re even records of famous battles occurring in that kind of weather.It was mostly a",
+            "messageBody": "<div id=\"ygrps-yiv-1940040913\">The snow and cold definitely affected the status of battles,there&#39;re even records of famous battles occurring in that kind of weather.It was mostly a disadvantage for the attacker and an advantage for the defenders.Warm clothes we&#39;re needed,the temperature affected the moral of troops,the energy of them and in cases compromise the safety of weapons(firing capacity on matchlocks and temper and breakage in blades).<br/>\nRegards,<br/>\nRobert<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 445,
+    "nextTopicId": 442
+}

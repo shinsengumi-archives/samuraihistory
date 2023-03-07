@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William&Mikiko Letham",
+            "from": "&quot;William&Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "profile": "samuraiwm",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] The Forty-Seven Ronin Story",
+            "postDate": "1076842266",
+            "msgId": 3828,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzQwMWMzZjNiMSQ5ZDY2ZDkzMCQyYjIwMTZkYkBGTTEyNjAyNjc0Mj4=",
+                "referencesHeader": "PDAwMTEwMWMzZjM0ZSRiOGEwN2NmMCQ5ODQ4MjU0NEBWQUlPPg=="
+            },
+            "prevInTopic": 3823,
+            "nextInTopic": 0,
+            "prevInTime": 3827,
+            "nextInTime": 3829,
+            "topicId": 3823,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "You just missed an exchange about this a few weeks ago. Perhaps you can access the previous postings at Yahoo. I would strongly recommend a series of articles",
+            "messageBody": "<div id=\"ygrps-yiv-1601089423\">You just missed an exchange about this a few weeks ago. Perhaps you can<br/>\naccess the previous postings at Yahoo.<br/>\n<br/>\nI would strongly recommend a series of articles in last years Monumenta<br/>\nNipponica starting with issue 58:1. The first by Henry Smith was a general<br/>\noverview, the second by Bito Masahide is a history of the incident. More<br/>\narticles on other aspects of the story are promised.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 175753900,
+            "authorName": "SamuraiSteve",
+            "from": "&quot;SamuraiSteve&quot; &lt;SamuraiSteve@...&gt;",
+            "profile": "samuraistevex",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Forty-Seven Ronin Story",
+            "postDate": "1076799790",
+            "msgId": 3823,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTEwMWMzZjM0ZSRiOGEwN2NmMCQ5ODQ4MjU0NEBWQUlPPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3828,
+            "prevInTime": 3822,
+            "nextInTime": 3824,
+            "topicId": 3823,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am reading a story ofan event in 1701 in Edo (Tokyo) about a feudal lord who rebels and his Samurai kill everyone and refuse to give up and choose to die for",
+            "messageBody": "<div id=\"ygrps-yiv-1597608319\">I am reading a story ofan event in 1701 in Edo (Tokyo) about a feudal lord who rebels and his Samurai kill everyone and refuse to give up and choose to die for their lord. Any thoughts or useful info I can use would be apprecaisted (I am writing a Literary essay on it) If anyone has any info please do share =] (Yes I am new to the group and I must say it is extremely interesting and a pleasure to meeet you all)<br/>\nSteve<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3827,
+    "nextTopicId": 3829
+}

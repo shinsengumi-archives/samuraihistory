@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Takayama Ukon Info?",
+            "postDate": "1096277748",
+            "msgId": 5614,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNTdERUY0LjgwMTAxMDVAaW5kaWFuYS5lZHU+",
+                "inReplyToHeader": "PGNqODNqcCtsdDE1QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNqODNqcCtsdDE1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5613,
+            "nextInTopic": 0,
+            "prevInTime": 5613,
+            "nextInTime": 5615,
+            "topicId": 5613,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... There was a very informative and interesting bio of him in Monumenta Nipponica sometime in the 1950s or 60s. You can find it -- or at least the citation",
+            "messageBody": "<div id=\"ygrps-yiv-2077883769\">Shay A. wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Does anybody know of websites or books that contain extensive info on <br/>\n&gt; the Christian Samurai, Takayama Ukon?<br/>\n<br/>\n </span></blockquote>There was a very informative and interesting bio of him in Monumenta Nipponica <br/>\nsometime in the 1950s or 60s. You can find it -- or at least the citation for it <br/>\n-- if you go to their website and go through the index or search for his name. <br/>\n(That bio, by the way, is in French.)<br/>\n<br/>\nTony<br/>\n<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff):<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nGrand Cross, Order of the Laurel:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/laurelorder\">http://www.cafepress.com/laurelorder</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190836730,
+            "authorName": "Shay A.",
+            "from": "&quot;Shay A.&quot; &lt;shay_alspach@...&gt;",
+            "profile": "shay_alspach",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Takayama Ukon Info?",
+            "postDate": "1096257977",
+            "msgId": 5613,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNqODNqcCtsdDE1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5614,
+            "prevInTime": 5612,
+            "nextInTime": 5614,
+            "topicId": 5613,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anybody know of websites or books that contain extensive info on the Christian Samurai, Takayama Ukon? I have read the bio on samurai-archives.com and am",
+            "messageBody": "<div id=\"ygrps-yiv-754658100\">Does anybody know of websites or books that contain extensive info on <br/>\nthe Christian Samurai, Takayama Ukon?<br/>\n<br/>\nI have read the bio on samurai-archives.com and am just looking for <br/>\nmore info on him...<br/>\n<br/>\n-thanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5469,
+    "nextTopicId": 5610
+}

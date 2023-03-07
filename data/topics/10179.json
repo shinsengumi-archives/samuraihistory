@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 442110365,
+            "authorName": "Daniel Seo",
+            "from": "Daniel Seo &lt;DigimonDaniel0907@...&gt;",
+            "profile": "digimondaniel0907",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "thank you",
+            "postDate": "1272304075",
+            "msgId": 10179,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PG0ycDdmNWQ5NDI1MTAwNDI2MTA0N21mMjA3MzU4dzU5YjNlYzViOTQ0YjgyOWVAbWFpbC5nbWFpbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10178,
+            "nextInTime": 10180,
+            "topicId": 10179,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "thank you  for answered my questions........ you helped my samurai research project......... thank you again [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1711417227\">thank you  for answered my questions........<br/>\n<br/>\nyou helped my samurai research project.........<br/>\nthank you again<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10178,
+    "nextTopicId": 10170
+}

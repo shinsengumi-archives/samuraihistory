@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 100984285,
+            "authorName": "tokugawa_iyeyasu_sama",
+            "from": "&quot;tokugawa_iyeyasu_sama&quot; &lt;tokugawa_iyeyasu_sama@...&gt;",
+            "profile": "tokugawa_iyeyasu_sama",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Just a Little note",
+            "postDate": "1020307609",
+            "msgId": 816,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFhcTlhcCs1c2NuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 815,
+            "nextInTime": 817,
+            "topicId": 816,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "New Guy here just thought I d drop a line to say Hello I ll shortly post some pics I have along with some personal research I m Working on Anyone with Question",
+            "messageBody": "<div id=\"ygrps-yiv-1858610977\">New Guy here just thought I&#39;d drop a line to say Hello I&#39;ll shortly <br/>\npost some pics I have along with some personal research I&#39;m Working <br/>\non Anyone with Question Or have any helpful information or questions  <br/>\nReguarding Battles Famous Generals Ninjas  ect ect feel to E-mail me  <br/>\nbtw Hats off the Webmaster of Samurai Archives Which I feel is very <br/>\nHelpful.<br/>\n<br/>\n                                       Toku</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 772,
+    "nextTopicId": 766
+}

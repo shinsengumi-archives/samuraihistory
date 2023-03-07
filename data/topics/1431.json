@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 55069340,
+            "authorName": "Richardson Paul",
+            "from": "Richardson Paul &lt;umaryu@...&gt;",
+            "profile": "umaryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Japanese Fonts",
+            "postDate": "1044516206",
+            "msgId": 1432,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwMjA2MDcyMzI2LjMzMDYyLnFtYWlsQHdlYjExNDAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGIxc2ZlcytvNHMzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1431,
+            "nextInTopic": 0,
+            "prevInTime": 1431,
+            "nextInTime": 1433,
+            "topicId": 1431,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Kanji doesnt shoow up in my email, but I can see it on web pages etc. Maybe the way my email is set up with Yahoo. otjhers may have the same problem pAUL ",
+            "messageBody": "<div id=\"ygrps-yiv-639901608\">Hi<br/>\n<br/>\nKanji doesnt shoow up in my email, but I can see it on<br/>\nweb pages etc.<br/>\n<br/>\nMaybe the way my email is set up with Yahoo. otjhers<br/>\nmay have the same problem<br/>\n<br/>\npAUL<br/>\n<br/>\n--- &quot;Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cewest@...\">cewest@...</a>&gt;&quot;<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cewest@...\">cewest@...</a>&gt; wrote:<br/>\n<br/>\n---------------------------------<br/>\nIt looks like Japanese fonts (SHIFT-JIS) do work (you<br/>\njust need <br/>\njapanese fonts installed), at least they do show up on<br/>\nthe messages <br/>\non the yahoo page:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\nThey might not show up in the emails.<br/>\nFYI.<br/>\n<br/>\n<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n---<br/>\nTo unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\nYour use of Yahoo! Groups is subject to the Yahoo!<br/>\nTerms of Service.<br/>\n<br/>\n<br/>\n__________________________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail Plus - Powerful. Affordable. Sign up now.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mailplus.yahoo.com\">http://mailplus.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 117006241,
+            "authorName": "Kitsuno &lt;cewest@samurai-archives.com&gt;",
+            "from": "&quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Fonts",
+            "postDate": "1044496668",
+            "msgId": 1431,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIxc2ZlcytvNHMzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1432,
+            "prevInTime": 1430,
+            "nextInTime": 1432,
+            "topicId": 1431,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It looks like Japanese fonts (SHIFT-JIS) do work (you just need japanese fonts installed), at least they do show up on the messages on the yahoo page:",
+            "messageBody": "<div id=\"ygrps-yiv-164761295\">It looks like Japanese fonts (SHIFT-JIS) do work (you just need <br/>\njapanese fonts installed), at least they do show up on the messages <br/>\non the yahoo page: <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\nThey might not show up in the emails.<br/>\nFYI.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1429,
+    "nextTopicId": 1425
+}

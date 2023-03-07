@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 1864060214,
+        "photoId": 877567002,
+        "photoName": "Tsuba",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "kitsuno",
+        "modificationDate": 1031012182,
+        "creationDate": 1031012182,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/jjNWJTvkfdZkmQYFaU4-/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1415,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/jjNWJTvkfdZkmQYFaU4-/name/n_a",
+                "height": 480,
+                "width": 362,
+                "size": 14500,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/jjNWJTvkfdZkmQYFaU4-/name/n_a",
+                "height": 480,
+                "width": 362,
+                "size": 14500,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

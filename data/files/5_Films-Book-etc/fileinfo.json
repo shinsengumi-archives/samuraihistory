@@ -1,0 +1,34 @@
+[
+    {
+        "fileName": "films.pdf",
+        "description": "A list of samurai films",
+        "ownerName": "thomas_tessera",
+        "pathURI": "/Films%2C%20Book%2C%20etc/films.pdf",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/films.pdf?token=ROUkmcry6SZALjtGgnadJGkp0uOPnmugNAsdFaU2pmEKR2tbmkFUv40hw7el9hbbMWl8clLtLEHa8RGkuh9-w_xyVmA1YM7TVhAqqBDtb-7ylTMhv2rBIgtArn7PsjH01w&type=download",
+        "userID": 197263283,
+        "createdTime": 1103308644,
+        "type": 0,
+        "size": 34861,
+        "mimeType": "application/pdf",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "fiction.pdf",
+        "description": "A list of &#39;samurai fiction&#39; available in English",
+        "ownerName": "thomas_tessera",
+        "pathURI": "/Films%2C%20Book%2C%20etc/fiction.pdf",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/fiction.pdf?token=Rj2pf6rPaX7uKm3AvRLF1LYt7WyvvCIjrTRH0MZjPDapK7jQWI_oAumonCubEmJLaKxTBCMGlqoQnZta5Ke5QVHbHjIM4nF2wYL5ruIH-b5RKWdADKo_CBAMRSHBL5M12UNk&type=download",
+        "userID": 197263283,
+        "createdTime": 1103307839,
+        "type": 0,
+        "size": 25513,
+        "mimeType": "application/pdf",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    }
+]

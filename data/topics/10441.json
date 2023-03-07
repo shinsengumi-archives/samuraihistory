@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 346354699,
+            "authorName": "David Osborne",
+            "from": "David Osborne &lt;dosborne232@...&gt;",
+            "profile": "dosborne232",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Amakuni Yasutsuna",
+            "postDate": "1349306687",
+            "msgId": 10441,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNDkzMDY2ODcuMjYwMzAuQlBNYWlsX2hpZ2hfY2FycmllckB3ZWIxNDA5MDQubWFpbC5iZjEueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10440,
+            "nextInTime": 10442,
+            "topicId": 10441,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am about to begin work on a graphic novel and plan to use Amakuni and Amakura Yasutsuna as characters in the story. I have tried to research them but all I",
+            "messageBody": "<div id=\"ygrps-yiv-562929372\">I am about to begin work on a graphic novel and plan to use Amakuni and Amakura Yasutsuna as characters in the story. I have tried to research them but all I find is the legend regarding the creation of the katana style sword. There is not much beyond that ad to what happened to these men for the rest of their lives. Fire anyone have any suggestions ad to where I can find more information? Thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10438,
+    "nextTopicId": 10453
+}

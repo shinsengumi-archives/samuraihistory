@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 246840766,
+            "authorName": "shikisokuzekukusokuzeshiki8",
+            "from": "&quot;shikisokuzekukusokuzeshiki8&quot; &lt;kobayakawa8@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "picture of Nobunaga drawn by a european artist",
+            "postDate": "1135003365",
+            "msgId": 8125,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRvNmd0NSthdWF1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8124,
+            "nextInTime": 8126,
+            "topicId": 8125,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think this is the one Kitsuno-san was looking for. http://www.shinpusha.co.jp/photo2/4-7974-2838-4.jpg Do you watch figure skating on TV? Nobunari Oda ",
+            "messageBody": "<div id=\"ygrps-yiv-828403306\">I think this is the one Kitsuno-san was looking for.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shinpusha.co.jp/photo2/4-7974-2838-4.jpg\">http://www.shinpusha.co.jp/photo2/4-7974-2838-4.jpg</a> <br/>\n<br/>\n<br/>\nDo you watch figure skating on TV?<br/>\nNobunari Oda<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nobunari.com/smilewind/\">http://www.nobunari.com/smilewind/</a><br/>\n<br/>\nNobunari Oda is the 17th descendant of Nobunaga Oda <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.goldenskate.com/articles/2004/030505_m.shtml\">http://www.goldenskate.com/articles/2004/030505_m.shtml</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8083,
+    "nextTopicId": 8127
+}

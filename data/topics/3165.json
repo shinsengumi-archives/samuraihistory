@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 130998285,
+            "authorName": "Mark Arsenault",
+            "from": "Mark Arsenault &lt;taisho@...&gt;",
+            "profile": "goldrushg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Excessive quoting brings bad karma",
+            "postDate": "1074335864",
+            "msgId": 3165,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMC4xLjEuMi4yMDA0MDExNzAyMzQxNy4wNTNmZWE3MEBtYWlsLnNlbmdva3UuY29tPg==",
+                "inReplyToHeader": "PDEwNzQzMjUxMjcuMzA5LjY5NDE2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDEwNzQzMjUxMjcuMzA5LjY5NDE2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3164,
+            "nextInTime": 3166,
+            "topicId": 3165,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like to politely ask that anyone quoting a message in their reply please check to make sure that only a brief (and presumably relevant) portion of text",
+            "messageBody": "<div id=\"ygrps-yiv-583350241\">I would like to politely ask that anyone quoting a message in their <br/>\nreply please check to make sure that only a brief (and presumably relevant) <br/>\nportion of text is actually quoted in your reply. I&#39;ve noticed some folks <br/>\nare quoting entire messages (some of which have included the entirety of <br/>\nmessages that *they* were replies to). The result is a digest that contains <br/>\npages and pages of needless text.<br/>\n<br/>\n   I find some of the messages here quite interesting and I enjoy reading <br/>\nthem...once. But after the fifth, tenth or twentieth time the newness and <br/>\ninterest wanes a bit. ;)<br/>\n<br/>\n   Thanks for your consideration.<br/>\n<br/>\n<br/>\n   Mark Arsenault<br/>\n   Sengoku List Taisho<br/>\n   ----------------------------------------------<br/>\n   <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com\">http://www.sengoku.com</a> - The official site of the Sengoku RPG!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2984,
+    "nextTopicId": 3184
+}

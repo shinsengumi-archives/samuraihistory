@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "4th Annual Samurai Fiction Contest -- results soon",
+            "postDate": "1223260414",
+            "msgId": 9800,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdjYnRkdStrYjR0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9799,
+            "nextInTime": 9801,
+            "topicId": 9800,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just an update for the Samurai Fiction contest - the results should be in tomorrow - so stay tuned!",
+            "messageBody": "<div id=\"ygrps-yiv-543982266\">Just an update for the Samurai Fiction contest - the results should be<br/>\nin tomorrow - so stay tuned!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9795,
+    "nextTopicId": 9805
+}

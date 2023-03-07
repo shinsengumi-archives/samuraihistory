@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "fredjnsn@hotmail.com",
+            "from": "fredjnsn@...",
+            "replyTo": "LIST",
+            "senderId": "CjsETDdNNkp2AkNFCzbLwRz1Ve1pEnm8muwXyDjtjcgCUGvzggdq9tLtt8dpW_HC994mrs1wcznbMmA",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Broken Link",
+            "postDate": "999794431",
+            "msgId": 322,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDluODh0ditkdDUxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 321,
+            "nextInTime": 323,
+            "topicId": 322,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The link to AJ Bryant s armor page has an extra http:// in it - you might want to fix that....",
+            "messageBody": "<div id=\"ygrps-yiv-1457838666\">The link to AJ Bryant&#39;s armor page has an extra &#39;http://&#39; in it - you <br/>\nmight want to fix that....</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 312,
+    "nextTopicId": 323
+}

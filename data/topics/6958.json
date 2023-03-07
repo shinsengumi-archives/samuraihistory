@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Fiction 2005 - all entries",
+            "postDate": "1113859128",
+            "msgId": 6958,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0MTg3bytmOGtrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6957,
+            "nextInTime": 6959,
+            "topicId": 6958,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here you will find all of the entries for the 2005 Samurai History contest, down in the fiction section: http://www.samurai-archives.com/guestart.html ",
+            "messageBody": "<div id=\"ygrps-yiv-1072463372\">Here you will find all of the entries for the 2005 Samurai History <br/>\ncontest, down in the &quot;fiction&quot; section:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/guestart.html\">http://www.samurai-archives.com/guestart.html</a><br/>\n<br/>\nCongrats to all.  <br/>\n<br/>\nAnd as a message to the people who&#39;s stories are posted there, if you <br/>\nwant anything added or changed, i.e. biographies, your name, email <br/>\nlinks, notes, etc.  Let me know offlist, and I&#39;ll update it for you.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6941,
+    "nextTopicId": 6959
+}

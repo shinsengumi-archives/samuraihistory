@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] 1945---samurai and seppuku (Prof Murphy)",
+            "postDate": "1066503891",
+            "msgId": 2338,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU1LjQ5ZGM5MzBmLjJjYzJlOGQzQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2337,
+            "nextInTime": 2339,
+            "topicId": 2338,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "General Tojo attempted to commit suicide by shooting himself in the chest while at home.  US service doctors revived him.  Later on,  he was convicted at the",
+            "messageBody": "<div id=\"ygrps-yiv-1073814371\">General Tojo attempted to commit suicide by shooting himself in the chest <br/>\nwhile at home.  US service doctors revived him.  Later on,  he was convicted at <br/>\nthe Tokyo War Crimes Tribunal and hung at Sugamo Prison.  Some officers did <br/>\ncommit suicide before the Imperial Palace to remonstrate against the Emperor for <br/>\nmaking peace.   Seppuku----hara kiri----was not just done to avoid disgrace <br/>\nbut to register profound disapproval.  Since the Japanese believed that the seat <br/>\nof the soul was in the belly, such an act was meant to show the purity of <br/>\ntheir act.  Prof John F.  Murphy Jr,  The Japan Foundation (Prof <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2329,
+    "nextTopicId": 2340
+}

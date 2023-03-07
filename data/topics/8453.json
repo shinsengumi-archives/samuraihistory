@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "For our British Brethren...",
+            "postDate": "1140747113",
+            "msgId": 8453,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDc4QkUyRjcyLUFEOTMtNDU1Qi05RDMwLUQ5ODgyMkU5NjFDREB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8452,
+            "nextInTime": 8454,
+            "topicId": 8453,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "it has now been confirmed that there will be a three day seminar Featuring Japanese Swords and Armour at the Royal Armouries Leeds, England,  with talks by",
+            "messageBody": "<div id=\"ygrps-yiv-1203226100\">it has now been confirmed that there will be a three day seminar  <br/>\nFeaturing Japanese Swords and Armour at the Royal Armouries Leeds,  <br/>\nEngland,  with talks by Leon Kapp, Yoshihara Yoshindo, Fujishiro  <br/>\nMatsuo, Ogasawara Nobuo, Mr. Matsunaga (NBTHK), Clive Sinclair(TSGB),  <br/>\nDick Surran (JSSUS), Dr. Graham Curtis(NTHK), Mr. Ikeda (Tokyo  <br/>\nNational Museum) and Victor Harris to be held on October 28th, 29th &  <br/>\n30th, 2006.<br/>\nThe Royal Armouries will be posting the information on their web site  <br/>\nearly March.<br/>\n<br/>\n<br/>\n<br/>\n From another list,<br/>\n\tand let me say we here in the States are quite jealous. This is a  <br/>\nmajor event and a real coup for Professor Bottomley. You all should  <br/>\nattend if you can and be sure to tell us all about it here on your  <br/>\nfavorite history list...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8415,
+    "nextTopicId": 8458
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 181107361,
+            "authorName": "Jason Adams",
+            "from": "&quot;Jason Adams&quot; &lt;banditt_adams@...&gt;",
+            "profile": "banditt_adams",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "strange music request",
+            "postDate": "1192503000",
+            "msgId": 9628,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZmMThzbys2cnRwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9627,
+            "nextInTime": 9629,
+            "topicId": 9628,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello! By any chance, would any of you have the Soundtrack to the Samurai Trilogy about Musashi, by Kuma Dan?  I can t find anyplace that can get a copy in",
+            "messageBody": "<div id=\"ygrps-yiv-1522390251\">Hello!<br/>\n<br/>\nBy any chance, would any of you have the Soundtrack to the &quot;Samurai<br/>\nTrilogy&quot; about Musashi, by Kuma Dan?  I can&#39;t find anyplace that can<br/>\nget a copy in :(<br/>\n<br/>\nWould someone be willing to burn me a copy if you have it?<br/>\n<br/>\nKindest regards,<br/>\n-Jason</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9627,
+    "nextTopicId": 9633
+}

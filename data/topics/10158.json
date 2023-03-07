@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 435223253,
+            "authorName": "putrasetiadinugraha",
+            "from": "&quot;putrasetiadinugraha&quot; &lt;putrasetiadinugraha@...&gt;",
+            "profile": "putrasetiadinugraha",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "new members",
+            "postDate": "1266796107",
+            "msgId": 10158,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhsc2dvYitlYWZuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10157,
+            "nextInTime": 10159,
+            "topicId": 10158,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am a new member .. i m from indonesia.. please help and cooperation ya ... gozen shien to ky&#333;ryoku wo ya shi te kudasai ...!!!!",
+            "messageBody": "<div id=\"ygrps-yiv-1224652771\">I am a new member ..<br/>\ni&#39;m from indonesia..<br/>\n<br/>\nplease help and cooperation ya ...<br/>\n<br/>\ngozen shien to ky&#333;ryoku wo ya shi te kudasai ...!!!!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10151,
+    "nextTopicId": 10159
+}

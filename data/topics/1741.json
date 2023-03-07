@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 66485938,
+            "authorName": "friopoops",
+            "from": "&quot;friopoops&quot; &lt;sgmoore@...&gt;",
+            "profile": "friopoops",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Added Pics",
+            "postDate": "1052708250",
+            "msgId": 1741,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI5bjJpcStwbG04QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1740,
+            "nextInTime": 1742,
+            "topicId": 1741,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Based on a few comments from Tom and Carlo, I decided to take a couple of new photos of the blade on this sword. I added them to the album. I hope you can see",
+            "messageBody": "<div id=\"ygrps-yiv-484983130\">Based on a few comments from Tom and Carlo, I decided to take a <br/>\ncouple of new photos of the blade on this sword. I added them to the <br/>\nalbum. I hope you can see the detail better.<br/>\n<br/>\nScott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1732,
+    "nextTopicId": 1697
+}

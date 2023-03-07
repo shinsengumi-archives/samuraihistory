@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mizuage",
+            "postDate": "1061233971",
+            "msgId": 2077,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJocjhmaitkM21wQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2076,
+            "nextInTime": 2078,
+            "topicId": 2077,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since this was brought up some clarification is needed.  Mizuage did NOT become a common practice until the early 20th century. While it may have happened",
+            "messageBody": "<div id=\"ygrps-yiv-345336754\">Since this was brought up some clarification is needed.  Mizuage did <br/>\nNOT become a common practice until the early 20th century. While it <br/>\nmay have happened earlier it was when nationalism swept Japan that <br/>\nthe Geisha were seen as one of the symbols of old Japan, and were <br/>\nseen as the quintesential Japanese.  This popularity of the Geisha <br/>\ncaused a boom of 80,000 women in their ranks.  It also caused the <br/>\nwide spread practice of mizuage by the women that owned the geisha to <br/>\ncash in even more on the patriotism of their patrons.  And, I have <br/>\nnot heard of it happening since the end of WWII.  So to say that <br/>\nevery Geisha *SELLS* her virginity it might give the impression that <br/>\nit is still a wide spread practice that continues to this day.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2059,
+    "nextTopicId": 2076
+}

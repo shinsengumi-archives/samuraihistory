@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Nobunaga&#39;s Progeny...",
+            "postDate": "1133252182",
+            "msgId": 8050,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFlYS40OGQ5MjYxNS4zMGJkNjg1NkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8049,
+            "nextInTime": 8051,
+            "topicId": 8050,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi... I know I ve probably asked this before... but what was the name of  the son of Nobunaga between Nobutada and Katsunaga?  I know Nobutaka was  eldest, ",
+            "messageBody": "<div id=\"ygrps-yiv-1704913574\">Hi... I know I&#39;ve probably asked this before... but what was the name of  the <br/>\nson of Nobunaga between Nobutada and Katsunaga?  I know Nobutaka was  eldest, <br/>\nfollowed by Nobuo and Nobutada, then there&#39;s number 4, followed by  <br/>\nKatsunaga.  Who&#39;s number 4?!  Thanks! :-D<br/>\n+Tim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7858,
+    "nextTopicId": 7944
+}

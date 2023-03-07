@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "tom.davidson@realtime.co.uk",
+            "from": "tom.davidson@...",
+            "replyTo": "LIST",
+            "senderId": "HIJRUN5GpUyX-FhReWD8QhD5adAv4zPTiALZAQsId_ohIL_harQp2YnWDpGCm1gaDhvBc6roA3nEbq6Ml9Q_7l3K",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Musashi and others",
+            "postDate": "999620387",
+            "msgId": 317,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDluMnV2MytiYWk0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 316,
+            "nextInTime": 318,
+            "topicId": 317,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Take a look at: http://www.bunbun.ne.jp/~sword/ for intersting stuff on Musashi and other sword ryu. Thomas",
+            "messageBody": "<div id=\"ygrps-yiv-130747445\">Take a look at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bunbun.ne.jp/~sword/\">http://www.bunbun.ne.jp/~sword/</a><br/>\n<br/>\nfor intersting stuff on Musashi and other sword ryu.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 294,
+    "nextTopicId": 314
+}

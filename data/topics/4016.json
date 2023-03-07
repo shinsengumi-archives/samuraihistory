@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 161875941,
+            "authorName": "Tom Hatfield",
+            "from": "Tom Hatfield &lt;oneundeadlord@...&gt;",
+            "profile": "oneundeadlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "im new",
+            "postDate": "1080194145",
+            "msgId": 4016,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMzI1MDU1NTQ1LjYwNDUucW1haWxAd2ViNDE0MDMubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4015,
+            "nextInTime": 4017,
+            "topicId": 4016,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all hey im new to the group and i just got done reading all the emails from the past few days. along the point of the most famous samurai, i would be a",
+            "messageBody": "<div id=\"ygrps-yiv-2096124529\">Hi all<br/>\n <br/>\nhey im new to the group and i just got done reading all the emails from the past few days. <br/>\n <br/>\nalong the point of the most famous samurai, i would be a Miyamoto Musashi fan as well, but im also a Mori Motonari fan.<br/>\n<br/>\n<br/>\n<br/>\n <br/>\n<br/>\nTom Hatfield<br/>\n<br/>\n&quot;In all forms of stratagy, it is necessary to maintain the combat stance in everyday life, and to make your everyday stance your combat stance.&quot;<br/>\n<br/>\n-Miyamoto Musashi, The Book of Five Rings, <br/>\n<br/>\nThe Water Book<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oneundeadlord@...\">oneundeadlord@...</a><br/>\n<br/>\n <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Finance Tax Center - File online. File on time.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4004,
+    "nextTopicId": 4018
+}

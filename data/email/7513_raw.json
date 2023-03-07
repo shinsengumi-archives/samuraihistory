@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "tom helm",
+    "from": "tom helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "_TTtYZd2JvaLjbvT1qJQmnjKcoklzeLQdcjRp2TKCQHNgZE-oHomKpI6Bwlq3dnbId2Qxe91PFJUz3sxMe7o6usWlvDPio06",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "interesting sale...",
+    "postDate": "1124847952",
+    "msgId": 7513,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGEwNjIxMDI4Y2JmMzE4MTg2ZGEzOUBbMTkyLjE2OC4xLjExNF0+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 7515,
+    "prevInTime": 7512,
+    "nextInTime": 7514,
+    "topicId": 7513,
+    "numMessagesInTopic": 3,
+    "msgSnippet": "http://tinyurl.com/cdgcl Interesting but... -t [Non-text portions of this message have been removed]",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 29588 invoked from network); 24 Aug 2005 02:15:22 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m29.grp.scd.yahoo.com with QMQP; 24 Aug 2005 02:15:22 -0000\r\nReceived: from unknown (HELO smtpout04-04.prod.mesa1.secureserver.net) (64.202.165.199)\n  by mta6.grp.scd.yahoo.com with SMTP; 24 Aug 2005 02:15:22 -0000\r\nReceived: (qmail 8641 invoked from network); 24 Aug 2005 02:15:21 -0000\r\nReceived: from unknown (71.132.137.253)\n  by smtpout04-04.prod.mesa1.secureserver.net (64.202.165.199) with ESMTP; 24 Aug 2005 02:15:21 -0000\r\nMime-Version: 1.0\r\nMessage-Id: &lt;a0621028cbf318186da39@[192.168.1.114]&gt;\r\nDate: Tue, 23 Aug 2005 18:45:52 -0700\r\nTo: samuraihistory@yahoogroups.com\r\nX-eGroups-Msg-Info: 1:12:0:0\r\nX-eGroups-From: tom helm &lt;toryu@...&gt;\r\nFrom: tom helm &lt;junkmail@...&gt;\r\nSubject: interesting sale...\r\nX-Yahoo-Group-Post: member; u=134498325; y=q8GkagYxv_6xA1MhFFgrrnvVQ-pfvaO5jd5UJF8K2SkUTA\r\nX-Yahoo-Profile: soshuju\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\n\r\nhttp://tinyurl.com/cdgcl\n\n\tInteresting but...\n-t\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

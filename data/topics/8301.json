@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "shikisokuzekukusokuzeshiki8",
+            "from": "&quot;shikisokuzekukusokuzeshiki8&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Please help!",
+            "postDate": "1139830978",
+            "msgId": 8403,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRzcHJjMis1NTAxQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRycDlmZCt1MzE0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8301,
+            "nextInTopic": 0,
+            "prevInTime": 8402,
+            "nextInTime": 8404,
+            "topicId": 8301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Nenoi - ... Imai Shirou Kanehira Higuchi Jirou Kanemitsu Tateno  Rokurou Chikatada Nenoi Koyata Yukichika Or you can just call them Imai Kanehira Higuchi",
+            "messageBody": "<div id=\"ygrps-yiv-148326423\">&lt;oda_retainer@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Hey samurai fans, i need some help! I am researching the Gempei war <br/>\n&gt; for a work of fiction and I need to know the names of Minamoto (kiso) <br/>\n&gt; Yoshinaka&#39;s four generals, the so called &quot;four demon kings of kiso&quot;. <br/>\n&gt; All I have on the subject are the names Imai, Higuchi, Tate and <br/>\n </span></blockquote>Nenoi -<br/>\n<blockquote><span title=\"ireply\"> &gt;  whether those are sur names or family names I am not so sure. If any <br/>\n&gt; one has helpful information on this subject - please let me know!<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Imai Shirou Kanehira<br/>\nHiguchi Jirou Kanemitsu<br/>\nTateno  Rokurou Chikatada<br/>\nNenoi Koyata Yukichika<br/>\n<br/>\nOr you can just call them<br/>\nImai Kanehira<br/>\nHiguchi Kanemitsu<br/>\nTateno  Rokurou<br/>\nNenoi Koyata</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 256372956,
+            "authorName": "oda_retainer",
+            "from": "&quot;oda_retainer&quot; &lt;oda_retainer@...&gt;",
+            "profile": "oda_retainer",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Please help!",
+            "postDate": "1138764077",
+            "msgId": 8301,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRycDlmZCt1MzE0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8403,
+            "prevInTime": 8300,
+            "nextInTime": 8302,
+            "topicId": 8301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey samurai fans, i need some help! I am researching the Gempei war for a work of fiction and I need to know the names of Minamoto (kiso) Yoshinaka s four",
+            "messageBody": "<div id=\"ygrps-yiv-965467994\">Hey samurai fans, i need some help! I am researching the Gempei war <br/>\nfor a work of fiction and I need to know the names of Minamoto (kiso) <br/>\nYoshinaka&#39;s four generals, the so called &quot;four demon kings of kiso&quot;. <br/>\nAll I have on the subject are the names Imai, Higuchi, Tate and Nenoi -<br/>\n whether those are sur names or family names I am not so sure. If any <br/>\none has helpful information on this subject - please let me know!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8384,
+    "nextTopicId": 8317
+}

@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "Re: [samuraihistory] rice tax",
+            "postDate": "1206316707",
+            "msgId": 9707,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEY3QzQ3N0E2LTM4REEtNEExNS04NDE0LUVGQzIzRjFGMTFCRkB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGZyb3JsbSthbW5kQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGZyb3JsbSthbW5kQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9706,
+            "nextInTopic": 0,
+            "prevInTime": 9706,
+            "nextInTime": 9708,
+            "topicId": 9706,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gijs - Are you looking for rice tax numbers for the JOMON period? I don t believe they were keeping records at that time if they were indeed collecting tax in",
+            "messageBody": "<div id=\"ygrps-yiv-1625885026\">Gijs -<br/>\n\tAre you looking for rice tax numbers for the JOMON period? I don&#39;t  <br/>\nbelieve they were keeping records at that time if they were indeed  <br/>\ncollecting tax in rice. If we have misunderstood your question,  <br/>\nplease clarify...<br/>\n-t<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamas&quot;<br/>\n- Virgil<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Mar 18, 2008, at 9:46 AM, Gijs wrote:<br/>\n<br/>\n&gt; Hi im doeing a little research on the rice tax system but i can&#39;t find<br/>\n&gt; any numbers. The numbers that im looking for are exemples of Jomen..<br/>\n&gt;<br/>\n&gt; If someone have a source or a idea i will be very greatfull<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 247235104,
+            "authorName": "Gijs",
+            "from": "&quot;Gijs&quot; &lt;the_woelie@...&gt;",
+            "profile": "the_woelie",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "rice tax",
+            "postDate": "1205858806",
+            "msgId": 9706,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZyb3JsbSthbW5kQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9707,
+            "prevInTime": 9705,
+            "nextInTime": 9707,
+            "topicId": 9706,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi im doeing a little research on the rice tax system but i can t find any numbers. The numbers that im looking for are exemples of Jomen.. If someone have a",
+            "messageBody": "<div id=\"ygrps-yiv-2087240049\">Hi im doeing a little research on the rice tax system but i can&#39;t find <br/>\nany numbers. The numbers that im looking for are exemples of Jomen..<br/>\n<br/>\nIf someone have a source or a idea i will be very greatfull</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9701,
+    "nextTopicId": 9708
+}

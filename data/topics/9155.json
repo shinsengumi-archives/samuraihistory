@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "ANOTHER SAMURAI WEBSITE",
+            "postDate": "1162293731",
+            "msgId": 9155,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDYwMWM2ZmNkZSRkMDVjYTZiMCQwMzAwYThjMEBiYXJyeXRvcGd1bj4=",
+                "referencesHeader": "PDQ4NC5hZGI3NzIwLjMyNzJkODJjQGFvbC5jb20+IDw1NTc3MkEzQS05RTZDLTQ0NEYtQjM0OS00RkQyN0RFNTk5OUFAaGF3YWlpYW50ZWwubmV0PiA8NDU0MzY5NzIuOTA0MDkwN0Bjb3gubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9154,
+            "nextInTime": 9156,
+            "topicId": 9155,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, As the list seems a little quiet of late I thought I d put out this link I ve just discovered.  I was looking for any info on the Doi Shinryu school ",
+            "messageBody": "<div id=\"ygrps-yiv-649687603\">Dear All,<br/>\n<br/>\nAs the list seems a little quiet of late I thought I&#39;d put out this link <br/>\nI&#39;ve just discovered.  I was looking for any info on the Doi Shinryu school <br/>\nof Hizen swordsmiths, but didn&#39;t find any.  However, I found numerous very <br/>\nreadable websites, of which this is but one more germain to our list:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shinto.muso.ryu.en.wikimiki.org/\">http://shinto.muso.ryu.en.wikimiki.org/</a><br/>\n<br/>\nBest regards,<br/>\n<br/>\nBarry Thomas.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9145,
+    "nextTopicId": 9108
+}

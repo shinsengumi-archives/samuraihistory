@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Fiction 2008 Extension",
+            "postDate": "1216017958",
+            "msgId": 9762,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc1ZXNuNitkMnFtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9761,
+            "nextInTime": 9763,
+            "topicId": 9762,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In order to get maximum participation, the deadline for submissions has been extended to August 31st, 2008.  As an added bonus, if we can get 10 entries, I ll",
+            "messageBody": "<div id=\"ygrps-yiv-906372649\">In order to get maximum participation, the deadline for submissions<br/>\nhas been extended to August 31st, 2008.  As an added bonus, if we can<br/>\nget 10 entries, I&#39;ll donate $100 from my own pocket to go to the<br/>\nprizewinner. Tell your friends!<br/>\n<br/>\nSo, to reiterate, deadline for the contest has been changed now to<br/>\n8/31/08.  If anyone who has already submitted their stories want/need<br/>\nto edit them, feel free, you now have an extra 6 weeks.<br/>\n<br/>\nThanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9761,
+    "nextTopicId": 9745
+}

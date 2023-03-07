@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 198515669,
+            "authorName": "Tom Hatfield",
+            "from": "Tom Hatfield &lt;yamaki.ryubushi@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Re: Vampires---resp",
+            "postDate": "1110870051",
+            "msgId": 6824,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDMyNzQ4Y2Q4MDUwMzE0MjMwMDQ1ODU4ODFmQG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGQ5LjIyNDA5MTYxLjJmNjZmODI1QGFvbC5jb20+",
+                "referencesHeader": "PGQ5LjIyNDA5MTYxLjJmNjZmODI1QGFvbC5jb20+"
+            },
+            "prevInTopic": 6821,
+            "nextInTopic": 0,
+            "prevInTime": 6823,
+            "nextInTime": 6825,
+            "topicId": 6821,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "the tales of vampires and shapeshifters are found all over the world. no culture on record has been known to be exempt from this. since humans have been",
+            "messageBody": "<div id=\"ygrps-yiv-1395118863\">the tales of vampires and shapeshifters are found all over the world.<br/>\nno culture on record has been known to be exempt from this. since<br/>\nhumans have been writing things down there seem to be tales of<br/>\nvampires and shape shifters. if i remember correctly the japanese<br/>\nvampire was a shadowed woman who flew around at night drinking the<br/>\nblood from children as they slept.<br/>\n<br/>\n-- <br/>\nDemocrats are sexy.<br/>\nhave you ever heard of a good piece of<br/>\nelephant??<br/>\n<br/>\n-Tom Hatfield</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [samuraihistory] Re: Vampires---resp",
+            "postDate": "1110810149",
+            "msgId": 6821,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ5LjIyNDA5MTYxLjJmNjZmODI1QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6824,
+            "prevInTime": 6820,
+            "nextInTime": 6822,
+            "topicId": 6821,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The American expatriate in Japan Lafcadio Hearn wrote many tales of Japanese vampires and were-people. Check on his writings,  Murphy [Non-text portions of",
+            "messageBody": "<div id=\"ygrps-yiv-1819851143\">The American expatriate in Japan Lafcadio Hearn wrote many tales of Japanese <br/>\nvampires and were-people. Check on his writings,  Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6817,
+    "nextTopicId": 6826
+}

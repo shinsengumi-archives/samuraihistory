@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 257405796,
+            "authorName": "sekinakagawa@aol.com",
+            "from": "sekinakagawa@...",
+            "profile": "seki_nakagawa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] New  Member",
+            "postDate": "1165171931",
+            "msgId": 9225,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwNC4zOTZhOTE0LjMyYTQ3NmRiQGFvbC5jb20+"
+            },
+            "prevInTopic": 9222,
+            "nextInTopic": 0,
+            "prevInTime": 9224,
+            "nextInTime": 9226,
+            "topicId": 9221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Welcome, I am an active reenactor of the bushi culture, and a good set of  ears, not an expert in jpanese culture, but I am into building replica armor and ",
+            "messageBody": "<div id=\"ygrps-yiv-606213188\">Welcome,<br/>\n  I am an active reenactor of the bushi culture, and a good set of  ears, not <br/>\nan expert in jpanese culture, but I am into building replica armor and  <br/>\nclothing of the times between of 600 to 1600?<br/>\n <br/>\nHumbly,<br/>\nNakagawa Sukeie<br/>\n <br/>\nTo ask a question may be a moments shame,<br/>\nBut not  to ask and remain ignorant is a life long  shame.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 235893824,
+            "authorName": "thegreatjahova666",
+            "from": "&quot;thegreatjahova666&quot; &lt;thegreatjahova666@...&gt;",
+            "profile": "thegreatjahova666",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: New  Member",
+            "postDate": "1164915865",
+            "msgId": 9222,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVrbmNhcCtyOTVwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVrbXRvYSs3cGxlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9221,
+            "nextInTopic": 9225,
+            "prevInTime": 9221,
+            "nextInTime": 9223,
+            "topicId": 9221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Hi.",
+            "messageBody": "<div id=\"ygrps-yiv-691452792\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Adam  Wilder&quot; &lt;bermudatriangle1793@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Adam Wilder  here,   I  recently  joined  this group to  not  merely  <br/>\n&gt; learn  more about the  history  of the  Samurai  but,  Japanese <br/>\n&gt; History  & Culture  intertwined  with  it also.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Signed,<br/>\n&gt; Adam Wilder<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Hi.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 242177426,
+            "authorName": "Adam  Wilder",
+            "from": "&quot;Adam  Wilder&quot; &lt;bermudatriangle1793@...&gt;",
+            "profile": "bermudatriangle1793",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "New  Member",
+            "postDate": "1164900938",
+            "msgId": 9221,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVrbXRvYSs3cGxlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9222,
+            "prevInTime": 9220,
+            "nextInTime": 9222,
+            "topicId": 9221,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Adam Wilder  here,   I  recently  joined  this group to  not  merely learn  more about the  history  of the  Samurai  but,  Japanese History  & Culture",
+            "messageBody": "<div id=\"ygrps-yiv-666985215\">Adam Wilder  here,   I  recently  joined  this group to  not  merely  <br/>\nlearn  more about the  history  of the  Samurai  but,  Japanese <br/>\nHistory  & Culture  intertwined  with  it also.<br/>\n<br/>\n<br/>\nSigned,<br/>\nAdam Wilder</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9215,
+    "nextTopicId": 8192
+}

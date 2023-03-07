@@ -1,0 +1,59 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "eisuke_2001",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2260866,
+    "listId": 2247946,
+    "dateCreated": 1150675760,
+    "userIdCreated": 162727959,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "If by some coincidence, Oda Nobunaga survived at Honno-ji, and somehow was betrayed by his top generals and allies (specifically Hashiba Hideyoshi, Tokugawa Ieyasu, and Akechi Mistsuhide)If all four of them went into a Sekigahara-type battle, with each general on his own, who do you think would win?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 16411527,
+            "selectionText": "Oda Nobunaga",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 16411527,
+                    "surveyId": 2260866,
+                    "userId": 158578907,
+                    "email": "nuqwIjatlh@hotmail.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 16411528,
+            "selectionText": "Hashiba Hideyoshi",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 16411529,
+            "selectionText": "Tokugawa Ieyasu",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 16411530,
+            "selectionText": "Akechi Mitsuhide",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 1,
+    "previousSurveyId": 2712759,
+    "nextSurveyId": 2106597
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "questions on komon",
+            "postDate": "1083664748",
+            "msgId": 4333,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEFGNTE1OTJGLTlEQjEtMTFEOC05NUYxLTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4332,
+            "nextInTime": 4334,
+            "topicId": 4333,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A freind of mine is wondering... ... a few question about the Ka-Mon (Japanese family crest).  I wanted to know how the inheritance of the Ka-mon is carried",
+            "messageBody": "<div id=\"ygrps-yiv-686728380\">A freind of mine is wondering...<br/>\n<br/>\n... a few question about the Ka-Mon<br/>\n(Japanese family crest).  I wanted to know how the inheritance of the<br/>\nKa-mon is carried out.  For instance, when people get married whose<br/>\ncrest do they take, the bride or groom?  Are all the children in the<br/>\nfamily entitled to it?  And, did inheritance guidelines change over<br/>\ntime for the crest, for instance, at one point only first born boys<br/>\nwere entitled to inheritance?<br/>\n<br/>\nCan anybody help her???<br/>\n<br/>\nthanx a lot<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4301,
+    "nextTopicId": 4302
+}

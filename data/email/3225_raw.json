@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "_547y7uEEjOXwhsrt5BpWChmTHgMZDfdRA5C4Eu1uQfgi65tiklgmxddqdstLEW2Luxj-fDJiB5DHXEFuXtIOm3Wtw71YFw8",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "The lost samurai",
+    "postDate": "1074753998",
+    "msgId": 3225,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PEJBODI4NjEyLTRDQTYtMTFEOC04ODM2LTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 3227,
+    "prevInTime": 3224,
+    "nextInTime": 3226,
+    "topicId": 3225,
+    "numMessagesInTopic": 10,
+    "msgSnippet": "They found him in The Sun... http://www.thesun.co.uk/article/0,,2-2004032495,00.html",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 36746 invoked from network); 22 Jan 2004 05:43:33 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m18.grp.scd.yahoo.com with QMQP; 22 Jan 2004 05:43:33 -0000\r\nReceived: from unknown (HELO pop.sanbrunocable.com) (65.172.230.120)\n  by mta1.grp.scd.yahoo.com with SMTP; 22 Jan 2004 05:43:33 -0000\r\nReceived: from [10.0.1.2] (dynamic-204-95-18-102.sanbrunocable.com [204.95.18.102])\n\tby pop.sanbrunocable.com (8.11.6/8.11.6) with ESMTP id i0M5hQq20851\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Wed, 21 Jan 2004 21:43:26 -0800\r\nMime-Version: 1.0 (Apple Message framework v609)\r\nContent-Transfer-Encoding: 7bit\r\nMessage-Id: &lt;BA828612-4CA6-11D8-8836-000393B56BC0@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nTo: samuraihistory@yahoogroups.com\r\nDate: Wed, 21 Jan 2004 22:46:38 -0800\r\nX-Mailer: Apple Mail (2.609)\r\nX-eGroups-Remote-IP: 65.172.230.120\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: The lost samurai\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nThey found him in The Sun...\n\nhttp://www.thesun.co.uk/article/0,,2-2004032495,00.html\n\n\n"
+}

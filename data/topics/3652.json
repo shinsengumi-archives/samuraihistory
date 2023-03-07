@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT: Spam letter",
+            "postDate": "1076128892",
+            "msgId": 3652,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEyZS4zYjEzN2U0Ny4yZDU1YzY3Y0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3651,
+            "nextInTime": 3653,
+            "topicId": 3652,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. Earlier tonight, I found out -- through my own admitted stupidity -- that my password to America Online had been stolen and an email sent out to over nine",
+            "messageBody": "<div id=\"ygrps-yiv-1574253680\">Hi.<br/>\n       Earlier tonight, I found out -- through my own admitted stupidity -- <br/>\nthat my password to America Online had been stolen and an email sent out to <br/>\nover nine hundred recipients.  If anyone received a letter from my email address <br/>\nbetween about 21:25 and 22:00 (9.25 and 10pm) EST tonight, it did NOT come <br/>\nfrom me.  I apologise to anyone this may have happened to.  My password has been <br/>\nsuccessfully changed, so that the one that was stolen will not work.  Again, <br/>\nmy apologies.<br/>\n<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3644,
+    "nextTopicId": 3673
+}

@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "tom.davidson@realtime.co.uk",
+    "from": "tom.davidson@...",
+    "replyTo": "LIST",
+    "senderId": "uVEfc6glVg1XvKv1L6BfyoGBKFOi7SwvD4Nmn0mdd2xbNcqDStMpWNFNDnqhyKf8ddQ8KIFhizUHugxfBqTu7i5s",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Musashi and others",
+    "postDate": "999620387",
+    "msgId": 317,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDluMnV2MytiYWk0QGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 316,
+    "nextInTime": 318,
+    "topicId": 317,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Take a look at: http://www.bunbun.ne.jp/~sword/ for intersting stuff on Musashi and other sword ryu. Thomas",
+    "rawEmail": "Return-Path: &lt;tom.davidson@...&gt;\r\nX-Sender: tom.davidson@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2); 4 Sep 2001 16:39:59 -0000\r\nReceived: (qmail 80907 invoked from network); 4 Sep 2001 16:19:51 -0000\r\nReceived: from unknown (10.1.10.26)\n  by l10.egroups.com with QMQP; 4 Sep 2001 16:19:51 -0000\r\nReceived: from unknown (HELO n35.groups.yahoo.com) (10.1.1.40)\n  by mta1 with SMTP; 4 Sep 2001 16:19:51 -0000\r\nX-eGroups-Return: tom.davidson@...\r\nReceived: from [10.1.2.55] by mu.egroups.com with NNFMP; 04 Sep 2001 16:19:51 -0000\r\nDate: Tue, 04 Sep 2001 16:19:47 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Musashi and others\r\nMessage-ID: &lt;9n2uv3+bai4@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 112\r\nX-Mailer: eGroups Message Poster\r\nFrom: tom.davidson@...\r\n\r\nTake a look at:\n\nhttp://www.bunbun.ne.jp/~sword/\n\nfor intersting stuff on Musashi and other sword ryu.\n\nThomas\n\n\n\n"
+}

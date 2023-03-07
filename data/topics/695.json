@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 86606595,
+            "authorName": "shadowhawke666",
+            "from": "&quot;shadowhawke666&quot; &lt;shadowhawke666@...&gt;",
+            "profile": "shadowhawke666",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sammurai Reseach Help",
+            "postDate": "1017943629",
+            "msgId": 695,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE4aTRvZCszOHU3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 694,
+            "nextInTime": 696,
+            "topicId": 695,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Group, In getting information on the Sammurai or Japanese history I suggest you read the James Clavell novel- Shogun. If you can get it,I believe they have",
+            "messageBody": "<div id=\"ygrps-yiv-2022949835\">Hi Group,<br/>\n        In getting information on the Sammurai or Japanese history I suggest you read the James Clavell novel- Shogun. If you can get it,I believe they have the mini series Shogun , which starred Richard Chamberlain, on video. Clavell&#39;s novel- Gai-Jin may also be of use to you in your report. <br/>\n       Being a Martial Artist, I found Clavell&#39;s entire Asian series enjoable. The novels in this series are: Shogun, Tai-Pan, King Rat, Noble House, Whirlwind and Gai-Jin.<br/>\n       Write back and keep in touch. This is one of my favorite topics; the Orient as always been one of my areas of interest.<br/>\n         Shadow</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 694,
+    "nextTopicId": 712
+}

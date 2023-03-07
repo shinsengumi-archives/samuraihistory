@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 94977463,
+            "authorName": "cowboyiain",
+            "from": "&quot;cowboyiain&quot; &lt;cowboyiain@...&gt;",
+            "profile": "cowboyiain",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samura poetry and books on shilto/buddhist religion",
+            "postDate": "1012260050",
+            "msgId": 527,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEzNG1jaStpdTRkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 526,
+            "nextInTime": 528,
+            "topicId": 527,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering if anybody knew of any good books of samurai poetry or shinto/buddhis religion?",
+            "messageBody": "<div id=\"ygrps-yiv-1443376746\">I was wondering if anybody knew of any good books of samurai poetry <br/>\nor shinto/buddhis religion?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 501,
+    "nextTopicId": 528
+}

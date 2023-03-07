@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 75590796,
+            "authorName": "Josh Wilson",
+            "from": "&quot;Josh Wilson&quot; &lt;lordwilson@...&gt;",
+            "profile": "goodfella26426",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(No Subject)",
+            "postDate": "1066058050",
+            "msgId": 2315,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEpNQ09FTkVMTEZBTElEQUFAbWFpbGNpdHkuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2314,
+            "nextInTime": 2316,
+            "topicId": 2315,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It seems like I heard or read somewhere that the first Japanese canon barrels were made out of bamboo that had been lashed together.. This obviously doesnt",
+            "messageBody": "<div id=\"ygrps-yiv-2101865326\">It seems like I heard or read somewhere that the first Japanese canon barrels were made out of bamboo that had been lashed together.. This obviously doesnt seem to smart so it was abandonned...<br/>\n<br/>\nWilson<br/>\n<br/>\n<br/>\n<br/>\n____________________________________________________________<br/>\nGet advanced SPAM filtering on Webmail or POP Mail ... Get Lycos Mail!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://login.mail.lycos.com/r/referral?aid=27005\">http://login.mail.lycos.com/r/referral?aid=27005</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2285,
+    "nextTopicId": 2287
+}

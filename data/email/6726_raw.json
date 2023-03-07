@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "jQwqdRk6PGEW1aOI2_5d0eWYwfkNadrfjXATG8e-sQT7xCh4rEyxC0CouRa8DQYMXynolr68omrPq_cwNzSpQAgBAmU4-R8Ya8Bp",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Re: Other query",
+    "postDate": "1109315457",
+    "msgId": 6726,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDUwMjI1MDcxMDU4Ljc2NzU1LnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PGN2bWllZCtjaGxnQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 6725,
+    "nextInTopic": 6728,
+    "prevInTime": 6725,
+    "nextInTime": 6727,
+    "topicId": 6702,
+    "numMessagesInTopic": 18,
+    "msgSnippet": "... Of course it did, you re not using Unicode. Not sure why you would. __________________________________ Do you Yahoo!? Yahoo! Mail - now with 250MB free",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 85372 invoked from network); 25 Feb 2005 07:10:58 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m25.grp.scd.yahoo.com with QMQP; 25 Feb 2005 07:10:58 -0000\r\nReceived: from unknown (HELO web41315.mail.yahoo.com) (66.218.93.64)\n  by mta4.grp.scd.yahoo.com with SMTP; 25 Feb 2005 07:10:58 -0000\r\nReceived: (qmail 76757 invoked by uid 60001); 25 Feb 2005 07:10:58 -0000\r\nComment: DomainKeys? See http://antispam.yahoo.com/domainkeys\r\nDomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;\n  s=s1024; d=yahoo.com;\n  b=CbIA7uTVAEKH8KptakMM8oecyhHpzHcpARH+Q5KtcZkcsTWKCp/y4jBsH0BH+PtbbBNS+qktgkI2XgKIq8cNk+lnD/Rh+xylB70mYVd9/PR9qIup8IYfi8fU1scKZTM2gynhkWZ0QOJ0QWpLBZsUbqyUiKlkvRmqLNf7MtnEIUk=  ;\r\nMessage-ID: &lt;20050225071058.76755.qmail@...&gt;\r\nReceived: from [155.6.245.181] by web41315.mail.yahoo.com via HTTP; Thu, 24 Feb 2005 23:10:57 PST\r\nDate: Thu, 24 Feb 2005 23:10:57 -0800 (PST)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;cvmied+chlg@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.64\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Re: Other query\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Kitsuno &lt;samurai-listowner@...&gt;\nwrote:\n\n&gt; \n&gt; It came out fine in your original post under\n&gt; Shift-JIS for me.\n\nOf course it did, you&#39;re not using Unicode. Not sure\nwhy you would.\n\n\n\t\t\n__________________________________ \nDo you Yahoo!? \nYahoo! Mail - now with 250MB free storage. Learn more.\nhttp://info.mail.yahoo.com/mail_250\n\n"
+}

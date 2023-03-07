@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 65764424,
+            "authorName": "KawaiiLizard@aol.com",
+            "from": "KawaiiLizard@...",
+            "profile": "kawaiilizard",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Intro/Question/Thanks",
+            "postDate": "1019501543",
+            "msgId": 777,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRhLjE2ZTQwN2NkLjI5ZjViNWU3QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 776,
+            "nextInTime": 778,
+            "topicId": 777,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey all, I just wanted to say thanks to those who helped me out. Also, my paper was due today (Monday, April 22) so no one else needs to send me info.  Thanks",
+            "messageBody": "<div id=\"ygrps-yiv-75441609\">Hey all, I just wanted to say thanks to those who helped me out.  <br/>\nAlso, my paper was due today (Monday, April 22) so no one else needs to send <br/>\nme info.  Thanks so much again!<br/>\n*~Liz~*<br/>\nwww.fanfiction.net/profile.php?userid=26934<br/>\nwww.angelfire.com/rpg/DarkCoveWeyr<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 773,
+    "nextTopicId": 781
+}

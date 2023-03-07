@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives site search",
+            "postDate": "1028220458",
+            "msgId": 1019,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFpYm9uYStuNmFsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1018,
+            "nextInTime": 1020,
+            "topicId": 1019,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just discovered something interesting to anyone who wants to be able to do a search within the Samurai Archives site. If you go to http://www.google.com",
+            "messageBody": "<div id=\"ygrps-yiv-1688483776\">I just discovered something interesting to anyone who wants to be <br/>\nable to do a &#39;search&#39; within the Samurai Archives site.  <br/>\n<br/>\nIf you go to <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.google.com\">http://www.google.com</a> and input: site:www.samurai-<br/>\narchives.com into the search box, you can search for any words you <br/>\nwant by putting them before the &#39;site&#39;.  <br/>\nexample: nobunaga site:www.samurai-archives.com brings up all of the <br/>\npages on the samurai archives with the term &#39;nobunaga&#39; on them.<br/>\n<br/>\nFYI</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1018,
+    "nextTopicId": 1022
+}

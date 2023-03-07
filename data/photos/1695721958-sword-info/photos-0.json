@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 1695721958,
+        "photoId": 1889094999,
+        "photoName": "image001",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "midorinotoradesu",
+        "modificationDate": 1125333299,
+        "creationDate": 1125333299,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/t.ixLrTtctkzdXmbiSVN/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1259,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/t.ixLrTtctkzdXmbiSVN/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 12641,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/t.ixLrTtctkzdXmbiSVN/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 12641,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 1695721958,
+        "photoId": 374107451,
+        "photoName": "image002",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "midorinotoradesu",
+        "modificationDate": 1125333310,
+        "creationDate": 1125333310,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/DiBrd8LvfdX0VXMd5jc-/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 1519,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/DiBrd8LvfdX0VXMd5jc-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 14786,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/DiBrd8LvfdX0VXMd5jc-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 14786,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 1695721958,
+        "photoId": 1349846752,
+        "photoName": "image003",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "midorinotoradesu",
+        "modificationDate": 1125333321,
+        "creationDate": 1125333321,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/9RW1KgDtedUpMeWQIj23/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1447,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/9RW1KgDtedUpMeWQIj23/name/n_a",
+                "height": 400,
+                "width": 300,
+                "size": 16624,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/9RW1KgDtedUpMeWQIj23/name/n_a",
+                "height": 400,
+                "width": 300,
+                "size": 16624,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 534062,
+            "authorName": "amphipolis",
+            "from": "&quot;amphipolis&quot; &lt;xgl1972@...&gt;",
+            "profile": "amphipolis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "thanx",
+            "postDate": "1021070094",
+            "msgId": 855,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGIwMWMxZjg3MiRlZWMxNzJlMCQyYzYwNDJjM0BMb2NhbEhvc3Q+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 854,
+            "nextInTime": 856,
+            "topicId": 855,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks pals for the messages! :-) amph.",
+            "messageBody": "<div id=\"ygrps-yiv-2031982193\">Thanks pals for the messages! :-)<br/>\n<br/>\namph.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 807,
+    "nextTopicId": 836
+}

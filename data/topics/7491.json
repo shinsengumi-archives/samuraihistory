@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Fiction contest 2006",
+            "postDate": "1124313018",
+            "msgId": 7491,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlMDkzcStxNXY1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7490,
+            "nextInTime": 7492,
+            "topicId": 7491,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We are currently working on the details of the next annual Samurai Fiction contest. I ll be posting some polls here today to get some input, so I d appreciate",
+            "messageBody": "<div id=\"ygrps-yiv-1356929936\">We are currently working on the details of the next annual Samurai <br/>\nFiction contest. I&#39;ll be posting some polls here today to get some <br/>\ninput, so I&#39;d appreciate it if as many people would answer as possible.<br/>\n<br/>\nThanks,<br/>\n<br/>\nKitsuno<br/>\nModerator</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7490,
+    "nextTopicId": 7510
+}

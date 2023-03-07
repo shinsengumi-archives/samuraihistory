@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 39884842,
+            "authorName": "shawn",
+            "from": "&quot;shawn&quot; &lt;houseblackwolf@...&gt;",
+            "profile": "houseblackwolf",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "sword help",
+            "postDate": "1180501808",
+            "msgId": 9580,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYzajB2ZytmbXJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9579,
+            "nextInTime": 9581,
+            "topicId": 9580,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "i have recently receved 3 samurai swords and would like to find out how to translate the makers marks on the blade please email me at houseblackwolf@yahoo.com",
+            "messageBody": "<div id=\"ygrps-yiv-2050109547\">i have recently receved 3 samurai swords and would like to find out<br/>\nhow to translate the makers marks on the blade please email me at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:houseblackwolf@...\">houseblackwolf@...</a>   in the subject line please put attention<br/>\nswords <br/>\n<br/>\n                                                 shawn</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9553,
+    "nextTopicId": 9582
+}

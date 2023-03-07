@@ -1,0 +1,31 @@
+{
+    "userId": 130998285,
+    "authorName": "Mark Arsenault",
+    "from": "Mark Arsenault &lt;taisho@...&gt;",
+    "profile": "goldrushg",
+    "replyTo": "LIST",
+    "senderId": "wAHlT8Hotkh0FWfB_cMudEPKU4nJ1cbZxzAh689ssl-yGMQA6XM6sgD59PwvIyP9Rvua0z3LZxl_yuAak2OUQMCArTT02mWf7FA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Excessive quoting brings bad karma",
+    "postDate": "1074335864",
+    "msgId": 3165,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDYuMC4xLjEuMi4yMDA0MDExNzAyMzQxNy4wNTNmZWE3MEBtYWlsLnNlbmdva3UuY29tPg==",
+        "inReplyToHeader": "PDEwNzQzMjUxMjcuMzA5LjY5NDE2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+        "referencesHeader": "PDEwNzQzMjUxMjcuMzA5LjY5NDE2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 3164,
+    "nextInTime": 3166,
+    "topicId": 3165,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "I would like to politely ask that anyone quoting a message in their reply please check to make sure that only a brief (and presumably relevant) portion of text",
+    "rawEmail": "Return-Path: &lt;taisho@...&gt;\r\nReceived: (qmail 79114 invoked by uid 7800); 17 Jan 2004 12:41:11 -0000\r\nX-Sender: taisho@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 17398 invoked from network); 17 Jan 2004 10:41:37 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m1.grp.scd.yahoo.com with QMQP; 17 Jan 2004 10:41:37 -0000\r\nReceived: from unknown (HELO sccrmhc13.comcast.net) (204.127.202.64)\n  by mta4.grp.scd.yahoo.com with SMTP; 17 Jan 2004 10:41:37 -0000\r\nReceived: from mark arsenault.sengoku.com (c-24-10-105-241.client.comcast.net[24.10.105.241])\n          by comcast.net (sccrmhc13) with SMTP\n          id &lt;2004011710381801600gl283e&gt;; Sat, 17 Jan 2004 10:38:18 +0000\r\nMessage-Id: &lt;6.0.1.1.2.20040117023417.053fea70@...&gt;\r\nX-Sender: taisho@...@...\r\nX-Mailer: QUALCOMM Windows Eudora Version 6.0.1.1\r\nDate: Sat, 17 Jan 2004 02:37:44 -0800\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;1074325127.309.69416.m12@yahoogroups.com&gt;\r\nReferences: &lt;1074325127.309.69416.m12@yahoogroups.com&gt;\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot;; format=flowed\r\nX-eGroups-Remote-IP: 204.127.202.64\r\nFrom: Mark Arsenault &lt;taisho@...&gt;\r\nSubject: Excessive quoting brings bad karma\r\nX-Yahoo-Group-Post: member; u=130998285\r\nX-Yahoo-Profile: goldrushg\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via email; 17 Jan 2004 12:41:11 -0000\r\n\r\n   I would like to politely ask that anyone quoting a message in their \nreply please check to make sure that only a brief (and presumably relevant) \nportion of text is actually quoted in your reply. I&#39;ve noticed some folks \nare quoting entire messages (some of which have included the entirety of \nmessages that *they* were replies to). The result is a digest that contains \npages and pages of needless text.\n\n   I find some of the messages here quite interesting and I enjoy reading \nthem...once. But after the fifth, tenth or twentieth time the newness and \ninterest wanes a bit. ;)\n\n   Thanks for your consideration.\n\n\n   Mark Arsenault\n   Sengoku List Taisho\n   ----------------------------------------------\n   http://www.sengoku.com - The official site of the Sengoku RPG! \n\n\n\n"
+}

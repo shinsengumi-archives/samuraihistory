@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "kitsuno@teleport.com",
+    "from": "kitsuno@...",
+    "replyTo": "LIST",
+    "senderId": "JKA2pW3Ba7N9haevh9hJz8-uJNdL4wHjEz-QJ8sub-sL5wlMiV57XvbHfAKCb35N6ffU-vfl5DCA7X0",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Samurai Archives status",
+    "postDate": "979937514",
+    "msgId": 51,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDk0YTlkYSs3bGZ0QGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 50,
+    "nextInTime": 52,
+    "topicId": 51,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Since the server change over we haven t been able to add any updates.  The setup is expected to be completed today, but we won t know for sure for a day or two",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@egroups.com\r\nReceived: (EGP: mail-7_0_1_2); 19 Jan 2001 20:54:37 -0000\r\nReceived: (qmail 42936 invoked from network); 19 Jan 2001 20:51:58 -0000\r\nReceived: from unknown (10.1.10.142) by l9.egroups.com with QMQP; 19 Jan 2001 20:51:58 -0000\r\nReceived: from unknown (HELO ci.egroups.com) (10.1.2.81) by mta3 with SMTP; 19 Jan 2001 21:53:02 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.104] by ci.egroups.com with NNFMP; 19 Jan 2001 20:51:57 -0000\r\nDate: Fri, 19 Jan 2001 20:51:54 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: Samurai Archives status\r\nMessage-ID: &lt;94a9da+7lft@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 303\r\nX-Mailer: eGroups Message Poster\r\nFrom: kitsuno@...\r\n\r\nSince the server change over we haven&#39;t been able to add any \nupdates.  The setup is expected to be completed today, but we won&#39;t \nknow for sure for a day or two - - after that, we should be able to \nget some updates put up.  Thanks for your patience, all.\n\nc.west\n\nhttp://www.techjapanese.com/samurai/\n\n\n"
+}

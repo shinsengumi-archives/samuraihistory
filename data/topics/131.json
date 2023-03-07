@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "NO4HoHIZnUmCxlCcdwuVjhnFGXlaw1u4wutDWjNeN74jUxB0WseVy3jiDhMa0Z8iY885kRxSR6amjJNmw6e9Pi_hw5VgTZj9xmayBKTmyrM",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai History Links",
+            "postDate": "982891932",
+            "msgId": 131,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk3NGVpcytqNDQyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 130,
+            "nextInTime": 132,
+            "topicId": 131,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If anyone knows any good Samurai history links, feel free to post them to the links section on this list s Yahoo groups homepage: ",
+            "messageBody": "<div id=\"ygrps-yiv-927669731\">If anyone knows any good Samurai history links, feel free to post <br/>\nthem to the &#39;links&#39; section on this list&#39;s Yahoo groups homepage: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/links\">http://groups.yahoo.com/group/samuraihistory/links</a><br/>\n<br/>\nCEWest</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 102,
+    "nextTopicId": 129
+}

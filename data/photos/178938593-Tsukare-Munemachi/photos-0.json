@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 178938593,
+        "photoId": 629295317,
+        "photoName": "1 tsukare munemachi -&#39;&#39;tired&#39;&#39; blade from the back (right pi",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "tsubameichi",
+        "modificationDate": 1064862551,
+        "creationDate": 1064862551,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/_nMC1SvqeNip_l2IWsM-/name/n_a",
+                "height": 96,
+                "width": 65,
+                "size": 1466,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/_nMC1SvqeNip_l2IWsM-/name/n_a",
+                "height": 400,
+                "width": 269,
+                "size": 9024,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/_nMC1SvqeNip_l2IWsM-/name/n_a",
+                "height": 400,
+                "width": 269,
+                "size": 9024,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 178938593,
+        "photoId": 2100083174,
+        "photoName": "2 view from the mune-machi",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "tsubameichi",
+        "modificationDate": 1064862554,
+        "creationDate": 1064862554,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/A2KwJGrue9Hvr4U9EkEQ/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1193,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/A2KwJGrue9Hvr4U9EkEQ/name/n_a",
+                "height": 480,
+                "width": 360,
+                "size": 18935,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/A2KwJGrue9Hvr4U9EkEQ/name/n_a",
+                "height": 800,
+                "width": 600,
+                "size": 38397,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 178938593,
+        "photoId": 427671250,
+        "photoName": "3 view from the ha-machi",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "tsubameichi",
+        "modificationDate": 1064862560,
+        "creationDate": 1064862560,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/1yaI7VLoeNZNi3zpNoA-/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1243,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/1yaI7VLoeNZNi3zpNoA-/name/n_a",
+                "height": 480,
+                "width": 360,
+                "size": 15133,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/1yaI7VLoeNZNi3zpNoA-/name/n_a",
+                "height": 800,
+                "width": 600,
+                "size": 29463,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

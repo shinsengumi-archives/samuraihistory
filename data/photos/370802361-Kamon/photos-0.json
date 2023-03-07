@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 370802361,
+        "photoId": 142304962,
+        "photoName": "Mon",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "tsubame1b",
+        "modificationDate": 1114709513,
+        "creationDate": 1114709513,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/OMME94PtftPdtwrsLBM-/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1707,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/OMME94PtftPdtwrsLBM-/name/n_a",
+                "height": 400,
+                "width": 300,
+                "size": 14160,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/OMME94PtftPdtwrsLBM-/name/n_a",
+                "height": 400,
+                "width": 300,
+                "size": 14160,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

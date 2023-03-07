@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Stephen Turnbull",
+            "postDate": "1093196231",
+            "msgId": 5370,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEwNC40ZWFjM2I0ZC4yZTVhMzNjN0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5369,
+            "nextInTime": 5371,
+            "topicId": 5370,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey. I saw a copy of Samurai Warriors (at least I m almost 100% positive it was that title) at Barnes and Noble last week when I was there, so they may be able",
+            "messageBody": "<div id=\"ygrps-yiv-1484775258\">Hey.<br/>\n       I saw a copy of Samurai Warriors (at least I&#39;m almost 100% positive it <br/>\nwas that title) at Barnes and Noble last week when I was there, so they may <br/>\nbe able to get it for you.  :-)  Hope this helps.  :-)<br/>\n<br/>\nL8r<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5348,
+    "nextTopicId": 5368
+}

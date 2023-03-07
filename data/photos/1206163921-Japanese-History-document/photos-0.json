@@ -1,0 +1,44 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 1206163921,
+        "photoId": 121590633,
+        "photoName": "My textbook",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "saikyoumusasi",
+        "modificationDate": 1141132126,
+        "creationDate": 1141132126,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "My textbook",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/2OIU.frteNDrP8VVRwI-/name/n_a",
+                "height": 96,
+                "width": 87,
+                "size": 2163,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/2OIU.frteNDrP8VVRwI-/name/n_a",
+                "height": 266,
+                "width": 240,
+                "size": 8931,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/2OIU.frteNDrP8VVRwI-/name/n_a",
+                "height": 266,
+                "width": 240,
+                "size": 8931,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

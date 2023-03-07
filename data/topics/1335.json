@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 124373528,
+            "authorName": "i82snowballs &lt;mcauliffepat@hotmail.com&gt;",
+            "from": "&quot;i82snowballs &lt;mcauliffepat@...&gt;&quot; &lt;mcauliffepat@...&gt;",
+            "profile": "i82snowballs",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tokugawa clan",
+            "postDate": "1041091559",
+            "msgId": 1335,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGF1a2k1NytvOXVpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1334,
+            "nextInTime": 1336,
+            "topicId": 1335,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am trying to find information about a samuri, Matsudaira Nagakazu, from Omni province. He was a samuri in Edo period during reign of shogun Tokugawa leharu.",
+            "messageBody": "<div id=\"ygrps-yiv-604537053\">I am trying to find information about a samuri, Matsudaira Nagakazu, <br/>\nfrom Omni province. He was a samuri in Edo period during reign of <br/>\nshogun Tokugawa leharu. Are ther any sites or books about Matsudaira <br/>\nNagakazu that I can find in depth information (in English) about him? <br/>\nAny help would be greatly appreciated.<br/>\n<br/>\nThanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1234,
+    "nextTopicId": 1336
+}

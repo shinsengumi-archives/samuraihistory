@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 222188218,
+            "authorName": "eduardo_o_m",
+            "from": "&quot;eduardo_o_m&quot; &lt;eduardo_o_m@...&gt;",
+            "profile": "eduardo_o_m",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Need Some Info on a Specific Samurai.",
+            "postDate": "1114221927",
+            "msgId": 6969,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0Y2FoNytkbnJoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6968,
+            "nextInTime": 6970,
+            "topicId": 6969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I need urgente info about Toshiro Fujimoto - was it a samurai? - and i also noticed that some Fujimoto 1 is mentiones in the Takeda Fall article. But it",
+            "messageBody": "<div id=\"ygrps-yiv-671945566\">I need urgente info about Toshiro Fujimoto - was it a samurai? - and i <br/>\nalso noticed that some Fujimoto 1 is mentiones in the Takeda Fall <br/>\narticle.<br/>\n<br/>\nBut it doesn&#39;t say more about his name or origins.<br/>\n<br/>\nWhat can i do?<br/>\n<br/>\n<br/>\nEduardo.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6963,
+    "nextTopicId": 6984
+}

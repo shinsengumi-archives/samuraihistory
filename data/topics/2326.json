@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 89272809,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1066237500",
+            "msgId": 2326,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmIwMWMzOTMzZSQ3YWI1ZGMyMCRhMDQwNDgwNEBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2325,
+            "nextInTime": 2327,
+            "topicId": 2326,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think the men of japan in ww2 would qualify as samurai in that they were brave loyal etc as far as suicide the nambu worked ok not only in a palace though",
+            "messageBody": "<div id=\"ygrps-yiv-560776843\">I think the men of japan in ww2 would qualify as samurai in that they were brave loyal etc as far as suicide the nambu worked ok not only in a palace though perhaps a mans pulse like hagukare said??? or just the change in technology?<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2320,
+    "nextTopicId": 2310
+}

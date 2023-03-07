@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Samurai Novels",
+            "postDate": "1075790717",
+            "msgId": 3563,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwMUY0MzdELjkwMDA0MDFAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDEwNzU3NjYwMDUuMzAyMS44MDAubTE4QHlhaG9vZ3JvdXBzLmNvbT4=",
+                "referencesHeader": "PDEwNzU3NjYwMDUuMzAyMS44MDAubTE4QHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3562,
+            "nextInTime": 3564,
+            "topicId": 3563,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For a happy read, there s always Endo Shusaku s Samurai and Silence .",
+            "messageBody": "<div id=\"ygrps-yiv-306626\">For a happy read, there&#39;s always Endo Shusaku&#39;s &quot;Samurai&quot; and &quot;Silence&quot;.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3453,
+    "nextTopicId": 3570
+}

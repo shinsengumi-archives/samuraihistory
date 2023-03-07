@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 29119678,
+            "authorName": "ICPninja67@aol.com",
+            "from": "ICPninja67@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "sick website",
+            "postDate": "1022882609",
+            "msgId": 895,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjLmM1NjFhNTUuMmEyOTRkMzFAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 894,
+            "nextInTime": 896,
+            "topicId": 895,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Killer Katanas go here, its got a lot of good links and stuff [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1739901080\">&lt;A HREF=&quot;<a rel=\"nofollow\" target=\"_blank\" href=\"http://members.aol.com/kllrkatnas/&quot;\">http://members.aol.com/kllrkatnas/&quot;</a>&gt;Killer Katanas&lt;/A&gt; <br/>\ngo here, its got a lot of good links and stuff<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 894,
+    "nextTopicId": 901
+}

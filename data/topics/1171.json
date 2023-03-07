@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 35545106,
+            "authorName": "Robert",
+            "from": "&quot;Robert&quot; &lt;robertsanfilippo@...&gt;",
+            "profile": "robertsanfilippo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Questions + ANOTHER ANSWER",
+            "postDate": "1035066719",
+            "msgId": 1173,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFvc21ndit1MmNzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMTIwMWMyNzdiZCRhZDZiMjY0MCRmMGM1ZmVhOUBzaWdudXA+"
+            },
+            "prevInTopic": 1171,
+            "nextInTopic": 0,
+            "prevInTime": 1172,
+            "nextInTime": 1174,
+            "topicId": 1171,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Kwaidan is one of my favorite all time Jpanese movies, or any movie for that matter, and the Hoichi episode is the best of the movie. This is all taken from",
+            "messageBody": "<div id=\"ygrps-yiv-456887668\">Kwaidan is one of my favorite all time Jpanese movies, or any movie <br/>\nfor that matter, and the Hoichi episode is the best of the movie.  <br/>\nThis is all taken from Hearn&#39;s work but is from the Heike originally, <br/>\nand if you can get through the somewhat archaic writing, it is well <br/>\nworth the read.<br/>\nRobert<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In samuraihistory@y..., &quot;Barry Thomas&quot; &lt;warlord@h...&gt; wrote:<br/>\n&gt; A version of this incident can be seen in Kobayashi&#39;s KWAIDAN, a <br/>\ntrilogy of<br/>\n&gt; ghost stories by Lafcadio Hearn.  I haven&#39;t seen it for a little <br/>\nwhile now but I<br/>\n&gt; think the story concerned is &quot;HÔICHI The Earless One&quot;.  It&#39;s a good <br/>\nwatch.  For<br/>\n&gt; another video of this time see &quot;The Gate of Hell&quot; by ??  I think <br/>\nthis features<br/>\n&gt; the Hogen Incident.  I always enjoy it.<br/>\n&gt; <br/>\n&gt; Regards,<br/>\n&gt; <br/>\n&gt; Barry Thomas<br/>\n&gt; (Melbourne, Australia)<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 48448737,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Questions + ANOTHER ANSWER",
+            "postDate": "1035035941",
+            "msgId": 1171,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWMyNzdiZCRhZDZiMjY0MCRmMGM1ZmVhOUBzaWdudXA+",
+                "referencesHeader": "PDIwMDIxMDAxMDUyODIwLjUwNDk4LnFtYWlsQHdlYjExMTAyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1173,
+            "prevInTime": 1170,
+            "nextInTime": 1172,
+            "topicId": 1171,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A version of this incident can be seen in Kobayashi s KWAIDAN, a trilogy of ghost stories by Lafcadio Hearn.  I haven t seen it for a little while now but I ",
+            "messageBody": "<div id=\"ygrps-yiv-1627246423\">A version of this incident can be seen in Kobayashi&#39;s KWAIDAN, a trilogy of<br/>\nghost stories by Lafcadio Hearn.  I haven&#39;t seen it for a little while now but I<br/>\nthink the story concerned is &quot;HÔICHI The Earless One&quot;.  It&#39;s a good watch.  For<br/>\nanother video of this time see &quot;The Gate of Hell&quot; by ??  I think this features<br/>\nthe Hogen Incident.  I always enjoy it.<br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas<br/>\n(Melbourne, Australia)<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: Michael Lorimer &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:mijalo_kr@...\">mijalo_kr@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Tuesday, October 01, 2002 3:28 PM<br/>\nSubject: Re: [samuraihistory] Questions<br/>\n<br/>\n<br/>\nAnswer to Question.2.<br/>\nThe War of 1180-85 ended with the annihilation of the<br/>\nTaira and their infant Emperor, the infant Antoku . As<br/>\na result Minamoto no Yoritomo became the predominant<br/>\nwarlord, removing the potential threat of his brother<br/>\nYoshitsune and establishing himself, ably handling<br/>\nrelations between himself, the religious sects, and<br/>\nthe imperial Court . As a result, he established the<br/>\nKamakura bakufu (shogunate) in 1192 .<br/>\nHope this helps<br/>\nMichael Lorimer </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1167,
+    "nextTopicId": 1180
+}

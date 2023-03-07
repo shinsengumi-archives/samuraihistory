@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 534835410,
+            "authorName": "Ray",
+            "from": "&quot;Ray&quot; &lt;ajax_minoan@...&gt;",
+            "profile": "ajax_minoan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "The Other Nanjing Massacre.",
+            "postDate": "1344981085",
+            "msgId": 10436,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGswZWg4dCtyZWNqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10435,
+            "nextInTime": 10437,
+            "topicId": 10436,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I wrote an article for Yahoo that has to do with Japanese and Chinese history. It focuses on Chinese films and propaganda. The moral of the article is I",
+            "messageBody": "<div id=\"ygrps-yiv-40972230\">I wrote an article for Yahoo that has to do with Japanese and Chinese history. It focuses on Chinese films and propaganda. The moral of the article is I suppose, that it&#39;s time to give the Japanese a break concerning what happened in 1937 in Nanjing. No nation has a perfect history.<br/>\n I hope you don&#39;t find it too opinionated.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://voices.yahoo.com/the-other-nanjing-massacre-11620268.html\">http://voices.yahoo.com/the-other-nanjing-massacre-11620268.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3916,
+    "nextTopicId": 10438
+}

@@ -1,0 +1,181 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 900315,
+    "listId": 2247946,
+    "dateCreated": 1018671010,
+    "userIdCreated": 68548757,
+    "dateEnd": 1034492340,
+    "sendToId": "GROUP",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Everyone knows Nobunaga was a pioneer in \nthe unification of Japan - but what were \n his motives?  I&#39;ve created a little \npoll to get everyone&#39;s opinions - What \nwas Nobunaga&#39;s motivation for the \nunification battles of Japan?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 6938777,
+            "selectionText": "Pure self interest from the start.",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938778,
+            "selectionText": "An honest to goodness feeling of loyalty and duty to his country.",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 6938778,
+                    "surveyId": 900315,
+                    "userId": 108409676,
+                    "email": "emmitt1219@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 6938779,
+            "selectionText": "Self interest at first, which grew into a sense of duty.",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 6938779,
+                    "surveyId": 900315,
+                    "userId": 100984285,
+                    "guid": "VX5UTUPA5L73YGZLSI7UKQ3ZAQ",
+                    "nickname": "tokugawa_iyeyasu_sama",
+                    "email": "tokugawa_iyeyasu_sama@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 6938780,
+            "selectionText": "Started with a sense of duty to Japan, but grew into a selfish drive for power.",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 6938780,
+                    "surveyId": 900315,
+                    "userId": 119500921,
+                    "guid": "OXHRV7MRRPYMRZN4G4TQQGKCOM",
+                    "nickname": "squrpio_prince",
+                    "email": "squrpio_prince@yahoo.com"
+                },
+                {
+                    "selectionId": 6938780,
+                    "surveyId": 900315,
+                    "userId": 55234638,
+                    "guid": "JUSAMMDD4U74LVPPOUBXIZLLKY",
+                    "nickname": "shogun2k2002",
+                    "email": "irishman_2k@hotmail.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 6938781,
+            "selectionText": "Just happened to be good at winning and politics, and sort of &#39;fell into it&#39;.",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 6938781,
+                    "surveyId": 900315,
+                    "userId": 84515435,
+                    "guid": "T7BWFUV5BTKDBYCZYFOC7PCHUA",
+                    "nickname": "Marcel_t",
+                    "email": "marcel_t@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 6938782,
+            "selectionText": "Pushed by his generals and vassals to achieve.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938783,
+            "selectionText": "Reveled in death and destruction - unification would only be a side effect of his bloodlust.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938784,
+            "selectionText": "Was part of a grand conspiracy among daimyo and the emperor as the &#39;chosen one&#39; to lead Japan.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938785,
+            "selectionText": "He enjoyed the thrill of battle and the thrill of political intrigue.",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938786,
+            "selectionText": "Wanted nothing more than power over others.",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 6938786,
+                    "surveyId": 900315,
+                    "userId": 101553917,
+                    "nickname": "sinseism",
+                    "email": "sinseism@yahoo.com"
+                },
+                {
+                    "selectionId": 6938786,
+                    "surveyId": 900315,
+                    "userId": 109514382,
+                    "guid": "M6MB7CMAGKCG74X7V7RGSWY74Y",
+                    "nickname": "hitokiridan",
+                    "email": "hitokiridan@yahoo.com.br"
+                },
+                {
+                    "selectionId": 6938786,
+                    "surveyId": 900315,
+                    "userId": 70727069,
+                    "guid": "WXRZJ54U46YTJT5HP2ZN5U3H6M",
+                    "nickname": "mijalo_kr",
+                    "email": "mijalo_kr@yahoo.co.uk"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 6938787,
+            "selectionText": "Fought out of loyalty to the emperor, to whom he intended to return power.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 6938788,
+            "selectionText": "Fought to unify Japan against the Europeans, whom he saw as a threat to the fractured country.",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 6938788,
+                    "surveyId": 900315,
+                    "userId": 109033547,
+                    "nickname": "andjoysmith",
+                    "email": "andjoysmith@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 16,
+    "previousSurveyId": 909296,
+    "nextSurveyId": 485284
+}

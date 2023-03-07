@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 170374295,
+            "authorName": "W. Field",
+            "from": "&quot;W. Field&quot; &lt;wfield18@...&gt;",
+            "profile": "wfield18",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "intro",
+            "postDate": "1072738228",
+            "msgId": 2986,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjI5MjI1MDI4Ljg1MTM2LnFtYWlsQHdlYjYwNzA4Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2985,
+            "nextInTime": 2987,
+            "topicId": 2986,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all. Been doing genealogy research for a while and found samurai ancestors in my tree. Figure history and my ancestors go hand in hand. Im more curious",
+            "messageBody": "<div id=\"ygrps-yiv-661716338\">Hi all. Been doing genealogy research for a while and<br/>\nfound samurai ancestors in my tree. Figure history and<br/>\nmy ancestors go hand in hand. Im more curious about<br/>\nthis site than anything...thanks<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nProtect your identity with Yahoo! Mail AddressGuard<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://antispam.yahoo.com/whatsnewfree\">http://antispam.yahoo.com/whatsnewfree</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2983,
+    "nextTopicId": 2993
+}

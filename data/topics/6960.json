@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 219301262,
+            "authorName": "ninja_20049",
+            "from": "&quot;ninja_20049&quot; &lt;ninja_20049@...&gt;",
+            "profile": "ninja_20049",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "I NEED HELP WITH MY PROJECT",
+            "postDate": "1114030308",
+            "msgId": 6960,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0NmZkNCtvZW00QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6959,
+            "nextInTime": 6961,
+            "topicId": 6960,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hey all its Patrick here and i need help. i need some ways on how Adachi Yassumori made a possitive difference in the world. so if you have any ideas or info",
+            "messageBody": "<div id=\"ygrps-yiv-1593746424\">hey all its Patrick here and i need help. i need some ways on how<br/>\nAdachi Yassumori made a possitive difference in the world. so if you<br/>\nhave any ideas or info please tell me!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6959,
+    "nextTopicId": 6961
+}

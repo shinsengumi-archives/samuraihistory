@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 102344422,
+            "authorName": "Randy Schadel",
+            "from": "&quot;Randy Schadel&quot; &lt;ayamechiba@...&gt;",
+            "profile": "kurotatsunoshi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Takenaka Hanbei &quot;Illness&quot;",
+            "postDate": "1249296868",
+            "msgId": 9955,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg1NmZsNCs1YTkzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGg1NDl0cys0MGZ2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9954,
+            "nextInTopic": 0,
+            "prevInTime": 9954,
+            "nextInTime": 9956,
+            "topicId": 9954,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Tuberculosis is indeed the general consensus among historians.",
+            "messageBody": "<div id=\"ygrps-yiv-1859730932\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;starshine91&quot; &lt;starshine91@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I am reading Taiko, and in it many references are made to Takenaka Hanbei suffering from an &quot;illness.&quot;  Does anyone know what this illness was?  The symptoms are consistent with TB, but I can&#39;t find anything that says for certain.<br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>Tuberculosis is indeed the general consensus among historians.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 12495948,
+            "authorName": "starshine91",
+            "from": "&quot;starshine91&quot; &lt;starshine91@...&gt;",
+            "profile": "starshine91",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Takenaka Hanbei &quot;Illness&quot;",
+            "postDate": "1249225468",
+            "msgId": 9954,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg1NDl0cys0MGZ2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9955,
+            "prevInTime": 9953,
+            "nextInTime": 9955,
+            "topicId": 9954,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am reading Taiko, and in it many references are made to Takenaka Hanbei suffering from an illness.  Does anyone know what this illness was?  The symptoms",
+            "messageBody": "<div id=\"ygrps-yiv-1335975575\">I am reading Taiko, and in it many references are made to Takenaka Hanbei suffering from an &quot;illness.&quot;  Does anyone know what this illness was?  The symptoms are consistent with TB, but I can&#39;t find anything that says for certain.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9953,
+    "nextTopicId": 9957
+}

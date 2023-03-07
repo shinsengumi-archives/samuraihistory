@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1554204,
+            "authorName": "Correus",
+            "from": "&quot;Correus&quot; &lt;correus@...&gt;",
+            "profile": "correus",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Art in Armor",
+            "postDate": "1265471633",
+            "msgId": 10098,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhrazNhaCs2bzF0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10097,
+            "nextInTime": 10099,
+            "topicId": 10098,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone! For those of you interested there is a stunning article in the March issue of Military History magazine called Art in Armor . Absolutely",
+            "messageBody": "<div id=\"ygrps-yiv-129290161\">Hello everyone!<br/>\n<br/>\nFor those of you interested there is a stunning article in the March issue of Military History magazine called &#39;Art in Armor&#39;.<br/>\n<br/>\nAbsolutely beautiful article dealing with samurai armor.  In fact, it is more of a pictorial than an article.<br/>\n<br/>\nAnyway, just thought I&#39;d let you all know.<br/>\n<br/>\nCheers!<br/>\nLarry</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10090,
+    "nextTopicId": 10101
+}

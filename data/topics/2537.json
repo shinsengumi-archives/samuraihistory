@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 75896686,
+            "authorName": "Tim",
+            "from": "&quot;Tim&quot; &lt;cerebus_i_i@...&gt;",
+            "profile": "cerebus_i_i",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Where can one purchase a period accurate pair of *costume* swords?",
+            "postDate": "1069211109",
+            "msgId": 2537,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJwZW1sNStqYmVwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2536,
+            "nextInTime": 2538,
+            "topicId": 2537,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m working on a Momoyama period samurai street dress, and while I have the skills to sew most of what I need, I m not exactly equipped to make swords. I don t",
+            "messageBody": "<div id=\"ygrps-yiv-274000384\">I&#39;m working on a Momoyama period samurai street dress, and while I have the skills to <br/>\nsew most of what I need, I&#39;m not exactly equipped to make swords.<br/>\n<br/>\nI don&#39;t need a sword for iado; nor do I need it for combat reenactment; nor do I need <br/>\na museum quality piece.  A duraluminum blade would be just fine; it&#39;s for a costume, <br/>\nafter all.  I&#39;m more concerned with the proper shape and reasonably accurate <br/>\nfurniture.<br/>\n<br/>\nUnfortunately, most of what I see for sale is crap, and the stuff that isn&#39;t crap I can&#39;t <br/>\nafford (I could probably swing up to $150 per blade, but $500 per blade is out of my <br/>\nleague).  <br/>\n<br/>\nAs an aside, the things people have the gall to label &quot;samurai sword&quot; astounds me.  <br/>\nSome of &#39;em look like freaking steak knives.  :-/<br/>\n<br/>\nThanks in advance.<br/>\n<br/>\n-- Cerebus</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2530,
+    "nextTopicId": 2470
+}

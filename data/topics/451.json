@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 89983221,
+            "authorName": "Sheldon",
+            "from": "&quot;Sheldon&quot; &lt;mwelaing@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "images",
+            "postDate": "1008594156",
+            "msgId": 451,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxODZmYiQxYWUwMzhhMCQwY2M5MDdjNEBtd2VsYWluZz4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 450,
+            "nextInTime": 452,
+            "topicId": 451,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I am looking for pictures that I can get off the internet of samurai. I have already visited the samurai gallery but I am looking for pictures of samurai",
+            "messageBody": "<div id=\"ygrps-yiv-1599864054\">Hi, I am looking for pictures that I can get off the internet of<br/>\nsamurai. I have already visited the samurai gallery but I am looking for<br/>\npictures of samurai by themselves. No horses, just samurai and their<br/>\nweapons. I would appreciate any help.<br/>\nThanks again<br/>\nSheldon<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 448,
+    "nextTopicId": 454
+}

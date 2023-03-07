@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 36450143,
+            "authorName": "Cearb@aol.com",
+            "from": "Cearb@...",
+            "profile": "omajinchan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Re: Images of Japan -- Note",
+            "postDate": "1265573506",
+            "msgId": 10101,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEzODUuMmYzN2FhNzYuMzhhMDc4ODJAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10100,
+            "nextInTime": 10102,
+            "topicId": 10101,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For whatever reason, the first link doesn t work, but the paranthetical one does. --R [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1394454553\">For whatever reason, the first link doesn&#39;t work, but the paranthetical one <br/>\n does.<br/>\n <br/>\n--R<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10098,
+    "nextTopicId": 10094
+}

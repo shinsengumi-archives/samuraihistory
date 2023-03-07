@@ -1,0 +1,69 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "pimpswizzle6",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1399939,
+    "listId": 2247946,
+    "dateCreated": 1095160280,
+    "userIdCreated": 198505976,
+    "dateEnd": 1096433940,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "WHEN_CLOSED",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Who&#39;s was the best swordsmen in japan?",
+    "flagBits": 0,
+    "multiResponse": true,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 10566717,
+            "selectionText": "Miyamoto Musashi",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 10566717,
+                    "surveyId": 1399939,
+                    "userId": 190836730,
+                    "guid": "I4L7PHA6EBFMZGPDRATNHGI7O4",
+                    "nickname": "shay_alspach",
+                    "email": "shay_alspach@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 10566718,
+            "selectionText": "Sasaki Kojiro",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 10566718,
+                    "surveyId": 1399939,
+                    "userId": 198505976,
+                    "nickname": "pimpswizzle6",
+                    "email": "pimpswizzle6@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 10566719,
+            "selectionText": "Yagyu Jubei",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 10566720,
+            "selectionText": "Gensai kamikawa",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 10,
+    "previousSurveyId": 1399951,
+    "nextSurveyId": 1217963
+}

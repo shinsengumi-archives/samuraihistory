@@ -1,0 +1,47 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1536945,
+    "listId": 2247946,
+    "dateCreated": 1102367597,
+    "userIdCreated": 207642214,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "We all know Samurai are the greatest. \nBut in a battle to end all, do you \nthink you could stand against a village \nof shinobi, as a Samurai general and \nwin. This question is kind of like &quot;The \nLast Samurai&quot; in the final battle. \n\nNumber of shinobi: 2000\nNumber of samurai: 500",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 11492564,
+            "selectionText": "Yes",
+            "selections": 1,
+            "voted": false
+        },
+        {
+            "selectionId": 11492565,
+            "selectionText": "No",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 11492566,
+            "selectionText": "Yes, it would be close",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 11492567,
+            "selectionText": "No, I would be slaughtered",
+            "selections": 0,
+            "voted": false
+        }
+    ],
+    "voteCount": 1,
+    "previousSurveyId": 1692052,
+    "nextSurveyId": 1399951
+}

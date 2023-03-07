@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 95113234,
+            "authorName": "nikko",
+            "from": "&quot;nikko&quot; &lt;nodiseos@...&gt;",
+            "profile": "nodiseos",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "47 Ronin Historically Accurate Graphic Novel",
+            "postDate": "1380726178",
+            "msgId": 10465,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGwyaGNqMis4cWFiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10464,
+            "nextInTime": 10466,
+            "topicId": 10465,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is the first historically accurate graphic-novel version of the 47 Ronin. http://bit.ly/16zI8kx Available direct from Shambhala Publications now, and",
+            "messageBody": "<div id=\"ygrps-yiv-1542108782\">Here is the first historically accurate graphic-novel version of the 47 Ronin. <a rel=\"nofollow\" target=\"_blank\" href=\"http://bit.ly/16zI8kx\">http://bit.ly/16zI8kx</a><br/>\n<br/>\n<br/>\nAvailable direct from Shambhala Publications now, and Amazon and bookstores November 5th.<br/>\n<br/>\n<br/>\nThis is our 4th samurai graphic novel and one of many of our Samurai books (<a rel=\"nofollow\" target=\"_blank\" href=\"http://bit.ly/1fIYnky)\">http://bit.ly/1fIYnky)</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10437,
+    "nextTopicId": 10466
+}

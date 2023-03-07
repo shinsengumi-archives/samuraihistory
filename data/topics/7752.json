@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 204571571,
+            "authorName": "ahelly69",
+            "from": "&quot;ahelly69&quot; &lt;ahelly69@...&gt;",
+            "profile": "ahelly69",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Miyamoto Musashi other book.",
+            "postDate": "1128471703",
+            "msgId": 7752,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRodjZhbithbGt2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7751,
+            "nextInTime": 7753,
+            "topicId": 7752,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all, Miyamoto Musashi wrote another book called 35 tactical lessons that he gave to his pupil TERAO Nobuyuki. His main book Go Rin No Sho was sent to",
+            "messageBody": "<div id=\"ygrps-yiv-419358615\">Hello all,<br/>\n<br/>\nMiyamoto Musashi wrote another book called &quot;35 tactical lessons&quot; that <br/>\nhe gave to his pupil TERAO Nobuyuki.<br/>\n<br/>\nHis main book &quot;Go Rin No Sho&quot; was sent to TERAO Katsunobu.<br/>\n<br/>\nSomeone knows if his book about Tactical lessons is available <br/>\nsomewhere?<br/>\n<br/>\nInternet or libraries?<br/>\n<br/>\nThanks in advance,<br/>\n<br/>\n<br/>\nHelly</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7697,
+    "nextTopicId": 7767
+}

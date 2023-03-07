@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] english translation",
+            "postDate": "1069741901",
+            "msgId": 2569,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA4MUJCRjAwLTFGMTEtMTFEOC1BRTVBLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGJwcHEwdCtrcmVrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2554,
+            "nextInTopic": 0,
+            "prevInTime": 2568,
+            "nextInTime": 2570,
+            "topicId": 2554,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Syun- If you are asking what is the translation of these terms then the answer is; Buke-zukuri  would be something like Bushi made made for Bushi or made",
+            "messageBody": "<div id=\"ygrps-yiv-1011193729\">Syun-<br/>\n\tIf you are asking what is the translation of these terms then the <br/>\nanswer is;<br/>\nBuke-zukuri  would be something like &quot;Bushi made&quot; &quot;made for Bushi&quot; or <br/>\n\t&quot;made in the Bushi style&quot; the latter being closest in meaning. I <br/>\n\twould offer that in the study of Japanese arms it is much better to <br/>\n\tadopt the Japanese terminology.  As for Tachi koshirae, &quot;scabbard \tand <br/>\nfittings for a tachi&quot;,&quot;outfit for the sword worn edge down&quot;, I \tthink <br/>\nfrom these examples my point is made...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 63638249,
+            "authorName": "Syun Ukiya",
+            "from": "&quot;Syun Ukiya&quot; &lt;squartzph@...&gt;",
+            "profile": "squartzph",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "english translation",
+            "postDate": "1069575005",
+            "msgId": 2554,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJwcHEwdCtrcmVrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2569,
+            "prevInTime": 2553,
+            "nextInTime": 2555,
+            "topicId": 2554,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "BUKE-ZUKURI KOSHIRAE and TACHI KOSHIRAE translated in english?",
+            "messageBody": "<div id=\"ygrps-yiv-1942748112\">BUKE-ZUKURI KOSHIRAE and TACHI KOSHIRAE translated in english?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2522,
+    "nextTopicId": 2570
+}

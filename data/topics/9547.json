@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 257405796,
+            "authorName": "sekinakagawa@aol.com",
+            "from": "sekinakagawa@...",
+            "profile": "seki_nakagawa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai Eboshi",
+            "postDate": "1177890180",
+            "msgId": 9549,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQzYS44MDAyNWZkLjMzNjY4Nzg0QGFvbC5jb20+"
+            },
+            "prevInTopic": 9547,
+            "nextInTopic": 0,
+            "prevInTime": 9548,
+            "nextInTime": 9550,
+            "topicId": 9547,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings and well met! There are patters for just about anything at Sengoku Daimyo and the SCA-JML (SCA Japanese mailing list) which is also at Yahoo groups. ",
+            "messageBody": "<div id=\"ygrps-yiv-1223564440\">Greetings and well met!<br/>\n  There are patters for just about anything at Sengoku Daimyo and the  <br/>\nSCA-JML (SCA Japanese mailing list) which is also at Yahoo groups.<br/>\n <br/>\nHumbly,<br/>\nNakagawa Sukeie<br/>\n <br/>\n <br/>\nTo ask a question may be a moments shame,<br/>\nBut not  to ask and remain ignorant is a life long  shame.<br/>\n<br/>\n<br/>\n<br/>\n************************************** See what&#39;s free at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.aol.com\">http://www.aol.com</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 192915435,
+            "authorName": "Marco",
+            "from": "&quot;Marco&quot; &lt;smalscout@...&gt;",
+            "profile": "smalscout",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Eboshi",
+            "postDate": "1177832948",
+            "msgId": 9547,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYxMWlsaytlYmRuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9549,
+            "prevInTime": 9546,
+            "nextInTime": 9548,
+            "topicId": 9547,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi I will make me a Eboshi, have everyone a Pattern? Or can give me the measure for this? Thanks Marco",
+            "messageBody": "<div id=\"ygrps-yiv-827228614\">Hi <br/>\nI will make me a Eboshi, have everyone a Pattern?<br/>\nOr can give me the measure for this?<br/>\n<br/>\nThanks Marco</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9540,
+    "nextTopicId": 9550
+}

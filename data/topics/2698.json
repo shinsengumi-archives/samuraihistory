@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai in National Geographic",
+            "postDate": "1070833515",
+            "msgId": 2698,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJyMDcxYit1ZzJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2697,
+            "nextInTime": 2699,
+            "topicId": 2698,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://magma.nationalgeographic.com/ngm/0312/feature5/index.html",
+            "messageBody": "<div id=\"ygrps-yiv-1490919133\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://magma.nationalgeographic.com/ngm/0312/feature5/index.html\">http://magma.nationalgeographic.com/ngm/0312/feature5/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2687,
+    "nextTopicId": 2700
+}

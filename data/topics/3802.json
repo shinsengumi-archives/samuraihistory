@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "scott_rekishika",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai history Game",
+            "postDate": "1076685532",
+            "msgId": 3802,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMwaXBzcys0bmw1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3801,
+            "nextInTime": 3803,
+            "topicId": 3802,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.romnation.net/  that is a direct copy/paste from the address bar.  Maybe I made a mistake just typing it.  Hopefully it will work for you this time.",
+            "messageBody": "<div id=\"ygrps-yiv-2037065702\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.romnation.net/\">http://www.romnation.net/</a>  that is a direct copy/paste from the <br/>\naddress bar.  Maybe I made a mistake just typing it.  Hopefully it <br/>\nwill work for you this time.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3801,
+    "nextTopicId": 3803
+}

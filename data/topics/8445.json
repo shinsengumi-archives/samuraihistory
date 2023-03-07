@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 27940151,
+            "authorName": "Barbara Nostrand",
+            "from": "Barbara Nostrand &lt;nostrand@...&gt;",
+            "profile": "drnostrand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] squid",
+            "postDate": "1143397827",
+            "msgId": 8588,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk2MmM4NzdmZTUzYjY5NmIzM2I0YTc3OGQxNWZjY2RhQGFjbS5vcmc+",
+                "inReplyToHeader": "PDAxRDQ5MTdFLUNDNzMtNDRCMC05M0RGLUM0QjU4NTYyOTU2RUBnbWFpbC5jb20+",
+                "referencesHeader": "PDAxRDQ5MTdFLUNDNzMtNDRCMC05M0RGLUM0QjU4NTYyOTU2RUBnbWFpbC5jb20+"
+            },
+            "prevInTopic": 8445,
+            "nextInTopic": 0,
+            "prevInTime": 8587,
+            "nextInTime": 8589,
+            "topicId": 8445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. ... You are most likely to see this when Japanese is written horizontally. When written vertically, other typographical conventions such as putting dots",
+            "messageBody": "<div id=\"ygrps-yiv-710632958\">Hi.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;  languages other than japanese (as previously stated), it is sometimes <br/>\n&gt;  used to emphasis a word (like italic writting in english), and is <br/>\n&gt;  considered quite trendy.<br/>\n<br/>\n </span></blockquote>You are most likely to see this when Japanese is written horizontally. <br/>\nWhen written vertically, other typographical conventions such as <br/>\nputting dots next to the word or putting a line next to the word are <br/>\navailable.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 256033502,
+            "authorName": "Peter Bailey",
+            "from": "Peter Bailey &lt;foxfoil@...&gt;",
+            "profile": "foxfoil",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "squid",
+            "postDate": "1140658709",
+            "msgId": 8445,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxRDQ5MTdFLUNDNzMtNDRCMC05M0RGLUM0QjU4NTYyOTU2RUBnbWFpbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8588,
+            "prevInTime": 8444,
+            "nextInTime": 8446,
+            "topicId": 8445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yeah ika would probably be written in hiragana when in doubt. However, although katana is reserved for words originating from languages other than japanese (as",
+            "messageBody": "<div id=\"ygrps-yiv-193450400\">Yeah ika would probably be written in hiragana when in doubt.<br/>\nHowever, although katana is reserved for words originating from  <br/>\nlanguages other than japanese (as previously stated), it is sometimes  <br/>\nused to emphasis a word (like italic writting in english), and is  <br/>\nconsidered quite trendy.<br/>\nmy dictionary  gives me both, along with the kanji. hiragana/katana  <br/>\nis also used when the kanji is not considered common, or is rarely used.<br/>\nfinally, ika has several meanings in japanese, and I think the katana  <br/>\nwritting for ika is considered to mean squid (since the other &quot;ika&quot;  <br/>\nare always written in kanji (or hiragana if you can&#39;t remember).<br/>\n<br/>\nanother example of this is ebi (shrimp) which is written in Katakana  <br/>\nin restaurants.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7829,
+    "nextTopicId": 8559
+}

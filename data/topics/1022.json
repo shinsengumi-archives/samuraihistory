@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 101553917,
+            "authorName": "sinseism",
+            "from": "&quot;sinseism&quot; &lt;sinseism@...&gt;",
+            "profile": "sinseism",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The miniature kabuto website",
+            "postDate": "1028228300",
+            "msgId": 1022,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFpYzBjYys2NXRpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1021,
+            "nextInTime": 1023,
+            "topicId": 1022,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is official website of the Gekisen series.It includes detailed info on the Kabuto but only written in Japanese. http://www.uhauha-uha.com/gekisen/",
+            "messageBody": "<div id=\"ygrps-yiv-1163922378\">There is official website of the Gekisen series.It includes detailed <br/>\ninfo on the Kabuto but only written in Japanese.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uhauha-uha.com/gekisen/\">http://www.uhauha-uha.com/gekisen/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1019,
+    "nextTopicId": 976
+}

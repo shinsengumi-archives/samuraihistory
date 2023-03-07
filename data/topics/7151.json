@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] sword master INFO",
+            "postDate": "1117439766",
+            "msgId": 7155,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNjIxMDIwMmJlYzA3MjcxNjEyN0BbMTAuMC4xLjJdPg==",
+                "inReplyToHeader": "PGQ3YzNvYytlaWYwQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGQ3YzNvYytlaWYwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 7151,
+            "nextInTopic": 0,
+            "prevInTime": 7154,
+            "nextInTime": 7156,
+            "topicId": 7151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A Muramasa  and a Masamune were stuck into the sand of a river bottom A leaf was floated down the stream and the Muramasa blade, known for it s sharpness and",
+            "messageBody": "<div id=\"ygrps-yiv-1089045976\">A Muramasa  and a Masamune were stuck into the sand of a river bottom<br/>\n<br/>\nA leaf was floated down the stream and the Muramasa blade, known for <br/>\nit&#39;s sharpness and bloodthirsty nature effortlessly cut the  leaf.<br/>\n<br/>\nAnother leaf was floated down but this time the Masamune blade, full <br/>\nof the good and honest spirit of the master swordsmith, did not cut <br/>\nthe leaf instead letting it pass unharmed...<br/>\n<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 141151836,
+            "authorName": "Maine",
+            "from": "&quot;Maine&quot; &lt;blkcandles2002@...&gt;",
+            "profile": "blkcandles2002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "sword master INFO",
+            "postDate": "1117360716",
+            "msgId": 7151,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ3YzNvYytlaWYwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7155,
+            "prevInTime": 7150,
+            "nextInTime": 7152,
+            "topicId": 7151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A tail of two master sword makes. what are there name. where can i find the story. it was about them proving how make the better sword, and something to do",
+            "messageBody": "<div id=\"ygrps-yiv-616867581\">A tail of two master sword makes. what are there name. where can i <br/>\nfind the story. it was about them proving how make the better sword, <br/>\nand something to do with a stream and cherry leaves.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7144,
+    "nextTopicId": 7186
+}

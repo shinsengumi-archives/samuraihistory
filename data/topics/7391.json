@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: Message: 16",
+            "postDate": "1122351455",
+            "msgId": 7391,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyRTVCOTVGLjMwNzA4MDZAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMjIzMTYzNTIuMTMwMS4zMTgzOC5tMTdAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDExMjIzMTYzNTIuMTMwMS4zMTgzOC5tMTdAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7390,
+            "nextInTime": 7392,
+            "topicId": 7391,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Shouldn t be hard for somebody named Ninjabattle to find kanji for their name ;) Jim Eckman",
+            "messageBody": "<div id=\"ygrps-yiv-788408370\"><blockquote><span title=\"ireply\">&gt;<br/>\n&gt;<br/>\n&gt;   From: &quot;ninjabattle&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ninjabattle@...\">ninjabattle@...</a>&gt;<br/>\n&gt;<br/>\n&gt;I&#39;m not completely sure how to write my american name in kanji can <br/>\n&gt;anyone help me somehow?<br/>\n&gt;<br/>\n </span></blockquote>Shouldn&#39;t be hard for somebody named Ninjabattle to find kanji for their <br/>\nname ;)<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7316,
+    "nextTopicId": 7359
+}

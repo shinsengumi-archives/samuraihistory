@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Shinsen Gumi Uniform",
+            "postDate": "1048441747",
+            "msgId": 1602,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTExMWIwM2JhYTNhMTcxMmRkMEBbNjUuMTcyLjIzOS40OF0+",
+                "inReplyToHeader": "PGI1a3FrcCtncXNlQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGI1a3FrcCtncXNlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1601,
+            "nextInTopic": 0,
+            "prevInTime": 1601,
+            "nextInTime": 1603,
+            "topicId": 1601,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Scott et al- As I remember it they copied the coats of the Ako roshi as they were considered the epitome of loyalty, they used white diamonds on a blue",
+            "messageBody": "<div id=\"ygrps-yiv-1907768369\">Scott et al-<br/>\n\tAs I remember it they copied the coats of the Ako roshi as <br/>\nthey were considered the epitome of loyalty, they used white <br/>\n&quot;diamonds&quot; on a blue background while the squad leaders used black <br/>\n&quot;diamonds&quot; on natural hemp. I always thought it ironic because their <br/>\nmission was to support the Tokugawa, while at the heart of the Ako <br/>\nroshi&#39;s action was a decided Anti-Tokugawa bent.<br/>\n\tSomeone asked about superlative samurai from the Tokugawa <br/>\nperiod, you need look no further than the Ako roshi or &quot;the 47 loyal <br/>\nretainers&quot;.<br/>\n-T<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 21382476,
+            "authorName": "scott19ny",
+            "from": "&quot;scott19ny&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shinsen Gumi Uniform",
+            "postDate": "1048440281",
+            "msgId": 1601,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI1a3FrcCtncXNlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1602,
+            "prevInTime": 1600,
+            "nextInTime": 1602,
+            "topicId": 1601,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering if anyone knows if a uniform for the Shinsen Gumi existed, and what it looked like.  I have seen movies that conflict with eachother, besides..",
+            "messageBody": "<div id=\"ygrps-yiv-2102463169\">I was wondering if anyone knows if a uniform for the Shinsen Gumi <br/>\nexisted, and what it looked like.  I have seen movies that conflict <br/>\nwith eachother, besides.. they are movies, not to be taken as <br/>\nfact :D.  So I would like actual historical information as opposed to <br/>\nobservations from movies.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1600,
+    "nextTopicId": 1603
+}

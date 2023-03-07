@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 158674072,
+            "authorName": "シャノン パーカー",
+            "from": "=?ISO-2022-JP?B?GyRCJTclYyVOJXMbKEIgGyRCJVEhPCUrITwbKEI=?= &lt;rntihg@...&gt;",
+            "profile": "rntihg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "JLPT; was New guy and slight OT",
+            "postDate": "1132826336",
+            "msgId": 8018,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDBkZGNkZDQyZjYyMzM4OWQxZmRlNzRlZWMxMmE1MTkxQG04LmRpb24ubmUuanA+",
+                "inReplyToHeader": "PGRtM3ZnZStkbzkyQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRtM3ZnZStkbzkyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8016,
+            "nextInTopic": 0,
+            "prevInTime": 8017,
+            "nextInTime": 8019,
+            "topicId": 8016,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The test is called the Japanese Language Proficiency Test.  You can find information here: http://www.jees.or.jp/jlpt/en/ Unfortunately, the test is only",
+            "messageBody": "<div id=\"ygrps-yiv-2035647329\">On Nov 24, 2005, at 6:01 PM, Ina wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hey everyone, I&#39;m a new member, did a stint in japan as an exchange<br/>\n&gt; student, and got into the history.  Glad to find this place. I do have<br/>\n&gt; a question, although not really history related, hope the OT is OK -<br/>\n&gt; I&#39;m interested in taking the Japanese language exam - not sure exactly<br/>\n&gt; what it is called, but the test that has 4 levels.  I&#39;m interested in<br/>\n&gt; taking the 1st or 2nd level depending (I believe the lower the #, the<br/>\n&gt; harder the test). I can read Japanese pretty well, and deal in Japanese<br/>\n&gt; through my job, so I&#39;m sure I&#39;d knock out the 3rd and 4th levels in my<br/>\n&gt; sleep. Just checking to see actually when and where you can take the<br/>\n&gt; test - I&#39;d like to take it in the second half of 2006 - I&#39;ll be moving<br/>\n&gt; to Oahu, Hawaii, so maybe the University of Hawaii Manoa does the<br/>\n&gt; test?<br/>\n<br/>\n </span></blockquote>The test is called the Japanese Language Proficiency Test.  You can <br/>\nfind information here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jees.or.jp/jlpt/en/\">http://www.jees.or.jp/jlpt/en/</a><br/>\n<br/>\nUnfortunately, the test is only given once per year (in December), with <br/>\nregistration occurring between July and early September.  I don&#39;t know <br/>\noff-hand whether they give it in Hawaii, but would be surprised if they <br/>\ndidn&#39;t.  In any event, the above site should have whatever information <br/>\nyou need.<br/>\n<br/>\nShannon</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 243826189,
+            "authorName": "Ina",
+            "from": "&quot;Ina&quot; &lt;intpickle@...&gt;",
+            "profile": "intpickle",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "New guy and slight OT",
+            "postDate": "1132822862",
+            "msgId": 8016,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtM3ZnZStkbzkyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8018,
+            "prevInTime": 8015,
+            "nextInTime": 8017,
+            "topicId": 8016,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey everyone, I m a new member, did a stint in japan as an exchange student, and got into the history.  Glad to find this place. I do have a question, although",
+            "messageBody": "<div id=\"ygrps-yiv-758811068\">Hey everyone, I&#39;m a new member, did a stint in japan as an exchange <br/>\nstudent, and got into the history.  Glad to find this place. I do have <br/>\na question, although not really history related, hope the OT is OK - <br/>\nI&#39;m interested in taking the Japanese language exam - not sure exactly <br/>\nwhat it is called, but the test that has 4 levels.  I&#39;m interested in <br/>\ntaking the 1st or 2nd level depending (I believe the lower the #, the <br/>\nharder the test). I can read Japanese pretty well, and deal in Japanese <br/>\nthrough my job, so I&#39;m sure I&#39;d knock out the 3rd and 4th levels in my <br/>\nsleep. Just checking to see actually when and where you can take the <br/>\ntest - I&#39;d like to take it in the second half of 2006 - I&#39;ll be moving <br/>\nto Oahu, Hawaii, so maybe the University of Hawaii Manoa does the <br/>\ntest?  I&#39;d do more searching around on my own, but I&#39;m traveling for <br/>\nwork right now, and a little too burned out to go ahead and do yet more <br/>\nresearch - and anyway, maybe there are people here interested in the <br/>\ntest as well, so hopefully a few people besides me will benefit. That <br/>\nstuff aside, I look forward to an interesting interchange on Japanese <br/>\nhistory.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8003,
+    "nextTopicId": 7858
+}

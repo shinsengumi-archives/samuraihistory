@@ -1,0 +1,54 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "pimpswizzle6",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1399951,
+    "listId": 2247946,
+    "dateCreated": 1095160660,
+    "userIdCreated": 198505976,
+    "dateEnd": 1096433940,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "WHEN_CLOSED",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Do you think Musashi cheated,by \nblinding Kojiro with the sunlight, at \ntheir duel in Ganryujima?",
+    "flagBits": 0,
+    "multiResponse": true,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 10566857,
+            "selectionText": "Yes, he cheated Kojiro",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 10566858,
+            "selectionText": "No he used the sun to his advantage.",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 10566858,
+                    "surveyId": 1399951,
+                    "userId": 190836730,
+                    "guid": "I4L7PHA6EBFMZGPDRATNHGI7O4",
+                    "nickname": "shay_alspach",
+                    "email": "shay_alspach@yahoo.com"
+                },
+                {
+                    "selectionId": 10566858,
+                    "surveyId": 1399951,
+                    "userId": 198505976,
+                    "nickname": "pimpswizzle6",
+                    "email": "pimpswizzle6@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 5,
+    "previousSurveyId": 1536945,
+    "nextSurveyId": 1399939
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Japan and Her People NOW AVAILABLE",
+            "postDate": "1185177676",
+            "msgId": 9606,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY4MW44Yyt2dXMwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9604,
+            "nextInTime": 9607,
+            "topicId": 9606,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "At long last, Japan and Her People is now available.  You can find it here: http://www.amazon.com/Japan-Her-People-Anna-Hartshorne/dp/097903972X/ This is",
+            "messageBody": "<div id=\"ygrps-yiv-675428207\">At long last, &quot;Japan and Her People&quot; is now available.  You can find<br/>\nit here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.amazon.com/Japan-Her-People-Anna-Hartshorne/dp/097903972X/\">http://www.amazon.com/Japan-Her-People-Anna-Hartshorne/dp/097903972X/</a><br/>\n<br/>\nThis is what I&#39;ve been working on for the last 5 months or so.<br/>\n<br/>\nThanks to everyone who helped out - I think the printer put it up<br/>\nbefore we had an &quot;acknowledgements&quot; section, so Nagaeyari might want<br/>\nto hold off for a couple weeks before buying it :P<br/>\n<br/>\nSo, anyway, help support the samurai archives and the future Journal<br/>\nby picking up a copy.  It should be worth your time.  You can either<br/>\npick it up online at amazon.com, barnesandnoble.com, or you can order<br/>\nit at a barnes and noble store - just be sure you are picking up the<br/>\ncorrect book, there seem to be a few out there with the same title.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9604,
+    "nextTopicId": 9609
+}

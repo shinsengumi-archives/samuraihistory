@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "[samuraihistory] Re: Shaku",
+            "postDate": "1062006395",
+            "msgId": 2138,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwMmJiNzI5ZTA0MzM4MkBbMTkyLjE2OC4xNzMuMTY2XT4=",
+                "inReplyToHeader": "PDNGNENCNzYwLjIwNjA1MDFAcHJvZGlneS5uZXQ+",
+                "referencesHeader": "PDEwNjE5NzI3OTguMzg4Ljk0MzUubTEyQHlhaG9vZ3JvdXBzLmNvbT4gPDNGNENCNzYwLjIwNjA1MDFAcHJvZGlneS5uZXQ+"
+            },
+            "prevInTopic": 2131,
+            "nextInTopic": 0,
+            "prevInTime": 2137,
+            "nextInTime": 2139,
+            "topicId": 2131,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... In the study of Japanese Art swords all descriptions are given in Sun Shaku and in CM.s a good grasp of the equivalents goes a long way to help visualize",
+            "messageBody": "<div id=\"ygrps-yiv-1250338951\"><blockquote><span title=\"ireply\">&gt;<br/>\n&gt;  &gt;<br/>\n&gt;Good for modern stuff, but who uses shaku now?<br/>\n&gt;<br/>\n&gt;Jim Eckman<br/>\n<br/>\n<br/>\n </span></blockquote>\tIn the study of Japanese Art swords all descriptions are <br/>\ngiven in Sun Shaku and in CM.s a good grasp of the equivalents goes a <br/>\nlong way to help visualize blades being discussed.<br/>\n\tIn Iaido and I suspect other martial arts it is not uncommon <br/>\nfor sun shaku measures to be used in teaching forms and stances. <br/>\nSwords for Iai are measured and sold in sun shaku, as are sageo, obi <br/>\nand tabi...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 2988921,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;FUGU@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Shaku",
+            "postDate": "1061992288",
+            "msgId": 2131,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGNENCNzYwLjIwNjA1MDFAcHJvZGlneS5uZXQ+",
+                "inReplyToHeader": "PDEwNjE5NzI3OTguMzg4Ljk0MzUubTEyQHlhaG9vZ3JvdXBzLmNvbT4=",
+                "referencesHeader": "PDEwNjE5NzI3OTguMzg4Ljk0MzUubTEyQHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2138,
+            "prevInTime": 2130,
+            "nextInTime": 2132,
+            "topicId": 2131,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I would be extremely hesistant to quote any measurements made before the 1850 s to this level of accuracy. In period I suspect they varied by 10-20% easily",
+            "messageBody": "<div id=\"ygrps-yiv-2009119205\"><blockquote><span title=\"ireply\">&gt;<br/>\n&gt;<br/>\n&gt;   From: &quot;Anthony J. Bryant&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ajbryant@...\">ajbryant@...</a>&gt;<br/>\n&gt;Subject: Re: question<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;Ummm... Josh?<br/>\n&gt;<br/>\n&gt;A shaku is almost *exactly* a foot. In fact, it&#39;s 11.93 inches. <br/>\n&gt;<br/>\n </span></blockquote>I would be extremely hesistant to quote any measurements made before the <br/>\n1850&#39;s to this level of accuracy. In period I suspect they varied by <br/>\n10-20% easily unless they had a national standards department with <br/>\nenforcement. I seem to remember that surveying was was introduced in the <br/>\nMeiji period and there was controversy about uniform measurements. This <br/>\nmay of been over Western measurements however.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;1 shaku = 11.93054 inches (30.30 cm)<br/>\n&gt;<br/>\n </span></blockquote>Good for modern stuff, but who uses shaku now?<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2132,
+    "nextTopicId": 2089
+}

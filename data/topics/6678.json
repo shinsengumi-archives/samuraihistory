@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Old manga comic book",
+            "postDate": "1108106718",
+            "msgId": 6681,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1aG1rdStyZmxwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGN1Z3VyMCt0bjkxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6678,
+            "nextInTopic": 0,
+            "prevInTime": 6680,
+            "nextInTime": 6682,
+            "topicId": 6678,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... mother. ... old ... paper ... *feels* ... scanner, ... How about a digital camera, or many camera stores could probably convert a copy into a digital image",
+            "messageBody": "<div id=\"ygrps-yiv-1378570147\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;raijin31&quot; &lt;otoshi2@h...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; Greetings!<br/>\n&gt; <br/>\n&gt; I have an old manga comic book, that was gifted to me by my <br/>\n </span></blockquote>mother.  <br/>\n<blockquote><span title=\"ireply\"> &gt; I don&#39;t read japanese, and have no idea if this thing is 10 years <br/>\n </span></blockquote>old <br/>\n<blockquote><span title=\"ireply\"> &gt; or 100 years old.  It has the old style string binding, and the <br/>\n </span></blockquote>paper <br/>\n<blockquote><span title=\"ireply\"> &gt; is very thin, but remarkably strong for such thin paper.  It <br/>\n </span></blockquote>*feels* <br/>\n<blockquote><span title=\"ireply\"> &gt; old...<br/>\n&gt; <br/>\n&gt; Would anyone here who can read Japanese be willing to let me mail <br/>\n&gt; them some color photocopies of some of the relevant pages of this <br/>\n&gt; thing and see if they can date it?  I don&#39;t have access to a <br/>\n </span></blockquote>scanner, <br/>\n<blockquote><span title=\"ireply\"> &gt; or I would do it that way....<br/>\n&gt; <br/>\n&gt; Many thanks,<br/>\n&gt; <br/>\n&gt; Trace<br/>\n<br/>\n </span></blockquote>How about a digital camera, or many camera stores could probably <br/>\nconvert a copy into a digital image for you. You could post it to <br/>\nthe &#39;files&#39; section of this group - and then i&#39;m sure someone could <br/>\ntell you what it is.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 9275689,
+            "authorName": "raijin31",
+            "from": "&quot;raijin31&quot; &lt;otoshi2@...&gt;",
+            "profile": "raijin31",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Old manga comic book",
+            "postDate": "1108082336",
+            "msgId": 6678,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1Z3VyMCt0bjkxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6681,
+            "prevInTime": 6677,
+            "nextInTime": 6679,
+            "topicId": 6678,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings! I have an old manga comic book, that was gifted to me by my mother. I don t read japanese, and have no idea if this thing is 10 years old or 100",
+            "messageBody": "<div id=\"ygrps-yiv-68919246\">Greetings!<br/>\n<br/>\nI have an old manga comic book, that was gifted to me by my mother.  <br/>\nI don&#39;t read japanese, and have no idea if this thing is 10 years old <br/>\nor 100 years old.  It has the old style string binding, and the paper <br/>\nis very thin, but remarkably strong for such thin paper.  It *feels* <br/>\nold...<br/>\n<br/>\nWould anyone here who can read Japanese be willing to let me mail <br/>\nthem some color photocopies of some of the relevant pages of this <br/>\nthing and see if they can date it?  I don&#39;t have access to a scanner, <br/>\nor I would do it that way....<br/>\n<br/>\nMany thanks,<br/>\n<br/>\nTrace</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6650,
+    "nextTopicId": 6679
+}

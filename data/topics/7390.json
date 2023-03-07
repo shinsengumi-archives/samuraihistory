@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 9884664,
+            "authorName": "Rodrigo Juri A.",
+            "from": "&quot;Rodrigo Juri A.&quot; &lt;rjuri@...&gt;",
+            "profile": "rjuri",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Re: Deus Destroyed",
+            "postDate": "1122496857",
+            "msgId": 7413,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwNzI3MjA0MDU3Ljk4MTI1LnFtYWlsQHdlYjYxMTEyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyRTVCODFCLjIwNTAyMDVAY29tY2FzdC5uZXQ+"
+            },
+            "prevInTopic": 7390,
+            "nextInTopic": 0,
+            "prevInTime": 7412,
+            "nextInTime": 7414,
+            "topicId": 7390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks you Mr Eckman. I will try to get this book, seems that it could be a great support to my research. Until now I had been doing cross references between",
+            "messageBody": "<div id=\"ygrps-yiv-502325065\">Thanks you Mr Eckman.<br/>\nI will try to get this book, seems that it could be a<br/>\ngreat support to my research. Until now I had been<br/>\ndoing cross references between the History of the<br/>\nCatholic Church and the History of Japan. This fact<br/>\nhad made that my research turn to become a synthesis<br/>\neffort of two different kind of sources. But it seems<br/>\na good approach to my tutor professors (research<br/>\nproject) anyway.<br/>\nThanks again.<br/>\n<br/>\n&quot;The Light shines in Darkness, and Darkness cannot<br/>\novercome it&quot;<br/>\n<br/>\n--- James Eckman &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ronin_engineer@...\">ronin_engineer@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Try abebooks.com, $48 is still not cheap but if it&#39;s<br/>\n&gt; what your looking <br/>\n&gt; for.... Alibris has one for $49. One of the local<br/>\n&gt; university libraries <br/>\n&gt; has it for free. A good researcher has to work the<br/>\n&gt; book hunt pretty hard <br/>\n&gt; for the fun stuff. Lots easier though than when you<br/>\n&gt; actually had to call <br/>\n&gt; libraries to find out if they had a book or where<br/>\n&gt; you could find a copy! <br/>\n&gt; I have no nostalgia for card catalogs either having<br/>\n&gt; had to maintain one. <br/>\n&gt; For Mark, you can get it from the San Jose Library<br/>\n&gt; or through Link+ if <br/>\n&gt; you want to read it.<br/>\n&gt; <br/>\n&gt; Jim Eckman<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n </span></blockquote>____________________________________________________<br/>\nStart your day with Yahoo! - make it your home page <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.yahoo.com/r/hs\">http://www.yahoo.com/r/hs</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Deus Destroyed",
+            "postDate": "1122351131",
+            "msgId": 7390,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyRTVCODFCLjIwNTAyMDVAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMjIzMTYzNTIuMTMwMS4zMTgzOC5tMTdAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDExMjIzMTYzNTIuMTMwMS4zMTgzOC5tMTdAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7413,
+            "prevInTime": 7389,
+            "nextInTime": 7391,
+            "topicId": 7390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Try abebooks.com, $48 is still not cheap but if it s what your looking for.... Alibris has one for $49. One of the local university libraries has it for free.",
+            "messageBody": "<div id=\"ygrps-yiv-1209417614\">Try abebooks.com, $48 is still not cheap but if it&#39;s what your looking <br/>\nfor.... Alibris has one for $49. One of the local university libraries <br/>\nhas it for free. A good researcher has to work the book hunt pretty hard <br/>\nfor the fun stuff. Lots easier though than when you actually had to call <br/>\nlibraries to find out if they had a book or where you could find a copy! <br/>\nI have no nostalgia for card catalogs either having had to maintain one. <br/>\nFor Mark, you can get it from the San Jose Library or through Link+ if <br/>\nyou want to read it.<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7402,
+    "nextTopicId": 7395
+}

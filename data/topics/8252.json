@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: new Samurai Archives Blog",
+            "postDate": "1138411188",
+            "msgId": 8253,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyZWdyaytwYnVjQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRyZWdqYStjbTFrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8252,
+            "nextInTopic": 0,
+            "prevInTime": 8252,
+            "nextInTime": 8254,
+            "topicId": 8252,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... And if anyone wants to subscribe to the RSS feed, this is the RSS feed URL: http://www.bloglines.com/blog/samuraiarchives/rss",
+            "messageBody": "<div id=\"ygrps-yiv-1335894379\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Kitsuno&quot;<br/>\n&lt;samurai-listowner@s...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; We&#39;ve decided to post updates and current projects to the new Samurai<br/>\n&gt; Archives blog. Since it is a blog, it should be much more animated<br/>\n&gt; than the simple &quot;recent updates page&quot;, so feel free to check it out<br/>\n&gt; now and then: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bloglines.com/blog/samuraiarchives\">http://www.bloglines.com/blog/samuraiarchives</a><br/>\n&gt;<br/>\n<br/>\n </span></blockquote>And if anyone wants to subscribe to the RSS feed, this is the RSS feed<br/>\nURL: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bloglines.com/blog/samuraiarchives/rss\">http://www.bloglines.com/blog/samuraiarchives/rss</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "new Samurai Archives Blog",
+            "postDate": "1138410922",
+            "msgId": 8252,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRyZWdqYStjbTFrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8253,
+            "prevInTime": 8251,
+            "nextInTime": 8253,
+            "topicId": 8252,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We ve decided to post updates and current projects to the new Samurai Archives blog. Since it is a blog, it should be much more animated than the simple",
+            "messageBody": "<div id=\"ygrps-yiv-1716727505\">We&#39;ve decided to post updates and current projects to the new Samurai<br/>\nArchives blog. Since it is a blog, it should be much more animated<br/>\nthan the simple &quot;recent updates page&quot;, so feel free to check it out<br/>\nnow and then: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bloglines.com/blog/samuraiarchives\">http://www.bloglines.com/blog/samuraiarchives</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8194,
+    "nextTopicId": 8246
+}

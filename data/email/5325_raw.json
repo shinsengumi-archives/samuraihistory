@@ -1,0 +1,31 @@
+{
+    "userId": 150584227,
+    "authorName": "Dean Wayland",
+    "from": "Dean Wayland &lt;dean@...&gt;",
+    "profile": "deanwayland",
+    "replyTo": "LIST",
+    "senderId": "Mxv1g6D9V5rrh4zAhNGQPaJtSITobVWt6j2KMfUojLv4M6pxcVhqcWnwhxK0tXhUkbFsSpCznYGWSCM8mqil88oRFpFyXmIVHGxt322eAlYMl78HOg",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092940599",
+    "msgId": 5325,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PFVVWXI4S0EzTVBKQkZ3RkxAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+",
+        "inReplyToHeader": "PDIwMDQwODE3MjMxMjU4Ljc5NjAxLnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PDBiZlRQREF0dWdJQkZ3NVhAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+IDwyMDA0MDgxNzIzMTI1OC43OTYwMS5xbWFpbEB3ZWI0MTMxNS5tYWlsLnlhaG9vLmNvbT4="
+    },
+    "prevInTopic": 5309,
+    "nextInTopic": 5327,
+    "prevInTime": 5324,
+    "nextInTime": 5326,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "Hi Nate, I can get my machine to toggle between English and Japanese input on the keyboard, but apart from doing that, nothing, even the menus that hang",
+    "rawEmail": "Return-Path: &lt;dean@...&gt;\r\nReceived: (qmail 52333 invoked by uid 7800); 19 Aug 2004 22:47:33 -0000\r\nX-Sender: dean@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 49038 invoked from network); 19 Aug 2004 18:37:45 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m7.grp.scd.yahoo.com with QMQP; 19 Aug 2004 18:37:45 -0000\r\nReceived: from unknown (HELO anchor-post-37.mail.demon.net) (194.217.242.86)\n  by mta5.grp.scd.yahoo.com with SMTP; 19 Aug 2004 18:37:45 -0000\r\nReceived: from thefightschool.demon.co.uk ([194.222.233.237])\n\tby anchor-post-37.mail.demon.net with smtp (Exim 3.35 #1)\n\tid 1BxrnD-0009GI-0b\n\tfor samuraihistory@yahoogroups.com; Thu, 19 Aug 2004 18:37:43 +0000\r\nMessage-ID: &lt;UUYr8KA3MPJBFwFL@...&gt;\r\nDate: Thu, 19 Aug 2004 19:36:39 +0100\r\nTo: samuraihistory@yahoogroups.com\r\nReferences: &lt;0bfTPDAtugIBFw5X@...&gt;\n &lt;20040817231258.79601.qmail@...&gt;\r\nIn-Reply-To: &lt;20040817231258.79601.qmail@...&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Turnpike Integrated Version 4.02aS &lt;SQ+NZAXQu0wxAHC4HsD4nxHjIB&gt;\r\nX-eGroups-Remote-IP: 194.217.242.86\r\nFrom: Dean Wayland &lt;dean@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=150584227\r\nX-Yahoo-Profile: deanwayland\r\nX-eGroups-Approved-By: ltdomer98 &lt;ltdomer98@...&gt; via email; 19 Aug 2004 22:47:33 -0000\r\n\r\nHi Nate,\n\nI can get my machine to toggle between &quot;English&quot; and &quot;Japanese&quot; input on\nthe keyboard, but apart from doing that, nothing, even the menus that\nhang off the language bar don&#39;t work! They flash up and disappear, I\nsuspect its a conflict of some sort, probably with the special text\nenlarging and speech out package, that&#39;s what normally mucks everything\nup on this machine.\n\nAs I think I&#39;ve taken up enough band width with this one for the time\nbeing, I&#39;m going to try to get some one in to look at my config, to see\nif it can be sorted out. Meanwhile, back to things Japanese and\nhistorical:-)\n\nMuch thanks for all your help.\n\nYours\n\nDean\n\nSounds of man throwing large rocks at computer grrr....\n\n\n"
+}

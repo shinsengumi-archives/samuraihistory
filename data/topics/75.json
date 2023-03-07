@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "pmgRDwxTq2x4YrNu9v0Wq9I8P-XXs_RadDztOdlNjpxFTuzdUsRA22RxspxdBlM_W65H7Qca8EY3P0Q",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "FYI",
+            "postDate": "980495454",
+            "msgId": 75,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0cmE4dStocGQ1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 74,
+            "nextInTime": 76,
+            "topicId": 75,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "the NEW officail web address of the samurai archives is: http://www.hn.org/samurai-archives/  the previous redirect link works fine, but FYI this is the",
+            "messageBody": "<div id=\"ygrps-yiv-707680137\">the NEW officail web address of the samurai archives is: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hn.org/samurai-archives/\">http://www.hn.org/samurai-archives/</a>  the previous &#39;redirect&#39; link <br/>\nworks fine, but FYI this is the official address.  If anyone happens <br/>\nto have any web pages out there linked to us, be sure to update those <br/>\nlinks! <br/>\n<br/>\nThanks,<br/>\n<br/>\nC.E. West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 71,
+    "nextTopicId": 59
+}

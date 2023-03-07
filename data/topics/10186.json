@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Archives on Twitter",
+            "postDate": "1275115638",
+            "msgId": 10186,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGh0cWQ5bStuY2x0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10185,
+            "nextInTime": 10187,
+            "topicId": 10186,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Samurai Archives is now on Twitter.  You can follow us at: http://www.twitter.com/samuraiarchives Enjoy!",
+            "messageBody": "<div id=\"ygrps-yiv-1513496369\">The Samurai Archives is now on Twitter.  You can follow us at: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.twitter.com/samuraiarchives\">http://www.twitter.com/samuraiarchives</a><br/>\n<br/>\nEnjoy!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10185,
+    "nextTopicId": 10187
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 279586371,
+            "authorName": "zbanman70",
+            "from": "&quot;zbanman70&quot; &lt;zbanman70@...&gt;",
+            "profile": "zbanman70",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "HI! I need help finding two characters of the Samurai &quot;Japanese&quot; Language",
+            "postDate": "1156204908",
+            "msgId": 9040,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVjZGhoYytjNXRvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9039,
+            "nextInTime": 9041,
+            "topicId": 9040,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know the symbols for PRINCIPLE and PERSEVERE? Please email me if u do thanks",
+            "messageBody": "<div id=\"ygrps-yiv-626794099\">Does anyone know the symbols<br/>\nfor<br/>\nPRINCIPLE<br/>\n<br/>\nand<br/>\n<br/>\nPERSEVERE?<br/>\n<br/>\nPlease email me if u do<br/>\nthanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9039,
+    "nextTopicId": 9042
+}

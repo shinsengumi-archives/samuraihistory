@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128739069,
+            "authorName": "midorinotoradesu",
+            "from": "&quot;midorinotoradesu&quot; &lt;bkirkham@...&gt;",
+            "profile": "midorinotoradesu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Replica or not",
+            "postDate": "1114568679",
+            "msgId": 6993,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0bXQ1Nys5cm5uQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6992,
+            "nextInTime": 6994,
+            "topicId": 6993,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I forgot to mention...  I posted pictures in the Replication or not folder. Brandon",
+            "messageBody": "<div id=\"ygrps-yiv-513083524\">I forgot to mention...  I posted pictures in the Replication or not <br/>\nfolder.<br/>\n<br/>\nBrandon</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6988,
+    "nextTopicId": 5842
+}

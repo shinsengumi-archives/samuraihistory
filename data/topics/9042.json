@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 263571671,
+            "authorName": "zan tigran",
+            "from": "zan tigran &lt;zan_tigran@...&gt;",
+            "profile": "zan_tigran",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shanao",
+            "postDate": "1156995855",
+            "msgId": 9042,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwODMxMDM0NDE1LjUwMTgwLnFtYWlsQHdlYjM3NjA0Lm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9041,
+            "nextInTime": 9043,
+            "topicId": 9042,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "among all the samurai ever live in japan, one of my favorite is shanao yoshitsune (minamoto kuro yoshitsune), can anybody tell me the complete stories about",
+            "messageBody": "<div id=\"ygrps-yiv-1532053712\">among all the samurai ever live in japan, one of my favorite is shanao yoshitsune (minamoto kuro yoshitsune), can anybody tell me the complete stories about him?<br/>\n<br/>\n \t\t<br/>\n---------------------------------<br/>\nTalk is cheap. Use Yahoo! Messenger to make PC-to-Phone calls.  Great rates starting at 1¢/min.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9040,
+    "nextTopicId": 9048
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "CN0lBp3OAIh3OIFjdp-XiE28NUDOxrRwCmGRJxi391Eyp2DFu4RV-0dxgmKOmAd9sIALWjhEdmun8qDcSZc8PjvO-UBpvFXnTTGVqfTauqE",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SAMURAI ARCHIVES: Recent Updates (2/12)",
+            "postDate": "982017509",
+            "msgId": 99,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk2OW9sNSt0MHQ2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 98,
+            "nextInTime": 100,
+            "topicId": 99,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Samurai Archives Japanese History Page. http://samurai.bigsitecity.com/ ... The Sengoku timeline has been added to, particularly the 1540 s: ",
+            "messageBody": "<div id=\"ygrps-yiv-1517486360\">Samurai Archives Japanese History Page.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.bigsitecity.com/\">http://samurai.bigsitecity.com/</a><br/>\nUPDATES AS OF 2-12-2001:<br/>\n-----------------------<br/>\n<br/>\n<br/>\nThe Sengoku timeline has been added to, particularly the 1540&#39;s: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.bigsitecity.com/time2.html\">http://samurai.bigsitecity.com/time2.html</a><br/>\n<br/>\nMore has been added to the &#39;Battles&#39; section:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.bigsitecity.com/battles.html\">http://samurai.bigsitecity.com/battles.html</a><br/>\n<br/>\nThe Mori Genealogy has been modified, and Chosokabe, Hosokawa 1400-<br/>\n1600, and Ukita genealogies have been added to the &#39;Genealogies&#39; <br/>\nsection:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.bigsitecity.com/clanindex.html\">http://samurai.bigsitecity.com/clanindex.html</a><br/>\n<br/>\nDon&#39;t forget to stop by the Samurai history forum on <br/>\nDelphi.com - join in the conversation, feel free to post any <br/>\nquestions or comments related to japanese history:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.delphi.com/samuraihistory/\">http://www.delphi.com/samuraihistory/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 93,
+    "nextTopicId": 86
+}

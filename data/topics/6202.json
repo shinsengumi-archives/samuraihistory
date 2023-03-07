@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "More SA updates",
+            "postDate": "1102662715",
+            "msgId": 6202,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwYmk3citzam00QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6201,
+            "nextInTime": 6203,
+            "topicId": 6202,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is the next batch of updates to the Samurai Archives, with yet more to follow: Added The Hidden Relevance of Japanese Historical Influences to the",
+            "messageBody": "<div id=\"ygrps-yiv-817719510\">Here is the next batch of updates to the Samurai Archives, with yet <br/>\nmore to follow:<br/>\n<br/>\nAdded &#39;The Hidden Relevance of Japanese Historical Influences&#39; to <br/>\nthe &#39;featured articles&#39; section:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/hrj.html\">http://www.samurai-archives.com/hrj.html</a> <br/>\n<br/>\nAdded the Hojo clan to the &#39;Clan Timelines&#39; section:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/clantime.html\">http://www.samurai-archives.com/clantime.html</a> <br/>\n<br/>\nAdded the bio of Hojo Ujitsuna to the &#39;Famous Samurai&#39; section: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/ujitsuna.html\">http://www.samurai-archives.com/ujitsuna.html</a><br/>\n<br/>\nUpdated the bio of Adachi Yasumori in the &#39;Famous Samurai&#39; section:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/yasumori.html\">http://www.samurai-archives.com/yasumori.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6191,
+    "nextTopicId": 6203
+}

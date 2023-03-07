@@ -1,0 +1,200 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2034750,
+    "listId": 2247946,
+    "dateCreated": 1131204360,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "If you would be a warrior of any kind, what would be your attitude?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14864812,
+            "selectionText": "Average",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864813,
+            "selectionText": "Aggressive",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864814,
+            "selectionText": "Calm",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 14864814,
+                    "surveyId": 2034750,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 14864814,
+                    "surveyId": 2034750,
+                    "userId": 292922662,
+                    "nickname": "classy_gui",
+                    "email": "classy_gui@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864815,
+            "selectionText": "Friendly",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14864815,
+                    "surveyId": 2034750,
+                    "userId": 162727959,
+                    "guid": "CHLLFD4HOWSBUYGL432RECSEZM",
+                    "nickname": "eisuke_2001",
+                    "email": "eisuke_2001@yahoo.com"
+                },
+                {
+                    "selectionId": 14864815,
+                    "surveyId": 2034750,
+                    "userId": 158578907,
+                    "email": "nuqwIjatlh@hotmail.com"
+                },
+                {
+                    "selectionId": 14864815,
+                    "surveyId": 2034750,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 14864815,
+                    "surveyId": 2034750,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864816,
+            "selectionText": "Cold and quiet",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14864816,
+                    "surveyId": 2034750,
+                    "userId": 332735523,
+                    "guid": "A7WLVOOW52L4FQELWKF7MPOYEQ",
+                    "nickname": "stevethomp47",
+                    "email": "stevethomp47@yahoo.com"
+                },
+                {
+                    "selectionId": 14864816,
+                    "surveyId": 2034750,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 14864816,
+                    "surveyId": 2034750,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 14864816,
+                    "surveyId": 2034750,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864817,
+            "selectionText": "Clever",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 14864817,
+                    "surveyId": 2034750,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864818,
+            "selectionText": "Confident",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864819,
+            "selectionText": "Focused",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864820,
+            "selectionText": "Demonic(like Onikage of Tenchu), Who always laughs, but is a formidable opponent",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864821,
+            "selectionText": "No emotion",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 14864821,
+                    "surveyId": 2034750,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14864821,
+                    "surveyId": 2034750,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 17,
+    "previousSurveyId": 2074811,
+    "nextSurveyId": 2034741
+}

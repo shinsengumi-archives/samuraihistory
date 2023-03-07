@@ -1,0 +1,142 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2033884,
+    "listId": 2247946,
+    "dateCreated": 1131124898,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "Can some ninja(like hanzo hattori who became tokugawa&#39;s general) be considered as samurai?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14858012,
+            "selectionText": "Yes",
+            "selections": 7,
+            "responses": [
+                {
+                    "selectionId": 14858012,
+                    "surveyId": 2033884,
+                    "userId": 286881682,
+                    "guid": "MEP2V2XES3R26YXR3TLW5WK7EQ",
+                    "nickname": "boojienacpil",
+                    "email": "boojienacpil@yahoo.com"
+                },
+                {
+                    "selectionId": 14858012,
+                    "surveyId": 2033884,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14858012,
+                    "surveyId": 2033884,
+                    "userId": 292922662,
+                    "nickname": "classy_gui",
+                    "email": "classy_gui@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14858013,
+            "selectionText": "No, because they are stealth killers",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 14858013,
+                    "surveyId": 2033884,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 14858013,
+                    "surveyId": 2033884,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 14858013,
+                    "surveyId": 2033884,
+                    "userId": 461973763,
+                    "guid": "E63IMOBQJRYXUVUUQQBVFNNQMM",
+                    "nickname": "amosodea",
+                    "email": "amosodea@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14858014,
+            "selectionText": "In contributions, yes. in &quot;bushido&quot;, no",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14858014,
+                    "surveyId": 2033884,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                },
+                {
+                    "selectionId": 14858014,
+                    "surveyId": 2033884,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 14858014,
+                    "surveyId": 2033884,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14858015,
+            "selectionText": "No, they are no match for samurai",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14858016,
+            "selectionText": "Half samurai half ninja",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 14858016,
+                    "surveyId": 2033884,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 15,
+    "previousSurveyId": 2033889,
+    "nextSurveyId": 1940096
+}

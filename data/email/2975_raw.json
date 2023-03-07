@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "wOV8hzP6W8S60VOkwsUViiJu5BQRWPWPqx01atUYtsyjJpk-PT3Pwc76OH-rXm0FWOIuDmhDsoZ2Q0yXvlTPN78-jbsEPImC",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "out of office reply",
+    "postDate": "1072451984",
+    "msgId": 2975,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PEVGNzc4NDg3LTM3QjYtMTFEOC1CMjhGLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 2974,
+    "nextInTime": 2976,
+    "topicId": 2975,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Happy Holidays to all! I ll be off-line for a week or so, will try to check the lists remotely, if anybody needs me, be patient and I ll type at you after the",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 12637 invoked from network); 26 Dec 2003 14:17:27 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m17.grp.scd.yahoo.com with QMQP; 26 Dec 2003 14:17:27 -0000\r\nReceived: from unknown (HELO pop.sanbrunocable.com) (65.172.230.120)\n  by mta6.grp.scd.yahoo.com with SMTP; 26 Dec 2003 14:17:27 -0000\r\nReceived: from toryu-mon.com (natbox.sanbrunocable.com [65.172.230.99])\n\tby pop.sanbrunocable.com (8.11.6/8.11.6) with ESMTP id hBQEHQu01657;\n\tFri, 26 Dec 2003 06:17:26 -0800\r\nDate: Fri, 26 Dec 2003 07:19:44 -0800\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMime-Version: 1.0 (Apple Message framework v553)\r\nCc: samuraihistory@yahoogroups.com, nihonto@yahoogroups.com,\n   nihontostudy@yahoogroups.com, token_kenkyu_kai@...\r\nTo: junkmail@...\r\nContent-Transfer-Encoding: 7bit\r\nMessage-Id: &lt;EF778487-37B6-11D8-B28F-000393B56BC0@...&gt;\r\nX-Mailer: Apple Mail (2.553)\r\nX-eGroups-Remote-IP: 65.172.230.120\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: out of office reply\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nHappy Holidays to all!\n\tI&#39;ll be off-line for a week or so, will try to check the lists \nremotely, if anybody needs me, be patient and I&#39;ll type at you after \nthe holidays...\n-t\n\n\n"
+}

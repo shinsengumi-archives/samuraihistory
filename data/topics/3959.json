@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 153027787,
+            "authorName": "zevlord",
+            "from": "&quot;zevlord&quot; &lt;LordZev@...&gt;",
+            "profile": "zevlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "G&#39;Day",
+            "postDate": "1080009205",
+            "msgId": 3959,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzbzdsbCs0NTVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3958,
+            "nextInTime": 3960,
+            "topicId": 3959,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, Am new to the group and would like to introduce myself. Call me Zev Silly Name but what ever. Anyways Just saying G Day.",
+            "messageBody": "<div id=\"ygrps-yiv-141449881\">Hi All,<br/>\n    Am new to the group and would like to introduce myself. Call me <br/>\nZev Silly Name but what ever. Anyways Just saying G&#39;Day.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3947,
+    "nextTopicId": 3964
+}

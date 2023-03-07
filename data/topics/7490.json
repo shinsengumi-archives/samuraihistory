@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 223863456,
+            "authorName": "Rami",
+            "from": "&quot;Rami&quot; &lt;rami.efal@...&gt;",
+            "profile": "rami_efal",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Nagamkai training for women in Edo period?",
+            "postDate": "1124312877",
+            "msgId": 7490,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRlMDh2ZCtsdDY1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7489,
+            "nextInTime": 7491,
+            "topicId": 7490,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I remember reading in Turnbull s Samurai s Sourcbook that samurai women were expected to learn the use of nagamaki. Is this also true to Edo-period women or",
+            "messageBody": "<div id=\"ygrps-yiv-803848119\">I remember reading in Turnbull&#39;s Samurai&#39;s Sourcbook that samurai <br/>\nwomen were expected to learn the use of nagamaki. Is this also true to <br/>\nEdo-period women or only prior to that, during the waring-states (or <br/>\neven earlier)?<br/>\nThank you!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5881,
+    "nextTopicId": 7491
+}

@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 241174664,
+            "authorName": "Kee D. Curlee",
+            "from": "&quot;Kee D. Curlee&quot; &lt;threekeys@...&gt;",
+            "profile": "keecurlee",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "RE: [samuraihistory] japanese",
+            "postDate": "1133871317",
+            "msgId": 8072,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PExORUtLQk9MRlBNQ0ZOQ0FGRE1HS0VET0NDQUEudGhyZWVrZXlzQGJod2kubmV0Pg==",
+                "inReplyToHeader": "PGRuMzNtNitxOHVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8071,
+            "nextInTopic": 0,
+            "prevInTime": 8071,
+            "nextInTime": 8073,
+            "topicId": 8070,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Well, The Irish wonder, How much of your history will you share? ... From: samuraihistory@yahoogroups.com [mailto:samuraihistory@yahoogroups.com]On Behalf Of",
+            "messageBody": "<div id=\"ygrps-yiv-1854626938\">Well, The Irish wonder, How much of your history will you share?<br/>\n<br/>\n-----Original Message-----<br/>\nFrom: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\n[mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>]On Behalf Of Ijin Mibu<br/>\nSent: Monday, December 05, 2005 9:23 PM<br/>\nTo: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\nSubject: [samuraihistory] japanese<br/>\n<br/>\n<br/>\nI was just wounding how many people in this group were actually<br/>\njapanese? Just wounding.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nJoin the 2006 Samurai Fiction contest:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a><br/>\n<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\nSamurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n---<br/>\nYahoo! Groups Links</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: japanese",
+            "postDate": "1133858000",
+            "msgId": 8071,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRuM2ljZysybTRqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRuMzNtNitxOHVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8070,
+            "nextInTopic": 8072,
+            "prevInTime": 8070,
+            "nextInTime": 8072,
+            "topicId": 8070,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... As long as nobody dies.",
+            "messageBody": "<div id=\"ygrps-yiv-1127889384\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Ijin Mibu&quot; &lt;ijinmibu@y...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I was just wounding how many people in this group were actually <br/>\n&gt; japanese? Just wounding.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>As long as nobody dies.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 241770376,
+            "authorName": "Ijin Mibu",
+            "from": "&quot;Ijin Mibu&quot; &lt;ijinmibu@...&gt;",
+            "profile": "ijinmibu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "japanese",
+            "postDate": "1133842950",
+            "msgId": 8070,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRuMzNtNitxOHVyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8071,
+            "prevInTime": 8069,
+            "nextInTime": 8071,
+            "topicId": 8070,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was just wounding how many people in this group were actually japanese? Just wounding.",
+            "messageBody": "<div id=\"ygrps-yiv-33300063\">I was just wounding how many people in this group were actually <br/>\njapanese? Just wounding.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8067,
+    "nextTopicId": 8073
+}

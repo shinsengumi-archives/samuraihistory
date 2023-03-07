@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1011211563",
+            "msgId": 491,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDNDVERDJCLkY5RENGNUMxQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDIwMDIwMTE2MTkxMDMzLjQxMTY1LnFtYWlsQHdlYjE0NzAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 490,
+            "nextInTime": 492,
+            "topicId": 491,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I just have a rather eclectic set of interests.  Tony",
+            "messageBody": "<div id=\"ygrps-yiv-1349125079\">Nate Ledbetter wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Tony:<br/>\n&gt;<br/>\n&gt; You, my friend, are truly amazing.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>I just have a rather eclectic set of interests. &lt;G&gt;<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 489,
+    "nextTopicId": 492
+}

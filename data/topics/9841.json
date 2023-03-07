@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 232440797,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;anthony_bryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Corrected link -- BBC episode",
+            "postDate": "1228336491",
+            "msgId": 9841,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA4ODVDQkEwLTk4MEMtNDE4Ni04OTVELUE5REY3NjA5RjM4MUBjb3gubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9840,
+            "nextInTime": 9842,
+            "topicId": 9841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Massive apologies. It s already been pointed out to me that I had a wrong link. HERE is the link to my review of Ieyasu with the screen caps: ",
+            "messageBody": "<div id=\"ygrps-yiv-2031026935\">Massive apologies. It&#39;s already been pointed out to me that I had a  <br/>\nwrong link.<br/>\n<br/>\nHERE is the link to my review of &quot;Ieyasu&quot; with the screen caps:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tousando.proboards18.com/index.cgi?action=display&board=general&thread=538&page=1\">http://tousando.proboards18.com/index.cgi?action=display&board=general&thread=538&page=1</a><br/>\n<br/>\n<br/>\nMy apologies for taking over your in-boxes.<br/>\n<br/>\n<br/>\n<br/>\nEffing-oops</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9840,
+    "nextTopicId": 9736
+}

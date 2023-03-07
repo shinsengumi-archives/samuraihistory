@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 232440797,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;anthony_bryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] I need help.",
+            "postDate": "1170118085",
+            "msgId": 9331,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDMyRkM4OUE1LUUwMDctNDRGOC1CRkE3LUJEMEQwOEE0RkExN0Bjb3gubmV0Pg==",
+                "inReplyToHeader": "PGVwYzRzaisxZm1lQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGVwYzRzaisxZm1lQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9330,
+            "nextInTopic": 0,
+            "prevInTime": 9330,
+            "nextInTime": 9332,
+            "topicId": 9330,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Only in crappy Hollywood movies. Sorry. Tony",
+            "messageBody": "<div id=\"ygrps-yiv-863698482\">On Jan 26, 2007, at 12:51 AM, Craig wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hey guys,<br/>\n&gt;<br/>\n&gt; I need help on something important, its for a short movie im making...<br/>\n&gt; I was wondering if any of you could help me out.<br/>\n&gt;<br/>\n&gt; My story involves two boys undertaking lessons from a sensei near<br/>\n&gt; Kyoto, what i need to know is was there any sort of trial or test to<br/>\n&gt; see which one learned more than the other and claim his sword when he<br/>\n&gt; passed?<br/>\n&gt;<br/>\n </span></blockquote>Only in crappy Hollywood movies.<br/>\n<br/>\nSorry.<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 255329918,
+            "authorName": "Craig",
+            "from": "&quot;Craig&quot; &lt;foxes76133@...&gt;",
+            "profile": "the_katana_page",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "I need help.",
+            "postDate": "1169790675",
+            "msgId": 9330,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwYzRzaisxZm1lQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9331,
+            "prevInTime": 9329,
+            "nextInTime": 9331,
+            "topicId": 9330,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey guys, I need help on something important, its for a short movie im making... I was wondering if any of you could help me out. My story involves two boys",
+            "messageBody": "<div id=\"ygrps-yiv-224196717\">Hey guys,<br/>\n<br/>\nI need help on something important, its for a short movie im making... <br/>\nI was wondering if any of you could help me out.<br/>\n<br/>\nMy story involves two boys undertaking lessons from a sensei near <br/>\nKyoto, what i need to know is was there any sort of trial or test to <br/>\nsee which one learned more than the other and claim his sword when he <br/>\npassed?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9326,
+    "nextTopicId": 9332
+}

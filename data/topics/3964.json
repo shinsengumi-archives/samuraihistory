@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 179990918,
+            "authorName": "kentguy212002",
+            "from": "&quot;kentguy212002&quot; &lt;kentguy212002@...&gt;",
+            "profile": "kentguy212002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "famous samurai",
+            "postDate": "1080047717",
+            "msgId": 3964,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcGQ5NSs1NDdlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3963,
+            "nextInTime": 3965,
+            "topicId": 3964,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "as someone mentioned earlier on famous japanese generals surely adimiral yamamoto is the most well known japanese commander outside of japan. Im usure if his",
+            "messageBody": "<div id=\"ygrps-yiv-678318372\">as someone mentioned earlier on famous japanese generals surely <br/>\nadimiral yamamoto is the most well known japanese commander outside <br/>\nof japan. Im usure if his family history is of any samurai history <br/>\nbut he deserves the same amount of respect.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3959,
+    "nextTopicId": 3980
+}

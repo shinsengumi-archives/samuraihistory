@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 83786328,
+            "authorName": "Dárcio",
+            "from": "=?iso-8859-1?q?D=E1rcio?= &lt;damalpi@...&gt;",
+            "profile": "damalpi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Castle in Toyama",
+            "postDate": "1074513214",
+            "msgId": 3184,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTE5MTE1MzM0Ljg4OTI3LnFtYWlsQHdlYjIwOTE3Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3183,
+            "nextInTime": 3185,
+            "topicId": 3184,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Helo, Hi, Can anyone tell me something about the Toyama Castle. Tks Dárcio. Brazil. ______________________________________________________________________ ",
+            "messageBody": "<div id=\"ygrps-yiv-671282612\">Helo, Hi,<br/>\nCan anyone tell me something about the Toyama Castle.<br/>\n<br/>\nTks<br/>\n<br/>\nDárcio.<br/>\nBrazil.<br/>\n<br/>\n______________________________________________________________________<br/>\n<br/>\nYahoo! GeoCities: a maneira mais fácil de criar seu web site grátis!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://br.geocities.yahoo.com/\">http://br.geocities.yahoo.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3165,
+    "nextTopicId": 3065
+}

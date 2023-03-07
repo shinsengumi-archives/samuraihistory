@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 83369860,
+            "authorName": "Edwin Angulo",
+            "from": "Edwin Angulo &lt;mayalan@...&gt;",
+            "profile": "mayalan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Horses?",
+            "postDate": "1013126191",
+            "msgId": 556,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwMjA3MjM1NjMxLjk4MzgzLnFtYWlsQHdlYjEzMTA3Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDNDNTQxQzIxLjc5MDIwRDM3QG5ldHNjYXBlLmNvbT4="
+            },
+            "prevInTopic": 522,
+            "nextInTopic": 0,
+            "prevInTime": 555,
+            "nextInTime": 557,
+            "topicId": 520,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi!! But what about the takeda cavalry? Edwin. __________________________________________________ Do You Yahoo!? Send FREE Valentine eCards with Yahoo!",
+            "messageBody": "<div id=\"ygrps-yiv-1484291949\">Hi!!<br/>\n<br/>\n But what about the takeda cavalry?<br/>\n<br/>\n Edwin.<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nSend FREE Valentine eCards with Yahoo! Greetings!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://greetings.yahoo.com\">http://greetings.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1611639,
+            "authorName": "chapleau@netscape.com",
+            "from": "chapleau@...",
+            "profile": "JPChapleau",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Horses?",
+            "postDate": "1012145185",
+            "msgId": 522,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDNTQxQzIxLjc5MDIwRDM3QG5ldHNjYXBlLmNvbT4=",
+                "referencesHeader": "PDAwMGMwMWMxYTczMCQzMzYzNTA2MCQ1ODcwNDQ0MkBhdXN0aW4ucnIuY29tPg=="
+            },
+            "prevInTopic": 520,
+            "nextInTopic": 556,
+            "prevInTime": 521,
+            "nextInTime": 523,
+            "topicId": 520,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Oblivion, The answer to your question is yes and no . Japan had very few actual horses. Rather they had ponies, which are much smaller than the horses",
+            "messageBody": "<div id=\"ygrps-yiv-1933995491\">Oblivion wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; In alot of the samurai movies I&#39;ve seen there are very few horses. Were horses scarse in japan? & was it so that only the higher classes could have them?<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Oblivion,<br/>\n    The answer to your question is &#39;yes&#39; and &#39;no&#39;.<br/>\n    Japan had very few actual horses. Rather they had ponies, which are much smaller than the horses seen on the continent.<br/>\n    Also to be taken into account is the arable land needed to graze & raise horse. Which Japan has rather little. So the &#39;warhorse&#39; was usually kept for<br/>\nhigh-ranking people, or the very rich (which many times meant the same thing). Even then horses used were just ponies trained & groomed for war (read a<br/>\nlittle bigger)...  Japanese people are small... :)<br/>\n    Note that I am no authority on this, but those were my 2cents (in euro)<br/>\n<br/>\nJP</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 88686084,
+            "authorName": "Oblivion",
+            "from": "&quot;Oblivion&quot; &lt;oblivion@...&gt;",
+            "profile": "brom_cesare",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Horses?",
+            "postDate": "1012135400",
+            "msgId": 520,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGMwMWMxYTczMCQzMzYzNTA2MCQ1ODcwNDQ0MkBhdXN0aW4ucnIuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 522,
+            "prevInTime": 519,
+            "nextInTime": 521,
+            "topicId": 520,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In alot of the samurai movies I ve seen there are very few horses. Were horses scarse in japan? & was it so that only the higher classes could have them? ",
+            "messageBody": "<div id=\"ygrps-yiv-1743143441\">In alot of the samurai movies I&#39;ve seen there are very few horses. Were horses scarse in japan? & was it so that only the higher classes could have them?<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 553,
+    "nextTopicId": 478
+}

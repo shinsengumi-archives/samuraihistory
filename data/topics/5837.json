@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 26763043,
+            "authorName": "Paul Martin",
+            "from": "&quot;Paul Martin&quot; &lt;pmartin6@...&gt;",
+            "profile": "jin_gai_guy",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Gendai Measurements ;-)",
+            "postDate": "1099157573",
+            "msgId": 5837,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwLUYxMEhoMndMQ1ZZbDQwMDAxZTkzOEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5832,
+            "nextInTime": 5838,
+            "topicId": 5837,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "My American Fellows I was wondering what system do you all use to measure your blades, seeing as no-one really wants to use shaku and Japans secondary unit is",
+            "messageBody": "<div id=\"ygrps-yiv-522788739\">My American Fellows<br/>\n<br/>\nI was wondering what system do you all use to measure your blades, seeing as <br/>\nno-one really wants to use shaku and Japans secondary unit is CMs. I believe <br/>\nthat you are doggedly keeping the feet and inches part of imperialism (as <br/>\nwell as gallons), is this still the case when it comes to Japanese swords, <br/>\nor do you make the exception in this case and use the metric system?<br/>\n<br/>\nPaul</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5831,
+    "nextTopicId": 5838
+}

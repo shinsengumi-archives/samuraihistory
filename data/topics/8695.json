@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: New member.",
+            "postDate": "1146051313",
+            "msgId": 8697,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUybmx0aCtxYXJhQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGUya2JwbitmZG90QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8695,
+            "nextInTopic": 0,
+            "prevInTime": 8696,
+            "nextInTime": 8698,
+            "topicId": 8695,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... You can find all of the ones that are still in print at amazon.co.jp, however the Shingen books look like they are out of print. Uesugi Kenshin is still in",
+            "messageBody": "<div id=\"ygrps-yiv-892324153\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;amilne70&quot; &lt;kenshin@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Greetings. I have just discovered and joined the group. It looks great.<br/>\n&gt; <br/>\n&gt; I was hoping that someone might be able to tell me where I can locate <br/>\n&gt; any books on Samurai in the Japanese &quot;Gakken&quot; series. In particular, I <br/>\n&gt; am looking for books on Uesugi Kenshin and Shingen Takeda. I own just <br/>\n&gt; about everything done on them in english.<br/>\n&gt; <br/>\n&gt; Thanks for any help.<br/>\n&gt; <br/>\n&gt; Danny<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>You can find all of the ones that are still in print at amazon.co.jp,<br/>\nhowever the Shingen books look like they are out of print. Uesugi<br/>\nKenshin is still in print, and you can get it here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/p5nn6\">http://tinyurl.com/p5nn6</a><br/>\n<br/>\nI have ordered quite a bit off amazon.co.jp, the shipping usually runs<br/>\nabout $10, and I get it within 7 days or so.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 51999421,
+            "authorName": "amilne70",
+            "from": "&quot;amilne70&quot; &lt;kenshin@...&gt;",
+            "profile": "amilne70",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "New member.",
+            "postDate": "1145942647",
+            "msgId": 8695,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUya2JwbitmZG90QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8697,
+            "prevInTime": 8694,
+            "nextInTime": 8696,
+            "topicId": 8695,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings. I have just discovered and joined the group. It looks great. I was hoping that someone might be able to tell me where I can locate any books on",
+            "messageBody": "<div id=\"ygrps-yiv-835878631\">Greetings. I have just discovered and joined the group. It looks great.<br/>\n<br/>\nI was hoping that someone might be able to tell me where I can locate <br/>\nany books on Samurai in the Japanese &quot;Gakken&quot; series. In particular, I <br/>\nam looking for books on Uesugi Kenshin and Shingen Takeda. I own just <br/>\nabout everything done on them in english.<br/>\n<br/>\nThanks for any help.<br/>\n<br/>\nDanny</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8685,
+    "nextTopicId": 8698
+}

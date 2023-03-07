@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 206469169,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Kaijudo?",
+            "postDate": "1101953477",
+            "msgId": 5981,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxQUU3OUM1LjMwMjAyQGJsb29taW5ndG9uLmluLnVzPg==",
+                "inReplyToHeader": "PGNvbDJmZCtmazQzQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNvbDJmZCtmazQzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5975,
+            "nextInTopic": 0,
+            "prevInTime": 5980,
+            "nextInTime": 5982,
+            "topicId": 5975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I rather doubt it, as kaiju is a giant monster like Godzilla or Rodan. Tony -- Anthony J. Bryant Website: http://www.sengokudaimyo.com Effingham s",
+            "messageBody": "<div id=\"ygrps-yiv-603314221\">keiman0 wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Anyone know if Kaijudo is an actual martial art? Heard it mentioned <br/>\n&gt;on Duel Masters. Thanks and see ya soon-K&K<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>I rather doubt it, as &quot;kaiju&quot; is a giant monster like Godzilla or Rodan.<br/>\n<br/>\nTony<br/>\n<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff): <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nGrand Cross, Order of the Laurel: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/laurelorder\">http://www.cafepress.com/laurelorder</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 131547598,
+            "authorName": "keiman0",
+            "from": "&quot;keiman0&quot; &lt;KeimanZero@...&gt;",
+            "profile": "keiman0",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kaijudo?",
+            "postDate": "1101925677",
+            "msgId": 5975,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvbDJmZCtmazQzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5981,
+            "prevInTime": 5974,
+            "nextInTime": 5976,
+            "topicId": 5975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone know if Kaijudo is an actual martial art? Heard it mentioned on Duel Masters. Thanks and see ya soon-K&K",
+            "messageBody": "<div id=\"ygrps-yiv-691148751\">Anyone know if Kaijudo is an actual martial art? Heard it mentioned <br/>\non Duel Masters. Thanks and see ya soon-K&K</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5537,
+    "nextTopicId": 6010
+}

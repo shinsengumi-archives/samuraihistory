@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "Christopher West",
+    "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "e8L8WU1a9rOBjHfYNCv_JV6fTbxTkABD0lCo_vLcmGM5TFVtp--QrtXK8LvY7ivleXKBe61eU3-M4-9ix3qShsAvJRz6RmsEiRML8pPLgg",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "new temporary home of the &#39;samurai archives&#39;",
+    "postDate": "998102294",
+    "msgId": 295,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDlsa2tlbStxbXFvQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 296,
+    "prevInTime": 294,
+    "nextInTime": 296,
+    "topicId": 295,
+    "numMessagesInTopic": 6,
+    "msgSnippet": "For the moment, the samurai archives history page can be found here: http://www.angelfire.com/realm/kitsuno01/index.html We should be getting a domain name",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_1); 18 Aug 2001 02:38:18 -0000\r\nReceived: (qmail 57645 invoked from network); 18 Aug 2001 02:38:18 -0000\r\nReceived: from unknown (10.1.10.26)\n  by l10.egroups.com with QMQP; 18 Aug 2001 02:38:18 -0000\r\nReceived: from unknown (HELO n22.groups.yahoo.com) (10.1.2.82)\n  by mta1 with SMTP; 18 Aug 2001 02:38:18 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.63] by cj.egroups.com with NNFMP; 18 Aug 2001 02:38:18 -0000\r\nDate: Sat, 18 Aug 2001 02:38:14 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: new temporary home of the &#39;samurai archives&#39;\r\nMessage-ID: &lt;9lkkem+qmqo@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 438\r\nX-Mailer: eGroups Message Poster\r\nX-eGroups-Announce: yes\r\nFrom: &quot;Christopher West&quot; &lt;kitsuno@...&gt;\r\n\r\nFor the moment, the &#39;samurai archives&#39; history page can be found here:\nhttp://www.angelfire.com/realm/kitsuno01/index.html\nWe should be getting a domain name fairly soon (and a few mirror \nsites as back ups as well).  Please take a look and reply to this \nmessage if you find any broken html links at the above address. for \nthe moment only about 2% of the images are viewable.  We hope to \nremedy that within the next few days.\n\nc. west\n\n\n"
+}

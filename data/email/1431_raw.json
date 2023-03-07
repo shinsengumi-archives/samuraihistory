@@ -1,0 +1,29 @@
+{
+    "userId": 117006241,
+    "authorName": "Kitsuno &lt;cewest@samurai-archives.com&gt;",
+    "from": "&quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;",
+    "profile": "kitsuno",
+    "replyTo": "LIST",
+    "senderId": "v4TsMKqtEzXomn8axXtmzQ7zlsqCPPZXtv5BO9PdbDyypnFLLXOD01WILFua4VH55iAhxpyISRlRnY-gfDBJGHm0ONoW0DtJ1p9nA195JajUjkrVE-0pyUFz4fhhrPwgLMCtcmaAft2aMUWd",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Japanese Fonts",
+    "postDate": "1044496668",
+    "msgId": 1431,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGIxc2ZlcytvNHMzQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 1432,
+    "prevInTime": 1430,
+    "nextInTime": 1432,
+    "topicId": 1431,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "It looks like Japanese fonts (SHIFT-JIS) do work (you just need japanese fonts installed), at least they do show up on the messages on the yahoo page:",
+    "rawEmail": "Return-Path: &lt;cewest@...&gt;\r\nX-Sender: cewest@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-8_2_3_4); 6 Feb 2003 01:58:07 -0000\r\nReceived: (qmail 84214 invoked from network); 6 Feb 2003 01:58:07 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m13.grp.scd.yahoo.com with QMQP; 6 Feb 2003 01:58:07 -0000\r\nReceived: from unknown (HELO n10.grp.scd.yahoo.com) (66.218.66.65)\n  by mta3.grp.scd.yahoo.com with SMTP; 6 Feb 2003 01:58:06 -0000\r\nReceived: from [66.218.67.138] by n10.grp.scd.yahoo.com with NNFMP; 06 Feb 2003 01:57:51 -0000\r\nDate: Thu, 06 Feb 2003 01:57:48 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Japanese Fonts\r\nMessage-ID: &lt;b1sfes+o4s3@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 242\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;\r\nX-Yahoo-Group-Post: member; u=117006241\r\nX-Yahoo-Profile: kitsuno\r\n\r\nIt looks like Japanese fonts (SHIFT-JIS) do work (you just need \njapanese fonts installed), at least they do show up on the messages \non the yahoo page: http://groups.yahoo.com/group/samuraihistory/\nThey might not show up in the emails.\nFYI.\n\n\n"
+}

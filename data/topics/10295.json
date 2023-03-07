@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 191762531,
+            "authorName": "michaelmsloan",
+            "from": "&quot;michaelmsloan&quot; &lt;msloan@...&gt;",
+            "profile": "michaelmsloan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "slighty off topic- can anyone translate a Japanese phrase for me?",
+            "postDate": "1301244545",
+            "msgId": 10295,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGltbnBxMSthY2UzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10294,
+            "nextInTime": 10296,
+            "topicId": 10295,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We speak of Jitsu and do , referring to an art or way of doing the arts. Does beyond the way translate int Japanese, and if so, what would the translation",
+            "messageBody": "<div id=\"ygrps-yiv-402560893\">We speak of &quot;Jitsu&quot; and &quot;do&quot;, referring to an art or way of doing the arts.<br/>\nDoes &quot;beyond the way&quot; translate int Japanese, and if so, what would the translation be?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10286,
+    "nextTopicId": 10296
+}

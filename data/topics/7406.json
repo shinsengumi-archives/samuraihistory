@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 228003118,
+            "authorName": "HavocDemon",
+            "from": "&quot;HavocDemon&quot; &lt;meta_ridley@...&gt;",
+            "profile": "meta_ridley",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Help with weapon info",
+            "postDate": "1122452051",
+            "msgId": 7406,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRjN2ZvaitvZnQ1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7405,
+            "nextInTime": 7407,
+            "topicId": 7406,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was woundering if anyone would be able to point me into the direction of a website that has pictures and info on most fuedal era weapons, I am big on martial",
+            "messageBody": "<div id=\"ygrps-yiv-1035868666\">I was woundering if anyone would be able to point me into the <br/>\ndirection of a website that has pictures and info on most fuedal era <br/>\nweapons, I am big on martial arts weapons and I want a site that <br/>\ncarries as much info on them as I can find. I have been looking up <br/>\nspecific weapons but there are more about weapons I havent see yet <br/>\nthat I want to learn about. So any help would be greatly appreciated.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7359,
+    "nextTopicId": 7402
+}

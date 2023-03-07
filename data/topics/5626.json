@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 179655450,
+            "authorName": "Edward Alexander",
+            "from": "Edward Alexander &lt;edyhiphop@...&gt;",
+            "profile": "edyhiphop",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "School in Japan",
+            "postDate": "1096461415",
+            "msgId": 5626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwOTI5MTIzNjU2LjIyOTcwLnFtYWlsQHdlYjYxMTAyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5625,
+            "nextInTime": 5627,
+            "topicId": 5626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since the big vacation has ended(for me,at least),and all the kids started school(exception:Japan;they start much earlier) reminds me one thing. In the Sengoku",
+            "messageBody": "<div id=\"ygrps-yiv-1943799751\">Since the big vacation has ended(for me,at least),and all the kids started school(exception:Japan;they start much earlier) reminds me one thing.<br/>\nIn the Sengoku or the Tokugawa dinasty,in Japan existed schools?????<br/>\nI&#39;m very interested about this thing.<br/>\n <br/>\nEdy<br/>\n<br/>\n<br/>\nEddy<br/>\n<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nNew and Improved Yahoo! Mail - Send 10MB messages!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5609,
+    "nextTopicId": 5557
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 55069340,
+            "authorName": "Richardson Paul",
+            "from": "Richardson Paul &lt;umaryu@...&gt;",
+            "profile": "umaryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hojutsu firerms",
+            "postDate": "1097751616",
+            "msgId": 5768,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMDE0MTEwMDE2LjIyOTQ1LnFtYWlsQHdlYjI1MTA5Lm1haWwudWtsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PGNrbDBjYytoaDAwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5767,
+            "nextInTopic": 0,
+            "prevInTime": 5767,
+            "nextInTime": 5769,
+            "topicId": 5767,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi start with Morishige ryu Paul ... I have just come read about a phrase called Hojutsu and it refered to firearm training. Does anybody know anything about",
+            "messageBody": "<div id=\"ygrps-yiv-1947137779\">Hi<br/>\n<br/>\nstart with Morishige ryu<br/>\n<br/>\nPaul<br/>\n<br/>\n<br/>\n--- wayne docimo &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kellylindawd@...\">kellylindawd@...</a>&gt; wrote:<br/>\n<br/>\n<br/>\n---------------------------------<br/>\n<br/>\n<br/>\nI have just come read about a phrase called Hojutsu<br/>\nand it refered <br/>\nto firearm training.<br/>\nDoes anybody know anything about where i can find out<br/>\nmore <br/>\ninformation about this subject.<br/>\n<br/>\n<br/>\nThanks <br/>\n<br/>\n<br/>\nWayne<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\nSamurai Archives store:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n---<br/>\n<br/>\n<br/>\nYahoo! Groups Sponsor  ADVERTISEMENT<br/>\n <br/>\n<br/>\n---------------------------------<br/>\nYahoo! Groups Links<br/>\n<br/>\n   To visit your group on the web, go to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n <br/>\n   To unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n <br/>\n   Your use of Yahoo! Groups is subject to the Yahoo!<br/>\nTerms of Service.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n_______________________________<br/>\nDo you Yahoo!?<br/>\nDeclare Yourself - Register online to vote today!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://vote.yahoo.com\">http://vote.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 197795373,
+            "authorName": "wayne docimo",
+            "from": "&quot;wayne docimo&quot; &lt;kellylindawd@...&gt;",
+            "profile": "kellylindawd",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hojutsu firerms",
+            "postDate": "1097729228",
+            "msgId": 5767,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNrbDBjYytoaDAwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5768,
+            "prevInTime": 5766,
+            "nextInTime": 5768,
+            "topicId": 5767,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just come read about a phrase called Hojutsu and it refered to firearm training. Does anybody know anything about where i can find out more information",
+            "messageBody": "<div id=\"ygrps-yiv-1213351933\">I have just come read about a phrase called Hojutsu and it refered <br/>\nto firearm training.<br/>\nDoes anybody know anything about where i can find out more <br/>\ninformation about this subject.<br/>\n<br/>\n<br/>\nThanks <br/>\n<br/>\n<br/>\nWayne</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5755,
+    "nextTopicId": 5754
+}

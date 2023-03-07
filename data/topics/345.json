@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "HeT0IaYB0XHU0iovjmJXA6W95ej3uwc_ocyxn0XWX1GZm4zhsFhcxsyhVQRv3h8kFGpNsGp4UguDgUnxdH8rAzNA6kSlpDObEhtu",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "GASSAN TODA CASTLE 17 APRIL 1565",
+            "postDate": "1003491252",
+            "msgId": 345,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNzQwMWMxNTg5MiQxMjdmODBlMCRmMGM1ZmVhOUB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PDlxZDk2dis2dnFoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 344,
+            "nextInTime": 346,
+            "topicId": 345,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Fellas, Just trawling - check this out: http://members.aol.com/kllrkatnas/todascen.htm Regards, Barry Thomas (Melbourne, Australia)",
+            "messageBody": "<div id=\"ygrps-yiv-308268207\">Hi Fellas,<br/>\n <br/>\nJust trawling - check this out:<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://members.aol.com/kllrkatnas/todascen.htm\">http://members.aol.com/kllrkatnas/todascen.htm</a><br/>\n <br/>\nRegards,<br/>\n <br/>\nBarry Thomas<br/>\n(Melbourne, Australia)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 344,
+    "nextTopicId": 346
+}

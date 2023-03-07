@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 441581358,
+            "authorName": "franoisboutry",
+            "from": "&quot;franoisboutry&quot; &lt;franoisboutry@...&gt;",
+            "profile": "franoisboutry",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sugi clan",
+            "postDate": "1270823407",
+            "msgId": 10151,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhwbmRsZisyMWhuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10150,
+            "nextInTime": 10152,
+            "topicId": 10151,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Who is able to supply info on the Sugi family ? They were major vassal of the Ôuchi and had more than one branch. I find in my files Sugi Shigeaki in 1399,",
+            "messageBody": "<div id=\"ygrps-yiv-143111546\">Who is able to supply info on the Sugi family ? They were major vassal of the Ôuchi and had more than one branch. I find in my files Sugi Shigeaki in 1399, his grandson Yoriaki in 1413. Later, around 1480/90, Sugi Shigetaka, Shigechika and Takemichi were high officials of the Ôuchi. At the beginning of the XVIe century, some were among counsellors of the Ôuchi&#39;s head (Shigenori, Okinaga) while others served as shugodai of Buzen and Chikuzen. In 1528, for instance, Okitsura, son of Okifusa, was shugodai of Chikuzen but two years later, the shugodai of that province seems to have been Okikazu. At the time of the fall of the Ôuchi, the counsellor Sugi Shigemasa revolted and joined Sue while Sugi Okitsura choose to die like his master Ôuchi Yoshitaka in 1551. In 1554, a Sugi Takayasu was killed in Chikugo, fighting against Môri Motonari. All this is a bit confusing and I would be glad to understand the relationship between those various members of the Sugi clan as well as their history. Thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10147,
+    "nextTopicId": 10158
+}

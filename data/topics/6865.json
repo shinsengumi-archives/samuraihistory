@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Samurai Fiction 2005",
+            "postDate": "1111992766",
+            "msgId": 6865,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyODlqdStlOG52QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6864,
+            "nextInTime": 6866,
+            "topicId": 6865,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "We are now down to the final 24 hours to join the contest: http://www.samurai-archives.com/writcon.html Thanks!",
+            "messageBody": "<div id=\"ygrps-yiv-326025606\">We are now down to the final 24 hours to join the contest:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon.html\">http://www.samurai-archives.com/writcon.html</a><br/>\n<br/>\nThanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6853,
+    "nextTopicId": 6866
+}

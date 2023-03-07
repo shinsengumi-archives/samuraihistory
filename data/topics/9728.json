@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "Swords for Sale",
+            "postDate": "1207972355",
+            "msgId": 9728,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEY3MzA1RTdBLUI1QzItNEMwNy05NjBBLTk0MDRGQUE3NTQ0M0B0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9727,
+            "nextInTime": 9729,
+            "topicId": 9728,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A friend has these items up for sale feel free to check em out... http://search.ebay.com/_W0QQsassZmccoyweb Tom Helm toryu@toryu-mon.com Moriamur, et in media",
+            "messageBody": "<div id=\"ygrps-yiv-945782554\">A friend has these items up for sale feel free to check em out...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://search.ebay.com/_W0QQsassZmccoyweb\">http://search.ebay.com/_W0QQsassZmccoyweb</a><br/>\n<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamas&quot;<br/>\n- Virgil<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9726,
+    "nextTopicId": 9729
+}

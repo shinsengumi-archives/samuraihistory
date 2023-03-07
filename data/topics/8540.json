@@ -1,0 +1,41 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "shikisokuzekukusokuzeshiki8",
+            "from": "&quot;shikisokuzekukusokuzeshiki8&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Youtube",
+            "postDate": "1142433256",
+            "msgId": 8540,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR2OThsOCtzc3MwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8539,
+            "nextInTime": 8541,
+            "topicId": 8540,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anybody like Youtube? I found this movie. Short Samurai Epic http://www.youtube.com/watch?v=qFiCPwTu3G8 Why all the guys wearing Chinese costume?",
+            "messageBody": "<div id=\"ygrps-yiv-1221288569\">Anybody like Youtube?<br/>\nI found this movie.<br/>\n<br/>\nShort Samurai Epic <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.youtube.com/watch?v=qFiCPwTu3G8\">http://www.youtube.com/watch?v=qFiCPwTu3G8</a><br/>\n<br/>\nWhy all the guys wearing Chinese costume?</div>",
+            "specialLinks": [
+                {
+                    "url": "http://www.youtube.com/embed/qFiCPwTu3G8?wmode=opaque",
+                    "type": "VIDEO"
+                }
+            ]
+        }
+    ],
+    "prevTopicId": 8525,
+    "nextTopicId": 8531
+}

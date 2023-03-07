@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134400959,
+            "authorName": "amuneward@aol.com",
+            "from": "amuneward@...",
+            "profile": "patton2takeda",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(no subject)",
+            "postDate": "1072914576",
+            "msgId": 2993,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJkLjNhZTU3M2VmLjJkMjRiYTkwQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2992,
+            "nextInTime": 2994,
+            "topicId": 2993,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To Cepo and everyone else-----Mele Kalikimaka a Hau oli Makahiki Hou!!! Amuneward & Eiko [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-729930986\">To Cepo and everyone else-----Mele Kalikimaka a Hau&#39;oli Makahiki Hou!!!<br/>\n<br/>\n                                        Amuneward & Eiko<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2986,
+    "nextTopicId": 2994
+}

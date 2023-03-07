@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 179990918,
+            "authorName": "kentguy212002",
+            "from": "&quot;kentguy212002&quot; &lt;kentguy212002@...&gt;",
+            "profile": "kentguy212002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "honour,duty and loyalty",
+            "postDate": "1080216621",
+            "msgId": 4018,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzdWk3ZCs3bHFtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4017,
+            "nextInTime": 4019,
+            "topicId": 4018,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "to many people seem to assume that self presevation is honor to defend isnt honour uts the right to exist. Duty is however you personally feel u will do what",
+            "messageBody": "<div id=\"ygrps-yiv-955603736\">to many people seem to assume that self presevation is honor to <br/>\ndefend isnt honour uts the right to exist. Duty is however you <br/>\npersonally feel u will do what is expected and demanded of you in a <br/>\ntime of need.Loyalty to have a cause thatt your loyal to that is true <br/>\nhonour. To many people think samurai are super human honourable <br/>\ndashing chracters and that just doesnt exist. akira kurosawas films <br/>\naimed at showing this. True honour comes from within the fight for <br/>\nwhat you feel is right not some rich war lord that sends you to war <br/>\nto inrich his estates. Anyway im in kyoto in two months ne one got ne <br/>\ngood sites to see</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4016,
+    "nextTopicId": 4009
+}

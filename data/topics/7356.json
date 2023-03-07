@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 188869672,
+            "authorName": "Shane Suebsahakarn",
+            "from": "&quot;Shane Suebsahakarn&quot; &lt;shanesuebsahakarn@...&gt;",
+            "profile": "naomasa298",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Leeds Royal Armouries Shogun seminars & activities",
+            "postDate": "1122277273",
+            "msgId": 7356,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRjMjUycCsxbjViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7355,
+            "nextInTime": 7357,
+            "topicId": 7356,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I believe Kitsuno has already posted regarding the Shogun exhibition currently on at the Leeds Royal Armouries in the UK. The Armouries is holding a",
+            "messageBody": "<div id=\"ygrps-yiv-44454462\">I believe Kitsuno has already posted regarding the Shogun exhibition <br/>\ncurrently on at the Leeds Royal Armouries in the UK.<br/>\n<br/>\nThe Armouries is holding a professional seminar on August 17th on <br/>\nJapanese arms & armour collection and display. From the Armouries <br/>\nwebsite:<br/>\n&quot;Aimed at Museum professionals with Japanese arms and armour <br/>\ncollections, the sessions will include guidance on identification, <br/>\nconservation, and display. Attendees will be able to see Shogun and <br/>\nreceive an exhibition catalogue as part of their ticket price. Must be <br/>\npre-booked.&quot;<br/>\n<br/>\nIn addition, the Armouries are putting on displays of yabusame every <br/>\nWednesday and Thursday as well as demonstrations of calligraphy, <br/>\nsuiboku and ikebana, amongst other things.<br/>\n<br/>\nA family oriented sleep-over event is scheduled for August 13th.<br/>\n<br/>\nI&#39;ll be visiting the exhibition this week and I&#39;ll post with details.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7347,
+    "nextTopicId": 7324
+}

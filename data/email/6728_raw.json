@@ -1,0 +1,31 @@
+{
+    "userId": 209852236,
+    "authorName": "Falc",
+    "from": "Falc &lt;daitaka@...&gt;",
+    "profile": "soshidaitaka",
+    "replyTo": "LIST",
+    "senderId": "gp2kPEQJpnyfWhoI7C4czpqCMEEGMPqqs53JTxZR_VYFLx75Kop2jUDlEhkTTUzW2yy7E0gErmNGWhRzo-5P",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Other query",
+    "postDate": "1109321337",
+    "msgId": 6728,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDQyMUVFNjc5LjcwNTA5MDRAZ21haWwuY29tPg==",
+        "inReplyToHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg=="
+    },
+    "prevInTopic": 6726,
+    "nextInTopic": 6747,
+    "prevInTime": 6727,
+    "nextInTime": 6729,
+    "topicId": 6702,
+    "numMessagesInTopic": 18,
+    "msgSnippet": "... I did indeed see the kanji as you typed it after switching to shift-jis encoding. The problem there was that I have three possible japanese encodings, only",
+    "rawEmail": "Return-Path: &lt;daitaka@...&gt;\r\nReceived: (qmail 32497 invoked from network); 26 Feb 2005 00:06:17 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m8.grp.scd.yahoo.com with QMQP; 26 Feb 2005 00:06:17 -0000\r\nReceived: from unknown (HELO n19a.bulk.scd.yahoo.com) (66.94.237.48)\n  by mta6.grp.scd.yahoo.com with SMTP; 26 Feb 2005 00:06:17 -0000\r\nReceived: from [66.218.69.2] by n19.bulk.scd.yahoo.com with NNFMP; 26 Feb 2005 00:06:17 -0000\r\nReceived: from [66.218.66.71] by mailer2.bulk.scd.yahoo.com with NNFMP; 26 Feb 2005 00:06:17 -0000\r\nX-Sender: daitaka@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 42750 invoked from network); 25 Feb 2005 09:26:07 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m25.grp.scd.yahoo.com with QMQP; 25 Feb 2005 09:26:07 -0000\r\nReceived: from unknown (HELO mirapoint5.brutele.be) (212.68.199.150)\n  by mta5.grp.scd.yahoo.com with SMTP; 25 Feb 2005 09:26:07 -0000\r\nReceived: from [192.168.0.134] (213.189.176.51.brutele.be [213.189.176.51] (may be forged))\n\tby mirapoint5.brutele.be (MOS 3.4.7-GR)\n\twith ESMTP id BQT72286 (AUTH ldebuyst);\n\tFri, 25 Feb 2005 09:48:54 +0100 (CET)\r\nMessage-ID: &lt;421EE679.7050904@...&gt;\r\nDate: Fri, 25 Feb 2005 09:48:57 +0100\r\nUser-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)\r\nX-Accept-Language: en-us, en\r\nMIME-Version: 1.0\r\nTo: samuraihistory@yahoogroups.com\r\nReferences: &lt;20050225061744.10133.qmail@...&gt;\r\nIn-Reply-To: &lt;20050225061744.10133.qmail@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-Junkmail-Status: score=11/50, host=mirapoint5.brutele.be\r\nX-eGroups-Remote-IP: 212.68.199.150\r\nFrom: Falc &lt;daitaka@...&gt;\r\nSubject: Re: [samuraihistory] Other query\r\nX-Yahoo-Group-Post: member; u=209852236\r\nX-Yahoo-Profile: soshidaitaka\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: ltdomer98 &lt;ltdomer98@...&gt; via web; 26 Feb 2005 00:05:51 -0000\r\nX-eGroups-Remote-IP: 66.94.237.48\r\n\r\n\nNate Ledbetter wrote:\n&gt; CRIMINY, what is with you people and UNICODE? LOL. If\n&gt; you&#39;ve got Japanese fonts installed, mine should have\n&gt; shown up fine under Shift-JIS or Japanese\n&gt; (Auto-Select). Unicode is completely impractical if\n&gt; you actually type in Japanese, which I frequently do\n&gt; (not all that WELL, mind you). Try adjusting your\n&gt; encoding and you&#39;ll see it fine. There was no &quot;tried&quot;\n&gt; there--I did. \n\nI did indeed see the kanji as you typed it after switching to shift-jis \nencoding. The problem there was that I have three possible japanese \nencodings, only one of which displays correctly, plus unicode. 4 checks \njust to get one character... I haven&#39;t been getting enough sleep lately, \nso I&#39;ll just blame it on that.\n\n&gt; Of course, I can also see your entries--I have to go\n&gt; to Unicode to do so, though. And it completely messes\n&gt; up every single webpage for a while. But to answer\n&gt; your question, yes the link you provided is the one I\n&gt; typed. \n\nI copy/pasted my entries from the website. Apparently Thunderbird \nautomatically turned my entire message into utf-8 after that, probably \nbecause the site was in unicode. I have next to no experience typing \njapanese, so I don&#39;t really know what would have happened had I typed it.\n\n-- \nFalc\n\n\n\n\n"
+}

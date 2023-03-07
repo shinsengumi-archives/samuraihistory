@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 121914315,
+            "authorName": "lethalfromage",
+            "from": "&quot;lethalfromage&quot; &lt;jpjarvis@...&gt;",
+            "profile": "lethalfromage",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sasaki Rokkaku",
+            "postDate": "1094508155",
+            "msgId": 5465,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNoaW1wcitsaXQxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5464,
+            "nextInTime": 5466,
+            "topicId": 5465,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. I m trying to find information about the Sasaki clan, that was based in Southern Omi, until the Oda restored Yoshiaki to Kyoto in 1568. Searching on",
+            "messageBody": "<div id=\"ygrps-yiv-864817469\">Hi. I&#39;m trying to find information about the Sasaki clan, that was <br/>\nbased in Southern Omi, until the Oda restored Yoshiaki to Kyoto in <br/>\n1568. Searching on various search engines including Google has <br/>\nproven futile, and the little I have gleaned of this clan I have <br/>\nfound in Eiji Yoshikawa&#39;s excellent Taiko. Could anyone point me in <br/>\nthe right direction please?<br/>\n<br/>\nThanks,<br/>\nJP</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5464,
+    "nextTopicId": 5467
+}

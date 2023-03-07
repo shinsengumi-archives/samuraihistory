@@ -1,0 +1,126 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2033889,
+    "listId": 2247946,
+    "dateCreated": 1131125231,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "Can Karate students (with samurai discipline and tradition) be considered modern samurai?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14858038,
+            "selectionText": "Yes, because of their discipline",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14858038,
+                    "surveyId": 2033889,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 14858038,
+                    "surveyId": 2033889,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14858038,
+                    "surveyId": 2033889,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                },
+                {
+                    "selectionId": 14858038,
+                    "surveyId": 2033889,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14858039,
+            "selectionText": "No, karateka are no samurai",
+            "selections": 11,
+            "responses": [
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 332735523,
+                    "guid": "A7WLVOOW52L4FQELWKF7MPOYEQ",
+                    "nickname": "stevethomp47",
+                    "email": "stevethomp47@yahoo.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 257071481,
+                    "guid": "SMVX6CBJRMSOAXW64AXVEOJNPI",
+                    "nickname": "nonojnet",
+                    "email": "nonojnet@gmail.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 158578907,
+                    "email": "nuqwIjatlh@hotmail.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 14858039,
+                    "surveyId": 2033889,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 15,
+    "previousSurveyId": 2034741,
+    "nextSurveyId": 2033884
+}

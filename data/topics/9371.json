@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "MORE ON JAPANESE & SAMURAI HISTORY",
+            "postDate": "1171938947",
+            "msgId": 9371,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzMwMWM3NTQ5NyRkNTI3MGU5MCQwMjAwYThjMEBiYXJyeXRvcGd1bj4=",
+                "referencesHeader": "PGVxOTI2cytqYmphQGVHcm91cHMuY29tPiA8MDA4YzAxYzc0ZTM2JGUzOTZmNDcwJDAyMDBhOGMwQGJhcnJ5dG9wZ3VuPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9370,
+            "nextInTime": 9372,
+            "topicId": 9371,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, I ve just discovered this little gem about the history of Namban tetsu (foreign steel) in Japanese history and the involvement of the Dutch V.O.C.",
+            "messageBody": "<div id=\"ygrps-yiv-1162391826\">All,<br/>\n<br/>\nI&#39;ve just discovered this little gem about the history of Namban tetsu (foreign steel) in Japanese history and the involvement of the Dutch V.O.C. Company.  Namban tetsu was used in the making of swords and so recorded on the sword tang.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tokensugita.com/NT.htm\">http://tokensugita.com/NT.htm</a><br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 203,
+    "nextTopicId": 9373
+}

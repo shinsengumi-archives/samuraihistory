@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63938881,
+            "authorName": "Luis-Gabriel Leal",
+            "from": "&quot;Luis-Gabriel Leal&quot; &lt;nwojapanthug@...&gt;",
+            "profile": "nwojapanthug",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Magoichi Saika",
+            "postDate": "1088833799",
+            "msgId": 4734,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjNWhlNytrNW92QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4733,
+            "nextInTime": 4735,
+            "topicId": 4734,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was going through the web when I found a film about Magoichi Saika. Intrigued I dug around a bit. Much to my chagrin, I cannot find anything historical about",
+            "messageBody": "<div id=\"ygrps-yiv-1728977081\">I was going through the web when I found a film about Magoichi Saika. <br/>\nIntrigued I dug around a bit. Much to my chagrin, I cannot find <br/>\nanything historical about him.<br/>\n<br/>\nHelp?<br/>\n<br/>\nGabriel</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4723,
+    "nextTopicId": 4728
+}

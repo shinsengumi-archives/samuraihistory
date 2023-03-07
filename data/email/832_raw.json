@@ -1,0 +1,30 @@
+{
+    "userId": 111666678,
+    "authorName": "Juan Rodriguez",
+    "from": "Juan Rodriguez &lt;ryer71@...&gt;",
+    "profile": "ryer71",
+    "replyTo": "LIST",
+    "senderId": "svtxD6CLr-uWnXcaJC1lgTp0L9GP8L6CHubdJzi3YPnFPKQGwTVgFH_YQUFUjlZTB2uCwEMQ33iA0i3xcEDhJ0X3fcwNhs5q",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] A Period in Japanese History",
+    "postDate": "1020436010",
+    "msgId": 832,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDIwNTAzMTQyNjUwLjcxMjk5LnFtYWlsQHdlYjIxMDEwLm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PDNDRDE5RTQ1LjRCMEJCRUU5QGluZGlhbmEuZWR1Pg=="
+    },
+    "prevInTopic": 831,
+    "nextInTopic": 834,
+    "prevInTime": 831,
+    "nextInTime": 833,
+    "topicId": 814,
+    "numMessagesInTopic": 14,
+    "msgSnippet": "Tony, Gee, thanx. Maybe I should give up? Juan",
+    "rawEmail": "Return-Path: &lt;ryer71@...&gt;\r\nReceived: (qmail 74867 invoked from network); 4 May 2002 03:53:02 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m3.grp.scd.yahoo.com with QMQP; 4 May 2002 03:53:02 -0000\r\nReceived: from unknown (HELO n25.grp.scd.yahoo.com) (66.218.66.81)\n  by mta2.grp.scd.yahoo.com with SMTP; 4 May 2002 03:53:01 -0000\r\nX-eGroups-Return: ryer71@...\r\nReceived: from [66.218.67.157] by n25.grp.scd.yahoo.com with NNFMP; 04 May 2002 03:53:01 -0000\r\nX-eGroups-Approved-By: kitsuno &lt;kitsuno@...&gt; via web; 04 May 2002 03:53:01 -0000\r\nX-Sender: ryer71@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-8_0_3_1); 3 May 2002 14:26:55 -0000\r\nReceived: (qmail 80709 invoked from network); 3 May 2002 14:26:54 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m5.grp.scd.yahoo.com with QMQP; 3 May 2002 14:26:54 -0000\r\nReceived: from unknown (HELO web21010.mail.yahoo.com) (216.136.227.64)\n  by mta1.grp.scd.yahoo.com with SMTP; 3 May 2002 14:26:53 -0000\r\nMessage-ID: &lt;20020503142650.71299.qmail@...&gt;\r\nReceived: from [199.82.243.71] by web21010.mail.yahoo.com via HTTP; Fri, 03 May 2002 07:26:50 PDT\r\nDate: Fri, 3 May 2002 07:26:50 -0700 (PDT)\r\nSubject: Re: [samuraihistory] A Period in Japanese History\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;3CD19E45.4B0BBEE9@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nFrom: Juan Rodriguez &lt;ryer71@...&gt;\r\nX-Yahoo-Group-Post: member; u=111666678\r\nX-Yahoo-Profile: ryer71\r\nX-eGroups-Edited-By: kitsuno@...\r\n\r\nTony,\n\n     Gee, thanx. Maybe I should give up?\n\n                              Juan\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 208791144,
+            "authorName": "masamune@prodigy.net.mx",
+            "from": "masamune@...",
+            "profile": "miurapatrick69",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Respuesta: Re: [samuraihistory] hi",
+            "postDate": "1106107664",
+            "msgId": 6554,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDdmN2MyODQ4NWEuODQ4NWE3ZjdjMkBwcm9kaWd5Lm5ldC5teD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6553,
+            "nextInTime": 6555,
+            "topicId": 6554,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like to more about the Miura clan can any body help me out? Pat [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-447682911\">I would like to more about the Miura clan <br/>\ncan any body help me out?<br/>\n<br/>\nPat<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6501,
+    "nextTopicId": 6489
+}

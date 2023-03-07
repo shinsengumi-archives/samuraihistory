@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 130998285,
+            "authorName": "Mark Arsenault",
+            "from": "Mark Arsenault &lt;taisho@...&gt;",
+            "profile": "goldrushg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: book recommendations",
+            "postDate": "1091908579",
+            "msgId": 5105,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMS4xLjEuMi4yMDA0MDgwNzEyNTQ1Mi4wMjgwZDA3MEBtYWlsLnNlbmdva3UuY29tPg==",
+                "inReplyToHeader": "PDEwOTE4ODM2ODguMjA5Mi40MTIxNi5tMjRAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwOTE4ODM2ODguMjA5Mi40MTIxNi5tMjRAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5087,
+            "nextInTopic": 0,
+            "prevInTime": 5104,
+            "nextInTime": 5106,
+            "topicId": 5076,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "On 06:01 AM 8/7/04, samuraihistory@yahoogroups.com said... ... You bet. Here s a list of books we used as reference for our Sengoku book: ",
+            "messageBody": "<div id=\"ygrps-yiv-150166670\">On 06:01 AM 8/7/04, <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a> said...<br/>\n<blockquote><span title=\"ireply\"> &gt;I was wondering if anyone here could recommend some books on samurai history.<br/>\n<br/>\n </span></blockquote>   You bet. Here&#39;s a list of books we used as reference for our Sengoku book:<br/>\n<br/>\n   <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com/bibl.html\">http://www.sengoku.com/bibl.html</a><br/>\n<br/>\n<br/>\n    Mark Arsenault<br/>\n    Sengoku List Taisho<br/>\n    ----------------------------------------------<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com\">http://www.sengoku.com</a> - The official site of the Sengoku RPG!</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] book recommendations",
+            "postDate": "1091830126",
+            "msgId": 5087,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA2MjIwODQ2LjgyNTE3LnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNmMHAxcStnY3FkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5076,
+            "nextInTopic": 5105,
+            "prevInTime": 5086,
+            "nextInTime": 5088,
+            "topicId": 5076,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Where to begin? I d start with www.samurai-archives.com, and go to the recommended reading page. All the books I d recommend off the top of my head are",
+            "messageBody": "<div id=\"ygrps-yiv-662213150\">--- ascal_elessar &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ascal_elessar@...\">ascal_elessar@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I was wondering if anyone here could recommend some<br/>\n&gt; books on samurai <br/>\n&gt; history. I&#39;ve only just developed an interest in<br/>\n&gt; this subject and am <br/>\n&gt; looking for a book which can give my a general<br/>\n&gt; background. Are there <br/>\n&gt; any particular books or authors that you would<br/>\n&gt; recommend? <br/>\n&gt; <br/>\n&gt; Thank you, in advance, for your help.<br/>\n<br/>\n </span></blockquote>Where to begin? I&#39;d start with<br/>\nwww.samurai-archives.com, and go to the recommended<br/>\nreading page. All the books I&#39;d recommend off the top<br/>\nof my head are there, plus a lot more. <br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 192591274,
+            "authorName": "ascal_elessar",
+            "from": "&quot;ascal_elessar&quot; &lt;ascal_elessar@...&gt;",
+            "profile": "ascal_elessar",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "book recommendations",
+            "postDate": "1091823482",
+            "msgId": 5076,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmMHAxcStnY3FkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5087,
+            "prevInTime": 5075,
+            "nextInTime": 5077,
+            "topicId": 5076,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering if anyone here could recommend some books on samurai history. I ve only just developed an interest in this subject and am looking for a book",
+            "messageBody": "<div id=\"ygrps-yiv-1713193801\">I was wondering if anyone here could recommend some books on samurai <br/>\nhistory. I&#39;ve only just developed an interest in this subject and am <br/>\nlooking for a book which can give my a general background. Are there <br/>\nany particular books or authors that you would recommend? <br/>\n<br/>\nThank you, in advance, for your help.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5009,
+    "nextTopicId": 5120
+}

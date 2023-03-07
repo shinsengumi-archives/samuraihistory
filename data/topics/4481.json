@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 158256369,
+            "authorName": "Fabros1",
+            "from": "&quot;Fabros1&quot; &lt;fabros1@...&gt;",
+            "profile": "martinisword9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NOBUNADA Article in Military Heritage Magazine",
+            "postDate": "1086491882",
+            "msgId": 4481,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxODEwMWM0NGI3NCRlYmEwYTVjMCQ2NDAxYThjMEBWYWlvRzMyPg==",
+                "referencesHeader": "PGM5c3FqbCtjZ3VpQGVHcm91cHMuY29tPiA8NDBDMjY4NUIuMjA3MDgwMUBpbmRpYW5hLmVkdT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4480,
+            "nextInTime": 4482,
+            "topicId": 4481,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Speaking of the devil, the August 2004 copy of Military Heritage Magazine has an article on the most ruthless samurai, Oda Nobunaga. [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-1286880746\">Speaking of the devil, the August 2004 copy of Military Heritage Magazine has an article on the most ruthless samurai, Oda Nobunaga.<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4462,
+    "nextTopicId": 4420
+}

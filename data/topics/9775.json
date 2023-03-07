@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 205429628,
+            "authorName": "jonathan ellgen",
+            "from": "jonathan ellgen &lt;jpellgen@...&gt;",
+            "profile": "jpellgen",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Flickr Japanese History photo group",
+            "postDate": "1222270249",
+            "msgId": 9788,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU5ODY2NS43NTU2NC5xbUB3ZWIzMDAwMi5tYWlsLm11ZC55YWhvby5jb20+",
+                "inReplyToHeader": "PGZkMTk5M2ZlMDgwOTI0MDYxMnM3YjkxYjE0NGw2ZGJhZTM0NzFmMGFlNDU0QG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 9786,
+            "nextInTopic": 0,
+            "prevInTime": 9787,
+            "nextInTime": 9789,
+            "topicId": 9775,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have several photos on Flickr that I will be adding. If you need any admins, I am willing to help out. k kobayakawa  wrote:",
+            "messageBody": "<div id=\"ygrps-yiv-2028892840\">I have several photos on Flickr that I will be adding. If you need any admins, I am willing to help out.<br/>\n<br/>\n<br/>\n<br/>\nk kobayakawa &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kobaya635@...\">kobaya635@...</a>&gt; wrote:                             There are already 356 pics!<br/>\n Thank you!!<br/>\n <br/>\n shikisoku<br/>\n <br/>\n 2008/8/11 Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;:<br/>\n<blockquote><span title=\"ireply\">  &gt; I&#39;ve created a Japanese history photo group on Flickr, to display<br/>\n &gt; photos of historical things and locations in Japan:<br/>\n &gt;<br/>\n &gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.flickr.com/groups/japanesehistory/\">http://www.flickr.com/groups/japanesehistory/</a><br/>\n &gt;<br/>\n &gt; If you have a flickr page, and have images of Japan, join up! I&#39;d<br/>\n &gt; like to collect together images of the historic places, temples,<br/>\n &gt; castles, scenery, etc.<br/>\n &gt;<br/>\n &gt; <br/>\n <br/>\n     <br/>\n                                       <br/>\n<br/>\n<br/>\n </span></blockquote>Jonathan P. Ellgen<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://flickr.com/photos/jpellgen/\">http://flickr.com/photos/jpellgen/</a><br/>\n<br/>\n<br/>\n<br/>\n       <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 255258164,
+            "authorName": "k kobayakawa",
+            "from": "&quot;k kobayakawa&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Flickr Japanese History photo group",
+            "postDate": "1222261978",
+            "msgId": 9786,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkMTk5M2ZlMDgwOTI0MDYxMnM3YjkxYjE0NGw2ZGJhZTM0NzFmMGFlNDU0QG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGc3bzZsYytrbTRrQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGc3bzZsYytrbTRrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9775,
+            "nextInTopic": 9788,
+            "prevInTime": 9785,
+            "nextInTime": 9787,
+            "topicId": 9775,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There are already 356 pics! Thank you!! shikisoku",
+            "messageBody": "<div id=\"ygrps-yiv-1543441218\">There are already 356 pics!<br/>\nThank you!!<br/>\n<br/>\nshikisoku<br/>\n<br/>\n2008/8/11 Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;:<br/>\n<blockquote><span title=\"qreply\"> &gt; I&#39;ve created a Japanese history photo group on Flickr, to display<br/>\n&gt; photos of historical things and locations in Japan:<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.flickr.com/groups/japanesehistory/\">http://www.flickr.com/groups/japanesehistory/</a><br/>\n&gt;<br/>\n&gt; If you have a flickr page, and have images of Japan, join up! I&#39;d<br/>\n&gt; like to collect together images of the historic places, temples,<br/>\n&gt; castles, scenery, etc.<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Flickr Japanese History photo group",
+            "postDate": "1218420204",
+            "msgId": 9775,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGc3bzZsYytrbTRrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9786,
+            "prevInTime": 9774,
+            "nextInTime": 9776,
+            "topicId": 9775,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve created a Japanese history photo group on Flickr, to display photos of historical things and locations in Japan: ",
+            "messageBody": "<div id=\"ygrps-yiv-1285522811\">I&#39;ve created a Japanese history photo group on Flickr, to display<br/>\nphotos of historical things and locations in Japan:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.flickr.com/groups/japanesehistory/\">http://www.flickr.com/groups/japanesehistory/</a><br/>\n<br/>\nIf you have a flickr page, and have images of Japan, join up!  I&#39;d<br/>\nlike to collect together images of the historic places, temples,<br/>\ncastles, scenery, etc.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9785,
+    "nextTopicId": 9795
+}

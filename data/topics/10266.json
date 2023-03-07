@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "S-A Samurai Fiction Contest 2010 Deadline Extended",
+            "postDate": "1290373083",
+            "msgId": 10266,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGljYzE0citobnI5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10265,
+            "nextInTime": 10267,
+            "topicId": 10266,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The deadline for the 2010 Samurai Fiction writing contest has been extended to December 18th, 2010: http://bit.ly/bf1Faq Prizes supplied by Animeigo.com.",
+            "messageBody": "<div id=\"ygrps-yiv-2108413163\">The deadline for the 2010 Samurai Fiction writing contest has been extended to December 18th, 2010: <a rel=\"nofollow\" target=\"_blank\" href=\"http://bit.ly/bf1Faq\">http://bit.ly/bf1Faq</a><br/>\n<br/>\nPrizes supplied by Animeigo.com.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10263,
+    "nextTopicId": 10233
+}

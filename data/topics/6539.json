@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190836730,
+            "authorName": "Shay A.",
+            "from": "&quot;Shay A.&quot; &lt;shay_alspach@...&gt;",
+            "profile": "shay_alspach",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Online Sekigahara Battle Maps?",
+            "postDate": "1105828970",
+            "msgId": 6539,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzYzY5YStkN3NwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6538,
+            "nextInTime": 6540,
+            "topicId": 6539,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know if there is a good online source force Sekigahara battle maps...like troop movements and such? I know of books with the maps in them I am just",
+            "messageBody": "<div id=\"ygrps-yiv-44373090\">Does anyone know if there is a good online source force Sekigahara<br/>\nbattle maps...like troop movements and such? <br/>\n<br/>\nI know of books with the maps in them I am just curious to know if<br/>\nthere are any good online sources.<br/>\n<br/>\n-THANKS</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6533,
+    "nextTopicId": 6493
+}

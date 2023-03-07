@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Yakking swords",
+            "postDate": "1103264903",
+            "msgId": 6351,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxQzI3Qzg3LjEwMDA2MDBAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMDMyMTgwMDMuMzc5OC41ODczLm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMDMyMTgwMDMuMzc5OC41ODczLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6350,
+            "nextInTime": 6352,
+            "topicId": 6351,
+            "numMessagesInTopic": 0,
+            "msgSnippet": " If I had a sword that talked to me, I d sell it or melt it down. Sheesh, how obnoxious, like the cars the tell you your door is a jar! .",
+            "messageBody": "<div id=\"ygrps-yiv-120267482\">&lt;smart aleck mode on&gt;<br/>\n<br/>\nIf I had a sword that talked to me, I&#39;d sell it or melt it down. Sheesh, <br/>\nhow obnoxious, like the cars the tell you &quot;your door is a jar!&quot;. No, <br/>\nit&#39;s still a door. Imagine, &quot;That last blow was high and to the left&quot;, <br/>\n&quot;No style!&quot; or &quot;I&#39;m not a golf club you know!&quot;.<br/>\n<br/>\nRings however....<br/>\n<br/>\n&lt;smart aleck mode off&gt;<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5845,
+    "nextTopicId": 6211
+}

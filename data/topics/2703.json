@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168384166,
+            "authorName": "tetsuodeo01",
+            "from": "&quot;tetsuodeo01&quot; &lt;tetsuodeo01@...&gt;",
+            "profile": "tetsuodeo01",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Member",
+            "postDate": "1070846167",
+            "msgId": 2703,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJyMGpjbitsdTdiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2702,
+            "nextInTime": 2704,
+            "topicId": 2703,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi My name is Tetsuo i always been learning about eastern philosophy and Teachings,After i have  seen a old Samurai movie it has captured my EYE.I come to you",
+            "messageBody": "<div id=\"ygrps-yiv-114304033\">Hi<br/>\nMy name is Tetsuo i always been learning about eastern philosophy and <br/>\nTeachings,After i have  seen a old Samurai movie it has captured my <br/>\nEYE.I come to you all as a Student and in Hopeing you will help me <br/>\nunderstand and  Leanr about the Samurai HISTORY.I am Glad im able to <br/>\nbe part of your community.I would like if i can start meeting you all <br/>\nit would be very fun.<br/>\n<br/>\n    <br/>\n                              Thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2700,
+    "nextTopicId": 2708
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 131547598,
+            "authorName": "keiman0",
+            "from": "&quot;keiman0&quot; &lt;KeimanZero@...&gt;",
+            "profile": "keiman0",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:Oscar Nominations for TLS",
+            "postDate": "1078177755",
+            "msgId": 3891,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMyMGI0citzZDlyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3890,
+            "nextInTime": 3892,
+            "topicId": 3891,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Congrats to Ken Watanabe for being nominated for Best supporting actor. Congrats to everyone who worked so hard to make The last Samurai a success. Especially",
+            "messageBody": "<div id=\"ygrps-yiv-586876403\">Congrats to Ken Watanabe for being nominated for Best supporting <br/>\nactor. Congrats to everyone who worked so hard to make The last <br/>\nSamurai a success. Especially Tom Cruise who got shafted by not even <br/>\nbeing nominated. And congrats to everyone who worked so hard on The <br/>\nTwilight Samurai which should have won Best foreign language film for <br/>\nJapan. Better luck next year hazu!-Keiman and Kei.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3889,
+    "nextTopicId": 3869
+}

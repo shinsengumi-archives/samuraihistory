@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Tattoos",
+            "postDate": "1158447061",
+            "msgId": 9061,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlaHY0bCs5aTA1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQ1MDBEOTFELjUwMDA2MDZAY29tY2FzdC5uZXQ+"
+            },
+            "prevInTopic": 9059,
+            "nextInTopic": 0,
+            "prevInTime": 9060,
+            "nextInTime": 9062,
+            "topicId": 419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... LOL! Priceless!",
+            "messageBody": "<div id=\"ygrps-yiv-680112362\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, James Eckman<br/>\n&lt;ronin_engineer@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; At least in Japan, respectable people don&#39;t get tattoos...<br/>\n&gt; <br/>\n&gt; Jim<br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>LOL! Priceless!</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Tattoos",
+            "postDate": "1157683485",
+            "msgId": 9059,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ1MDBEOTFELjUwMDA2MDZAY29tY2FzdC5uZXQ+"
+            },
+            "prevInTopic": 419,
+            "nextInTopic": 9061,
+            "prevInTime": 9058,
+            "nextInTime": 9060,
+            "topicId": 419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "At least in Japan, respectable people don t get tattoos... Jim",
+            "messageBody": "<div id=\"ygrps-yiv-421770706\">At least in Japan, respectable people don&#39;t get tattoos...<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 67449315,
+            "authorName": "fifthchamber@aol.com",
+            "from": "fifthchamber@...",
+            "profile": "fifthchamber",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Tattoos",
+            "postDate": "1007567299",
+            "msgId": 419,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzLjFhMzYzYjdhLjI5M2Y5YmMzQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9059,
+            "prevInTime": 418,
+            "nextInTime": 420,
+            "topicId": 419,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, The use of Tattooing in the past in Japan was and still is to a degree not the sort of thing that respectable types use. By this I mean that in the ",
+            "messageBody": "<div id=\"ygrps-yiv-408544056\">Hello,<br/>\n The use of Tattooing in the past in Japan was and still is to a degree not <br/>\nthe sort of thing that &#39;respectable&#39; types use. By this I mean that in the <br/>\npast the tatto was used as one method in the &#39;five tortures&#39; to brand a <br/>\nperson who was convicted of a crime..The samurai themselves would not have <br/>\nbeen tattooed unless they had been inprisoned or marked by the authorities in <br/>\nthis way..i.e. if he was Ronin it would be a possibility that he was tattooed <br/>\nbut otherwise it would be incredibly unlikely and if he was then it would <br/>\ncertainly be hidden from sight.<br/>\n Tattooing is still viewed along these same lines in Japan today..although <br/>\nwith the &#39;westernization&#39; of Japans youth it is becoming more acceptable..The <br/>\nTattoo is often associated with the Yakuza clans and various &#39;disreputable&#39; <br/>\ntypes rather than the business classes and the same ideas were more in force <br/>\nduring the past in Japan.<br/>\n Hope this helps ya!<br/>\n Abayo.<br/>\n Ben.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9048,
+    "nextTopicId": 9062
+}

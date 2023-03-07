@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 469667635,
+            "authorName": "joemontgomery85",
+            "from": "&quot;joemontgomery85&quot; &lt;joemontgomery85@...&gt;",
+            "profile": "joemontgomery85",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Urban Samurai",
+            "postDate": "1292299203",
+            "msgId": 10272,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGllNnE0Myt0djVkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10271,
+            "nextInTime": 10273,
+            "topicId": 10272,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I began researching the samurai a few months ago. I found this yahoo group. I found a bunch of resources online. I stumbled upon this blog called urban",
+            "messageBody": "<div id=\"ygrps-yiv-2053989280\">I began researching the samurai a few months ago. I found this yahoo group. I found a bunch of resources online. I stumbled upon this blog called urban samurai. where this guy takes passages from samurai books and gives his interpretation. while it&#39;s not really helping me in my research, some of them are great. very inspiring. <br/>\n<br/>\nthought I would share one. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.urbansamurai.com/2010/11/negative-thought/\">http://www.urbansamurai.com/2010/11/negative-thought/</a><br/>\n<br/>\nregards,<br/>\nJoe</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10233,
+    "nextTopicId": 10273
+}

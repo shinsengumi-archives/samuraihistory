@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] new here",
+            "postDate": "1059318675",
+            "msgId": 2002,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwOGJiNDk5YmY0OTY1NEBbMTkyLjE2OC4xNzMuMTY2XT4=",
+                "inReplyToHeader": "PDAwMWIwMWMzNTNmMCQ5Y2Y4OThhMCQ5MTM1NDYxOEBkYXZleWg0ajM4OGExZT4=",
+                "referencesHeader": "PDAwMWIwMWMzNTNmMCQ5Y2Y4OThhMCQ5MTM1NDYxOEBkYXZleWg0ajM4OGExZT4="
+            },
+            "prevInTopic": 2000,
+            "nextInTopic": 0,
+            "prevInTime": 2001,
+            "nextInTime": 2003,
+            "topicId": 2000,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would say the most brilliant General was the Korean Admiral... -t [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-151108385\">I would say the most brilliant &quot;General&quot; was the Korean Admiral...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 129395873,
+            "authorName": "Dave Jackson",
+            "from": "Dave Jackson &lt;nihontonut@...&gt;",
+            "profile": "nihontonut",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new here",
+            "postDate": "1059277138",
+            "msgId": 2000,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWIwMWMzNTNmMCQ5Y2Y4OThhMCQ5MTM1NDYxOEBkYXZleWg0ajM4OGExZT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2002,
+            "prevInTime": 1999,
+            "nextInTime": 2001,
+            "topicId": 2000,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all this is my first posting to this group, but I have been lurking on the nihonto list for some time and I have noticed a few familiar names from that",
+            "messageBody": "<div id=\"ygrps-yiv-2124106794\">Hi all this is my first posting to this group, but I have been lurking on the nihonto list for some time and I have noticed<br/>\na few familiar names from that group are here as well. I am very much interested in Japanese history and I look forward to <br/>\nlearning all I can on the subject. To keep this on topic, who do you think was the most tallented general in the Korean<br/>\ninvasions.........my vote is for Kato Kiyomasa. I would be interested to here your views on the subject.<br/>\n<br/>\nBest Regards Dave <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1986,
+    "nextTopicId": 2003
+}

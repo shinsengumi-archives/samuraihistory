@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 99632433,
+            "authorName": "benporter2002",
+            "from": "&quot;benporter2002&quot; &lt;benporter@...&gt;",
+            "profile": "benporter2002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Muromachi Period",
+            "postDate": "1014325088",
+            "msgId": 587,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE1M24xMCtvZ2JoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 586,
+            "nextInTime": 588,
+            "topicId": 587,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am researching the later part of the Muromachi period from 1439 to 1453 and am having trouble locating any in-depth readings. At the moment I am looking for",
+            "messageBody": "<div id=\"ygrps-yiv-179363896\">I am researching the later part of the Muromachi period from <br/>\n1439 to 1453 and am having trouble locating any in-depth <br/>\nreadings.<br/>\nAt the moment I am looking for information surrounding <br/>\nImagawa Noritada(1406-1441), in particular his associates and <br/>\ndeath in 1441.  I would be interested to know if he had any <br/>\ninvolvement at the Yuuki Castle battles in 1441 or the <br/>\nassassination of Shogun Yoshinori in the same year.<br/>\n<br/>\nAny information including links and books, you could give me <br/>\nwould be most appreciated.<br/>\n<br/>\nBen.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 586,
+    "nextTopicId": 604
+}

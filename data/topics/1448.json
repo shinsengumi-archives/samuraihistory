@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134400959,
+            "authorName": "amuneward@aol.com",
+            "from": "amuneward@...",
+            "profile": "patton2takeda",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(no subject)",
+            "postDate": "1044726370",
+            "msgId": 1448,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJmLjJkZGUwNGQxLjJiNzY5YzYyQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1447,
+            "nextInTime": 1449,
+            "topicId": 1448,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I believe it is a 1993 productio by kodakawa. Blockbuster has it  and will sell the videocassette for $89. I ve never heard of it in anothter title or on dvd.",
+            "messageBody": "<div id=\"ygrps-yiv-1499653106\">I believe it is a 1993 productio by kodakawa. Blockbuster has it  and <br/>\nwill sell the videocassette for $89. I&#39;ve never heard of it in anothter title <br/>\nor on dvd. Good luck. If you do find on dvd please e-mail me.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1437,
+    "nextTopicId": 1449
+}

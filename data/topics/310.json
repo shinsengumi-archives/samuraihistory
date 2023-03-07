@@ -1,0 +1,126 @@
+{
+    "totalMsgInTopic": 4,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "William Letham",
+            "from": "&quot;William Letham&quot; &lt;samuraiw@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "4F0Jg5Efq_XMtpOwAk03D1-24AiKf4bssZ1Hks9wihOQ-RUxHfuqQUMwE879rzrmTieBrBxjS118Fm68qQcLrN0QRf3JMQyKwMw9QaBJbNR8FoW5",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] musashi site",
+            "postDate": "1001427888",
+            "msgId": 335,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjkwMWMxNDVkYyRmMjliYzEyMCQ4MGI4OGJhM0BuZS5qcD4=",
+                "referencesHeader": "PDAwMGIwMWMxNDU0NiQ0ZWRmYzY4MCRiYTYwNDJjM0BMb2NhbEhvc3Q+"
+            },
+            "prevInTopic": 334,
+            "nextInTopic": 0,
+            "prevInTime": 334,
+            "nextInTime": 336,
+            "topicId": 310,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I got to the main page but couln t get the biography page open ... From:  To: SAMURAI HISTORY  Sent:",
+            "messageBody": "<div id=\"ygrps-yiv-1714887715\">I got to the main page but couln&#39;t get the biography page open<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:amphipolis@...\">amphipolis@...</a>&gt;<br/>\nTo: SAMURAI HISTORY &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Tuesday, September 25, 2001 7:14 AM<br/>\nSubject: [samuraihistory] musashi site<br/>\n<br/>\n<br/>\n&gt; Hi folks,<br/>\n&gt; Please let me know if the Musashi site:<br/>\n&gt; www.crosswinds.net/~musashi1584/<br/>\n&gt; is on line again.<br/>\n&gt;<br/>\n&gt; thanks,<br/>\n&gt; amph.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.angelfire.com/realm/kitsuno01/index.html\">http://www.angelfire.com/realm/kitsuno01/index.html</a><br/>\n&gt; ---<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Your use of Yahoo! Groups is subject to <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a><br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "tom.davidson@realtime.co.uk",
+            "from": "tom.davidson@...",
+            "replyTo": "LIST",
+            "senderId": "8FSNSEQbuPXeL50M05akW-2LrriWIi3Sk2rZ1pDQJAcMQfDNoqmMGzNKSUs4NWRxn75GeG6--WtVN4nyaO_G5nt4",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: musashi site",
+            "postDate": "1001413138",
+            "msgId": 334,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlvcGxtaStkZHQwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMGIwMWMxNDU0NiQ0ZWRmYzY4MCRiYTYwNDJjM0BMb2NhbEhvc3Q+"
+            },
+            "prevInTopic": 333,
+            "nextInTopic": 335,
+            "prevInTime": 333,
+            "nextInTime": 335,
+            "topicId": 310,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes it appears so. Thomas",
+            "messageBody": "<div id=\"ygrps-yiv-509299729\">Yes it appears so.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "Zz9xQy_-UKRc0tVUOon3_ndb0dO_by7jWua-V4_5yl2BpkdVVlDj7pesagOGgZSQjYf_cNaadkmHi4YS_WhtuEchBxCkhzPhNE-w9y3Pa-Mchtoj",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "musashi site",
+            "postDate": "1001369680",
+            "msgId": 333,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWMxNDU0NiQ0ZWRmYzY4MCRiYTYwNDJjM0BMb2NhbEhvc3Q+"
+            },
+            "prevInTopic": 310,
+            "nextInTopic": 334,
+            "prevInTime": 332,
+            "nextInTime": 334,
+            "topicId": 310,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi folks, Please let me know if the Musashi site: www.crosswinds.net/~musashi1584/ is on line again. thanks, amph.",
+            "messageBody": "<div id=\"ygrps-yiv-606617322\">Hi folks,<br/>\nPlease let me know if the Musashi site:<br/>\nwww.crosswinds.net/~musashi1584/<br/>\nis on line again.<br/>\n<br/>\nthanks,<br/>\namph.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "mz1eQO9Ruol_CUjzi4AxQ60vhxvtOtMvCYouXNW5PWmzLmbAQGfdjjSSR5zRV8kZix_yF3dZ6UbrXnku9EIfhc7418xor14cnnLeiKUjDm_4VUch",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: musashi site",
+            "postDate": "999442303",
+            "msgId": 310,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDgwMWMxMzNiZSRlYjg0M2YwMCQ3NjYwNDJjM0BkZWZhdWx0Pg==",
+                "referencesHeader": "PDk5OTQzNjc3OC4yNTIuNzY4ODMubDEwQHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 333,
+            "prevInTime": 309,
+            "nextInTime": 311,
+            "topicId": 310,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Check out this and let me know your opinion: MIYAMOTO MUSASHI, the man behind the legend http://www.crosswinds.net/~musashi1584/ amphipolis",
+            "messageBody": "<div id=\"ygrps-yiv-1109172045\">Check out this and let me know your opinion:<br/>\n<br/>\nMIYAMOTO MUSASHI, the man behind the legend<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.crosswinds.net/~musashi1584/\">http://www.crosswinds.net/~musashi1584/</a><br/>\n<br/>\namphipolis<br/>\n<br/>\n-------------------------------------------<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt; Message: 1<br/>\n&gt;    Date: Sat, 01 Sep 2001 23:38:53 -0000<br/>\n&gt;    From: &quot;Christopher West&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kitsuno@...\">kitsuno@...</a>&gt;<br/>\n&gt; Subject: Miyamoto Musashi website<br/>\n&gt; <br/>\n&gt; A while back someone emailed me a link to a good history page on <br/>\n&gt; Miyamoto Musashi, which I lost almost immediately after taking a <br/>\n&gt; look - anyone have any links to Musashi out there...? </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 326,
+    "nextTopicId": 336
+}

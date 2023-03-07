@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "k kobayakawa",
+            "from": "&quot;k kobayakawa&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "TV program:The Japanese favorite greatest people 100",
+            "postDate": "1147233008",
+            "msgId": 8743,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkMTk5M2ZlMDYwNTA5MjA1MGs0OTY4ZDM0N2k2NDU2ZGEyN2Y5MzUyMDZkQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8742,
+            "nextInTime": 8744,
+            "topicId": 8743,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Did anybody watch the show? http://www.ntv.co.jp/ijin/ Here is the top 10 ranking. 1.Oda Nobunaga 2.Sakamoto Ryouma 3.Edison 4.Toyotomi Hideyoshi 5.Matsushita",
+            "messageBody": "<div id=\"ygrps-yiv-1918744158\">Did anybody watch the show? <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ntv.co.jp/ijin/\">http://www.ntv.co.jp/ijin/</a><br/>\nHere is the top 10 ranking.<br/>\n1.Oda Nobunaga<br/>\n2.Sakamoto Ryouma<br/>\n3.Edison<br/>\n4.Toyotomi Hideyoshi<br/>\n5.Matsushita Kounosuke<br/>\n6.Tokugawa Ieyasu<br/>\n7.Noguchi Hideyo<br/>\n8.Mother Teresa<br/>\n9.Helen Keller<br/>\n10.Hijikata Toshizo<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nshikisokuzeku</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8741,
+    "nextTopicId": 8737
+}

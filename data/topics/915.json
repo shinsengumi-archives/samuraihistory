@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 110648548,
+            "authorName": "ggouveia312000",
+            "from": "&quot;ggouveia312000&quot; &lt;ggouveia@...&gt;",
+            "profile": "ggouveia312000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Ashigaru & Sashimono",
+            "postDate": "1025585630",
+            "msgId": 923,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFmcmJrdStxbHJzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGFmcThtZSs3bmlvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 915,
+            "nextInTopic": 0,
+            "prevInTime": 922,
+            "nextInTime": 924,
+            "topicId": 915,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Some Ashigaru were supplied with Sashimono by their Daimyo. Some Daimyo did not. Uniformed ashigaru seemed to be used during the main period of Sengoku",
+            "messageBody": "<div id=\"ygrps-yiv-1487750450\">--- In samuraihistory@y..., &quot;kingscarbine&quot; &lt;headburner@h...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi,<br/>\n&gt; <br/>\n&gt; Can anyone tell me if the Ashigaru wore or not Sashimono in battle? <br/>\n&gt; Was there a specific number of Sashimono per unit? What Ashigaru <br/>\n&gt; units were more likely to wear them? <br/>\n&gt; <br/>\n&gt; Thanks,<br/>\n&gt; <br/>\n&gt; Nuno Pereira<br/>\n<br/>\n<br/>\n </span></blockquote>Some Ashigaru were supplied with Sashimono by their Daimyo. Some <br/>\nDaimyo did not. Uniformed ashigaru seemed to be used during the main <br/>\nperiod of Sengoku about 1570-1600. My dates might be a bit off but it <br/>\nseems to me to coincide with the rise of professional ashigaru during <br/>\nthe later years. Each ashigaru would have one if so organized.<br/>\n<br/>\nBTW is your real name Nuno Pereira??? I ask because I am Portuguese <br/>\nand that name rings a bell regarding a general by I believe the same <br/>\nname during the wars vs Castille in the late 14 th century.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1777520,
+            "authorName": "kingscarbine",
+            "from": "&quot;kingscarbine&quot; &lt;headburner@...&gt;",
+            "profile": "kingscarbine",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ashigaru & Sashimono",
+            "postDate": "1025549838",
+            "msgId": 915,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFmcThtZSs3bmlvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 923,
+            "prevInTime": 914,
+            "nextInTime": 916,
+            "topicId": 915,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Can anyone tell me if the Ashigaru wore or not Sashimono in battle? Was there a specific number of Sashimono per unit? What Ashigaru units were more likely",
+            "messageBody": "<div id=\"ygrps-yiv-693021573\">Hi,<br/>\n<br/>\nCan anyone tell me if the Ashigaru wore or not Sashimono in battle? <br/>\nWas there a specific number of Sashimono per unit? What Ashigaru <br/>\nunits were more likely to wear them? <br/>\n<br/>\nThanks,<br/>\n<br/>\nNuno Pereira</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 914,
+    "nextTopicId": 905
+}

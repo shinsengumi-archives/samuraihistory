@@ -1,0 +1,184 @@
+{
+    "totalMsgInTopic": 6,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "876R1nzNddR9NoEmTZaInLEla8LV1d-pJ4js5wYRReahPbcGgWVdDlyoBaBpd500c79e0ZNLlsPiYqy7o-6cZrzC1j9rK5SgD9PSIGz-_vaw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: genji invite",
+            "postDate": "980033713",
+            "msgId": 56,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNBNkEyMEIxLkRDRUJEMEU3QGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PGQ5LmYyNWM1ODYuMjc5YWY0OTlAYW9sLmNvbT4="
+            },
+            "prevInTopic": 54,
+            "nextInTopic": 0,
+            "prevInTime": 55,
+            "nextInTime": 57,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Ah, you re coming? Good. I m going to be sponsoring a Japanese tournament there; bring your gear.  AJB/Effingham",
+            "messageBody": "<div id=\"ygrps-yiv-1838542611\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Arashisan@...\">Arashisan@...</a> wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; In a message dated 1/19/01 3:52:35 PM Pacific Standard Time,<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ajbryant@...\">ajbryant@...</a> writes:<br/>\n&gt;<br/>\n&gt; &lt;&lt; I had a sneaky feeling you&#39;d be around here somewhere. &lt;G&gt; &gt;&gt;<br/>\n&gt;<br/>\n&gt;   Honored Bryant-dono I had a feeling Id run into you again.  Heard you might<br/>\n&gt; be at Pennsic? Been to 10 Estrella&#39;s but never a Pennsic, it&#39;ll be my first.<br/>\n&gt; :-)<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Ah, you&#39;re coming? Good.<br/>\n<br/>\nI&#39;m going to be sponsoring a Japanese tournament there; bring your gear. &lt;G&gt;<br/>\n<br/>\n<br/>\nAJB/Effingham</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Arashisan@aol.com",
+            "from": "Arashisan@...",
+            "replyTo": "LIST",
+            "senderId": "YGg5zT5no8RUg7MSx6Zlf0oMht3XMmBOKOu6Qu8QxoNUO9mH-rxY5IsP_C2QiCn-cu5AVHhliDU",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: genji invite",
+            "postDate": "979999385",
+            "msgId": 54,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ5LmYyNWM1ODYuMjc5YWY0OTlAYW9sLmNvbT4="
+            },
+            "prevInTopic": 53,
+            "nextInTopic": 56,
+            "prevInTime": 53,
+            "nextInTime": 55,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In a message dated 1/19/01 3:52:35 PM Pacific Standard Time, ajbryant@indiana.edu writes: ",
+            "messageBody": "<div id=\"ygrps-yiv-366499338\">In a message dated 1/19/01 3:52:35 PM Pacific Standard Time, <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ajbryant@...\">ajbryant@...</a> writes:<br/>\n<br/>\n&lt;&lt; I had a sneaky feeling you&#39;d be around here somewhere. &lt;G&gt; &gt;&gt;<br/>\n<br/>\n  Honored Bryant-dono I had a feeling Id run into you again.  Heard you might <br/>\nbe at Pennsic? Been to 10 Estrella&#39;s but never a Pennsic, it&#39;ll be my first. <br/>\n:-)<br/>\n<br/>\nArashinaga</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Dgaijin@aol.com",
+            "from": "Dgaijin@...",
+            "replyTo": "LIST",
+            "senderId": "v4_ohzSeoPReXseRxPMUzCHhvShv2RFegkGO0JbY2aS2UdxvW4042IDfAGZ6HsOSRGFIYtaK",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: genji invite",
+            "postDate": "979960025",
+            "msgId": 53,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE3LmFmYWIxODIuMjc5YTVhZGFAYW9sLmNvbT4="
+            },
+            "prevInTopic": 50,
+            "nextInTopic": 54,
+            "prevInTime": 52,
+            "nextInTime": 54,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "interesting",
+            "messageBody": "<div id=\"ygrps-yiv-1505364220\">interesting</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "E3EyoxkPdpWvX9I8if-rbK7f7OPLz-hdOlxaDjOsPHWb3utHTmLSI_lyZloNutfDHfG1TCSKNFnWC9Y4VIq1vJVGjFB1Z6Ij9gaqsw4mDW-H",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: genji invite",
+            "postDate": "979688090",
+            "msgId": 50,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0MmxxcSs0czA2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDkzcmlmdStncDI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 48,
+            "nextInTopic": 53,
+            "prevInTime": 49,
+            "nextInTime": 51,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I had a sneaky feeling you d be around here somewhere.  Effingham/AJ Bryant",
+            "messageBody": "<div id=\"ygrps-yiv-844198825\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@egroups.com\">samuraihistory@egroups.com</a>, &quot;Arashinaga Minamoto&quot; &lt;Arashisan@a...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Greetings. Check out Clan genji. Were not a Dojo but a bunch of people <br/>\n&gt; just doing what we like. We fight heavy weapons, full contact in <br/>\n&gt; another club but our chapter of history reenactment portrays a Bushi <br/>\n&gt; house from feudal Japan.  <br/>\n<br/>\n<br/>\n </span></blockquote>I had a sneaky feeling you&#39;d be around here somewhere. &lt;G&gt;<br/>\n<br/>\n<br/>\nEffingham/AJ Bryant</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "anubis6784@hotmail.com",
+            "from": "anubis6784@...",
+            "replyTo": "LIST",
+            "senderId": "nH4lK4Do5XMg58q7H7v255zcc8jF7XFpcA2R2nTI01P2V_D-f0NY_z2-CDlG-yEB92c4JEm7K_qo1rvIbA",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: genji invite",
+            "postDate": "979610043",
+            "msgId": 48,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0MDlqcitlY3VoQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDkzcmlmdStncDI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 47,
+            "nextInTopic": 50,
+            "prevInTime": 47,
+            "nextInTime": 49,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Are there any clans like that around Delaware, Maryland and Pensylvania? Also is there an age limit? how old do you have to be to join?",
+            "messageBody": "<div id=\"ygrps-yiv-1902978405\">Are there any clans like that around Delaware, Maryland and <br/>\nPensylvania? Also is there an age limit? how old do you have to be to <br/>\njoin?</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Arashinaga Minamoto",
+            "from": "&quot;Arashinaga Minamoto&quot; &lt;Arashisan@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "N4aHg0eRX6iqoNObmxW7oV6KSfzrk7dCvar4_KcU4WiomxaT9Ogu9LpwnxGRatmT8fCvOhZppamXhTqVP7hzGs1ntGPcZZlfuT146ux7oig",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "genji invite",
+            "postDate": "979455294",
+            "msgId": 47,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkzcmlmdStncDI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 48,
+            "prevInTime": 46,
+            "nextInTime": 48,
+            "topicId": 47,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greetings. Check out Clan genji. Were not a Dojo but a bunch of people just doing what we like. We fight heavy weapons, full contact in another club but our",
+            "messageBody": "<div id=\"ygrps-yiv-1826797648\">Greetings. Check out Clan genji. Were not a Dojo but a bunch of people <br/>\njust doing what we like. We fight heavy weapons, full contact in <br/>\nanother club but our chapter of history reenactment portrays a Bushi <br/>\nhouse from feudal Japan.  Combat is full contact war.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://members.aol.com/arashisan\">http://members.aol.com/arashisan</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 51,
+    "nextTopicId": 62
+}

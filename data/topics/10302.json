@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Battle of Nagashino and Its Context in the Military Revolution",
+            "postDate": "1304551397",
+            "msgId": 10302,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGlwc241NSs1OWFnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10301,
+            "nextInTime": 10303,
+            "topicId": 10302,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "S-A Podcast Episode 1 - The Battle of Nagashino and Its Context in the Military Revolution (Part 1) http://bit.ly/joENXo Our first podcast of our new series,",
+            "messageBody": "<div id=\"ygrps-yiv-1072949572\">S-A Podcast Episode 1 - The Battle of Nagashino and Its Context in the Military Revolution (Part 1)<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://bit.ly/joENXo\">http://bit.ly/joENXo</a><br/>\n<br/>\nOur first podcast of our new series, The Battle of Nagashino and Its Context in the Military Revolution examines the battle of Nagashino, and how it fits in to the &quot;Military Revolution&quot; theory supported by historians such as Geoffrey Parker and Delmar Brown.  We examine the history of the battle, the biases of the sources, the &quot;accepted&quot; history of the battle of Nagashino, and where this all fits in the context of the Military Revolution theory.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10300,
+    "nextTopicId": 10303
+}

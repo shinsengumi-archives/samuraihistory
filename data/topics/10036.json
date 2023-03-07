@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 425751663,
+            "authorName": "wolfspirit776",
+            "from": "&quot;wolfspirit776&quot; &lt;wolfspirit776@...&gt;",
+            "profile": "wolfspirit776",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Samurai Warriors",
+            "postDate": "1261324583",
+            "msgId": 10038,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhnbGhmNytxa29xQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGhna21yNCtramtoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 10037,
+            "nextInTopic": 0,
+            "prevInTime": 10037,
+            "nextInTime": 10039,
+            "topicId": 10036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "ok. i was just wondering. thank you.",
+            "messageBody": "<div id=\"ygrps-yiv-18763466\">ok. i was just wondering. thank you.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;kurotatsunoshi&quot; &lt;ayamechiba@...&gt; wrote:<br/>\n&gt;<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;wolfspirit776&quot; &lt;wolfspirit776@&gt; wrote:<br/>\n&gt; &gt;<br/>\n&gt; &gt; hey everyone!<br/>\n&gt; &gt; <br/>\n&gt; &gt; im a big fan of the samurai warriors genre. is the basis of the game true to the real history of the era?<br/>\n&gt; &gt;<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; The names of the commanders and battles are taken from history, although there are a lot of &quot;what-if&quot; battles. Everything else is pretty much fanatsy.<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 102344422,
+            "authorName": "kurotatsunoshi",
+            "from": "&quot;kurotatsunoshi&quot; &lt;ayamechiba@...&gt;",
+            "profile": "kurotatsunoshi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Samurai Warriors",
+            "postDate": "1261297316",
+            "msgId": 10037,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhna21yNCtramtoQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGhna2NnOCs1dDl2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 10036,
+            "nextInTopic": 10038,
+            "prevInTime": 10036,
+            "nextInTime": 10038,
+            "topicId": 10036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The names of the commanders and battles are taken from history, although there are a lot of what-if battles. Everything else is pretty much fanatsy.",
+            "messageBody": "<div id=\"ygrps-yiv-2031372194\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;wolfspirit776&quot; &lt;wolfspirit776@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; hey everyone!<br/>\n&gt; <br/>\n&gt; im a big fan of the samurai warriors genre. is the basis of the game true to the real history of the era?<br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>The names of the commanders and battles are taken from history, although there are a lot of &quot;what-if&quot; battles. Everything else is pretty much fanatsy.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 425751663,
+            "authorName": "wolfspirit776",
+            "from": "&quot;wolfspirit776&quot; &lt;wolfspirit776@...&gt;",
+            "profile": "wolfspirit776",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Warriors",
+            "postDate": "1261286728",
+            "msgId": 10036,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhna2NnOCs1dDl2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 10037,
+            "prevInTime": 10035,
+            "nextInTime": 10037,
+            "topicId": 10036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hey everyone! im a big fan of the samurai warriors genre. is the basis of the game true to the real history of the era?",
+            "messageBody": "<div id=\"ygrps-yiv-2060837280\">hey everyone!<br/>\n<br/>\nim a big fan of the samurai warriors genre. is the basis of the game true to the real history of the era?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9956,
+    "nextTopicId": 10048
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 140320736,
+            "authorName": "mike_1362000",
+            "from": "&quot;mike_1362000&quot; &lt;mike_1362000@...&gt;",
+            "profile": "mike_1362000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Last Samurai",
+            "postDate": "1075593927",
+            "msgId": 3473,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ2aGZzNytxZ2kxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3472,
+            "nextInTime": 3474,
+            "topicId": 3473,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I saw this movie, and thought it was great! I know it was not totally historically acurate, portraying meiji japan... however this movie was made for",
+            "messageBody": "<div id=\"ygrps-yiv-1982611295\">I saw this movie, and thought it was great!<br/>\n<br/>\nI know it was not totally historically acurate, portraying meiji <br/>\njapan... however this movie was made for westerners so I didnt go <br/>\nsee it for historical accuracy...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3467,
+    "nextTopicId": 3422
+}

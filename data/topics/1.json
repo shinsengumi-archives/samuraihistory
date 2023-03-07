@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "gy8LPVjlo7JPNKxa17Gyv2ewXHPQ4w3Lv_akkGV7q3E9O1c257ed4XQdatDX6fR_JPV_jF3HloFEp3epYn3ys2OTDSKa857cFxqyTTS1B2s",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "the FIRST MESSAGE - Welcome",
+            "postDate": "969244375",
+            "msgId": 1,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhxM3VzbitoZXFoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 0,
+            "nextInTime": 2,
+            "topicId": 1,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This is the first post in what i hope will be a successful exchange of Japanese history via email.  This List Serve will focus on the Samurai of Japanese",
+            "messageBody": "<div id=\"ygrps-yiv-586691663\">This is the first post in what i hope will be a successful exchange <br/>\nof Japanese history via email.  This List Serve will focus on the <br/>\nSamurai of Japanese history - feel free to post any questions or <br/>\ncomments on the subject of Japanese Samurai history.  Any other <br/>\nquestions falling outside the range of Samurai history in particular <br/>\nare welcome at the &#39;Samurai History&#39; Forum, at <br/>\nwww.delphi.com/samuraihistory/<br/>\n<br/>\nApparently Japanese fonts are also useable on this listserve, so feel <br/>\nfree to post in Japanese as well if necesary.<br/>\n<br/>\nThanks,<br/>\n<br/>\nModerator<br/>\nCEWest</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 0,
+    "nextTopicId": 2
+}

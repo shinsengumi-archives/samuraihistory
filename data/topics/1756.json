@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 76342208,
+            "authorName": "Howard Beasley",
+            "from": "&quot;Howard Beasley&quot; &lt;howard@...&gt;",
+            "profile": "bitz_place",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1053200887",
+            "msgId": 1756,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJhNjNsbit1bGpuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1755,
+            "nextInTime": 1757,
+            "topicId": 1756,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Does anyone know anyone wargaming with samurai in the London/Hampshire area etc with samurai...ideally 15mm...but not essential Thanks Howard",
+            "messageBody": "<div id=\"ygrps-yiv-2045789610\">Hi,<br/>\n<br/>\nDoes anyone know anyone wargaming with samurai in the <br/>\nLondon/Hampshire area etc with samurai...ideally 15mm...but not <br/>\nessential<br/>\n<br/>\nThanks<br/>\n<br/>\nHoward</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1697,
+    "nextTopicId": 1750
+}

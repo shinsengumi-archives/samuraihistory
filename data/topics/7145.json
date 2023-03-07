@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "SATSUMA SAMURAI",
+            "postDate": "1117284834",
+            "msgId": 7145,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTQwMWM1NjM4NCQ0ZjQ2Y2M4MCQwMjI5ZDljYkB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PDIwMDUwNTI0MjM1NjA2LjgxMDkwLnFtYWlsQHdlYjMyMTAxLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7144,
+            "nextInTime": 7146,
+            "topicId": 7145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Brethren, I just stumbled on a link that may be of interest to some. On a whim I put satsuma samurai into google (with quotes) and got some 64 hits.",
+            "messageBody": "<div id=\"ygrps-yiv-967399531\">Dear Brethren,<br/>\n<br/>\nI just stumbled on a link that may be of interest to some.<br/>\n<br/>\nOn a whim I put &quot;satsuma samurai&quot; into google (with quotes) and got some 64<br/>\nhits.  Here is the search string:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.google.com.au/search?hl=en&q=%22satsuma+samurai%22&meta=\">http://www.google.com.au/search?hl=en&q=%22satsuma+samurai%22&meta=</a><br/>\n<br/>\nLooks like some interesting reading.<br/>\n<br/>\nRegards,<br/>\n<br/>\nBarry Thomas<br/>\n(Melbourne, Australia)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7134,
+    "nextTopicId": 7144
+}

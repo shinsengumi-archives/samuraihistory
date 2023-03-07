@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: exhibitions (to Gillian)",
+            "postDate": "1102078110",
+            "msgId": 6101,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvcG5hdSs3ZWlkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6100,
+            "nextInTime": 6102,
+            "topicId": 6101,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Gillian - The exhibition ends on Sunday! Not sure I m going to be able to get along. Cutting Edge runs til the end of Feb, so hopefully I will get to that",
+            "messageBody": "<div id=\"ygrps-yiv-1289911231\">Hi Gillian - <br/>\n<br/>\nThe exhibition ends on Sunday! Not sure I&#39;m going to be able to get<br/>\nalong.<br/>\n<br/>\n&#39;Cutting Edge&#39; runs til the end of Feb, so hopefully I will get to<br/>\nthat one.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6087,
+    "nextTopicId": 6090
+}

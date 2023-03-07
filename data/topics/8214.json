@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 246617682,
+            "authorName": "onnak",
+            "from": "&quot;onnak&quot; &lt;onnak@...&gt;",
+            "profile": "onnak",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hakama",
+            "postDate": "1137635314",
+            "msgId": 8214,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxbXI1aStvMDJkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8213,
+            "nextInTime": 8215,
+            "topicId": 8214,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Found at japanesekimono.com Hakama Hakama is an outer garment worn over the kimono that are either split between the legs like pants or non-split like a skirt.",
+            "messageBody": "<div id=\"ygrps-yiv-1886517412\">Found at japanesekimono.com<br/>\n<br/>\nHakama<br/>\nHakama is an outer garment worn over the kimono that are either split <br/>\nbetween the legs like pants or non-split like a skirt. Hakama pants <br/>\noriginated as an outer garment to protect samurai warriors legs from <br/>\nbrush when riding a horse. Today, the hakama is worn as formal attire <br/>\nfor ceremonies, traditional japanese dance, artists and martial arts.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8183,
+    "nextTopicId": 8218
+}

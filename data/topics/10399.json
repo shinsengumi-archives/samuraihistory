@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 29605730,
+            "authorName": "s_dallimore",
+            "from": "&quot;s_dallimore&quot; &lt;s_dallimore@...&gt;",
+            "profile": "s_dallimore",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Goto Mototsugu - force composition at Osaka?",
+            "postDate": "1326932563",
+            "msgId": 10399,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGpmN25vais2YmNyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10398,
+            "nextInTime": 10400,
+            "topicId": 10399,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Any ideas what Goto s force might have looked like at Osaka? Was he commanding Ronin or a clan force? It seems like after he left the Kuroda he was more of a",
+            "messageBody": "<div id=\"ygrps-yiv-1763008014\">Any ideas what Goto&#39;s force might have looked like at Osaka? Was he commanding Ronin or a clan force? It seems like after he left the Kuroda he was more of a Ronin Warlord? <br/>\n<br/>\nThanks!<br/>\nScott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10398,
+    "nextTopicId": 10400
+}

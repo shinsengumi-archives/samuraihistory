@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 173462489,
+            "authorName": "blaz5464@aol.com",
+            "from": "blaz5464@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Gempei War and especially the Taira and women samurai",
+            "postDate": "1133543236",
+            "msgId": 8065,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiLjMyYjg2OTgxLjMwYzFkOTQ0QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8064,
+            "nextInTime": 8066,
+            "topicId": 8065,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am interested in Gempei War and especially the Taira and women  samurai. Aside from Tomoe Gozen I have not read about other women samurai  (although I am",
+            "messageBody": "<div id=\"ygrps-yiv-217371269\">I am interested in Gempei War and especially the Taira and women  samurai.  <br/>\nAside from Tomoe Gozen I have not read about other women samurai  (although I <br/>\nam writing about a fictional one).<br/>\n <br/>\nReferences?  Sources?  I welcome legitimate historical  research.  Thanks!<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8064,
+    "nextTopicId": 8067
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 36450143,
+            "authorName": "Cearb@aol.com",
+            "from": "Cearb@...",
+            "profile": "omajinchan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Nomenclature",
+            "postDate": "1266898634",
+            "msgId": 10147,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwZGU2LjZkODZhNGRkLjM4YjRiMGNhQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10146,
+            "nextInTime": 10148,
+            "topicId": 10147,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To Anyone: What is the proper term, in Japanese and / or English, for the territory ruled by a daimyo prior to 1600? Thanks-- --RMB [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-517207997\">To Anyone:<br/>\n <br/>\nWhat is the proper term, in Japanese and / or English, for the territory  <br/>\nruled by a daimyo prior to 1600?<br/>\n <br/>\nThanks--<br/>\n <br/>\n--RMB<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10124,
+    "nextTopicId": 10151
+}

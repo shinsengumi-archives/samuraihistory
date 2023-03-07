@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 126622340,
+            "authorName": "fotios1436",
+            "from": "&quot;fotios1436&quot; &lt;sdc8874c@...&gt;",
+            "profile": "fotios1436",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "In New York..",
+            "postDate": "1093586548",
+            "msgId": 5434,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNnbWlways0dWZqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5433,
+            "nextInTime": 5435,
+            "topicId": 5434,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "what Channel is NHK Jidai Geki and other Hirsotrical Dramas on? I miss my Jidai Geki :(",
+            "messageBody": "<div id=\"ygrps-yiv-635578175\">what Channel is NHK Jidai Geki and other Hirsotrical Dramas on?<br/>\nI miss my Jidai Geki :(</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5427,
+    "nextTopicId": 5435
+}

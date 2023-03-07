@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 125022751,
+            "authorName": "kokomans_2",
+            "from": "&quot;kokomans_2&quot; &lt;lurker@...&gt;",
+            "profile": "kokomans_2",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re help!",
+            "postDate": "1051548813",
+            "msgId": 1687,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4am1hZCtmZ2Y3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1686,
+            "nextInTime": 1688,
+            "topicId": 1687,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anthony J Bryant wrote Well, for starters, I gotta tell ya... If it s an *ancient* history class you shouldn t be doing anything on samurai, who didn t really",
+            "messageBody": "<div id=\"ygrps-yiv-912675845\">Anthony J Bryant wrote <br/>\nWell, for starters, I gotta tell ya...<br/>\n<br/>\nIf it&#39;s an *ancient* history class you shouldn&#39;t be doing anything on <br/>\nsamurai,<br/>\nwho didn&#39;t really come into their own until the 11th century or so.<br/>\n<br/>\nTony<br/>\n-------------------------------------------------------------------<br/>\nmaybe I should&#39;ve elaborated, my course is called ancient history : <br/>\nhistory up to the 16th century. My bad. Still, any help would be <br/>\nappreciated.<br/>\n<br/>\n~f</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1686,
+    "nextTopicId": 1690
+}

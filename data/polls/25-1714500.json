@@ -1,0 +1,71 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1714500,
+    "listId": 2247946,
+    "dateCreated": 1110990595,
+    "userIdCreated": 210287375,
+    "dateEnd": 1117598340,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "What was supeior: Oda&#39;s Muskets or \nTakeda&#39;s Calvery?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12705135,
+            "selectionText": "Takeda&#39;s Calvery",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 12705135,
+                    "surveyId": 1714500,
+                    "userId": 212254526,
+                    "nickname": "bikerboy_20042000",
+                    "email": "bikerboy_20042000@yahoo.com"
+                },
+                {
+                    "selectionId": 12705135,
+                    "surveyId": 1714500,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12705136,
+            "selectionText": "Oda&#39;s Muskets",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 12705136,
+                    "surveyId": 1714500,
+                    "userId": 102344422,
+                    "guid": "GOXMXY7G7EQGAKBP2GJVNGYSVY",
+                    "nickname": "kurotatsunoshi",
+                    "email": "ayamechiba@yahoo.com"
+                },
+                {
+                    "selectionId": 12705136,
+                    "surveyId": 1714500,
+                    "userId": 114761112,
+                    "guid": "X6E24F6PELUHAPCT3HNVS3IZP4",
+                    "nickname": "yalcinseher",
+                    "email": "yalcinseher@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 7,
+    "previousSurveyId": 1716986,
+    "nextSurveyId": 1692052
+}

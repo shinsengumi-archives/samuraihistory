@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 27940151,
+            "authorName": "Barbara Nostrand",
+            "from": "Barbara Nostrand &lt;nostrand@...&gt;",
+            "profile": "drnostrand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Armies of Sengoku period",
+            "postDate": "1136057065",
+            "msgId": 8161,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhiZWUwMjZlYjljODNhZjMzYWZjYTRjZGIxMGM2MDgxQGFjbS5vcmc+",
+                "inReplyToHeader": "PGRvazBxMyttNzAyQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRvazBxMyttNzAyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8145,
+            "nextInTopic": 0,
+            "prevInTime": 8160,
+            "nextInTime": 8162,
+            "topicId": 8145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. I think that that you may be trying to invent a class here. There were very low ranking samurai who doubled as peasants in that they actually engaged in",
+            "messageBody": "<div id=\"ygrps-yiv-257463327\">Hi.<br/>\n<br/>\nI think that that you may be trying to invent a class here. There were <br/>\nvery low ranking samurai who doubled as peasants in that they actually <br/>\nengaged in agriculture. But, they were members of the buke class. <br/>\nAnother issue is that this was a time when there was a fair demand for <br/>\nsoldiers, so a peasant might run away and try to join somebody&#39;s army. <br/>\nRegardless, I believe that there is a fairly recent scholarly text on <br/>\n&quot;Samurai Warfare&quot; available. There may have also been camp followers, <br/>\nbut these would have been scavengers. Regardless, I do not recall <br/>\nbattle paintings showing secondary groups of support units. Finally, <br/>\ngiven the relative scarcity of iron in Japan, I rather doubt that <br/>\nanyone was being frivolously armed. The same goes for horses.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 2605241,
+            "authorName": "apcollyer01",
+            "from": "&quot;apcollyer01&quot; &lt;APCollyer@...&gt;",
+            "profile": "apcollyer01",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Armies of Sengoku period",
+            "postDate": "1135445635",
+            "msgId": 8145,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRvazBxMyttNzAyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8161,
+            "prevInTime": 8144,
+            "nextInTime": 8146,
+            "topicId": 8145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering if the subscribers of this group could answer a question regarding the composition of samurai armies circa 1582-1600. We are a group of",
+            "messageBody": "<div id=\"ygrps-yiv-678652945\">I was wondering if the subscribers of this group could answer a <br/>\nquestion regarding the composition of samurai armies circa 1582-1600.<br/>\n<br/>\nWe are a group of wargamers interested in Japanese Samurai history & <br/>\nbattles. We want to know the actual involvment of peseants/baggage <br/>\nhandlers porters etc that accompanied the samurai in battles of this <br/>\nperiod. We have two trains of thought that these were enrolled in the <br/>\narmies and fought along with the ashigaru units.  The other that they <br/>\nwere a non combative role and remained in the rear even though <br/>\ntechnically they may have been armed with some weapons etc.<br/>\n<br/>\nAny ideas or responses would be appreciated.<br/>\n<br/>\nAndrew Collyer</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8008,
+    "nextTopicId": 8164
+}

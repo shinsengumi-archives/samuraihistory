@@ -1,0 +1,71 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "squrpio_prince",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 948036,
+    "listId": 2247946,
+    "dateCreated": 1027561694,
+    "userIdCreated": 119500921,
+    "dateEnd": 1034751540,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Out of the Three Unifiers of the land \nwho was the greatest? Who had the \ngreatest effect and sucess on Japan?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 7315949,
+            "selectionText": "Oda Nobunaga",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 7315949,
+                    "surveyId": 948036,
+                    "userId": 124555042,
+                    "nickname": "usas119",
+                    "email": "usas119@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 7315950,
+            "selectionText": "Leyasu Tokugawa",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 7315950,
+                    "surveyId": 948036,
+                    "userId": 38990540,
+                    "guid": "THPFX4PHZAR2YGL6SZHLMWHSGU",
+                    "nickname": "bungotakadasword",
+                    "email": "MuramasaIII@aol.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 7315951,
+            "selectionText": "Toyotomi Hideyoshi",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 7315951,
+                    "surveyId": 948036,
+                    "userId": 119500921,
+                    "guid": "OXHRV7MRRPYMRZN4G4TQQGKCOM",
+                    "nickname": "squrpio_prince",
+                    "email": "squrpio_prince@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 6,
+    "previousSurveyId": 1217963,
+    "nextSurveyId": 947605
+}

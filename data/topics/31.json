@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Keijiro Maeda",
+            "from": "&quot;Keijiro Maeda&quot; &lt;guidomista@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "mUXmZ-XV5N6RGDugo67CECEyTaJv7pio9TThGGnmO6jBwx7iFLfBb2zoZLAC_voyO5z4X-qSPDrOhxvc9Paiw7CPl__Nlml3CuEvdjI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "HI EVERYONE",
+            "postDate": "976796360",
+            "msgId": 31,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkxYWRzOCtlZGRrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 30,
+            "nextInTime": 32,
+            "topicId": 31,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m an italian boy that loves samurai s history. I read manga. One of these, a Tetsuo Hara s one,is kalled Hana no Keiji. It tells the history of Keijiro",
+            "messageBody": "<div id=\"ygrps-yiv-1624943771\">I&#39;m an italian boy that loves samurai&#39;s history.<br/>\nI read manga. <br/>\nOne of these, a Tetsuo Hara&#39;s one,is kalled Hana no Keiji.<br/>\nIt tells the history of Keijiro Maeda, hipotetical nephow of Daimyo <br/>\nToshie Maeda.<br/>\nI&#39;m searching from a lot of time for knowing if is he a fantasy <br/>\ncharacter or did he lived...<br/>\n<br/>\nIf someone can halp me, please DO IT! I can&#39;t sleep!!!<br/>\n<br/>\n<br/>\n<br/>\nSorry for BAD english...<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n       Mukuan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 24,
+    "nextTopicId": 13
+}

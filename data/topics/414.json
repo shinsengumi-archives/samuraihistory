@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "bobar57",
+            "from": "&quot;bobar57&quot; &lt;bobar57@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "F446811RqM5lLWZmArNp2H8vO6_vo5FOfSw2nvoHevKgy83UqeuC5LsU32YPpNsOP_njRuh0Mqr_3_VW2lZ_HwvP",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Interesting historic facts or biography of famous samurais",
+            "postDate": "1007316768",
+            "msgId": 414,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjAwMWMxN2I1YyRmNWNhYzk4MCQ1N2VjZDdjZUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 413,
+            "nextInTime": 415,
+            "topicId": 414,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m looking for information in some interesting historic facts of biographies of famous samurais to include in our webpage: http://miami-komei-jyuku.org in the",
+            "messageBody": "<div id=\"ygrps-yiv-1861449136\">I&#39;m looking for information in some interesting historic facts of biographies of famous samurais to include in our webpage: <a rel=\"nofollow\" target=\"_blank\" href=\"http://miami-komei-jyuku.org\">http://miami-komei-jyuku.org</a> in the Articles or Learn more sections.<br/>\nAny submission will be considered and those ones published will received proper credit and copyrights.<br/>\nWaiting for any reply at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:miamikomei@...\">miamikomei@...</a><br/>\nRegards<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 412,
+    "nextTopicId": 391
+}

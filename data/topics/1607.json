@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134400959,
+            "authorName": "amuneward@aol.com",
+            "from": "amuneward@...",
+            "profile": "patton2takeda",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(no subject)",
+            "postDate": "1048563760",
+            "msgId": 1607,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJmLjJmZDA0ZGZmLjJiYjEyYTMwQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1606,
+            "nextInTime": 1608,
+            "topicId": 1607,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To eelunico@yahoo.com Maybe the book you are looking for is The Nobility of Failure Tragic Heroes in the History of Japan by Ivan Morris. From Noonday",
+            "messageBody": "<div id=\"ygrps-yiv-1404454061\">To <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:eelunico@...\">eelunico@...</a><br/>\n<br/>\n       Maybe the book you are looking for is &quot;The Nobility of Failure&quot;  <br/>\nTragic Heroes in the History of Japan&quot; by Ivan Morris. From Noonday Press, <br/>\nN.Y., 1975.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1606,
+    "nextTopicId": 1610
+}

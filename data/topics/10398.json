@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 361800364,
+            "authorName": "zenblade12",
+            "from": "&quot;zenblade12&quot; &lt;dennis.mishler@...&gt;",
+            "profile": "zenblade12",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Maps of the Sengoku Jidai",
+            "postDate": "1326901793",
+            "msgId": 10398,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGpmNnBuMSsyb2k0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10397,
+            "nextInTime": 10399,
+            "topicId": 10398,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone, I was wondering if anyone knows of a good source(s) for maps from the Sengoku Jidai.  In particular, locations of battles, castles, temples, and",
+            "messageBody": "<div id=\"ygrps-yiv-684310287\">Hi everyone,<br/>\n<br/>\nI was wondering if anyone knows of a good source(s) for maps from the Sengoku Jidai.  In particular, locations of battles, castles, temples, and other significant sites.<br/>\n<br/>\nSamurai Archives has a number of decent maps, but I am looking for other sources too.  Books, websites, etc...<br/>\n<br/>\nOne thing I have noticed is that if you look at multiple sources you often get multiple (slightly different) accounts of stories or locations/names.  So, I am trying to broaden my sources.<br/>\nFor example, there is a map from Turnbull documenting Hojo expansion in the Kanto, and it really isn&#39;t clear if he is being overly generous or not since he &quot;gives&quot; them the Satomi domain prior to the final siege of Odawara.<br/>\n<br/>\nAlso, I would be okay with looking at maps in japanese, if anyone knows of some good ones.  My Japanese is not great, but I can usually do enough translation on individual words/terms/places to get the gist.<br/>\n<br/>\nAnyways, thanks in advance.<br/>\n-dennis</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10380,
+    "nextTopicId": 10399
+}

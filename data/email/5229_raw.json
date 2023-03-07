@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "ZZf2qhVcL9cHkMU7P9of3lKYtd8uJbD9hU62JfLvFO4dGggS-bGbDTrt6avNt-A0HBluhOvN8QKWhTHxW9tFLpCv3i80sa8qQCyD",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092528739",
+    "msgId": 5229,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODE1MDAxMjE5Ljg2OTU0LnFtYWlsQHdlYjQxMzAyLm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PDZGN3dJR0FEaGVIQkZ3QXNAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+"
+    },
+    "prevInTopic": 5227,
+    "nextInTopic": 5230,
+    "prevInTime": 5228,
+    "nextInTime": 5230,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "... This is assuming you are using a PC: You should be able to left click on the text of the email, and a menu will pop up--go to Encoding and click on it.",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 55435 invoked from network); 15 Aug 2004 00:12:19 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m18.grp.scd.yahoo.com with QMQP; 15 Aug 2004 00:12:19 -0000\r\nReceived: from unknown (HELO web41302.mail.yahoo.com) (66.218.93.51)\n  by mta6.grp.scd.yahoo.com with SMTP; 15 Aug 2004 00:12:19 -0000\r\nMessage-ID: &lt;20040815001219.86954.qmail@...&gt;\r\nReceived: from [221.21.172.186] by web41302.mail.yahoo.com via HTTP; Sat, 14 Aug 2004 17:12:19 PDT\r\nDate: Sat, 14 Aug 2004 17:12:19 -0700 (PDT)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;6F7wIGADheHBFwAs@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.51\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Dean Wayland &lt;dean@...&gt;\nwrote:\n\n&gt; Hi Folks,\n&gt; \n&gt; Okay I have what is hopefully a simple problem.\n&gt; Every time some one\n&gt; posts kanji/kana, my machine coughs, and presents me\n&gt; with meaningless\n&gt; junk:-(\n&gt; \n&gt; \n&gt; Any &quot;simple&quot; solutions?\n\nThis is assuming you are using a PC:\n\nYou should be able to left click on the text of the\nemail, and a menu will pop up--go to &quot;Encoding&quot; and\nclick on it. It will show various encoding...probably\nset to &quot;Western European&quot;. If Japanese isn&#39;t shown\nthere, go to &quot;more&quot;, then click on &quot;Japanese-Auto\nSelect&quot;...that should change the encoding you read the\nemail through, to allow kanji to be read. It will\nstill show the English, though sometimes I forget to\nchange things back, and I&#39;ll see random kanji through\nother pages. \n\nIf you can&#39;t find the &quot;Japanese-Auto Select&quot;, you may\nhave to activate it through your control panel. \n\n\n\t\t\n__________________________________\nDo you Yahoo!?\nYahoo! Mail - 50x more storage than other providers!\nhttp://promotions.yahoo.com/new_mail\n\n"
+}

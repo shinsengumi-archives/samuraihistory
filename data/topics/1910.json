@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Think about it...",
+            "postDate": "1056593881",
+            "msgId": 1910,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwNGJiMWZmYmU0YjA1YUBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1909,
+            "nextInTime": 1911,
+            "topicId": 1910,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thinking about coming to SanFrancisco for the big sword show in August? It just got a whole lot easier to get around; as of Sunday BART our local rapid transit",
+            "messageBody": "<div id=\"ygrps-yiv-1914093699\">Thinking about coming to SanFrancisco for the big sword show in August?<br/>\n<br/>\nIt just got a whole lot easier to get around; as of Sunday BART our <br/>\nlocal rapid transit system goes all the way to Millbrae, just south <br/>\nof the airport and a short 3 dollar cab ride from the Marriot.<br/>\n<br/>\nNow you can stay anywhere in the bay area at the cheapest hotel you <br/>\nlike and you won&#39;t need to rent a car to see all those undiscovered <br/>\ntreasures! The Steehead Brewery is the same distance away from the <br/>\ntrain station so at the end of the day you don&#39;t need to go home <br/>\nhungry or most importantly THIRSTY!<br/>\n<br/>\nHope to see you all there...<br/>\n<br/>\n-t<br/>\nwww.ncjsc.org<br/>\nwww.bart.gov/<br/>\nwww.steelheadbrewingco.com/<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1906,
+    "nextTopicId": 1909
+}

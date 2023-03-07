@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fw: Hideaki",
+            "postDate": "1096671638",
+            "msgId": 5641,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTQwMWM0YTgwYSRhNmM1M2Q2MCRlN2M0ZTE1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5640,
+            "nextInTime": 5642,
+            "topicId": 5641,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... From: Clive Sinclaire To: token_kenkyu_kai@listproc.umbc.edu Cc: nihonto@yahoogroups.com ; samuraihistory@yahoogroups.com Sent: Friday, October 01, 2004",
+            "messageBody": "<div id=\"ygrps-yiv-779341875\"><blockquote><span title=\"qreply\">----- Original Message ----- <br/>\nFrom: Clive Sinclaire <br/>\nTo: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:token_kenkyu_kai@...\">token_kenkyu_kai@...</a> <br/>\nCc: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nihonto@yahoogroups.com\">nihonto@yahoogroups.com</a> ; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a> <br/>\nSent: Friday, October 01, 2004 11:58 PM<br/>\nSubject: Hideaki<br/>\n<br/>\n<br/>\nGentlemen<br/>\nFor those of you interested in swords made from the guns of the Mikasa by Minanmoto Hideaki or the Battle of Tsushima,it may be worth a cursory glance at the latest posting on www.To-ken.com under Articles. Of course I understand if interest is less than consuming, but there it is.<br/>\nRegards<br/>\nClive<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5557,
+    "nextTopicId": 5632
+}

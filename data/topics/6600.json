@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Poor ships saved Japan from Mongolian army",
+            "postDate": "1106406564",
+            "msgId": 6600,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxRjI2Q0E0LjEwOTA0MDBAY29tY2FzdC5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6599,
+            "nextInTime": 6601,
+            "topicId": 6600,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.thestar.com.my/news/story.asp?file=/2005/1/20/asia/9947984&sec=as ",
+            "messageBody": "<div id=\"ygrps-yiv-1047272114\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thestar.com.my/news/story.asp?file=/2005/1/20/asia/9947984&sec=as\">http://www.thestar.com.my/news/story.asp?file=/2005/1/20/asia/9947984&sec=as</a> <br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thestar.com.my/news/story.asp?file=/2005/1/20/asia/9947984&sec=as\">http://www.thestar.com.my/news/story.asp?file=/2005/1/20/asia/9947984&sec=as</a>&gt;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6599,
+    "nextTopicId": 6601
+}

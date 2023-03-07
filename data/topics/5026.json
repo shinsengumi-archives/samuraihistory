@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Nagamaki/Naginata",
+            "postDate": "1091603373",
+            "msgId": 5032,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA0MDcwOTMzLjQzMjcwLnFtYWlsQHdlYjQxMzAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNlcGw0aitkODMxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5026,
+            "nextInTopic": 0,
+            "prevInTime": 5031,
+            "nextInTime": 5033,
+            "topicId": 5026,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Did you not see it? I approved it, and it came through my email, so I saw it, but if other people are having a problem, please let me know so I can try to",
+            "messageBody": "<div id=\"ygrps-yiv-1738470772\">--- Rami &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rami_efal@...\">rami_efal@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; SamuraiHistory Group hi! In case my previous message<br/>\n&gt; didn&#39;t come <br/>\n&gt; through, I post this again:<br/>\n<br/>\n </span></blockquote>Did you not see it? I approved it, and it came through<br/>\nmy email, so I saw it, but if other people are having<br/>\na problem, please let me know so I can try to figure<br/>\nit out. Another poster didn&#39;t seem to see an answer I<br/>\nhad given him, so maybe there is an issue. Like I said<br/>\nI got your original post, but short of telling you to<br/>\nread Bottomley and Hopson (and as far as I can tell,<br/>\nyou already know everything they&#39;d be able to tell<br/>\nyou), there&#39;s nothing I can contribute. <br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail Address AutoComplete - You start. We finish.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 168905062,
+            "authorName": "Rami",
+            "from": "&quot;Rami&quot; &lt;rami_efal@...&gt;",
+            "profile": "rami_efal",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nagamaki/Naginata",
+            "postDate": "1091590099",
+            "msgId": 5026,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlcGw0aitkODMxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5032,
+            "prevInTime": 5025,
+            "nextInTime": 5027,
+            "topicId": 5026,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "SamuraiHistory Group hi! In case my previous message didn t come through, I post this again:  I have been following the group for some time, and would like to",
+            "messageBody": "<div id=\"ygrps-yiv-2097317872\">SamuraiHistory Group hi! In case my previous message didn&#39;t come <br/>\nthrough, I post this again:<br/>\n&quot; <br/>\nI have been following the group for some time, and would like to <br/>\nthank everybody<br/>\nfor the very insightful information on the women warriors topic, the<br/>\nHara-kari/Seppuku and such. Thanks!<br/>\nI&#39;m in the midst of researching, and would like to get my facts <br/>\nright:<br/>\nFrom what I understand, the nagamaki blade may be as long and as <br/>\nshaped as a<br/>\nkatana&#39;s. the instances I have found in books and on the web <br/>\ndescribe the<br/>\nnagamaki pole shorter than the naginata&#39;s, and sometimes equals the <br/>\nlength of<br/>\nthe nagamaki blade on the other end.<br/>\nIs this true, or was there an instance of a katana blade on a <br/>\nnaginata pole?<br/>\n<br/>\nThanks!<br/>\n<br/>\nRami <br/>\n&quot;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4999,
+    "nextTopicId": 5034
+}

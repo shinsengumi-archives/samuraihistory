@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 119354995,
+            "authorName": "JJ",
+            "from": "&quot;JJ&quot; &lt;DarkJJ@...&gt;",
+            "profile": "kibagamikemono",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Greetings All",
+            "postDate": "1027373642",
+            "msgId": 957,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWMyMzFjNyQ3ZmZjNzZhMCRmZTg3NzdkOEBzYXNha2lrb2ppcm8+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 956,
+            "nextInTime": 958,
+            "topicId": 957,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Konnichiwa, I have just joined this list and wished to express my greetings to all of you. I am very interested in Japanese history and have visited Japan ",
+            "messageBody": "<div id=\"ygrps-yiv-745109184\">Konnichiwa,<br/>\n<br/>\n    I have just joined this list and wished to express my greetings to all<br/>\nof you. I am very interested in Japanese history and have visited Japan<br/>\ntwice. I know a little history, but I want to learn more, much much more. I<br/>\nam hoping that being a member of this list will broaden my knowledge. I have<br/>\nvisited the Samurai Archives web page very frequently in the past and have<br/>\njust stumbled onto this e-mail group. I hope to meet new people with whom I<br/>\ncan talk about Japan and it&#39;s history.<br/>\n<br/>\nCompassion go with you,<br/>\n<br/>\n    ~Sasaki Kojiro~<br/>\n        (AKA:  JJ)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 952,
+    "nextTopicId": 960
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:Re: TACHI  and tai chi---fine &quot;point&quot; and very ellegantl...2",
+            "postDate": "1069538965",
+            "msgId": 2549,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFlYS4xM2ViYjdjMy4yY2YxMzg5NUBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2548,
+            "nextInTime": 2550,
+            "topicId": 2549,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was just making marginal notes and sending them off to you.  I admire your insight.  Jack Murphy [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-248092147\">I was just making marginal notes and sending them off to you.  I admire your <br/>\ninsight.  Jack Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2535,
+    "nextTopicId": 2552
+}

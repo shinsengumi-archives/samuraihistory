@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 160314779,
+            "authorName": "Steven Matsheshu",
+            "from": "Steven Matsheshu &lt;steven_matsheshu@...&gt;",
+            "profile": "steven_matsheshu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Meaning of a name",
+            "postDate": "1293169200",
+            "msgId": 10275,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDMzMTA3Mi45ODY5NS5xbUB3ZWI0NTExMy5tYWlsLnNwMS55YWhvby5jb20+",
+                "inReplyToHeader": "PGlldDZncitmc2tnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 10274,
+            "nextInTopic": 0,
+            "prevInTime": 10274,
+            "nextInTime": 10276,
+            "topicId": 10274,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To All,    I am looking for the meaning of the name Yazobei 弥三兵衛    What does it mean and does it reference any particular status/rank/job ?   ",
+            "messageBody": "<div id=\"ygrps-yiv-1329356242\">To All,<br/>\n <br/>\n I am looking for the meaning of the name Yazobei 弥三兵衛<br/>\n <br/>\n What does it mean and does it reference any particular status/rank/job ?<br/>\n <br/>\n Thanks. <br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1554204,
+            "authorName": "Correus",
+            "from": "&quot;Correus&quot; &lt;correus@...&gt;",
+            "profile": "correus",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Armour and Odoshi (Lacing) Patterns and Colors",
+            "postDate": "1293032795",
+            "msgId": 10274,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGlldDZncitmc2tnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 10275,
+            "prevInTime": 10273,
+            "nextInTime": 10275,
+            "topicId": 10274,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Konnichiwa! I m waiting in anticipation of receiving my first order of Japanese 28mm Samurai miniatures for wargaming. In preparation I ve been doing a lot of",
+            "messageBody": "<div id=\"ygrps-yiv-246699539\">Konnichiwa!<br/>\n<br/>\nI&#39;m waiting in anticipation of receiving my first order of Japanese 28mm Samurai miniatures for wargaming.<br/>\n<br/>\nIn preparation I&#39;ve been doing a lot of research in regard to the armour, especially odoshi colors and patterns.<br/>\n<br/>\nI came across some info I thought some of you might like as well.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/katchu/katchu.ch05.html\">http://www.sengokudaimyo.com/katchu/katchu.ch05.html</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/katchu/katchu.ch05a.html\">http://www.sengokudaimyo.com/katchu/katchu.ch05a.html</a><br/>\n<br/>\nThe above links are part of an on-line Japanese armour manual: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/katchu/katchu.html\">http://www.sengokudaimyo.com/katchu/katchu.html</a><br/>\n<br/>\nAnother, good, on-line armor source is here: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.myarmoury.com/feature_jpn_armour.html\">http://www.myarmoury.com/feature_jpn_armour.html</a><br/>\n<br/>\nKi o tsukete<br/>\nLarry</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10273,
+    "nextTopicId": 10279
+}

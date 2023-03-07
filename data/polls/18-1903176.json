@@ -1,0 +1,74 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1903176,
+    "listId": 2247946,
+    "dateCreated": 1121642850,
+    "userIdCreated": 210287375,
+    "dateEnd": 1130821140,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Were the Sanada loyal to the Takeda?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 13983736,
+            "selectionText": "Yes",
+            "selections": 6,
+            "responses": [
+                {
+                    "selectionId": 13983736,
+                    "surveyId": 1903176,
+                    "userId": 235197231,
+                    "nickname": "mitsurugi_samurai",
+                    "email": "adamwoody@mchsi.com"
+                },
+                {
+                    "selectionId": 13983736,
+                    "surveyId": 1903176,
+                    "userId": 231015865,
+                    "nickname": "starwarsjedi08",
+                    "email": "StarWarsJedi08@aol.com"
+                },
+                {
+                    "selectionId": 13983736,
+                    "surveyId": 1903176,
+                    "userId": 101560437,
+                    "email": "takayama_hara@yahoo.com"
+                },
+                {
+                    "selectionId": 13983736,
+                    "surveyId": 1903176,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 13983737,
+            "selectionText": "No",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 13983738,
+            "selectionText": "To some degree",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 7,
+    "previousSurveyId": 1903178,
+    "nextSurveyId": 1903173
+}

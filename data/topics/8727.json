@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] me agin!",
+            "postDate": "1146749267",
+            "msgId": 8734,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNTcwMWM2NmY3ZSQ4OWY5MGE4MCQwMjAwYThjMEB0aG9tYXNmYW1pbHk+",
+                "referencesHeader": "PGUzYzE0ZytrOHRkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8727,
+            "nextInTopic": 0,
+            "prevInTime": 8733,
+            "nextInTime": 8735,
+            "topicId": 8727,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A book. Secrets of the Samurai , Oscar Ratti and Adele Westbrook Charles E. Tuttle Company (1973). ISBN 0-8048 0917-8 Barry Thomas. (Melbourne, Australia) ...",
+            "messageBody": "<div id=\"ygrps-yiv-510107914\">A book.<br/>\n<br/>\n&quot;Secrets of the Samurai&quot;,<br/>\nOscar Ratti and Adele Westbrook<br/>\nCharles E. Tuttle Company (1973).<br/>\nISBN 0-8048 0917-8<br/>\n<br/>\nBarry Thomas.<br/>\n(Melbourne, Australia)<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;thenight12_4&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:thenight12_4@...\">thenight12_4@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Thursday, May 04, 2006 2:49 PM<br/>\nSubject: [samuraihistory] me agin!<br/>\n<br/>\n<br/>\nwhat is **Secrets of the Samurai** is it a movie or a book? </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 266887116,
+            "authorName": "thenight12_4",
+            "from": "&quot;thenight12_4&quot; &lt;thenight12_4@...&gt;",
+            "profile": "thenight12_4",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "me agin!",
+            "postDate": "1146718160",
+            "msgId": 8727,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGUzYzE0ZytrOHRkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8734,
+            "prevInTime": 8726,
+            "nextInTime": 8728,
+            "topicId": 8727,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "what is **Secrets of the Samurai** is it a movie or a book?",
+            "messageBody": "<div id=\"ygrps-yiv-1045772564\">what is **Secrets of the Samurai** is it a movie or a book?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8728,
+    "nextTopicId": 8624
+}

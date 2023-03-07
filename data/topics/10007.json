@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "Fwd: High-furnace - Japanese steel smelting",
+            "postDate": "1256482586",
+            "msgId": 10007,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFFQzc1NTZCLUIyMDMtNDcwRC1BODgwLTQ0MzAwQjFENzIxRUB0b3J5dS1tb24uY29tPg==",
+                "referencesHeader": "PDExRjFFNTQ3LUZGN0QtNDA2MC05OUZCLTM1N0YyOEQxQkYwMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10006,
+            "nextInTime": 10008,
+            "topicId": 10007,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1815113676\">Begin forwarded message:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; From our friend Pierre Nadeau in Japan, this may be of interest to  <br/>\n&gt; some...<br/>\n&gt;<br/>\n&gt; Tom Helm<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&gt; &quot;Moriamur, et in media arma ruamus&quot;<br/>\n&gt; - Vergil<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Begin forwarded message:<br/>\n&gt;<br/>\n&gt;&gt; From: Pierre Nadeau &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:pierre.nadeau@...\">pierre.nadeau@...</a>&gt;<br/>\n&gt;&gt; Date: October 23, 2009 11:23:50 PM PDT<br/>\n&gt;&gt; To: Pierre Nadeau &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:pierre.nadeau@...\">pierre.nadeau@...</a>&gt;<br/>\n&gt;&gt; Subject: High-furnace - Japanese steel smelting<br/>\n&gt;&gt;<br/>\n&gt;&gt; Hello,<br/>\n&gt;&gt;<br/>\n&gt;&gt; I would like to invite you to visit this link on my site where I  <br/>\n&gt;&gt; posted my review and some pictures of a week spent at swordsmith  <br/>\n&gt;&gt; Manabe Sumihira&#39;s tatara session, smelting steel from iron ore! The  <br/>\n&gt;&gt; pictures link is at the bottom of the article, or in the Image  <br/>\n&gt;&gt; Galleries.<br/>\n&gt;&gt;<br/>\n&gt;&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.soulsmithing.com/LIBRARY/ARTICLES/WeekManabeTataraEN.html\">http://www.soulsmithing.com/LIBRARY/ARTICLES/WeekManabeTataraEN.html</a><br/>\n&gt;&gt;<br/>\n&gt;&gt; Regards,<br/>\n&gt;&gt; Pierre<br/>\n&gt;&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9997,
+    "nextTopicId": 10010
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 43356145,
+            "authorName": "thomas5403",
+            "from": "&quot;thomas5403&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas5403",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai fiction",
+            "postDate": "1007646814",
+            "msgId": 424,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDl1bnQ4dStiaHY2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 423,
+            "nextInTime": 425,
+            "topicId": 424,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have made a brief synopsis of various works of fiction in English on my site: http://www.thomasdavidson.net/j_media.html That might be of interest. Oh, and I",
+            "messageBody": "<div id=\"ygrps-yiv-593825815\">I have made a brief synopsis of various works of fiction in English<br/>\non my site:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thomasdavidson.net/j_media.html\">http://www.thomasdavidson.net/j_media.html</a><br/>\n<br/>\nThat might be of interest. Oh, and I would appreciate any additions.<br/>\n<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 423,
+    "nextTopicId": 408
+}

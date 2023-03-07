@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 83369860,
+            "authorName": "Edwin Angulo",
+            "from": "Edwin Angulo &lt;mayalan@...&gt;",
+            "profile": "mayalan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] My Disk Crash",
+            "postDate": "1062235185",
+            "msgId": 2188,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwODMwMDkxOTQ1Ljk5MjU2LnFtYWlsQHdlYjEzMTA1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDNGNEU2Q0VCLjk2QUQxNTNBQGluZGlhbmEuZWR1Pg=="
+            },
+            "prevInTopic": 2161,
+            "nextInTopic": 0,
+            "prevInTime": 2187,
+            "nextInTime": 2189,
+            "topicId": 2161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, i know what you mean, the same happened to me, but i had to replace the disk, fortunately i made a backup few days before, and lost little, but is always",
+            "messageBody": "<div id=\"ygrps-yiv-2064704858\">Yes, i know what you mean, the same happened to me, but i had to replace the disk, fortunately i made a backup few days before, and lost little, but is always bad.<br/>\n<br/>\nEdwin Angulo.<br/>\n<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "My Disk Crash",
+            "postDate": "1061910408",
+            "msgId": 2161,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGNEU2Q0VCLjk2QUQxNTNBQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDAwMTgwMWMzNmQxZCQ2ZjdhNmZjMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2188,
+            "prevInTime": 2160,
+            "nextInTime": 2162,
+            "topicId": 2161,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This is a general note to all the groups I m on in case anyone has sent me anything I ve not replied to in the past couple of weeks. After coming back from",
+            "messageBody": "<div id=\"ygrps-yiv-308103122\">This is a general note to all the groups I&#39;m on in case anyone has sent me anything I&#39;ve not replied to in the past<br/>\ncouple of weeks.<br/>\n<br/>\nAfter coming back from Pennsic, I noticed that my computer was acting wonky; I was planning to try to archive my<br/>\nfiles to CDs when I could get out to the store and grab some, but it didn&#39;t seem to be a major threat. And there were<br/>\na lot of messages saved from before and during the war I was hoping to get to, but... well, read on.<br/>\n<br/>\nOn Tuesday afternoon, we had a double whammy Chez Effingham.<br/>\n<br/>\nThe phone went out, and they fixed the line today (someone, it seems, cut the outside line). On Tuesday evening, the<br/>\nBIG whammy hit. Disk Crash.<br/>\n<br/>\nThe only thing that worked was recovering the Hard Drive. That returned the computer to its status as of December,<br/>\n2000. Three years of work was gone in a flash.<br/>\n<br/>\nAll the files are gone. All the work. All my armour material. All the garb designs. All the costume reference and<br/>\npatterns. All my webpages. All my font work. All my manuscripts and translations. All the music. All the graphics.<br/>\nExcept for a single CD of selected archived files to transfer to the laptop (made a year ago!) It is only by the<br/>\ngrace of God that I have a CD of my thesis, as someone recently asked me for a copy and I burned off a CD for him and<br/>\nhaven&#39;t yet mailed it... but everything else -- my translation of Hojoki, my in-progress translations of Japanese<br/>\nliterature and two chapters of the new armour book, all my correspondence, all my bookmarks, all my addresses... all<br/>\ngone.<br/>\n<br/>\nSo, friends, there is a moral here. For the love of God, backup your files. Early, and often.<br/>\n<br/>\nAnd, if you&#39;ve sent me anything that I haven&#39;t replied to, send again. I&#39;ll try to get a reply out as soon as I can.<br/>\nFor now, I&#39;m using the laptop (which has always been the backup and has only a few surviving files on it), as the<br/>\ndesktop is still acting unstable and is going in for a brain dusting ASAP.<br/>\n<br/>\nIn the meantime, I&#39;m going to try to catch up to the last few days of e-mail.<br/>\n<br/>\nSuicidally Yours,<br/>\nAnthony J. Bryant</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2147,
+    "nextTopicId": 2142
+}

@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William letham",
+            "from": "&quot;William letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Back in touch",
+            "postDate": "1036532514",
+            "msgId": 1205,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjAwMWMyODUxNCQyOTAxODIwMCQ1MjIwMTZkYkBmbXY+",
+                "referencesHeader": "PGFxODE0MCtpMjM1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1204,
+            "nextInTopic": 0,
+            "prevInTime": 1204,
+            "nextInTime": 1206,
+            "topicId": 1200,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "as to more precise info I ll check around but I ve just finished Murdochs third volume of his history of Japan and it gives a lot of info on the situation of",
+            "messageBody": "<div id=\"ygrps-yiv-1069639388\">as to more precise info I&#39;ll check around but I&#39;ve just finished Murdochs<br/>\nthird volume of his history of Japan and it gives a lot of info on the<br/>\nsituation of the court, people events etc before and during this period. It<br/>\nmay be dated but it tells a more complete story than more modern works.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 117006241,
+            "authorName": "C.W.",
+            "from": "&quot;C.W.&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Back in touch",
+            "postDate": "1036523373",
+            "msgId": 1204,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFxOTUxZCtvZ2Y1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGFxODE0MCtpMjM1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1200,
+            "nextInTopic": 1205,
+            "prevInTime": 1203,
+            "nextInTime": 1205,
+            "topicId": 1200,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All the messages posted are archived here: http://groups.yahoo.com/group/samuraihistory/ You just need to log in. ... weeks. If ... the ... it again. ... ",
+            "messageBody": "<div id=\"ygrps-yiv-2136786427\">All the messages posted are archived here:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n<br/>\nYou just need to log in.<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In samuraihistory@y..., &quot;gilliru&quot; &lt;gillian@g...&gt; wrote:<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Dear everyone,<br/>\n&gt; <br/>\n&gt; My email server collapsed so I&#39;ve been out of touch for a couple of <br/>\nweeks. If <br/>\n&gt; any one answered my request for a discussion about Choshu&#39;s role in <br/>\nthe <br/>\n&gt; bakumatsu period, I&#39;m sorry for not replying - maybe you could post <br/>\nit again.<br/>\n&gt; <br/>\n&gt; In the meantime I have another question: does anyone have <br/>\ninformation or <br/>\n&gt; can suggest resources on life in the imperial court in the <br/>\nbakumatsu period. <br/>\n&gt; I&#39;ve become fascinated by the seven nobles who were spirited away <br/>\nto <br/>\n&gt; Choshu after the defeat by Satsuma and Aizu in 1863.<br/>\n&gt; <br/>\n&gt; Many thanks,<br/>\n&gt; <br/>\n&gt; Gillian </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 129164387,
+            "authorName": "gilliru",
+            "from": "&quot;gilliru&quot; &lt;gillian@...&gt;",
+            "profile": "gilliru",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Back in touch",
+            "postDate": "1036486592",
+            "msgId": 1200,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFxODE0MCtpMjM1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1204,
+            "prevInTime": 1199,
+            "nextInTime": 1201,
+            "topicId": 1200,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear everyone, My email server collapsed so I ve been out of touch for a couple of weeks. If any one answered my request for a discussion about Choshu s role",
+            "messageBody": "<div id=\"ygrps-yiv-711247965\">Dear everyone,<br/>\n<br/>\nMy email server collapsed so I&#39;ve been out of touch for a couple of weeks. If <br/>\nany one answered my request for a discussion about Choshu&#39;s role in the <br/>\nbakumatsu period, I&#39;m sorry for not replying - maybe you could post it again.<br/>\n<br/>\nIn the meantime I have another question: does anyone have information or <br/>\ncan suggest resources on life in the imperial court in the bakumatsu period. <br/>\nI&#39;ve become fascinated by the seven nobles who were spirited away to <br/>\nChoshu after the defeat by Satsuma and Aizu in 1863.<br/>\n<br/>\nMany thanks,<br/>\n<br/>\nGillian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1196,
+    "nextTopicId": 1206
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 142368863,
+            "authorName": "M. R. Williams",
+            "from": "&quot;M. R. Williams&quot; &lt;amacobra@...&gt;",
+            "profile": "msr_iaidoka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Greetings everyone",
+            "postDate": "1051493812",
+            "msgId": 1684,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PExhdzgtRjQwTTNUYmh5RjJmUG0wMDAwMjY3MEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1683,
+            "nextInTime": 1685,
+            "topicId": 1684,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Greeting everyone, Having just joined this e-mail group I would like to introduce myself.  My name is Matt Williams and I am a history student at Florida Gulf",
+            "messageBody": "<div id=\"ygrps-yiv-2073725650\">Greeting everyone,<br/>\n<br/>\n  Having just joined this e-mail group I would like to introduce myself.  My <br/>\nname is Matt Williams and I am a history student at Florida Gulf Coast <br/>\nUniversity.  I also study Iaido and Jujutsu.  I wrote the article &quot;Warrior <br/>\nPuppets:  The Samurai of the Tokugawa Shogunate&quot; for the Samurai Archives <br/>\nsite.  Please feel free to ask anything you wish of me.  I look forward to <br/>\nlearning from you wonderful people.<br/>\n<br/>\n<br/>\nPeace,<br/>\n<br/>\nMatt Williams<br/>\n<br/>\n_________________________________________________________________<br/>\nTired of spam? Get advanced junk mail protection with MSN 8. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/junkmail\">http://join.msn.com/?page=features/junkmail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1675,
+    "nextTopicId": 1686
+}

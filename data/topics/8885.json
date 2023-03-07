@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Archives Store discount on black T-Shirts",
+            "postDate": "1150394635",
+            "msgId": 8885,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU2czdlYitoMTA1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8884,
+            "nextInTime": 8886,
+            "topicId": 8885,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "$3 off any black T-shirt at the Samurai Archives store. Use this coupon code: BLKBETA2 Expires June 23, 2006. http://www.cafepress.com/samuraiarchives",
+            "messageBody": "<div id=\"ygrps-yiv-670910045\">$3 off any black T-shirt at the Samurai Archives store. Use this<br/>\ncoupon code:<br/>\n<br/>\nBLKBETA2<br/>\n<br/>\nExpires June 23, 2006.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8883,
+    "nextTopicId": 8890
+}

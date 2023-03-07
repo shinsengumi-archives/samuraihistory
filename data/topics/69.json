@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "William Letham",
+            "from": "&quot;William Letham&quot; &lt;samuraiw@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "E5Nieip5t6LaX1yjE_VopRTtdkuBJ_s2k0M5yEK-pHxIBaMexJlvKKcb3EVTscL01dGL5DaO6A6jlZo0sH96TnivYp5D_pUqs6Ci3O4hSg3_J97z",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] NHK dramas",
+            "postDate": "980521624",
+            "msgId": 78,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNTcwMWMwODdhYSQxZjY5ZWU4MCQ4ZWI4OGJhM0BuZS5qcD4=",
+                "referencesHeader": "PDAwZTUwMWMwODZjMiRjYTZlYTQ4MCQ5NzE0ZDhjYkAwMTY4MDQzNz4="
+            },
+            "prevInTopic": 69,
+            "nextInTopic": 0,
+            "prevInTime": 77,
+            "nextInTime": 79,
+            "topicId": 69,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That is really wonderful news. Thanks for the info. I will certainly look forward to this one. ... From: Mark Hall  To:",
+            "messageBody": "<div id=\"ygrps-yiv-1057246858\">That is really wonderful news. Thanks for the info. I will certainly look<br/>\nforward to this one.<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: Mark Hall &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:markhall@...\">markhall@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@egroups.com\">samuraihistory@egroups.com</a>&gt;<br/>\nSent: Thursday, January 25, 2001 8:18 PM<br/>\nSubject: [samuraihistory] NHK dramas<br/>\n<br/>\n<br/>\n&gt; It was also announced tonight on the NHK news that<br/>\n&gt; NHK will begin production a drama based on the life of Prince Shotoku for<br/>\n&gt; broadcast in 2002-3 on their<br/>\n&gt; HI-VISION (digital satellite) channel.<br/>\n&gt;<br/>\n&gt; Later, Mark Hall<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@egroups.com\">samuraihistory-unsubscribe@egroups.com</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Mark Hall",
+            "from": "&quot;Mark Hall&quot; &lt;markhall@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "L7f9PeQVrehfGqOZ6OZvQ4BByssf4sZNdzKjATH-tPPA7F2AnO8EoaUWjermx0_U5WEVOv1zR-yyAvfxEq1mQ9RhdWAC",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK dramas",
+            "postDate": "980421525",
+            "msgId": 69,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwZTUwMWMwODZjMiRjYTZlYTQ4MCQ5NzE0ZDhjYkAwMTY4MDQzNz4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 78,
+            "prevInTime": 68,
+            "nextInTime": 70,
+            "topicId": 69,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It was also announced tonight on the NHK news that NHK will begin production a drama based on the life of Prince Shotoku for broadcast in 2002-3 on their ",
+            "messageBody": "<div id=\"ygrps-yiv-1334543500\">It was also announced tonight on the NHK news that<br/>\nNHK will begin production a drama based on the life of Prince Shotoku for<br/>\nbroadcast in 2002-3 on their<br/>\nHI-VISION (digital satellite) channel.<br/>\n<br/>\nLater, Mark Hall</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 58,
+    "nextTopicId": 79
+}

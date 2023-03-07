@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 472843210,
+            "authorName": "Dr. Sófi Gyula",
+            "from": "=?ISO-8859-1?Q?Dr=2E_S=F3fi_Gyula?= &lt;drsofigyula@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Family circumstances and early life of Miyamoto Musahi",
+            "postDate": "1293705985",
+            "msgId": 10279,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEFBTkxrVGluRzRtMkNmOFNvclh4U1JCbWlUNytTVk9kOWZ2Mk9fR1JaZC1VUUBtYWlsLmdtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10278,
+            "nextInTime": 10280,
+            "topicId": 10279,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Group-members, Please send me as many on-line and off-line informations based on historical facts (and not beautiful but romantical books) concerning on",
+            "messageBody": "<div id=\"ygrps-yiv-753578379\">Dear Group-members,<br/>\n<br/>\nPlease send me as many on-line and off-line informations based on historical<br/>\nfacts (and not beautiful but romantical books) concerning on Musashi&#39;s<br/>\nfamily - both parents, brothers or sisters, and so on -, and early childhood<br/>\nperiod of him.<br/>\nI wish everibody a Happy New Year!<br/>\n<br/>\nThank you for the cooperation!<br/>\n<br/>\nGyula<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10274,
+    "nextTopicId": 10251
+}

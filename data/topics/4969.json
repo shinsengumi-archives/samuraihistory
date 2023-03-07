@@ -1,0 +1,367 @@
+{
+    "totalMsgInTopic": 12,
+    "messages": [
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Seppuku",
+            "postDate": "1091617368",
+            "msgId": 5037,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA0MTEwMi5pNzRCMm1JWjAwMjkwMUBtcy1zbXRwLTA0LWVyaTAub2hpb3JkYy5yci5jb20+",
+                "inReplyToHeader": "PGNlcTl0MStzNzd1QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PDIwMDQwODA0MDI0NTQ4LjIwMzMyLnFtYWlsQHdlYjQxMzA2Lm1haWwueWFob28uY29tPgk8Y2VxOXQxK3M3N3VAZUdyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 5036,
+            "nextInTopic": 0,
+            "prevInTime": 5036,
+            "nextInTime": 5038,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I concur. :) Nate, As to your other question - Ietsuna\u001b$B!!2H9K\u001b(B (not Ietsugu - I was gonig from memory there) made the edicts outlawing junshi in 1663.",
+            "messageBody": "<div id=\"ygrps-yiv-1161900659\">On Wed, 04 Aug 2004 09:22:41 -0000, Kitsunoさん wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, Nate Ledbetter <br/>\n&gt;&lt;ltdomer98@y...&gt; wrote:<br/>\n&gt;<br/>\n&gt;&gt; 殉死? Seems to be all I can find for the moment. Jay,<br/>\n&gt;&gt; do you know if this is correct?<br/>\n&gt;<br/>\n&gt;<br/>\n </span></blockquote>I concur. :)<br/>\n<br/>\nNate,<br/>\nAs to your other question - Ietsuna　家綱 (not Ietsugu - I was gonig <br/>\nfrom memory there) made the edicts outlawing junshi in 1663. Search <br/>\nfor 殉死の禁止 or 殉死禁止.<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Seppuku",
+            "postDate": "1091611361",
+            "msgId": 5036,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlcTl0MStzNzd1QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDQwODA0MDI0NTQ4LjIwMzMyLnFtYWlsQHdlYjQxMzA2Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 5020,
+            "nextInTopic": 5037,
+            "prevInTime": 5035,
+            "nextInTime": 5037,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Yup, that would be the correct Kanji for Junshi .",
+            "messageBody": "<div id=\"ygrps-yiv-1368374077\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, Nate Ledbetter <br/>\n&lt;ltdomer98@y...&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; 殉死? Seems to be all I can find for the moment. Jay,<br/>\n&gt; do you know if this is correct?<br/>\n<br/>\n<br/>\n </span></blockquote>Yup, that would be the correct Kanji for &#39;Junshi&#39;.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091587548",
+            "msgId": 5020,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA0MDI0NTQ4LjIwMzMyLnFtYWlsQHdlYjQxMzA2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwODA0MDI0MDEwLjQ3Mzg0LnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 5018,
+            "nextInTopic": 5036,
+            "prevInTime": 5019,
+            "nextInTime": 5021,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... }Ž€? Seems to be all I can find for the moment. Jay, do you know if this is correct? __________________________________ Do you Yahoo!? Yahoo! Mail is",
+            "messageBody": "<div id=\"ygrps-yiv-2010106912\">--- Nate Ledbetter &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ltdomer98@...\">ltdomer98@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; This still doesn&#39;t sound right to me--I&#39;m going to<br/>\n&gt; have to do a little research. Can you send me the<br/>\n&gt; kanji for &quot;junshi&quot;? And what year was Ietsugu&#39;s<br/>\n&gt; edict?<br/>\n&gt; I&#39;ll see if I can dig up the original and figure<br/>\n&gt; this<br/>\n&gt; out. <br/>\n<br/>\n </span></blockquote>�}��? Seems to be all I can find for the moment. Jay,<br/>\ndo you know if this is correct?<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail is new and improved - Check it out!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091587210",
+            "msgId": 5018,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA0MDI0MDEwLjQ3Mzg0LnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwODAzMTExOC5pNzNCSXRKVzAyMzY5NEBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+"
+            },
+            "prevInTopic": 5004,
+            "nextInTopic": 5020,
+            "prevInTime": 5017,
+            "nextInTime": 5019,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... This still doesn t sound right to me--I m going to have to do a little research. Can you send me the kanji for junshi ? And what year was Ietsugu s edict?",
+            "messageBody": "<div id=\"ygrps-yiv-193573311\">--- Oyakata &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Junshi is a bit of a tricky word. It certainly holds<br/>\n&gt; the meaning <br/>\n&gt; that you describe above. It also is used to refer to<br/>\n&gt; ritual <br/>\n&gt; suicide in a looser way. It is my understanding -<br/>\n&gt; and I could be <br/>\n&gt; wrong - that the edict from Ietsugu was meant to<br/>\n&gt; stop all forms of <br/>\n&gt; ritual suicide not just the one you describe.<br/>\n<br/>\n </span></blockquote>This still doesn&#39;t sound right to me--I&#39;m going to<br/>\nhave to do a little research. Can you send me the<br/>\nkanji for &quot;junshi&quot;? And what year was Ietsugu&#39;s edict?<br/>\nI&#39;ll see if I can dig up the original and figure this<br/>\nout. <br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091531935",
+            "msgId": 5004,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAzMTExOC5pNzNCSXRKVzAyMzY5NEBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+",
+                "inReplyToHeader": "PDIwMDQwODAzMDIwNjM2Ljg1MjQzLnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwODAzMDE0MS5pNzMxZnNKVzAxNjM3MUBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+CTwyMDA0MDgwMzAyMDYzNi44NTI0My5xbWFpbEB3ZWI0MTMwMS5tYWlsLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 4991,
+            "nextInTopic": 5018,
+            "prevInTime": 5003,
+            "nextInTime": 5005,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Junshi is a bit of a tricky word. It certainly holds the meaning that you describe above. It also is used to refer to ritual suicide in a looser way. It is",
+            "messageBody": "<div id=\"ygrps-yiv-478576020\">On Mon, 2 Aug 2004 19:06:36 -0700 (PDT), Nate Ledbetterさん wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;Correct me if I&#39;m wrong, Jay, but junshi does not<br/>\n&gt;equal seppuku, and seppuku does not equal junshi. The<br/>\n&gt;definition of junshi, as I understand it, is the<br/>\n&gt;specific act of suicide (usually seppuku) committed by<br/>\n&gt;a retainer upon the death, natural or otherwise, of<br/>\n&gt;his lord.<br/>\n<br/>\n </span></blockquote>Junshi is a bit of a tricky word. It certainly holds the meaning <br/>\nthat you describe above. It also is used to refer to ritual <br/>\nsuicide in a looser way. It is my understanding - and I could be <br/>\nwrong - that the edict from Ietsugu was meant to stop all forms of <br/>\nritual suicide not just the one you describe.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;It wouldn&#39;t make sense to outlaw the act of punishment<br/>\n&gt; (i.e. seppuku) the bakufu used to punish it&#39;s own<br/>\n&gt;retainers. <br/>\n<br/>\n </span></blockquote>Agreed. Although I&#39;m not keen on Edo history, this has always been <br/>\nan interesting thing to me. It has always struck me that the Bakufu <br/>\noutlawed (or prohibited) seppuku, but felt comfortable making <br/>\nexceptions to the edict whenever the circumstnaces made sense. But <br/>\nmaybe I&#39;ve been interpreting the situation incorrectly?<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091498796",
+            "msgId": 4991,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAzMDIwNjM2Ljg1MjQzLnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwODAzMDE0MS5pNzMxZnNKVzAxNjM3MUBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+"
+            },
+            "prevInTopic": 4988,
+            "nextInTopic": 5004,
+            "prevInTime": 4990,
+            "nextInTime": 4992,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Correct me if I m wrong, Jay, but junshi does not equal seppuku, and seppuku does not equal junshi. The definition of junshi, as I understand it, is the ",
+            "messageBody": "<div id=\"ygrps-yiv-1430441227\">--- Oyakata &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; Bakumatsu is really past my normal area of interest<br/>\n&gt; so I&#39;m not <br/>\n&gt; familiar with the case you mention. But the edict<br/>\n&gt; banning seppuku <br/>\n&gt; was published in 1663 by the 4th Tokugawa Shogun,<br/>\n&gt; Ietsuna. To be <br/>\n&gt; precise it is actually all ritual suicide (junshi)<br/>\n&gt; that was outlawed, <br/>\n&gt; not seppuku only.<br/>\n<br/>\n </span></blockquote>Correct me if I&#39;m wrong, Jay, but junshi does not<br/>\nequal seppuku, and seppuku does not equal junshi. The<br/>\ndefinition of junshi, as I understand it, is the<br/>\nspecific act of suicide (usually seppuku) committed by<br/>\na retainer upon the death, natural or otherwise, of<br/>\nhis lord. Junshi was committed by &#39;loyal&#39; retainers<br/>\nwho felt they couldn&#39;t serve another master. The<br/>\nBakufu&#39;s point in outlawing junshi was that the<br/>\ndaimyo&#39;s heir needed experienced counselors, etc, to<br/>\nmaintain the government of the han, and if they all<br/>\nkilled themselves upon the death of the daimyo, there<br/>\nwould be no governmental continuity and the han would<br/>\nsuffer. <br/>\n<br/>\nIt wouldn&#39;t make sense to outlaw the act of punishment<br/>\n (i.e. seppuku) the bakufu used to punish it&#39;s own<br/>\nretainers. <br/>\n <br/>\n<blockquote><span title=\"ireply\"> &gt; Might it be that in 1868 - after the formal close of<br/>\n&gt; the Bakufu - the <br/>\n&gt; laws established by the Bakufu were now obsolete and<br/>\n&gt; seppuku was now b<br/>\n&gt; ack in play, or at least the status was now unclear?<br/>\n<br/>\n </span></blockquote>Well, junshi seemed to have been &#39;legal&#39;, though the<br/>\nwhole counry was shocked when Gen. Nogi and his wife<br/>\ncommitted junshi in 1910 following the death of<br/>\nMeiji-Tenno. But they still revered him enough to<br/>\nbuild a shrine, name an area, and a subway stop<br/>\n(Nogizaka) after him...<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091497314",
+            "msgId": 4988,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAzMDE0MS5pNzMxZnNKVzAxNjM3MUBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+"
+            },
+            "prevInTopic": 4987,
+            "nextInTopic": 4991,
+            "prevInTime": 4987,
+            "nextInTime": 4989,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... (that was from a message of mine) ... Bakumatsu is really past my normal area of interest so I m not familiar with the case you mention. But the edict",
+            "messageBody": "<div id=\"ygrps-yiv-630520430\">On Mon, 2 Aug 2004 18:01:51 -0600, Gillian Rubinsteinさん wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;&gt;  the fact that seppuku was formally outlawed <br/>\n&gt;&gt; in the Tokugawa period. <br/>\n </span></blockquote>(that was from a message of mine)<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;I&#39;m interested in this statement as A.B.Mitford in Tales of Old Japan <br/>\n&gt;relates being a witness to what he calls hara-kiri - a judicial execution <br/>\n&gt;on the orders of the Mikado in Hyogo in 1868.<br/>\n<br/>\n </span></blockquote>Bakumatsu is really past my normal area of interest so I&#39;m not <br/>\nfamiliar with the case you mention. But the edict banning seppuku <br/>\nwas published in 1663 by the 4th Tokugawa Shogun, Ietsuna. To be <br/>\nprecise it is actually all ritual suicide (junshi) that was outlawed, <br/>\nnot seppuku only.<br/>\n<br/>\nObviously, there were numerous exceptions to this edict, but as far <br/>\nas I can tell it was never formally repealed.<br/>\n<br/>\nMight it be that in 1868 - after the formal close of the Bakufu - the <br/>\nlaws established by the Bakufu were now obsolete and seppuku was now b<br/>\nack in play, or at least the status was now unclear?<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 129164387,
+            "authorName": "Gillian Rubinstein",
+            "from": "Gillian Rubinstein &lt;gillian@...&gt;",
+            "profile": "gilliru",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091491311",
+            "msgId": 4987,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {},
+            "prevInTopic": 4978,
+            "nextInTopic": 4988,
+            "prevInTime": 4986,
+            "nextInTime": 4988,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I m interested in this statement as A.B.Mitford in Tales of Old Japan relates being a witness to what he calls hara-kiri - a judicial execution on the",
+            "messageBody": "<div id=\"ygrps-yiv-168540835\"><blockquote><span title=\"ireply\">&gt;  the fact that seppuku was formally outlawed <br/>\n&gt; in the Tokugawa period. <br/>\n<br/>\n </span></blockquote>I&#39;m interested in this statement as A.B.Mitford in Tales of Old Japan <br/>\nrelates being a witness to what he calls hara-kiri - a judicial execution <br/>\non the orders of the Mikado in Hyogo in 1868. He also describes other <br/>\nsimilar executions of the same period of a hatamoto, a daimyo&#39;s <br/>\nretainer and a daimyo. (&#39;translated from the Japanese&quot; he tells us). Of <br/>\ncourse Mitford is often seen in hindsight to have slightly <br/>\nmisunderstood what was going on (a familiar feeling in Japan!), but his <br/>\ndescription is quite vivid and moving.<br/>\n<br/>\nAnd what I&#39;ve read on the Choshu daimyo of the same period indicates <br/>\nthat there was a real fear they would be called on to commit ritual <br/>\nsuicide, presumably by seppuku, for their offences against the shogun <br/>\nand the Emperor.<br/>\n<br/>\nDoes anyone know when seppuku was made illegal? Or is it still legally <br/>\npermitted along with other forms of suicide?</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091419845",
+            "msgId": 4978,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEVEQUQ3NjEzLUU0MzktMTFEOC04Mzk4LTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDlDN0QzMjY2LUU0MjQtMTFEOC04Mzk4LTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg==",
+                "referencesHeader": "PEJBWTktRjI1Tnh6ekIzQlJRQjcwMDAzY2U4YkBob3RtYWlsLmNvbT4gPDIwMDQwODAyMDExNC5pNzIxRXNuYTAwOTA0M0Btcy1zbXRwLTAyLWVyaTAub2hpb3JkYy5yci5jb20+IDw5QzdEMzI2Ni1FNDI0LTExRDgtODM5OC0wMDBBOTVERkFBRTBAdG9yeXUtbW9uLmNvbT4="
+            },
+            "prevInTopic": 4973,
+            "nextInTopic": 4987,
+            "prevInTime": 4977,
+            "nextInTime": 4979,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Here I ve made a mistake, in my minds eye it s a woman but that would never happen. This should be high born children or persons of high rank who... -t",
+            "messageBody": "<div id=\"ygrps-yiv-1146878882\"><blockquote><span title=\"ireply\">&gt;  My understanding of the use<br/>\n&gt;  of the fan was that it was often used for ladies or persons of high<br/>\n&gt;  rank who weren&#39;t expected to perform the same rough ceremony of the<br/>\n&gt;  rank and file soldier.<br/>\n<br/>\n </span></blockquote>Here I&#39;ve made a mistake, in my minds eye it&#39;s a woman but that would <br/>\nnever happen. This should be &quot;high born children or persons of high <br/>\nrank who...&quot;<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091410690",
+            "msgId": 4973,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlDN0QzMjY2LUU0MjQtMTFEOC04Mzk4LTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwODAyMDExNC5pNzIxRXNuYTAwOTA0M0Btcy1zbXRwLTAyLWVyaTAub2hpb3JkYy5yci5jb20+",
+                "referencesHeader": "PEJBWTktRjI1Tnh6ekIzQlJRQjcwMDAzY2U4YkBob3RtYWlsLmNvbT4gPDIwMDQwODAyMDExNC5pNzIxRXNuYTAwOTA0M0Btcy1zbXRwLTAyLWVyaTAub2hpb3JkYy5yci5jb20+"
+            },
+            "prevInTopic": 4971,
+            "nextInTopic": 4978,
+            "prevInTime": 4972,
+            "nextInTime": 4974,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Jay et al- as you say there were any number of ways for this to be done, many of the different styles were developed to take into account rank and ",
+            "messageBody": "<div id=\"ygrps-yiv-863026514\"><blockquote><span title=\"ireply\">&gt;<br/>\n&gt;  This again is a bit stylized. As the seppuku ceremony evolved and<br/>\n&gt;  changed, there were cases where instead of a sword, a fan was placed<br/>\n&gt;  in front of the person committing seppuku. In other words there was<br/>\n&gt;  not a bit of the ideal described above. The man was trotted out and<br/>\n&gt;  his head sliced off without any opportunity to show his bravery.<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Jay et al-<br/>\n\tas you say there were any number of ways for this to be done, many of <br/>\nthe different styles were developed to take into account rank and <br/>\npriviledge, the circumstances of the &quot;crime&quot; and  any number of other <br/>\nfactors. In the case mentioned above I think it is wrong to say there <br/>\nwas no opportunity to display ones courage. My understanding of the use <br/>\nof the fan was that it was often used for ladies or persons of high <br/>\nrank who weren&#39;t expected to perform the same rough ceremony of the <br/>\nrank and file soldier. Whether man or woman by reaching for the fan one <br/>\nsignalled for all to see their sincere intent to cut themselves, there <br/>\nwas no further need for a demonstration and the coup de grace was <br/>\ndelivered.<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Seppuku",
+            "postDate": "1091409294",
+            "msgId": 4971,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAyMDExNC5pNzIxRXNuYTAwOTA0M0Btcy1zbXRwLTAyLWVyaTAub2hpb3JkYy5yci5jb20+",
+                "inReplyToHeader": "PEJBWTktRjI1Tnh6ekIzQlJRQjcwMDAzY2U4YkBob3RtYWlsLmNvbT4=",
+                "referencesHeader": "PEJBWTktRjI1Tnh6ekIzQlJRQjcwMDAzY2U4YkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 4969,
+            "nextInTopic": 4973,
+            "prevInTime": 4970,
+            "nextInTime": 4972,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "On Sun, 01 Aug 2004 19:43:33 -0400, M. R. Williams\u001b$B$5$s\u001b(B wrote: Much too much is made of the ceremony of seppuku. There are relatively few first hand",
+            "messageBody": "<div id=\"ygrps-yiv-783956045\"><blockquote><span title=\"qreply\">On Sun, 01 Aug 2004 19:43:33 -0400, M. R. Williamsさん wrote:<br/>\n<br/>\nMuch too much is made of &quot;the&quot; ceremony of seppuku. There are <br/>\nrelatively few first hand accounts of this kind of ceremony. What <br/>\naccounts there are, vary based on geography, time, and other <br/>\nparticulars.<br/>\n<br/>\nI think that our modern notions of the seppuku ceremony are <br/>\ntremendously impacted by the fact that seppuku was formally outlawed <br/>\nin the Tokugawa period. It seems to me that the ceremony became a <br/>\nkind of romanticized part of the warrior past; made to look more <br/>\nuniform than it actually was.<br/>\n<br/>\n&gt;The <br/>\n&gt;angle(s) of the cut to the stomach are highly debatable but the most common <br/>\n&gt;one that I have seen is horizontally left to right then vertically up the <br/>\n&gt;center into the heart.  <br/>\n<br/>\n It&#39;s my understanding that the angles are pretty limited by <br/>\nbiology and physics - there&#39;s not much debate in what I&#39;ve read <br/>\nabout the angle per se that has to be taken.<br/>\n<br/>\nIf by debatable angles, you mean there are various ways that seppuku <br/>\nwas actually done then yes I agree. It appears that the most &quot;popular&quot; <br/>\ncuts were the ichimonji which is the cut straight across from left to <br/>\nright, and the juumonji, which is the &#39;cross&#39; cut you describe <br/>\nabove.<br/>\n<br/>\n&gt;The assistant has the most important job<br/>\n<br/>\nTell that to the guy slicing his gut open. :)<br/>\n<br/>\n&gt;If the one performing seppuku <br/>\n&gt;manages to go through the whole procedure then the second decapites him to <br/>\n&gt;end his misery.  The decapitation must be done just right or else the head <br/>\n&gt;will roll away and disgrace both men.  Ideally the neck must be cut and the <br/>\n&gt;head drop down into the lap.<br/>\n<br/>\nThis again is a bit stylized. As the seppuku ceremony evolved and <br/>\nchanged, there were cases where instead of a sword, a fan was placed <br/>\nin front of the person committing seppuku. In other words there was <br/>\nnot a bit of the ideal described above. The man was trotted out and <br/>\nhis head sliced off without any opportunity to show his bravery.<br/>\n<br/>\nThere are said to be over 50 ways that this could play out: i.e., with <br/>\na second (kaishaku) or not; straight cut or cross cut; further <br/>\nstabbing of the throat, or heart, etc.<br/>\n<br/>\nIn other words, just like most things in life, there was no one way <br/>\nthat seppuku (or even more broadly, ritualized suicide) was, ehem, <br/>\nexecuted. It&#39;s a complicated picture that surely had an idealized, <br/>\nromantic, stylized archtype. But the reality that we can see via <br/>\nhistorical record doesn&#39;t necessary match that archtype.<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 142368863,
+            "authorName": "M. R. Williams",
+            "from": "&quot;M. R. Williams&quot; &lt;amacobra@...&gt;",
+            "profile": "msr_iaidoka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Seppuku",
+            "postDate": "1091403813",
+            "msgId": 4969,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTktRjI1Tnh6ekIzQlJRQjcwMDAzY2U4YkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4971,
+            "prevInTime": 4968,
+            "nextInTime": 4970,
+            "topicId": 4969,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey all, As for the weapon used for seppuku it was usually a tanto (knife) or, if no tanto was available, a wakizashi (short sword) with cloth wrapped around ",
+            "messageBody": "<div id=\"ygrps-yiv-147732521\">Hey all,<br/>\n<br/>\n  As for the weapon used for seppuku it was usually a tanto (knife) or, if <br/>\nno tanto was available, a wakizashi (short sword) with cloth wrapped around <br/>\nthe lower part of the blade to keep from slicing open your hands.  The <br/>\nangle(s) of the cut to the stomach are highly debatable but the most common <br/>\none that I have seen is horizontally left to right then vertically up the <br/>\ncenter into the heart.  The general idea is to do this without showing the <br/>\npain that this would be causing.<br/>\n  The assistant has the most important job.  He watches over the one <br/>\nperforming the seppuku and if he sees the man about to lose face by giving <br/>\ninto his pain he decapitates him immediately.  If the one performing seppuku <br/>\nmanages to go through the whole procedure then the second decapites him to <br/>\nend his misery.  The decapitation must be done just right or else the head <br/>\nwill roll away and disgrace both men.  Ideally the neck must be cut and the <br/>\nhead drop down into the lap.<br/>\n  Muso Shinden Ryu, an Iaido (swordsmanship) style, teaches the proper <br/>\nmethods and technique of being a second.<br/>\n  Just my two sense on seppuku.<br/>\n<br/>\n<br/>\nPeace,<br/>\n<br/>\nMatt<br/>\n<br/>\n_________________________________________________________________<br/>\nPlanning a family vacation? Check out the MSN Family Travel guide! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://dollar.msn.com\">http://dollar.msn.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5003,
+    "nextTopicId": 5044
+}

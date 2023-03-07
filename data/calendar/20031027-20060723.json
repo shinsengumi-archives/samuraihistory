@@ -1,0 +1,93 @@
+{
+    "events": {
+        "lang": "en-US",
+        "uri": "http://calendar.yahoo.com/ws/v3/users/@@groups_72a0ce58-6537-46bc-b160-082a700b2c01/calendars/events/",
+        "count": 2,
+        "endDate": "20060723",
+        "event": [
+            {
+                "lang": "en-US",
+                "reminders": {
+                    "count": 2,
+                    "start": 0,
+                    "total": 0,
+                    "lang": "en-US",
+                    "reminder": [
+                        {
+                            "lang": "en-US",
+                            "showAlert": false,
+                            "sendEmail": true,
+                            "sendIM": false,
+                            "sendSMS": false,
+                            "offset": "-P1D"
+                        },
+                        {
+                            "lang": "en-US",
+                            "showAlert": false,
+                            "sendEmail": true,
+                            "sendIM": false,
+                            "sendSMS": false,
+                            "offset": "-P3D"
+                        }
+                    ]
+                },
+                "allDay": true,
+                "categories": [
+                    "Other"
+                ],
+                "description": "Entrance fees for the Samurai Fiction 2006 need to be in by today.",
+                "endTime": "20060329",
+                "eventStatus": "BUSY",
+                "folderId": "131",
+                "isOpaque": true,
+                "startTime": "20060328",
+                "status": "BUSY",
+                "summary": "Deadline for Samurai Fiction entrance fee",
+                "tzId": "Etc/GMT",
+                "uid": ".0Ee8TRWiMWXTug7EMqGVUXjQTv.pGKWNQ--@calendar.yahoo.com"
+            },
+            {
+                "lang": "en-US",
+                "reminders": {
+                    "count": 2,
+                    "start": 0,
+                    "total": 0,
+                    "lang": "en-US",
+                    "reminder": [
+                        {
+                            "lang": "en-US",
+                            "showAlert": false,
+                            "sendEmail": true,
+                            "sendIM": false,
+                            "sendSMS": false,
+                            "offset": "-P1D"
+                        },
+                        {
+                            "lang": "en-US",
+                            "showAlert": false,
+                            "sendEmail": true,
+                            "sendIM": false,
+                            "sendSMS": false,
+                            "offset": "-P3D"
+                        }
+                    ]
+                },
+                "allDay": true,
+                "categories": [
+                    "Other"
+                ],
+                "description": "Fiction submission for the Samurai Fiction 2006 contest must be in by today.",
+                "endTime": "20060402",
+                "eventStatus": "BUSY",
+                "folderId": "131",
+                "isOpaque": true,
+                "startTime": "20060401",
+                "status": "BUSY",
+                "summary": "Deadline for Samurai Fiction 2006 submission",
+                "tzId": "Etc/GMT",
+                "uid": "sZ.OiTRWiMXEloM6c3xa.juIINwhzUyH9Q--@calendar.yahoo.com"
+            }
+        ],
+        "startDate": "20031027"
+    }
+}

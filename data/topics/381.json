@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "tom.davidson@realtime.co.uk",
+            "from": "tom.davidson@...",
+            "profile": "thomas5403",
+            "replyTo": "LIST",
+            "senderId": "HIxhxov_jMZOPLBMsLHvVvEphmSIsfjXnsnlpLUJb9ctVtteRUjtNKB28YoO-_VvEGF_E0EOIimxhU5eg0c1eFZs",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Japanese Sword at the V&A",
+            "postDate": "1006966695",
+            "msgId": 381,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDl1MzUzNytnbm9qQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 380,
+            "nextInTime": 382,
+            "topicId": 381,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is a Saturday in February 2002 when there will be a day on the subject of the Japanese Sword at the Victoria and Albert Museum in London. Talks include",
+            "messageBody": "<div id=\"ygrps-yiv-1680217939\">There is a Saturday in February 2002 when there will be a day on the<br/>\nsubject of the Japanese Sword at the Victoria and Albert Museum <br/>\nin London.<br/>\n<br/>\nTalks include making and collection, and a tour of the museum&#39;s<br/>\ncollection, plus demonstrations of Kendo, Iaido and Kyudo.<br/>\n<br/>\nIf anyone&#39;s interested I&#39;ll post details.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 374,
+    "nextTopicId": 382
+}

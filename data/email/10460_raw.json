@@ -1,0 +1,28 @@
+{
+    "userId": 493852415,
+    "authorName": "Gerritt Gatewood",
+    "from": "Gerritt Gatewood &lt;glgwood@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "hoL4vkYtzGyIWlqaesID8OzKUnGdMwLlMkHE2Hm92Suh_9X-444n_DTygCG5d7xFaAeVR8qm7wTMklX3dozeoZb3Fi5g8Y7j1Wjk",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Re: File - Samurai Fiction Contest 2012",
+    "postDate": "1374114372",
+    "msgId": 10460,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PENBRlZzazZLeDQxQWJqVnVSNjlUeENyYzAtQk5Zb3g4X0ZuekM1MWtpYWRjYXhXUUR4UUBtYWlsLmdtYWlsLmNvbT4="
+    },
+    "prevInTopic": 10452,
+    "nextInTopic": 0,
+    "prevInTime": 10459,
+    "nextInTime": 10461,
+    "topicId": 10437,
+    "numMessagesInTopic": 12,
+    "msgSnippet": "Anybody know the family name of the tax collector for the shogun of the edition period [Non-text portions of this message have been removed]",
+    "rawEmail": "Return-Path: &lt;glgwood@...&gt;\r\nReceived: (qmail 53061 invoked by uid 102); 23 Sep 2013 03:02:33 -0000\r\nReceived: from unknown (HELO mtaq6.grp.bf1.yahoo.com) (10.193.84.37)\n  by m3.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 03:02:33 -0000\r\nReceived: (qmail 17029 invoked from network); 23 Sep 2013 03:02:33 -0000\r\nReceived: from unknown (HELO n7-vm8.bullet.mail.bf1.yahoo.com) (72.30.234.134)\n  by mtaq6.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 03:02:33 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1379905353; bh=3w+LlIPNlNde4KwtdTIonZki2DHW07k83Y3tUv484Ig=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:MIME-Version:X-Received:X-Received:X-Received:Date:Message-ID:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:To:Sender:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-eGroups-Approved-By:X-eGroups-Auth; b=iBViFBwCTpPh1CiV6qthKXW93cHUY/7xH0HWIJuOx9ztCvYJQWaixtbm2YsJZ7fxq69K4eLZ/hixADUEI+UQNZ9Cbt8Lyyi0L6/XqTwmE9Lesy2F0TT+bAIzzlCatE5CvYFKXYDLJNLVq+lECLChJk8GRJdAoRqpX3gClcP116w=\r\nReceived: from [72.30.235.66] by n7.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:33 -0000\r\nReceived: from [10.193.75.107] by t3.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:33 -0000\r\nReceived: from [127.0.0.1] by gapi3.grp.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:19 -0000\r\nX-Sender: glgwood@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 18120 invoked by uid 102); 18 Jul 2013 02:26:13 -0000\r\nX-Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)\n  by m3.grp.bf1.yahoo.com with SMTP; 18 Jul 2013 02:26:13 -0000\r\nX-Received: (qmail 20833 invoked from network); 18 Jul 2013 02:26:13 -0000\r\nX-Received: from unknown (HELO mail-pd0-f178.google.com) (209.85.192.178)\n  by mtaq4.grp.bf1.yahoo.com with SMTP; 18 Jul 2013 02:26:13 -0000\r\nX-Received: by mail-pd0-f178.google.com with SMTP id w11so2502749pde.37\n        for &lt;samuraihistory@yahoogroups.com&gt;; Wed, 17 Jul 2013 19:26:13 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.66.183.76 with SMTP id ek12mr10582590pac.189.1374114373141;\n Wed, 17 Jul 2013 19:26:13 -0700 (PDT)\r\nX-Received: by 10.70.130.225 with HTTP; Wed, 17 Jul 2013 19:26:12 -0700 (PDT)\r\nX-Received: by 10.70.130.225 with HTTP; Wed, 17 Jul 2013 19:26:12 -0700 (PDT)\r\nDate: Wed, 17 Jul 2013 16:26:12 -1000\r\nMessage-ID: &lt;CAFVsk6Kx41AbjVuR69TxCrc0-BNYox8_FnzC51kiadcaxWQDxQ@...&gt;\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Gerritt Gatewood &lt;glgwood@...&gt;\r\nSubject: Re: File - Samurai Fiction Contest 2012\r\nX-Yahoo-Group-Post: member; u=493852415\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nTo: samuraihistory@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: kitsuno via web; 22 Sep 2013 20:02:19 -0000\r\n\r\nAnybody know the family name of the tax collector for the shogun of the\nedition period\n\n\n\n\n[Non-text portions of this message have been removed]\n\n\n\n"
+}

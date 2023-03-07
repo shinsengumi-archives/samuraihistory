@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Memoirs of a secret empire on PBS",
+            "postDate": "1085967003",
+            "msgId": 4404,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDBBMTQ3Q0Y2LUIyQTItMTFEOC05ODdFLTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4403,
+            "nextInTime": 4405,
+            "topicId": 4404,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.pbs.org/empires/japan/ I was zapping and got it by chance right at the beginning... I thought it was quite good... If you ve missed it, it s",
+            "messageBody": "<div id=\"ygrps-yiv-833614863\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pbs.org/empires/japan/\">http://www.pbs.org/empires/japan/</a><br/>\n<br/>\nI was zapping and got it by chance right at the beginning... I thought <br/>\nit was quite good...<br/>\n<br/>\nIf you&#39;ve missed it, it&#39;s available on VHS and DVD as well.<br/>\n<br/>\nbye<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1249,
+    "nextTopicId": 4415
+}

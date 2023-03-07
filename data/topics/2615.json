@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45108665,
+            "authorName": "dfogleman2",
+            "from": "&quot;dfogleman2&quot; &lt;dfogleman@...&gt;",
+            "profile": "dfogleman2",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Takeda Cavalry &quot;Retainers&quot;",
+            "postDate": "1070313111",
+            "msgId": 2615,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxZ2Fxbis0MmM3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2614,
+            "nextInTime": 2616,
+            "topicId": 2615,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, Most sources in English indicate that, at least until 1575, each of the Takeda mounted samurai had two dismounted retainers.  Does anyone know how the",
+            "messageBody": "<div id=\"ygrps-yiv-853536974\">Hi,<br/>\n<br/>\nMost sources in English indicate that, at least until 1575, each of <br/>\nthe Takeda mounted samurai had two dismounted &quot;retainers.&quot;  Does <br/>\nanyone know how the &quot;retainters&quot; were utilized?  Did the two follow <br/>\ndirectly on the heels of the mounted man, or were they formed in <br/>\nseparate units?  Did they wear the typical ashigaru armor or the <br/>\nbetter armor typically associated with what one theinks of <br/>\na &quot;samurai?&quot;  How were they armed?  <br/>\nThanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2580,
+    "nextTopicId": 2592
+}

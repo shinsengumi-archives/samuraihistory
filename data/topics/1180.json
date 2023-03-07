@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 122908548,
+            "authorName": "moraand",
+            "from": "&quot;moraand&quot; &lt;Moraand@...&gt;",
+            "profile": "moraand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Armor paint",
+            "postDate": "1035376706",
+            "msgId": 1180,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFwNjU4Mitnbm8yQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1179,
+            "nextInTime": 1181,
+            "topicId": 1180,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, my name is Andres Mora from Caracas, Venezuela, (moraand@cantv.net) I feel so glad to be a member of this forum, I need your help, I am a figure painter,",
+            "messageBody": "<div id=\"ygrps-yiv-2089478563\">Hi, my name is Andres Mora from Caracas, Venezuela, <br/>\n(<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:moraand@...\">moraand@...</a>) I feel so glad to be a member of this forum, I <br/>\nneed your help, I am a figure painter, In this moment I paint a Late <br/>\nHeian Period Samurai, 90mm scale (pegaso model), I wanna paint a <br/>\nscene in the front of yoroi, somebody send me a historic ilustration <br/>\nor a paint from this period to paint this, the emsambly instructions <br/>\nilustrations have some flowers and dragons motivs in a rombo <br/>\nstructure I think that a paint or ilustrations will be great.Thanks<br/>\nPD excuse my english <br/>\nAndres</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1171,
+    "nextTopicId": 1172
+}

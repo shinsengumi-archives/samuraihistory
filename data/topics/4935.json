@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 192019364,
+            "authorName": "Lilith",
+            "from": "&quot;Lilith&quot; &lt;lillith.saintcrow@...&gt;",
+            "profile": "scorpialuna",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sweet article, Djinn",
+            "postDate": "1091208668",
+            "msgId": 4935,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlZTBrcys4NjNhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4934,
+            "nextInTime": 4936,
+            "topicId": 4935,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I really enjoyed it. Can I Ctrl-C it and put it in Adobe as long as I give ya proper credit? I m writing another book- this one a sort of fantasy samurai thing",
+            "messageBody": "<div id=\"ygrps-yiv-1775817189\">I really enjoyed it. Can I Ctrl-C it and put it in Adobe as long as I <br/>\ngive ya proper credit? I&#39;m writing another book- this one a sort of <br/>\nfantasy samurai thing (yeha, I know, I know) and your article helped <br/>\nimmensely. I&#39;d like to be able to refer to it- maybe you could send <br/>\nme the version with footnotes?<br/>\n<br/>\nThanks to all in the group for the resources and great discussion,<br/>\n<br/>\nLili</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4917,
+    "nextTopicId": 4937
+}

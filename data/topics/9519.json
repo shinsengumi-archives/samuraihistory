@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Fiction 2007 - Judging",
+            "postDate": "1176703093",
+            "msgId": 9519,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV2djM5bCtqaW9mQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9518,
+            "nextInTime": 9520,
+            "topicId": 9519,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The judging has started for the 2007 Samurai Fiction Contest.  Not sure how long it will take - there are 8 stories.  I ll keep you updated.",
+            "messageBody": "<div id=\"ygrps-yiv-1662416252\">The judging has started for the 2007 Samurai Fiction Contest.  Not<br/>\nsure how long it will take - there are 8 stories.  I&#39;ll keep you updated.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9499,
+    "nextTopicId": 9513
+}

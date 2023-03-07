@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "online leaves are fallin&#39;",
+            "postDate": "1073443274",
+            "msgId": 3025,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEY2MjIwOUM3LTQwQkEtMTFEOC05RUY1LTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3024,
+            "nextInTime": 3026,
+            "topicId": 3025,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://split-kitty.com/misc/Hagakure/ This cropped up on another list, whatever you think of the text, this is a neat resource... -t",
+            "messageBody": "<div id=\"ygrps-yiv-242777630\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://split-kitty.com/misc/Hagakure/\">http://split-kitty.com/misc/Hagakure/</a><br/>\n<br/>\nThis cropped up on another list, whatever you think of the text, this <br/>\nis a neat resource...<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3022,
+    "nextTopicId": 3021
+}

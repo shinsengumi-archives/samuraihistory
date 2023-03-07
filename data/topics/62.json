@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "AvJJaJSKjYaWgEjMoPUk33ODAz_8KzvYOS2y7nqtg9GSQ8YoL4Vsn8k9-kw80bW_3jlwLmCmsnqrWpA",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives WEB ADDRESS UPDATE",
+            "postDate": "980383962",
+            "msgId": 62,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0bnRjcStkamRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 61,
+            "nextInTime": 63,
+            "topicId": 62,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The server for the samurai archives has been changed, and is currently being hosted at:  http://samurai.bigsitecity.com (www.techjapanese.com/samurai is no",
+            "messageBody": "<div id=\"ygrps-yiv-811406554\">The server for the &#39;samurai archives&#39; has been changed, and is <br/>\ncurrently being hosted at:  <a rel=\"nofollow\" target=\"_blank\" href=\"http://samurai.bigsitecity.com\">http://samurai.bigsitecity.com</a>  <br/>\n(www.techjapanese.com/samurai is no longer valid) there are some <br/>\nbroken links now due to this move, including some in the downloads <br/>\nsection, so please bear with us, and please update your bookmarks <br/>\naccordingly.  We should *hopefully* have the situation back to normal <br/>\nwithin the week.<br/>\n<br/>\nC.E.West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 47,
+    "nextTopicId": 52
+}

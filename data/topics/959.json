@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 83369860,
+            "authorName": "Edwin Angulo",
+            "from": "Edwin Angulo &lt;mayalan@...&gt;",
+            "profile": "mayalan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hideyoshi Toyotomi",
+            "postDate": "1027403574",
+            "msgId": 961,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwNzIzMDU1MjU0Ljc2NDkyLnFtYWlsQHdlYjEzMTAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGFoaWxiaCtpcHFuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 959,
+            "nextInTopic": 0,
+            "prevInTime": 960,
+            "nextInTime": 962,
+            "topicId": 959,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I dont know the cause of hideyoshi´s death, but the man who was put in charge of his son were Tokugawa Ieyasu,Ukita Hideie, Maeda Toshiie, Mori Terumoto",
+            "messageBody": "<div id=\"ygrps-yiv-845848834\">Hi!<br/>\nI dont know the cause of hideyoshi�s death, but the man who was put in charge of his son were Tokugawa Ieyasu,Ukita Hideie, Maeda Toshiie, Mori Terumoto and Uesugi Kagektasu, from wich I have read.<br/>\nHope this helps.<br/>\nEdwin<br/>\n <br/>\n<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo You Yahoo!?<br/>\nYahoo! Health - Feel better, live better<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 119500921,
+            "authorName": "squrpio_prince",
+            "from": "&quot;squrpio_prince&quot; &lt;squrpio_prince@...&gt;",
+            "profile": "squrpio_prince",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hideyoshi Toyotomi",
+            "postDate": "1027397809",
+            "msgId": 959,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFoaWxiaCtpcHFuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 961,
+            "prevInTime": 958,
+            "nextInTime": 960,
+            "topicId": 959,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am currently reading the book Taiko By Eiji Yoshikawa and I love it. Are there any other books that focus upon Hideyoshi mainly? How did Hideyoshi die? What",
+            "messageBody": "<div id=\"ygrps-yiv-352364545\">I am currently reading the book Taiko By Eiji Yoshikawa and I love <br/>\nit. Are there any other books that focus upon Hideyoshi mainly? <br/>\n<br/>\nHow did Hideyoshi die? What was the cause? And what men did Hideyoshi <br/>\nput in charge of seeing his son&#39;s well-being?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 960,
+    "nextTopicId": 962
+}

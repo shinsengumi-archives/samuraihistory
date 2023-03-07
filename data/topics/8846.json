@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Please Help me",
+            "postDate": "1149163129",
+            "msgId": 8848,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU1bWtwcCtka2pmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGU1ajhubCtiN3M3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8846,
+            "nextInTopic": 0,
+            "prevInTime": 8847,
+            "nextInTime": 8849,
+            "topicId": 8846,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... please ... It is called Atsumori http://www.odanobunaga.com/atsumori.gif",
+            "messageBody": "<div id=\"ygrps-yiv-924562606\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Joshua&quot; &lt;zenmasterjc@...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Hello all I thank you for taking the time to read this I have a <br/>\n&gt; question for you all and if you could help i would be in your debt.<br/>\n&gt; <br/>\n&gt; I know it was said that Oda Nobunaga Did a fan dance before battle <br/>\n&gt; doesn anyone know what the name fo the Dance was? if you would <br/>\n </span></blockquote>please <br/>\n<blockquote><span title=\"ireply\"> &gt; let me know i would be more than grateful...<br/>\n&gt; <br/>\n&gt; zenmasterjc@...<br/>\n<br/>\n<br/>\n </span></blockquote>It is called &quot;Atsumori&quot;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.odanobunaga.com/atsumori.gif\">http://www.odanobunaga.com/atsumori.gif</a><br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 270746078,
+            "authorName": "Joshua",
+            "from": "&quot;Joshua&quot; &lt;zenmasterjc@...&gt;",
+            "profile": "zenmasterjc",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Please Help me",
+            "postDate": "1149052469",
+            "msgId": 8846,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU1ajhubCtiN3M3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8848,
+            "prevInTime": 8845,
+            "nextInTime": 8847,
+            "topicId": 8846,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all I thank you for taking the time to read this I have a question for you all and if you could help i would be in your debt. I know it was said that Oda",
+            "messageBody": "<div id=\"ygrps-yiv-598894606\">Hello all I thank you for taking the time to read this I have a <br/>\nquestion for you all and if you could help i would be in your debt.<br/>\n<br/>\nI know it was said that Oda Nobunaga Did a fan dance before battle <br/>\ndoesn anyone know what the name fo the Dance was? if you would please <br/>\nlet me know i would be more than grateful...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:zenmasterjc@...\">zenmasterjc@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8847,
+    "nextTopicId": 8850
+}

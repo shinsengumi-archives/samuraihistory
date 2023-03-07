@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 170299204,
+            "authorName": "beikokutc",
+            "from": "&quot;beikokutc&quot; &lt;beikokutc@...&gt;",
+            "profile": "beikokutc",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Takayama Ukon&#39;s Kamon",
+            "postDate": "1072499372",
+            "msgId": 2979,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJzajFyYythZTJkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2978,
+            "nextInTime": 2980,
+            "topicId": 2979,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "During university, I did some research on the Christian Daimyo Takayama Ukon.  I couldn t find much information on what his kamon was.  Does anyone have",
+            "messageBody": "<div id=\"ygrps-yiv-1976947817\">During university, I did some research on the Christian Daimyo <br/>\nTakayama Ukon.  I couldn&#39;t find much information on what his kamon <br/>\nwas.  Does anyone have information concerning his family crest.  <br/>\nI&#39;ve seen one circle (star) encircled by six other circles, and a <br/>\nvariation of this with rings instead of circles representing shadows <br/>\nof stars.<br/>\n<br/>\nBrian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2956,
+    "nextTopicId": 2972
+}

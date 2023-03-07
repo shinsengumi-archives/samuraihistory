@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 210233470,
+            "authorName": "sd6007",
+            "from": "&quot;sd6007&quot; &lt;sd6007@...&gt;",
+            "profile": "sd6007",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new to board some info pls",
+            "postDate": "1104909695",
+            "msgId": 6483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNyZzRodituNWpmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6482,
+            "nextInTime": 6484,
+            "topicId": 6483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi all my name is glenn johnston and i am in australia and i am a writer. currently i am writting a role play adventure based in japan and with samurai. my",
+            "messageBody": "<div id=\"ygrps-yiv-801053386\">hi all <br/>\n<br/>\nmy name is glenn johnston and i am in australia and i am a writer.<br/>\ncurrently i am writting a role play adventure based in japan and with <br/>\nsamurai.<br/>\n<br/>\nmy main focus is the archery side of things if any one can help me out <br/>\nwith this i wouldbe most grateful.<br/>\n<br/>\nalso some history of the classes of people in that time were the <br/>\nsamurai orgins from <br/>\n<br/>\nreagrds<br/>\n<br/>\nglenn</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6470,
+    "nextTopicId": 6298
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 68548757,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;kitsuno@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Commodore Perry",
+            "postDate": "1015964743",
+            "msgId": 659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE2bG84Nys2YTNiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 658,
+            "nextInTime": 660,
+            "topicId": 659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Found this excerpt compiled from Commodore Perry s notes about his trip to Japan, thought it might be interesting: ",
+            "messageBody": "<div id=\"ygrps-yiv-1324620251\">Found this excerpt compiled from Commodore Perry&#39;s notes about his <br/>\ntrip to Japan, thought it might be interesting:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fordham.edu/halsall/mod/1854Perry-japan1.html\">http://www.fordham.edu/halsall/mod/1854Perry-japan1.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 652,
+    "nextTopicId": 616
+}

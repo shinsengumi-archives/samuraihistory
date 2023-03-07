@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 101560437,
+            "authorName": "Michael",
+            "from": "&quot;Michael&quot; &lt;takayama_hara@...&gt;",
+            "profile": "takayama_hara",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "If Shigan was still alive during the the Battle of Nagshino, would the Takeda ar",
+            "postDate": "1122314014",
+            "msgId": 7374,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRjMzh1dStnZWF0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7373,
+            "nextInTime": 7375,
+            "topicId": 7374,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This seems to be a bogus poll question (no offense), I think history of Takeda Shingen shows that the battle of Nagoshino would simply not have been fought.",
+            "messageBody": "<div id=\"ygrps-yiv-722700131\">This seems to be a bogus poll question (no offense), I think history of <br/>\nTakeda Shingen shows that the battle of Nagoshino would simply not have <br/>\nbeen fought.  He was far too crafty to be caught out in the open like <br/>\nthat, and Shingen would not have let his pride cloud his judgement.<br/>\nCould we add this as a possible outcome on that poll?<br/>\n<br/>\nThanks,<br/>\n<br/>\nMichael</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7373,
+    "nextTopicId": 7353
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 121999891,
+            "authorName": "jeromelarre",
+            "from": "&quot;jeromelarre&quot; &lt;jeromelarre@...&gt;",
+            "profile": "jeromelarre",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "&quot;Mage&quot; and hairstyle",
+            "postDate": "1088293381",
+            "msgId": 4680,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNibDFtNSttY29zQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4679,
+            "nextInTime": 4681,
+            "topicId": 4680,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I am currently looking for some information (and hopefully some pictures) about hairstyles showing one s status, focused on sengoku era. Does anybody has",
+            "messageBody": "<div id=\"ygrps-yiv-1478136085\">Hi,<br/>\n<br/>\nI am currently looking for some information (and hopefully some <br/>\npictures)<br/>\nabout hairstyles showing one&#39;s status, focused on sengoku era.<br/>\nDoes anybody has some information about this? I think that buke had a<br/>\nspecific mage but i think that other casts had also specific ones, <br/>\nand that<br/>\nthere were more than one hairstyle for a specific cast. Was it true? <br/>\nAny<br/>\nExtra info?<br/>\n<br/>\nThank you,<br/>\n<br/>\nJerome.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4653,
+    "nextTopicId": 4648
+}

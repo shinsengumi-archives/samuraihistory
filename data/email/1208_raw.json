@@ -1,0 +1,30 @@
+{
+    "userId": 96789622,
+    "authorName": "Thomas Davidson",
+    "from": "&quot;Thomas Davidson&quot; &lt;thomas@...&gt;",
+    "profile": "thomas5403",
+    "replyTo": "LIST",
+    "senderId": "2tpeqjv9CNJlkIZHMQ9cDEi6LpkLOkpYh7rYAriy0Zl_vVIvrJC-HqZD8B00xDGRnAVgBhJ6SD_-XxGonA6EieHEWNh43PiJSkPBHDY",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: Perennial OOB Question",
+    "postDate": "1036665391",
+    "msgId": 1208,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGFxZGZuZis4MzByQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDAwMDYwMWMyODVmZSRiODIzM2UyMCQ1MjIwMTZkYkBmbXY+"
+    },
+    "prevInTopic": 1207,
+    "nextInTopic": 1209,
+    "prevInTime": 1207,
+    "nextInTime": 1209,
+    "topicId": 1206,
+    "numMessagesInTopic": 10,
+    "msgSnippet": "... Ah, there s the rub! Thomas",
+    "rawEmail": "Return-Path: &lt;thomas@...&gt;\r\nReceived: (qmail 49818 invoked from network); 7 Nov 2002 15:51:51 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m6.grp.scd.yahoo.com with QMQP; 7 Nov 2002 15:51:51 -0000\r\nReceived: from unknown (HELO n30.grp.scd.yahoo.com) (66.218.66.87)\n  by mta1.grp.scd.yahoo.com with SMTP; 7 Nov 2002 15:51:51 -0000\r\nX-eGroups-Return: thomas@...\r\nReceived: from [66.218.67.253] by n30.grp.scd.yahoo.com with NNFMP; 07 Nov 2002 15:51:48 -0000\r\nX-Sender: thomas@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-8_2_3_0); 7 Nov 2002 10:36:32 -0000\r\nReceived: (qmail 56999 invoked from network); 7 Nov 2002 10:36:32 -0000\r\nReceived: from unknown (66.218.66.218)\n  by m15.grp.scd.yahoo.com with QMQP; 7 Nov 2002 10:36:32 -0000\r\nReceived: from unknown (HELO n13.grp.scd.yahoo.com) (66.218.66.68)\n  by mta3.grp.scd.yahoo.com with SMTP; 7 Nov 2002 10:36:32 -0000\r\nReceived: from [66.218.67.189] by n13.grp.scd.yahoo.com with NNFMP; 07 Nov 2002 10:36:32 -0000\r\nDate: Thu, 07 Nov 2002 10:36:31 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Re: Perennial OOB Question\r\nMessage-ID: &lt;aqdfnf+830r@...&gt;\r\nIn-Reply-To: &lt;000601c285fe$b8233e20$522016db@fmv&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 58\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;Thomas Davidson&quot; &lt;thomas@...&gt;\r\nX-Yahoo-Group-Post: member; u=96789622\r\nX-Yahoo-Profile: thomas5403\r\nX-eGroups-Approved-By: kitsuno &lt;cewest@...&gt; via web; 07 Nov 2002 15:51:46 -0000\r\n\r\n&gt; Also its all in Japanese.\n\nAh, there&#39;s the rub!\n\nThomas\n\n\n\n"
+}

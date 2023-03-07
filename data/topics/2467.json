@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Kawanakajima--?-----Profmurf",
+            "postDate": "1069008575",
+            "msgId": 2467,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE1MS4yNmRiZmZlMS4yY2U5MjBiZkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2466,
+            "nextInTime": 2468,
+            "topicId": 2467,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Our Tony Bryant should have gotten THAT Osprey contract!  Profmurf--- [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1446886410\">Our Tony Bryant should have gotten THAT Osprey contract!  Profmurf---<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2464,
+    "nextTopicId": 2469
+}

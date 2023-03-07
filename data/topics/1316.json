@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 74929206,
+            "authorName": "homitsu &lt;homitsu@yahoo.com&gt;",
+            "from": "&quot;homitsu &lt;homitsu@...&gt;&quot; &lt;homitsu@...&gt;",
+            "profile": "homitsu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Chi tenjo",
+            "postDate": "1040501911",
+            "msgId": 1316,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGF1MmlhbitwOTNmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1315,
+            "nextInTime": 1317,
+            "topicId": 1316,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello! I just joined this list. Visited two temples in Kyoto last summer (Koshoji and Genko-an) that had ceilings built from the floorboards of Fushimi castle,",
+            "messageBody": "<div id=\"ygrps-yiv-93689400\">Hello! I just joined this list. Visited two temples in Kyoto last <br/>\nsummer (Koshoji and Genko-an) that had ceilings built from the <br/>\nfloorboards of Fushimi castle, stained with the blood of those who <br/>\ndied in the siege in 1600. I was very affected by the sight, could <br/>\nalmost hear the screams and clash of arms. I understand that there <br/>\nare several other temples with the same and that the castle was <br/>\ndismantled with parts of it incorporated into others all over Japan. <br/>\nI have a number of (maybe dumb)questions I haven&#39;t been able to find <br/>\nanswers for which you all may know:<br/>\n<br/>\n*The castle was built by Toyotomi and I read that he died there (not <br/>\nin the siege of course). Is that true and was he using it as his <br/>\nresidence at the time? Has it ever been determined what he died of?<br/>\n<br/>\n*How many people on each side died in the siege?<br/>\n<br/>\n*What other campaigns did Torii Mototada, the castle&#39;s defender, <br/>\nfight in? <br/>\n     That&#39;s enough for now-thanks-homitsu</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1309,
+    "nextTopicId": 1317
+}

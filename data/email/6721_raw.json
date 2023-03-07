@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "Dd_mCLI82vHXJsSs655XUNCEXUneM9yQvqwHYybWkyb4f1E2zK6axi1YwOFAkscbGdBPEbmpAL0IOOhXSBICNapyEOkiCB1wmccO",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Other query",
+    "postDate": "1109312264",
+    "msgId": 6721,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PDQyMUVCMEQ0LjgwOTA5MDlAZ21haWwuY29tPg=="
+    },
+    "prevInTopic": 6720,
+    "nextInTopic": 6725,
+    "prevInTime": 6720,
+    "nextInTime": 6722,
+    "topicId": 6702,
+    "numMessagesInTopic": 18,
+    "msgSnippet": "... http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5 ... http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f ... CRIMINY, what is with",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 95414 invoked from network); 25 Feb 2005 06:17:44 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m15.grp.scd.yahoo.com with QMQP; 25 Feb 2005 06:17:44 -0000\r\nReceived: from unknown (HELO web41312.mail.yahoo.com) (66.218.93.61)\n  by mta5.grp.scd.yahoo.com with SMTP; 25 Feb 2005 06:17:44 -0000\r\nReceived: (qmail 10135 invoked by uid 60001); 25 Feb 2005 06:17:44 -0000\r\nComment: DomainKeys? See http://antispam.yahoo.com/domainkeys\r\nDomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;\n  s=s1024; d=yahoo.com;\n  b=ufwqoAParRwWGv6ydukQXZHcc//eYyTfRkR/OLKsTUy0wOKHOrGMz9YnywTXpc1YCikwlxP8oJAggWfSdL1KIx6wjCGPw20UvVsGKOBdi4bJBJEGniy1fakizJ0p9hDOAQHYwaUOQOhzDSCG0EImFxwhCLRjLngCh0B0ZnoQ/4I=  ;\r\nMessage-ID: &lt;20050225061744.10133.qmail@...&gt;\r\nReceived: from [155.6.245.181] by web41312.mail.yahoo.com via HTTP; Thu, 24 Feb 2005 22:17:44 PST\r\nDate: Thu, 24 Feb 2005 22:17:44 -0800 (PST)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;421EB0D4.8090909@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.61\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Other query\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Falc &lt;daitaka@...&gt; wrote:\n\n&gt; (I hope this&#39;ll show up right...)\n&gt; \n&gt; 閥\n&gt; ON reading(s)\tバツ\n&gt; English meanings\tclique; lineage; pedigree; faction;\n&gt; clan\n&gt;\nhttp://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5\n&gt; (from Jim Breem&#39;s WWWJDIC)\n&gt; \n&gt; When I searched there, it was one of the kanji that\n&gt; showed up most often \n&gt; in the results.\n&gt; \n&gt; Oh, and I&#39;m guessing you tried entering the kanji\n&gt; for &#39;uji&#39; there, but \n&gt; something must have gone wrong along the way. Is\n&gt; this \n&gt;\nhttp://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f\n&gt; what you meant?\n\nCRIMINY, what is with you people and UNICODE? LOL. If\nyou&#39;ve got Japanese fonts installed, mine should have\nshown up fine under Shift-JIS or Japanese\n(Auto-Select). Unicode is completely impractical if\nyou actually type in Japanese, which I frequently do\n(not all that WELL, mind you). Try adjusting your\nencoding and you&#39;ll see it fine. There was no &quot;tried&quot;\nthere--I did. \n\nOf course, I can also see your entries--I have to go\nto Unicode to do so, though. And it completely messes\nup every single webpage for a while. But to answer\nyour question, yes the link you provided is the one I\ntyped. \n\n\n\n\n\n\n\t\t\n__________________________________ \nDo you Yahoo!? \nRead only the mail you want - Yahoo! Mail SpamGuard. \nhttp://promotions.yahoo.com/new_mail \n\n"
+}

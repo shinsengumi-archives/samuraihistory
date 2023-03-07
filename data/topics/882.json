@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 65432139,
+            "authorName": "voicez",
+            "from": "&quot;voicez&quot; &lt;ironarhat@...&gt;",
+            "profile": "voicez",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: About Rurouni Kenshin",
+            "postDate": "1022735607",
+            "msgId": 889,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFkNGNkbis0ZjRwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDNDRjQzRUNDLjdGQUFGQzg2QGZzaW5ldC5vci5qcD4="
+            },
+            "prevInTopic": 888,
+            "nextInTopic": 0,
+            "prevInTime": 888,
+            "nextInTime": 890,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The OAV version of Kenshin (4 parts split between 2 DVD/VHS: Trust and Betrayal )can easliy stand up against almost any live action Samurai drama.  Its",
+            "messageBody": "<div id=\"ygrps-yiv-1840354841\">The OAV version of Kenshin (4 parts split between 2 DVD/VHS: &quot;Trust&quot; <br/>\nand &quot;Betrayal&quot;)can easliy stand up against almost any live action <br/>\nSamurai drama.  Its tragic, very serious and very well done. This <br/>\nversion of Kenshin shows us the &quot;man-killer&quot; side of him that he once <br/>\nwas. I would recommend this to anyone, even those not &quot;into&quot; anime.<br/>\n<br/>\nThe TV series version of Kenshin is quite different and takes place <br/>\nseveral years after the events in the OAV.  It is long (96 or so <br/>\nepisodes) and although overall the plots are serious, the Kenshin of <br/>\nthe TV series now wields the &quot;sword that protects&quot; and the characters <br/>\ntend to be more over the top as only anime characters can be.  The TV <br/>\nseries has great characters, good storylines and Kenshin displays a <br/>\nwonderful (if idealistic) code of honor that we would all wish to <br/>\nlive up to.  This series would appeal mostly though to those already <br/>\nversed in anime and all that this style of animation entails or to <br/>\nthose just looking for a great story with great characters. Those <br/>\nlooking strictly for &quot;history&quot; would not be into it.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] About Rurouni Kenshin",
+            "postDate": "1022639818",
+            "msgId": 888,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDRjQzRUNDLjdGQUFGQzg2QGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDIwMDIwNTI1MTcxODU5LjQ3MjQ5LnFtYWlsQHdlYjE0NzAzLm1haWwueWFob28uY29tPiA8MDAwMjAxYzIwNDE3JDMwNGNlNWEwJGEzYzFmZWE5QHNpZ2VsPg=="
+            },
+            "prevInTopic": 882,
+            "nextInTopic": 889,
+            "prevInTime": 887,
+            "nextInTime": 889,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Thanks Ben, This is not my idea of the Bakumatsu, Rurouni seems a bit Okama poku... Tom",
+            "messageBody": "<div id=\"ygrps-yiv-26353760\">Ben Hertschap wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi there,<br/>\n&gt;<br/>\n&gt; Rurouni Kenshin is a japanese cartoon; wich are called &quot;anim&quot;. It is based<br/>\n&gt; on a 28 volume counting &quot;manga&quot; = comic<br/>\n&gt; by Nobuhiro Watsuki.<br/>\n&gt;<br/>\n&gt; The story line shifts between bakumatsu and early meiji (I think.........i&#39;m<br/>\n&gt; no expert on those stuff ^^). While it has some<br/>\n&gt; historical true value; all charachters and events are for 85-90% fiction.<br/>\n&gt;<br/>\n&gt; If you wanna know more, visit www.anipike.com for more info about Kenshin<br/>\n&gt; and anim.<br/>\n&gt;<br/>\n&gt; Best regards,<br/>\n&gt;<br/>\n&gt; Ben<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Thanks Ben,<br/>\n    This is not my idea of the Bakumatsu, Rurouni seems a bit Okama poku...<br/>\nTom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 99049728,
+            "authorName": "Ben Hertschap",
+            "from": "&quot;Ben Hertschap&quot; &lt;Ben.Hertschap@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "About Rurouni Kenshin",
+            "postDate": "1022350115",
+            "msgId": 882,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDIwMWMyMDQxNyQzMDRjZTVhMCRhM2MxZmVhOUBzaWdlbD4=",
+                "referencesHeader": "PDIwMDIwNTI1MTcxODU5LjQ3MjQ5LnFtYWlsQHdlYjE0NzAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 888,
+            "prevInTime": 881,
+            "nextInTime": 883,
+            "topicId": 882,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there, Rurouni Kenshin is a japanese cartoon; wich are called animé . It is based on a 28 volume counting manga = comic by Nobuhiro Watsuki. The story",
+            "messageBody": "<div id=\"ygrps-yiv-956022920\">Hi there,<br/>\n<br/>\n<br/>\nRurouni Kenshin is a japanese cartoon; wich are called &quot;animé&quot;. It is based<br/>\non a 28 volume counting &quot;manga&quot; = comic<br/>\nby Nobuhiro Watsuki.<br/>\n<br/>\nThe story line shifts between bakumatsu and early meiji (I think.........i&#39;m<br/>\nno expert on those stuff ^^). While it has some<br/>\nhistorical true value; all charachters and events are for 85-90% fiction.<br/>\n<br/>\nIf you wanna know more, visit www.anipike.com for more info about Kenshin<br/>\nand animé.<br/>\n<br/>\n<br/>\nBest regards,<br/>\n<br/>\n<br/>\nBen</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 875,
+    "nextTopicId": 890
+}

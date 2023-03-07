@@ -1,0 +1,326 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2034741,
+    "listId": 2247946,
+    "dateCreated": 1131203510,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "If you would be brought back in time of the feudal japan, what occupation/class would you prefer to be you?",
+    "flagBits": 0,
+    "multiResponse": true,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14864768,
+            "selectionText": "Samurai",
+            "selections": 10,
+            "responses": [
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 332735523,
+                    "guid": "A7WLVOOW52L4FQELWKF7MPOYEQ",
+                    "nickname": "stevethomp47",
+                    "email": "stevethomp47@yahoo.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 257405796,
+                    "guid": "H7C26Q7EBTZAUJ2DLEETO37S6I",
+                    "nickname": "seki_nakagawa",
+                    "email": "sekinakagawa@aol.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 162727959,
+                    "guid": "CHLLFD4HOWSBUYGL432RECSEZM",
+                    "nickname": "eisuke_2001",
+                    "email": "eisuke_2001@yahoo.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 14864768,
+                    "surveyId": 2034741,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864769,
+            "selectionText": "Shinobi/ninja",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 14864769,
+                    "surveyId": 2034741,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                },
+                {
+                    "selectionId": 14864769,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864770,
+            "selectionText": "Tengu(mountain goblin/ninja)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 14864770,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864771,
+            "selectionText": "Military strategeist",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14864771,
+                    "surveyId": 2034741,
+                    "userId": 286881682,
+                    "guid": "MEP2V2XES3R26YXR3TLW5WK7EQ",
+                    "nickname": "boojienacpil",
+                    "email": "boojienacpil@yahoo.com"
+                },
+                {
+                    "selectionId": 14864771,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14864771,
+                    "surveyId": 2034741,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864772,
+            "selectionText": "Merchant(with martial art skills)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864773,
+            "selectionText": "Okinawan fighter",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 14864773,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864774,
+            "selectionText": "Fisherman(with martial art skills)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864775,
+            "selectionText": "Farmer(with martial art skills)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864776,
+            "selectionText": "Kicking style(taekwondo) fighter for hire",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 14864776,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14864776,
+                    "surveyId": 2034741,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864777,
+            "selectionText": "Monk(kenpo stylist)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 14864777,
+                    "surveyId": 2034741,
+                    "userId": 257071481,
+                    "guid": "SMVX6CBJRMSOAXW64AXVEOJNPI",
+                    "nickname": "nonojnet",
+                    "email": "nonojnet@gmail.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864778,
+            "selectionText": "Shikaku(assassin)",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864779,
+            "selectionText": "Ronin(masterless samurai/wandering swordsman)",
+            "selections": 6,
+            "responses": [
+                {
+                    "selectionId": 14864779,
+                    "surveyId": 2034741,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 14864779,
+                    "surveyId": 2034741,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 14864779,
+                    "surveyId": 2034741,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 14864779,
+                    "surveyId": 2034741,
+                    "userId": 158578907,
+                    "email": "nuqwIjatlh@hotmail.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14864780,
+            "selectionText": "Bandit",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864781,
+            "selectionText": "Priest(with martial art skills)",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14864782,
+            "selectionText": "Doctor(with martial art skills)",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14864782,
+                    "surveyId": 2034741,
+                    "userId": 438032558,
+                    "guid": "LUOSOW7NE23R2KG4EON45KDVTQ",
+                    "nickname": "quickwheresmylightsaber",
+                    "email": "quickwheresmylightsaber@yahoo.com"
+                },
+                {
+                    "selectionId": 14864782,
+                    "surveyId": 2034741,
+                    "userId": 234853852,
+                    "nickname": "bellaireroad",
+                    "email": "bellaireroad@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 33,
+    "previousSurveyId": 2034750,
+    "nextSurveyId": 2033889
+}

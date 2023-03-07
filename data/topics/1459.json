@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "Kitsuno &lt;cewest@samurai-archives.com&gt;",
+            "from": "&quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Imagawa Ancestors",
+            "postDate": "1045018251",
+            "msgId": 1459,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIyY2NxYitmYWN0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1458,
+            "nextInTime": 1460,
+            "topicId": 1459,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am getting conflicting information from some Japanese websites about the ancestry of the Imagawa.  Some sites say the Imagawa are descended from Kira",
+            "messageBody": "<div id=\"ygrps-yiv-51520519\">I am getting conflicting information from some Japanese websites <br/>\nabout the ancestry of the Imagawa.  Some sites say the Imagawa are <br/>\ndescended from Kira (Imagawa) Kuniuji, the son of Kira Nagauji. <br/>\nOthers say that Kuniuji is actually the son of Ashikaga Ariuji, and <br/>\nwas adopted by Nagauji.<br/>\n<br/>\nHere are three sites I&#39;ve looked at:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www15.u-page.so-net.ne.jp/kc4/tomofumi/page001.html\">http://www15.u-page.so-net.ne.jp/kc4/tomofumi/page001.html</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://village.infoweb.ne.jp/~isamun/monarchs/people/japan/imagawa.htm\">http://village.infoweb.ne.jp/~isamun/monarchs/people/japan/imagawa.htm</a><br/>\nl<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www2.harimaya.com/sengoku/html/imaga_k.html\">http://www2.harimaya.com/sengoku/html/imaga_k.html</a><br/>\n<br/>\nCould someone explain the relationship between Nagauji and Kuniuji?<br/>\n<br/>\nThanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1418,
+    "nextTopicId": 1464
+}

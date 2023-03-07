@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 172296709,
+            "authorName": "jacob gerhard",
+            "from": "jacob gerhard &lt;madbearscave@...&gt;",
+            "profile": "madbearscave",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] About the Ronin",
+            "postDate": "1074915238",
+            "msgId": 3269,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMTI0MDMzMzU4Ljk5Mzk3LnFtYWlsQHdlYjIxMzI2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGJ1cDk0NCtxcHM5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3254,
+            "nextInTopic": 0,
+            "prevInTime": 3268,
+            "nextInTime": 3270,
+            "topicId": 3254,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Erik, Ronin or wave man is a samurai without a master. They have either been released from service, their lord is dead, their clan has been shattered,",
+            "messageBody": "<div id=\"ygrps-yiv-2074088810\">Hi Erik,<br/>\n<br/>\nRonin or &quot;wave man&quot; is a samurai without a master.<br/>\nThey have either been released from service, their<br/>\nlord is dead, their clan has been shattered, they<br/>\ncommitted an act that resulted in them being cast out.<br/>\nThese are some of the reasons one woul become ronin.<br/>\n<br/>\nDuring the early Tokugawa period there was estimated<br/>\nto be close to 400,000 Ronin in Japan. The reason for<br/>\nthis was the disbanding of many defeated clans after<br/>\nthe Battle of Sekigahara (1600) by the victorious<br/>\nTokugawa Shogunate. These Ronin would figure<br/>\nprominantly in the Osaka Campaigns of 1614-1615 on the<br/>\nToyotomi side and during the Shimabara Rebelion of<br/>\n1637-1638 on the rebel side. These Ronin took any<br/>\nchance to strike back at the those who made them Ronin<br/>\nnamely the Shogunate and their Hatamoto. The Ronin are<br/>\noften depicted as the champion of the peasant and as a<br/>\ndangerious man during the Tokugawa Period. Many of<br/>\nthese Ronin also found service in the Tozama<br/>\nClans(outside clans) such as the Shimazu and Nabeshima<br/>\nClans.<br/>\n<br/>\nRonin Samurai also figured prominantly during the<br/>\nMeiji Restoration and the downfall of the Shogunate in<br/>\n1867-1868.<br/>\n<br/>\nHope I helped ya.<br/>\n<br/>\nJake<br/>\n--- Erik Larson &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:skippyefa@...\">skippyefa@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; What exactly are the Ronin?  I thought that they<br/>\n&gt; where Samurai that <br/>\n&gt; had lost their lord and lands.  Is there more to<br/>\n&gt; them?<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free web site building tool. Try it!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://webhosting.yahoo.com/ps/sb/\">http://webhosting.yahoo.com/ps/sb/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 104161427,
+            "authorName": "Erik Larson",
+            "from": "&quot;Erik Larson&quot; &lt;skippyefa@...&gt;",
+            "profile": "skippyefa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "About the Ronin",
+            "postDate": "1074800580",
+            "msgId": 3254,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1cDk0NCtxcHM5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3269,
+            "prevInTime": 3253,
+            "nextInTime": 3255,
+            "topicId": 3254,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What exactly are the Ronin?  I thought that they where Samurai that had lost their lord and lands.  Is there more to them?",
+            "messageBody": "<div id=\"ygrps-yiv-2010516795\">What exactly are the Ronin?  I thought that they where Samurai that <br/>\nhad lost their lord and lands.  Is there more to them?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3225,
+    "nextTopicId": 3244
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 112321249,
+            "authorName": "dconfrost_chasez21",
+            "from": "&quot;dconfrost_chasez21&quot; &lt;dconfrost_chasez21@...&gt;",
+            "profile": "dconfrost_chasez21",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Bushido in modern Japanese spciety",
+            "postDate": "1074605785",
+            "msgId": 3199,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1amFzcCs3bHZxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3198,
+            "nextInTime": 3200,
+            "topicId": 3199,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello! I m doing a research about bushido and its effect in their society. However, I wanted to know if it stil applicable today. Is the virtues that bushido",
+            "messageBody": "<div id=\"ygrps-yiv-1042441198\">hello!<br/>\nI&#39;m doing a research about bushido and its effect in their society. <br/>\nHowever, I wanted to know if it stil applicable today. Is the <br/>\nvirtues that bushido taught the Japanese in 16th and 17th century is <br/>\nstill evident in the modern Japanese society? or does it instill <br/>\nsome of those teachings in the Japanese but have evolve and adopted <br/>\ninto the changes of the modern society. <br/>\nI hope you&#39;ll give me some views about it. Your ideas would be <br/>\ngreatly appreciated and especially if its coming from people who has <br/>\nknowledge about it especially if you are japanses or have relatives <br/>\nwho are japanese. Thank you very much.<br/>\n<br/>\nKaren (Phils.)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3162,
+    "nextTopicId": 3208
+}

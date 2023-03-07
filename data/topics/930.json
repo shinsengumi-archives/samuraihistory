@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 116754561,
+            "authorName": "Jason S",
+            "from": "&quot;Jason S&quot; &lt;Jasonsmither@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1025784446",
+            "msgId": 930,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwODMwMWMyMjM1MyQ1ZGI5YTM2MCQ3M2JlZjljMUBkZWZhdWx0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 929,
+            "nextInTime": 931,
+            "topicId": 930,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone, I m a new comer to this group and to the world of The Samurai. I would like to know if anyone knows any websites which might inform me on",
+            "messageBody": "<div id=\"ygrps-yiv-1784125806\">Hello everyone,<br/>\n    I&#39;m a new comer to this group and to the world of The Samurai.<br/>\n    I would like to know if anyone knows any websites which might inform me on fierce hand carved Noh masks?<br/>\nThank you very much.<br/>\n<br/>\nPS If you don&#39;t know what I&#39;m talking about, check out:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sakura-0.com/cards/\">http://www.sakura-0.com/cards/</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 905,
+    "nextTopicId": 936
+}

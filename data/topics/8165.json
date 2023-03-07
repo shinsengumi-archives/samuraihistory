@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 133832565,
+            "authorName": "m ortega",
+            "from": "m ortega &lt;m0rtega@...&gt;",
+            "profile": "m0rtega",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Japanese Culture",
+            "postDate": "1136196262",
+            "msgId": 8165,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwMTAyMTAwNDIyLjgxMzkwLnFtYWlsQHdlYjU0MzAxLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8164,
+            "nextInTime": 8166,
+            "topicId": 8165,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello to everybody, I am a subscriber from Spain very interested in martial arts and Japanese culture, I have never been in Japan, and I hope to go there one",
+            "messageBody": "<div id=\"ygrps-yiv-6308319\">Hello to everybody,<br/>\n<br/>\nI am a subscriber from Spain very interested in<br/>\nmartial arts and Japanese culture, I have never been<br/>\nin Japan, and I hope to go there one day. As I&#39;ve seen<br/>\nfor last two years this group is populated with a lot<br/>\nof people that have a very good knwoledge about Japan<br/>\nand about its history, so I throw you a question that<br/>\nmay be some of you can answer. Recently I&#39;ve listened<br/>\nabout the compund japanese term Yamato Damashii, I&#39;ve<br/>\ntried to find some information about but haven&#39;t<br/>\nsucceed too much, I think that is somtehing about<br/>\njapanese patriotic, ethics, feelings, ...<br/>\n<br/>\n¿could you explain briefly what does Yamato Damashii<br/>\nmean?<br/>\n<br/>\n¿can you recomend me some reading or book about this?<br/>\n<br/>\nThanks in advance and happy 2006 to everybody<br/>\n<br/>\nMiguel A. Ortega<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________________ <br/>\nYahoo! DSL  Something to write home about. <br/>\nJust $16.99/mo. or less. <br/>\ndsl.yahoo.com</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8164,
+    "nextTopicId": 8110
+}

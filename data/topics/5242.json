@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 130998285,
+            "authorName": "Mark Arsenault",
+            "from": "Mark Arsenault &lt;taisho@...&gt;",
+            "profile": "goldrushg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 905",
+            "postDate": "1092596723",
+            "msgId": 5242,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMS4xLjEuMi4yMDA0MDgxNTEyMDUxMS4wNGI3ZGMzMEBtYWlsLnNlbmdva3UuY29tPg==",
+                "inReplyToHeader": "PDEwOTI1ODI3OTAuMTA4OS4yMTc2NC5tMTJAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwOTI1ODI3OTAuMTA4OS4yMTc2NC5tMTJAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5241,
+            "nextInTime": 5243,
+            "topicId": 5242,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "On 08:13 AM 8/15/04, samuraihistory@yahoogroups.com said... ... This list needs a good FAQ. ;) Mark Arsenault Sengoku List Taisho ... http://www.sengoku.com -",
+            "messageBody": "<div id=\"ygrps-yiv-1155051782\">On 08:13 AM 8/15/04, <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a> said...<br/>\n<blockquote><span title=\"ireply\"> &gt;I was wondering if anyone could tell me what books are good to buy about <br/>\n&gt;samurai armour.<br/>\n<br/>\n </span></blockquote>This list needs a good FAQ. ;)<br/>\n<br/>\n<br/>\n    Mark Arsenault<br/>\n    Sengoku List Taisho<br/>\n    ----------------------------------------------<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com\">http://www.sengoku.com</a> - The official site of the Sengoku RPG!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5190,
+    "nextTopicId": 5169
+}

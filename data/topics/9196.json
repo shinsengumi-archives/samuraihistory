@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Kasuga no Tsubone",
+            "postDate": "1163697978",
+            "msgId": 9196,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVqaTZ2cSs5aGMxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9195,
+            "nextInTime": 9199,
+            "topicId": 9196,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Did Kasuga no Tsubone adopt Hotta Masamori, and who was Hotta Masamori s father?  Also, was Masamori a relative of Kasuga no Tsubone s (former) husband Inaba",
+            "messageBody": "<div id=\"ygrps-yiv-693244512\">Did Kasuga no Tsubone adopt Hotta Masamori, and who was Hotta<br/>\nMasamori&#39;s father?  Also, was Masamori a relative of Kasuga no<br/>\nTsubone&#39;s (former) husband Inaba Masanari?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9193,
+    "nextTopicId": 9199
+}

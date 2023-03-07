@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Mark Hall",
+            "from": "&quot;Mark Hall&quot; &lt;markhall@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "jiD5YFtEavBmOhVSGiU6E5YvapHLsTv2ZecfaEmUhm-QvKimpLmT3Da0n1CW7r2EAS70j5FvoTcigFSLg-mB3AxSf6Oj",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Book Reply was  New Oda Nobunaga Book",
+            "postDate": "996235667",
+            "msgId": 283,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxNDYwMWMxMTY5NCRlYmJiYWE0MCQ4OTE0ZDhjYkAwMTY4MDQzNz4=",
+                "referencesHeader": "PDAwNmYwMWMxMTUxYiQ1N2M0Y2M2MCQyOWI4OGJhM0BuZS5qcD4gPDNCNUYyMTMxLkUzQjQwRjczQGluZGlhbmEuZWR1PiA8MDAyYTAxYzExNTczJDRiZWIwM2MwJGUwYjg4YmEzQG5lLmpwPiA8M0I1RjZGNEIuQ0E3MDE3MzFAaW5kaWFuYS5lZHU+IDwwMDA4MDFjMTE1ZGQkMmUwNjM5MDAkMjliODhiYTNAbmUuanA+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 282,
+            "nextInTime": 284,
+            "topicId": 283,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... a ... But I see a couple of reasons for this.  One, you don t have as many people trained in Japanese history in the West as say European or American",
+            "messageBody": "<div id=\"ygrps-yiv-1436106088\">|The problem I have with the field of<br/>\n| Japanese historiograpy is that there are few (very few) well written<br/>\n| narrative histories like the type done by say Robert Massie, Simon Schama,<br/>\n| David McCollough, or Stephan Ambrose. While I*am*not a historian I do love<br/>\na<br/>\n| good book on history.<br/>\n<br/>\nBut I see a couple of reasons for this.  One, you don&#39;t have as many people<br/>\ntrained in Japanese history in the West as say European or American history.<br/>\nYour pool of potential writers is much smaller.<br/>\n<br/>\nSecond, for the authors you list above, while writing good introductory<br/>\nbooks, these would not necessarily make tenure committees or promotion<br/>\ncommittees happy.  In fact, one could advance the thesis that the more<br/>\npopular and well received a non-fiction book is by<br/>\nthe general public, the less academics will like it.<br/>\n<br/>\nThird, is there a market for books as you want on medieval Japanese history?<br/>\nPublishing is a money making enterprise and most publishers seem to shy away<br/>\nfrom books that don&#39;t sell well over 10,000 copies.<br/>\n<br/>\nLater, Mark Hall</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 282,
+    "nextTopicId": 235
+}

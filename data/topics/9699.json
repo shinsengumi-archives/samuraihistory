@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 129568944,
+            "authorName": "jlf08011980",
+            "from": "&quot;jlf08011980&quot; &lt;jlf08011980@...&gt;",
+            "profile": "jlf08011980",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Nihon Bujutsu history",
+            "postDate": "1204419053",
+            "msgId": 9700,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZxY3RsZCtkcG8zQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGZxY2M0NCtlcmQ3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9699,
+            "nextInTopic": 0,
+            "prevInTime": 9699,
+            "nextInTime": 9701,
+            "topicId": 9699,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... http://sensoryuaikibudo.yuku.com/directory",
+            "messageBody": "<div id=\"ygrps-yiv-252617899\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;jlf08011980&quot; &lt;jlf08011980@...&gt;<br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I have a board on Yuku that has info on a lot of history for Samurai<br/>\n&gt; Bujutsu, karate,kempo, Jujutsu(jiujitsu,Jujitsu) and Soto zen etc.<br/>\n&gt; Please visit and use the info for your website or group. thank you<br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://sensoryuaikibudo.yuku.com/directory\">http://sensoryuaikibudo.yuku.com/directory</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 129568944,
+            "authorName": "jlf08011980",
+            "from": "&quot;jlf08011980&quot; &lt;jlf08011980@...&gt;",
+            "profile": "jlf08011980",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Nihon Bujutsu history",
+            "postDate": "1204401092",
+            "msgId": 9699,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZxY2M0NCtlcmQ3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9700,
+            "prevInTime": 9698,
+            "nextInTime": 9700,
+            "topicId": 9699,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a board on Yuku that has info on a lot of history for Samurai Bujutsu, karate,kempo, Jujutsu(jiujitsu,Jujitsu) and Soto zen etc. Please visit and use",
+            "messageBody": "<div id=\"ygrps-yiv-1963231691\">I have a board on Yuku that has info on a lot of history for Samurai<br/>\nBujutsu, karate,kempo, Jujutsu(jiujitsu,Jujitsu) and Soto zen etc.<br/>\nPlease visit and use the info for your website or group. thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9691,
+    "nextTopicId": 9701
+}

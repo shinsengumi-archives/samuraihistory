@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives addition: &#39;The Japanese in Ayudhya&#39;",
+            "postDate": "1107496090",
+            "msgId": 6651,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN0djJhcSs0Y3RhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6650,
+            "nextInTime": 6652,
+            "topicId": 6651,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve just uploaded a new article, The Japanese in Ayudhya in the first half of the 17th century to the Samurai Archives: ",
+            "messageBody": "<div id=\"ygrps-yiv-1434472342\">I&#39;ve just uploaded a new article, &#39;The Japanese in Ayudhya in the <br/>\nfirst half of the 17th century&#39; to the Samurai Archives:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/jia.html\">http://www.samurai-archives.com/jia.html</a><br/>\n<br/>\nwritten by Cepo from the list here, it is a study of the Japanese in <br/>\nSiam in the early 17th century.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6647,
+    "nextTopicId": 6655
+}

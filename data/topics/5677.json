@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "&quot; &lt;tom.davidson@fsmail.net&gt;",
+            "from": "&quot;&#92;&quot; &lt;tom.davidson@...&gt;&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Update on trip ...",
+            "postDate": "1096880720",
+            "msgId": 5677,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNTEyMDU1LjEwOTY4ODA3MjA5MjguSmF2YU1haWwud3d3QHd3aW5mMzAwMT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5676,
+            "nextInTime": 5678,
+            "topicId": 5677,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just a quick note of thanks to all those who replied. The plan is still on, although no dates are certain yet, and as they sort themselves out, no doubt I ll",
+            "messageBody": "<div id=\"ygrps-yiv-120116235\">Just a quick note of thanks to all those who replied.<br/>\n<br/>\nThe plan is still on, although no dates are certain yet, and as they sort themselves <br/>\nout, no doubt I&#39;ll be posting more questions.<br/>\n<br/>\nThomas<br/>\n<br/>\n-- <br/>\n<br/>\nWhatever you Wanadoo:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wanadoo.co.uk/time/\">http://www.wanadoo.co.uk/time/</a><br/>\n<br/>\nThis email has been checked for most known viruses - find out more at: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wanadoo.co.uk/help/id/7098.htm\">http://www.wanadoo.co.uk/help/id/7098.htm</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5588,
+    "nextTopicId": 5658
+}

@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 2988921,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;FUGU@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Yagyuu Juubei",
+            "postDate": "1041901936",
+            "msgId": 1350,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNFMUEyOTcwLjMwNjAzMDBAcHJvZGlneS5uZXQ+",
+                "referencesHeader": "PDEwNDE4NzA5MTguNjM3LjkwNjI3Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1349,
+            "nextInTime": 1351,
+            "topicId": 1350,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "He existed apparently, Sonny Chiba did a great TV series about him called the Yagyuu Conspiracy in English. I ve seen him referenced  in books. Sorry I can t",
+            "messageBody": "<div id=\"ygrps-yiv-1313568984\">He existed apparently, Sonny Chiba did a great TV series about him <br/>\ncalled the Yagyuu Conspiracy in English. I&#39;ve seen him referenced  in <br/>\nbooks. Sorry I can&#39;t help more.<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1336,
+    "nextTopicId": 1356
+}

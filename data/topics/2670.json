@@ -1,0 +1,94 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Saigo Takamori",
+            "postDate": "1071629174",
+            "msgId": 2898,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDJFOEFFODc1LTMwM0ItMTFEOC1CQjhBLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PFNlYTItRjI4M2pUdEJIYXZ2TEwwMDA0NjQyY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 2891,
+            "nextInTopic": 0,
+            "prevInTime": 2897,
+            "nextInTime": 2899,
+            "topicId": 2670,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks Parker- Someone on the list posted this earlier, seriously hoping this one winds up in my stocking... -t",
+            "messageBody": "<div id=\"ygrps-yiv-156325099\">Thanks Parker-<br/>\nSomeone on the list posted this earlier, seriously hoping this one <br/>\nwinds up in my stocking...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 43901450,
+            "authorName": "Parker S. Lyle",
+            "from": "&quot;Parker S. Lyle&quot; &lt;rntihg@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saigo Takamori",
+            "postDate": "1071550389",
+            "msgId": 2891,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjI4M2pUdEJIYXZ2TEwwMDA0NjQyY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 2670,
+            "nextInTopic": 2898,
+            "prevInTime": 2890,
+            "nextInTime": 2892,
+            "topicId": 2670,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just learned that there is another book on Saigo Takamori _The Last Samurai: The Life and Battles of Saigo Takamori_, by Mark Ravina you can find his",
+            "messageBody": "<div id=\"ygrps-yiv-2052398923\">I have just learned that there is another book on Saigo Takamori<br/>\n<br/>\n_The Last Samurai: The Life and Battles of Saigo Takamori_, by Mark Ravina<br/>\n<br/>\nyou can find his Curriculum Vitae here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.emory.edu/HISTORY/vitas/CV-Ravina.htm\">http://www.emory.edu/HISTORY/vitas/CV-Ravina.htm</a><br/>\n<br/>\nWhile I have not read the book myself -- literally just learned of its <br/>\nexistence about 10 minutes ago -- it sounds like it may be worth looking <br/>\ninto.<br/>\n<br/>\n<br/>\n-Shannon<br/>\n<br/>\n_________________________________________________________________<br/>\n友達と24時間ホットライン「MSN メッセンジャー」、今すぐダウンロード！  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://messenger.msn.co.jp\">http://messenger.msn.co.jp</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1935355,
+            "authorName": "burker1@aol.com",
+            "from": "burker1@...",
+            "profile": "burker94509",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saigo Takamori",
+            "postDate": "1070761745",
+            "msgId": 2670,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEyYi4zNmQwOWNiZC4yZDAzZTExMUBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2891,
+            "prevInTime": 2669,
+            "nextInTime": 2671,
+            "topicId": 2670,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Who says that Christmas shopping for one s wife can t be a postive experience? I went to the local Barnes & Noble to pick up some books for my wife.  I glanced",
+            "messageBody": "<div id=\"ygrps-yiv-2058952690\">Who says that Christmas shopping for one&#39;s wife can&#39;t be a postive experience?<br/>\n<br/>\nI went to the local Barnes & Noble to pick up some books for my wife.  I <br/>\nglanced at the history section while I was there and found a brand new book.  It&#39;s <br/>\ncalled &quot;The Last Samurai, The Life and Battles of Saigo Takamori&quot;, by Mark <br/>\nRavina ($24.95 US).<br/>\n<br/>\nThe copyright is 2004.  Naturally, I bought it.  I was slightly disappointed <br/>\nto see that the Satsuma Rebellion is covered in only 10 pages in the last <br/>\nchapter, but I will collect anything in English written about this period.<br/>\n<br/>\nThe book also contains a 15 page bibliography, which I am looking forward to <br/>\nreading in great detail.<br/>\n<br/>\nI don&#39;t know if the author planned the book&#39;s release to coincide with the <br/>\nmovie of the same name, but if he did, he&#39;s brilliant.  If he didn&#39;t, then he&#39;s <br/>\nvery lucky.<br/>\n<br/>\n<br/>\nBob Burke</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2568,
+    "nextTopicId": 2862
+}

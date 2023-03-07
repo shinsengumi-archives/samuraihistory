@@ -1,0 +1,43 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 731460993,
+        "photoId": 1080896062,
+        "photoName": "SAM2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "soerya_dharma2000",
+        "modificationDate": 1125333264,
+        "creationDate": 1125333264,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/0RwifL3tetmKkQzey_cT/name/n_a",
+                "height": 96,
+                "width": 40,
+                "size": 1479,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/0RwifL3tetmKkQzey_cT/name/n_a",
+                "height": 400,
+                "width": 165,
+                "size": 13753,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/0RwifL3tetmKkQzey_cT/name/n_a",
+                "height": 400,
+                "width": 165,
+                "size": 13753,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

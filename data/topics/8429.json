@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "New Article: The Samurai on Film",
+            "postDate": "1140556875",
+            "msgId": 8429,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR0ZzA4YitpMDJAZUdyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8428,
+            "nextInTime": 8430,
+            "topicId": 8429,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is an excerpt from the book The Samurai Film , by Alain Silver. Chapter 2, Samurai on Film : http://www.samurai-archives.com/sfilm.html",
+            "messageBody": "<div id=\"ygrps-yiv-2063393983\">Here is an excerpt from the book &#39;The Samurai Film&#39;, by Alain Silver.<br/>\nChapter 2, &quot;Samurai on Film&quot;:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfilm.html\">http://www.samurai-archives.com/sfilm.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8422,
+    "nextTopicId": 8415
+}

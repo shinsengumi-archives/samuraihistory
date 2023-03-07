@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 86862968,
+            "authorName": "oguritakeda",
+            "from": "&quot;oguritakeda&quot; &lt;oguritenno@...&gt;",
+            "profile": "oguritakeda",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Armour for sale",
+            "postDate": "1008976565",
+            "msgId": 467,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwMGZybCtydGtqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 466,
+            "nextInTime": 468,
+            "topicId": 467,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ran across this armour over on Ebay, thought one of you lot might find it of interest: http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1681275384",
+            "messageBody": "<div id=\"ygrps-yiv-316300726\">I ran across this armour over on Ebay, thought one of you lot might <br/>\nfind it of interest:<br/>\n<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1681275384\">http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ViewItem&item=1681275384</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 466,
+    "nextTopicId": 410
+}

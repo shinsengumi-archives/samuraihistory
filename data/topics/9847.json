@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 273728212,
+            "authorName": "amilne70",
+            "from": "&quot;amilne70&quot; &lt;kenshin68@...&gt;",
+            "profile": "amilne70",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "28mm 13th Century Samurai miniatures for wargamers",
+            "postDate": "1234153974",
+            "msgId": 9847,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdtb2JsbStnMXZmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9846,
+            "nextInTime": 9848,
+            "topicId": 9847,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have added 28mm 13th Century Horse Archers to the Wargames Factory pre-order list: http://www.wargamesfactory.com/league_fareast 28mm Foot samurai and",
+            "messageBody": "<div id=\"ygrps-yiv-53258769\">I have added 28mm 13th Century Horse Archers to the Wargames Factory <br/>\npre-order list:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.wargamesfactory.com/league_fareast\">http://www.wargamesfactory.com/league_fareast</a><br/>\n<br/>\n28mm Foot samurai and followers will be available to pre-order soon as <br/>\nwell.<br/>\n<br/>\nI have also suggested 15mm Ikko-Ikki miniatures.<br/>\n<br/>\nThanks for any support and input!<br/>\n<br/>\nKenshin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9846,
+    "nextTopicId": 9848
+}

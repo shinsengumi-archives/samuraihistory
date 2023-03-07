@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 198988974,
+            "authorName": "GRELET CHRISTOPHE",
+            "from": "GRELET CHRISTOPHE &lt;greletchristophe@...&gt;",
+            "profile": "greletchristophe",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "HELLO FROM FRANCE !",
+            "postDate": "1261854543",
+            "msgId": 10048,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI0Mjg2NS41MDMwMC5xbUB3ZWIyNjAwNi5tYWlsLnVrbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10047,
+            "nextInTime": 10049,
+            "topicId": 10048,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello and Merry Christmas , I introduce myself, I am a French 39 years. I am passionate about the oddities and mysteries of this world. I propose you to",
+            "messageBody": "<div id=\"ygrps-yiv-1907704060\">Hello and Merry Christmas<br/>\n,  <br/>\n<br/>\nI introduce myself, I am a French 39 years. I am passionate about the oddities and mysteries of this world. I propose you to discover my website with numerous interviews with personalities from different worlds.<br/>\n<br/>\nYou will find an interview with Axel Mazuer, for the release of his book, SHÔNINKI - The Authentic Ninja Handbook, available on my site :<br/>\n<br/>\n<br/>\n<br/>\n    <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jcgrelet.com/\">http://www.jcgrelet.com/</a><br/>\n<br/>\n    <br/>\nRegards. <br/>\n<br/>\n<br/>\n<br/>\nJC.GRELET<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10036,
+    "nextTopicId": 10049
+}

@@ -1,0 +1,64 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 214802153,
+            "authorName": "Haynes, A (Angus)",
+            "from": "&quot;Haynes, A (Angus)&quot; &lt;angus.haynes@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [samuraihistory] The Taming of the Samurai",
+            "postDate": "1111013378",
+            "msgId": 6828,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFGREJEOEU4RTBGODRENDU4Q0JDRkQzMTFFRThFQjQ4RjJFOTlCQHJhYm9iYW5rLmNvbT4="
+            },
+            "prevInTopic": 6825,
+            "nextInTopic": 0,
+            "prevInTime": 6827,
+            "nextInTime": 6829,
+            "topicId": 6825,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Taming of the Samurai was one of the first books on the topic of samurai that I picked up, and I thought it was excellent. It can be a little tough to",
+            "messageBody": "<div id=\"ygrps-yiv-1335206491\">&#39;The Taming of the Samurai&#39; was one of the first books on the topic of<br/>\nsamurai that I picked up, and I thought it was excellent. It can be a<br/>\nlittle tough to read at times, especially the first couple of sections,<br/>\nbut after putting it down I felt like I knew a heck of a lot more than I<br/>\ndid before I picked it up.<br/>\n<br/>\nWhat did you think of the first half Cesare?<br/>\n<br/>\nAngus<br/>\n_____________________________________________________________<br/>\n<br/>\nThis email, including any attachments, may be confidential or privileged, and is sent for the personal attention of the intended recipient.  If you have received this email in error, please delete it immediately .  The views expressed are not necessarily those of the Rabobank Group.  The Group is not liable for the effects of any virus which may be contained in this email.<br/>\n_____________________________________________________________</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "The Taming of the Samurai",
+            "postDate": "1110988246",
+            "msgId": 6825,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDY2MjYzMWRkMGMxNDY4ZTc0ZThhYTljMWJkNGM1M2UzQGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6828,
+            "prevInTime": 6824,
+            "nextInTime": 6826,
+            "topicId": 6825,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering if someone in this mailing list has read Ikegami s book and has an opinion about it. I am half way thru it... Thanks, cepo",
+            "messageBody": "<div id=\"ygrps-yiv-891937905\">I was wondering if someone in this mailing list has read Ikegami&#39;s book <br/>\nand has an opinion about it. I am half way thru it...<br/>\nThanks,<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6826,
+    "nextTopicId": 6816
+}

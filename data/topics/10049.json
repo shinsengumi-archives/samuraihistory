@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Winners of the 2009 Samurai Fiction Contest",
+            "postDate": "1261886200",
+            "msgId": 10049,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhoNmx0bytkM2UyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10048,
+            "nextInTime": 10050,
+            "topicId": 10049,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here are the winners of the 2009 Samurai Fiction Contest: Winner: Johnny Jones, Samurai - by Nina Boal (Wave Tossed) ",
+            "messageBody": "<div id=\"ygrps-yiv-970169293\">Here are the winners of the 2009 Samurai Fiction Contest:<br/>\n<br/>\nWinner:<br/>\nJohnny Jones, Samurai - by Nina Boal (Wave Tossed)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic09a.html\">http://www.samurai-archives.com/sfic09a.html</a><br/>\n<br/>\n2nd Place: <br/>\nEdo Dragnet - by OnnaMusha<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic09b.html\">http://www.samurai-archives.com/sfic09b.html</a><br/>\n<br/>\n3rd Place:<br/>\nGreat Saigo&#39;s Worms - by OnnaMusha<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic09c.html\">http://www.samurai-archives.com/sfic09c.html</a><br/>\n<br/>\n4th Place:<br/>\nSato the Builder - by C.E.West (Kitsuno)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic09d.html\">http://www.samurai-archives.com/sfic09d.html</a><br/>\n<br/>\nHonorable Mention: <br/>\nTenshu, the Last of the Toyotomi - by Carmen Sterba<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic09e.html\">http://www.samurai-archives.com/sfic09e.html</a><br/>\n<br/>\nLinks to these stories and the rest will be available in the Featured Articles section of Samurai-Archives.com soon.<br/>\n<br/>\nThanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10048,
+    "nextTopicId": 10070
+}

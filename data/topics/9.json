@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "rTdrb-jontJhbxyQQLSXPxJsPX6T6kKfzRO0mGYtkMnvHX7Y6c6MPKjTM68Gno1SqF-ggKEf7m02ULo",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RECENT UPDATES - Samurai Archives",
+            "postDate": "972360349",
+            "msgId": 9,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDh0MzFxdCs5a3U2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8,
+            "nextInTime": 10,
+            "topicId": 9,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Updates as of 10-23-00 samurai archives japanese history page www.techjapanese.com/samurai/ ... Japanese Date Converter version 1.01 is now ready for",
+            "messageBody": "<div id=\"ygrps-yiv-548714281\">Updates as of 10-23-00<br/>\nsamurai archives japanese history page<br/>\nwww.techjapanese.com/samurai/<br/>\n----------------------<br/>\n<br/>\n&#39;Japanese Date Converter&#39; version 1.01 is now ready for download.<br/>\nEnter any date from 645AD - 2000AD into the top textbox, and you<br/>\nwill be given the corresponding Japanese Period name and Era name and<br/>\nEra number.  Enter any era name and era number corresponding to <br/>\n645AD - 2000AD into the bottom textbox, and you will be given the <br/>\ncorresponding &#39;western&#39; year.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/downloads.html\">http://www.techjapanese.com/samurai/downloads.html</a><br/>\n<br/>\na new guest article, by Agustin J. Rogriguez, &quot;Kawari Kabuto and the <br/>\nGreat Warlords of the &quot;Sengoku&quot;&quot; has been added:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/KabArt.html\">http://www.techjapanese.com/samurai/KabArt.html</a><br/>\n<br/>\nthe &#39;battles&#39; section has been updated with the battles of Arai, <br/>\nMiki, Nagashima 1571, the Ôtate no ran, Sakai 1399, and Uzu <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/battles.html\">http://www.techjapanese.com/samurai/battles.html</a><br/>\n<br/>\nshort bios and information on the Generals of Uesuigi Kenshin and <br/>\nTakeda Shingen:<br/>\nKenshin: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/uesugiret.html\">http://www.techjapanese.com/samurai/uesugiret.html</a><br/>\nShingen: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/takedaret.html\">http://www.techjapanese.com/samurai/takedaret.html</a><br/>\n<br/>\nAnd don&#39;t forget to stop by the Samurai history forum on <br/>\nDelphi.com - join in the conversation, feel free to post any <br/>\nquestions or comments related to japanese history:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.delphi.com/samuraihistory/\">http://www.delphi.com/samuraihistory/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5,
+    "nextTopicId": 10
+}

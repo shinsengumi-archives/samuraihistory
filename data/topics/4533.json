@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: OT: Videogames (was: Re: [samuraihistory] Re: the  first  dynasties)",
+            "postDate": "1086787108",
+            "msgId": 4533,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYzLjJkMGUxZmI1LjJkZjg2ODI0QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4532,
+            "nextInTime": 4534,
+            "topicId": 4533,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know if and when the new PSX is going to come out in the US? T [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1826595345\">Does anyone know if and when the new PSX is going to come out in the US?<br/>\n<br/>\nT<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4529,
+    "nextTopicId": 4513
+}

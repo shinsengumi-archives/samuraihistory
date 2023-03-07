@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Samurai Fiction &#39;07 - 10 day grace period",
+            "postDate": "1175933026",
+            "msgId": 9503,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV2N2o5Mit0Z2huQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGV1bmM3ZCtsZjRtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9496,
+            "nextInTopic": 0,
+            "prevInTime": 9502,
+            "nextInTime": 9504,
+            "topicId": 9496,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The estimated value of the total winnings for the 2007 Samurai Fiction contest is $173.  4 days and counting.  I ll know the official total by the 11th.",
+            "messageBody": "<div id=\"ygrps-yiv-1748944042\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Kitsuno&quot;<br/>\n&lt;samurai-listowner@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Here is your last chance to sign up for the samurai fiction contest. <br/>\n&gt; The deadline has been moved to April 10th for entry fee and<br/>\n&gt; submission.  The winnings total almost more than the past 2 years<br/>\n&gt; combined.  The fee is $15.<br/>\n&gt; <br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a><br/>\n&gt;<br/>\n<br/>\n </span></blockquote>The estimated value of the total winnings for the 2007 Samurai Fiction<br/>\ncontest is $173.  4 days and counting.  I&#39;ll know the official total<br/>\nby the 11th.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Fiction &#39;07 - 10 day grace period",
+            "postDate": "1175401517",
+            "msgId": 9496,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV1bmM3ZCtsZjRtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9503,
+            "prevInTime": 9495,
+            "nextInTime": 9498,
+            "topicId": 9496,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is your last chance to sign up for the samurai fiction contest. The deadline has been moved to April 10th for entry fee and submission.  The winnings",
+            "messageBody": "<div id=\"ygrps-yiv-460455145\">Here is your last chance to sign up for the samurai fiction contest. <br/>\nThe deadline has been moved to April 10th for entry fee and<br/>\nsubmission.  The winnings total almost more than the past 2 years<br/>\ncombined.  The fee is $15.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9491,
+    "nextTopicId": 9499
+}

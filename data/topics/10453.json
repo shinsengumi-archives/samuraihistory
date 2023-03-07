@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Winner of the 8th Annual Samurai Fiction Contest to be announced",
+            "postDate": "1359705162",
+            "msgId": 10453,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGtlZnM4YSt2OGdpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10452,
+            "nextInTime": 10454,
+            "topicId": 10453,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Stay tuned for the winner of the 8th annual Samurai Fiction contest, to be announced 2/1/13.",
+            "messageBody": "<div id=\"ygrps-yiv-648910229\">Stay tuned for the winner of the 8th annual Samurai Fiction contest, to be announced 2/1/13.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10441,
+    "nextTopicId": 10454
+}

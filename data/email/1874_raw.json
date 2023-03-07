@@ -1,0 +1,29 @@
+{
+    "userId": 99179280,
+    "authorName": "Allan",
+    "from": "&quot;Allan&quot; &lt;rayabut@...&gt;",
+    "profile": "booya.rm",
+    "replyTo": "LIST",
+    "senderId": "64v8QftDgWoZfXFuJW7q9tnwvkCVGitNS81gjZyf76ARHCvc9gqhsSj_7g7C5SWIcNqM52LvMpPYJ_pFCEmbbeHxJwo",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "just joined",
+    "postDate": "1055463429",
+    "msgId": 1874,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGJjYjU2NStybjNrQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 1875,
+    "prevInTime": 1873,
+    "nextInTime": 1875,
+    "topicId": 1874,
+    "numMessagesInTopic": 3,
+    "msgSnippet": "Hello. I m looking for a historical japanese figure by the name of Yabu . He was either a samurai or shogun. Can anyone help?",
+    "rawEmail": "Return-Path: &lt;rayabut@...&gt;\r\nReceived: (qmail 7128 invoked by uid 7800); 13 Jun 2003 01:23:42 -0000\r\nX-Sender: rayabut@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 89675 invoked from network); 13 Jun 2003 00:17:10 -0000\r\nReceived: from unknown (66.218.66.216)\n  by m10.grp.scd.yahoo.com with QMQP; 13 Jun 2003 00:17:10 -0000\r\nReceived: from unknown (HELO n3.grp.scd.yahoo.com) (66.218.66.86)\n  by mta1.grp.scd.yahoo.com with SMTP; 13 Jun 2003 00:17:10 -0000\r\nReceived: from [66.218.67.149] by n3.grp.scd.yahoo.com with NNFMP; 13 Jun 2003 00:17:10 -0000\r\nDate: Fri, 13 Jun 2003 00:17:09 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: just joined\r\nMessage-ID: &lt;bcb565+rn3k@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 128\r\nX-Mailer: Yahoo Groups Message Poster\r\nFrom: &quot;Allan&quot; &lt;rayabut@...&gt;\r\nX-Yahoo-Group-Post: member; u=99179280\r\nX-Yahoo-Profile: booya.rm\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via email; 13 Jun 2003 01:23:42 -0000\r\n\r\nHello. I&#39;m looking for a historical japanese figure by the name \nof &quot;Yabu&quot;. He was either a samurai or shogun. Can anyone help?\n\n\n"
+}

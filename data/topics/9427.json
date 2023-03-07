@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 140650769,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mid-West To-ken Taikai and Shinsa",
+            "postDate": "1173550342",
+            "msgId": 9427,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDVEQTM3QTZCLUE5Q0ItNDYxMi1BQzdGLTE1ODlCNjNDQTA4RkB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9426,
+            "nextInTime": 9428,
+            "topicId": 9427,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.midwesttokenkai.com/show/Welcome.html Just a reminder that this event is fast approaching, all who are in the Chicago area and anyone expected to be",
+            "messageBody": "<div id=\"ygrps-yiv-69411524\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.midwesttokenkai.com/show/Welcome.html\">http://www.midwesttokenkai.com/show/Welcome.html</a><br/>\n<br/>\n\tJust a reminder that this event is fast approaching, all who are in  <br/>\nthe Chicago area and anyone expected to be in town that weekend are  <br/>\nwelcome. Always worth the drive...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9404,
+    "nextTopicId": 9414
+}

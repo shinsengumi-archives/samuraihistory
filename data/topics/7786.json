@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 238760335,
+            "authorName": "Totok Sudarijanto",
+            "from": "Totok Sudarijanto &lt;totok.sudarijanto@...&gt;",
+            "profile": "samurai_iaijutsu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Research Help",
+            "postDate": "1128678030",
+            "msgId": 7793,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIuMS4xLTEwMjc1NTIxLTM3NS1BLU9FV1dAbWFpbC5tamVyLm9yZz4="
+            },
+            "prevInTopic": 7786,
+            "nextInTopic": 0,
+            "prevInTime": 7792,
+            "nextInTime": 7794,
+            "topicId": 7786,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Try here: http://www.samurai.or.id/php/modules.php?name=Web_Link&l_op=viewlink&cid=6 Totok Sudarijanto http://www.mjer.org email:",
+            "messageBody": "<div id=\"ygrps-yiv-1421358381\">rurouni575 wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hello, my name is Lucas Schwartze.  I am a college student at<br/>\n&gt; Washington University in St. Louis and I was wondering if anyone could<br/>\n&gt; please help me find some scholarly sources about the Shinsengumi for a<br/>\n&gt; paper I am working on.  Thank you very much in advance, Lucas.<br/>\n<br/>\n </span></blockquote>Try here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai.or.id/php/modules.php?name=Web_Link&l_op=viewlink&cid=6\">http://www.samurai.or.id/php/modules.php?name=Web_Link&l_op=viewlink&cid=6</a><br/>\n<br/>\nTotok Sudarijanto<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.mjer.org\">http://www.mjer.org</a><br/>\nemail: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:totok.sudarijanto@...\">totok.sudarijanto@...</a><br/>\n<br/>\n&quot;the ultimate aim of martial arts is not having to use them&quot;</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 236390959,
+            "authorName": "rurouni575",
+            "from": "&quot;rurouni575&quot; &lt;rurouni575@...&gt;",
+            "profile": "rurouni575",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Research Help",
+            "postDate": "1128649574",
+            "msgId": 7786,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpNGsxNitpZDdpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7793,
+            "prevInTime": 7785,
+            "nextInTime": 7787,
+            "topicId": 7786,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, my name is Lucas Schwartze.  I am a college student at Washington University in St. Louis and I was wondering if anyone could please help me find some",
+            "messageBody": "<div id=\"ygrps-yiv-707520529\">Hello, my name is Lucas Schwartze.  I am a college student at<br/>\nWashington University in St. Louis and I was wondering if anyone could<br/>\nplease help me find some scholarly sources about the Shinsengumi for a<br/>\npaper I am working on.  Thank you very much in advance, Lucas.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7792,
+    "nextTopicId": 7806
+}

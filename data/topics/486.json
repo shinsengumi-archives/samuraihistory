@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 67449315,
+            "authorName": "fifthchamber@aol.com",
+            "from": "fifthchamber@...",
+            "profile": "fifthchamber",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1011193994",
+            "msgId": 486,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjLjRmYmE0NDYuMjk3NmYyOGFAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 485,
+            "nextInTime": 487,
+            "topicId": 486,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, Ragarding the naming of the ships..They were named after the province of Musashi and not the man. In actual Miyamoto Musashi was also named after the ",
+            "messageBody": "<div id=\"ygrps-yiv-2064850498\">Hi all,<br/>\n Ragarding the naming of the ships..They were named after the province of <br/>\nMusashi and not the man. In actual Miyamoto Musashi was also named after the <br/>\nprovince so the ships I guess followed his pattern and also the thousend <br/>\nother &#39;Musashi&#39; named Japanese out there in the past.<br/>\n It was common to use the name of the province or village where you were born <br/>\nor raised as your name..But in Miyamoto Musashi his name is the province and <br/>\nMiyamoto the surname. Takezo is anouther way to pronounce the Kanji used in <br/>\nhis name and may well have been a name that he used as well as &#39;Musashi&#39;<br/>\n The ship &#39;Musashi&#39; was one of a series of great Japanese ships that were <br/>\nbuilt and named after Japanese &#39;Kuni&#39; or provinces..the &#39;Yamato&#39; was another <br/>\none. I think the names were intended to bring up feelings of the greatness of <br/>\nthe Japanese navy at the time,,Similar to calling a ship the &quot;U.S.S. George <br/>\nWashington&quot;..It was intended as inspiration.<br/>\n Hope this helps.<br/>\n Ben Sharples.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 477,
+    "nextTopicId": 484
+}

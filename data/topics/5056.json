@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 113141654,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas5403",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kaishaku",
+            "postDate": "1091697219",
+            "msgId": 5056,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlc3RvMytoOWNoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5055,
+            "nextInTime": 5057,
+            "topicId": 5056,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In Muso Shinden Ryu iaido, at the Shoden level, taken from the Omori Ryu, the technique for kaishaku is known as jun-to and we were taught it was bad form",
+            "messageBody": "<div id=\"ygrps-yiv-997326107\">In Muso Shinden Ryu iaido, at the Shoden level, taken from the <br/>\nOmori Ryu, the technique for kaishaku is known as &#39;jun-to&#39; and <br/>\nwe were taught it was &#39;bad form&#39; to demonstrate this at a public <br/>\ndisplay.<br/>\n<br/>\nThe previous post is right in that the neck is not completely <br/>\nsevered to prevent the head from rolling away.<br/>\n<br/>\nAlso, the kaishaku is free to strike at a moment of his own <br/>\nchoosing, (and the condemned might state when). Usually this <br/>\nwas after the cut was made, but in later years it was acceptable <br/>\nfor the kaishaku to strike at the moment the condemned man <br/>\nreaches for his own blade - this act demonstating the <br/>\ncondemned man&#39;s determination to take his own life.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4934,
+    "nextTopicId": 5057
+}

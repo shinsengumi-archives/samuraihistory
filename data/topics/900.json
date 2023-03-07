@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 101553917,
+            "authorName": "sinseism",
+            "from": "&quot;sinseism&quot; &lt;sinseism@...&gt;",
+            "profile": "sinseism",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: info needed !!!",
+            "postDate": "1023771002",
+            "msgId": 902,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFlM3ZocStkN2dlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMWIwMWMyMTBhOCQyNzI4NTUyMCQ3ZDdkYThjMEBzeWx2YWluPg=="
+            },
+            "prevInTopic": 900,
+            "nextInTopic": 0,
+            "prevInTime": 901,
+            "nextInTime": 903,
+            "topicId": 900,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Around 1530s is the last period in which Hosokawa clan had a strong power.Soon after their retainer Miyoshi had a power,They became weaker and weaker. They had",
+            "messageBody": "<div id=\"ygrps-yiv-1937427225\">Around 1530s is the last period in which Hosokawa clan had a strong <br/>\npower.Soon after their retainer Miyoshi had a power,They became <br/>\nweaker and weaker.<br/>\nThey had holdings of Sanuki,Tosa,Awaji,Settsu,Izumi,Awaji,Tanba and <br/>\nBicchu around this period.And among them, the Souke(I don&#39;t know its <br/>\nEnglish Equivalent,Prime family?The master of it was appointed <br/>\nKanrei) had Sanuki,Tosa,Settsu,Izumi and Tanba.<br/>\nSo It can be said their fiefs was around Osaka Bay, Setouchi sea and <br/>\nShikoku region.<br/>\n<br/>\nHope<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In samuraihistory@y..., &quot;Lavoie Sylvain&quot; &lt;speed.freak@s...&gt; wrote:<br/>\n&gt; I need some information about the Hosokawa clan around 1530&#39;s . I <br/>\nknow they have the title of Kanrei but i want to know the <br/>\ngeographical location of their holdings: Fiefs, regions for this <br/>\nperiod. Thanx in advance.<br/>\n&gt; <br/>\n&gt; Speedfreak<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 84338283,
+            "authorName": "Lavoie Sylvain",
+            "from": "&quot;Lavoie Sylvain&quot; &lt;speed.freak@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "info needed !!!",
+            "postDate": "1023731791",
+            "msgId": 900,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWIwMWMyMTBhOCQyNzI4NTUyMCQ3ZDdkYThjMEBzeWx2YWluPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 902,
+            "prevInTime": 899,
+            "nextInTime": 901,
+            "topicId": 900,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I need some information about the Hosokawa clan around 1530 s . I know they have the title of Kanrei but i want to know the geographical location of their",
+            "messageBody": "<div id=\"ygrps-yiv-1921989323\">I need some information about the Hosokawa clan around 1530&#39;s . I know they have the title of Kanrei but i want to know the geographical location of their holdings: Fiefs, regions for this period. Thanx in advance.<br/>\n<br/>\nSpeedfreak<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 901,
+    "nextTopicId": 903
+}

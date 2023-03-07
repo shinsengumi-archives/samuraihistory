@@ -1,0 +1,29 @@
+{
+    "userId": 278473362,
+    "authorName": "",
+    "from": "&lt;sha2_g9@...&gt;",
+    "profile": "aerenoir",
+    "replyTo": "LIST",
+    "senderId": "JfuV9xZfS4j4eDphaUaglxxdN49fEykW8GpT_HPexOZWIEVG9qbYlC6c32ChS9TKHJwVs-5QNBHU1w",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "3"
+    },
+    "subject": "Tensei Iga War",
+    "postDate": "1379961674",
+    "msgId": 10463,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGwxcTIwYSsxazEzbHR2QFlhaG9vR3JvdXBzLmNvbT4="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 10468,
+    "prevInTime": 10462,
+    "nextInTime": 10464,
+    "topicId": 10463,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "I ve been looking around for information on what started this incident and so far have no luck. What exactly happened? Some sources that I read said it was the",
+    "rawEmail": "Return-Path: &lt;sha2_g9@...&gt;\r\nReceived: (qmail 52116 invoked by uid 102); 3 Oct 2013 06:03:16 -0000\r\nReceived: from unknown (HELO mtaq5.grp.bf1.yahoo.com) (10.193.84.36)\n  by m7.grp.bf1.yahoo.com with SMTP; 3 Oct 2013 06:03:16 -0000\r\nReceived: (qmail 16522 invoked from network); 3 Oct 2013 06:03:16 -0000\r\nReceived: from unknown (HELO n11-vm7.bullet.mail.bf1.yahoo.com) (66.196.81.198)\n  by mtaq5.grp.bf1.yahoo.com with SMTP; 3 Oct 2013 06:03:16 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1380780196; bh=e+gQqGtH6yaMgfAqhyny2Gkn9scHsGhnaIhr2xNJHTY=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Date:X-Received:Message-ID:MIME-Version:X-Mailer:Content-Transfer-Encoding:Content-Type:X-Yahoo-Newman-Property:X-Originating-IP:X-eGroups-Msg-Info:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:To:Sender:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-eGroups-Approved-By:X-eGroups-Auth; b=QvWXb08zfxkAhjZWmjcDktM6oZzql0Y4WmD7dQk36jE9PlUX0z5qxEZyOOPcv06IIb89Qpn3+J59/nMLv4FUp6HQn4gYhBXJxTY9b5tAB8g9RqaYEyfPyQJu2y4+9fNWuvvjNLR1eA1MC8B2ataKd9p+/qPSo0oUCPnS3vlshXk=\r\nReceived: from [66.196.81.178] by n11.bullet.mail.bf1.yahoo.com with NNFMP; 03 Oct 2013 06:03:16 -0000\r\nReceived: from [10.193.242.235] by t8.bullet.mail.bf1.yahoo.com with NNFMP; 03 Oct 2013 06:03:16 -0000\r\nReceived: from [127.0.0.1] by gapi8.grp.bf1.yahoo.com with NNFMP; 03 Oct 2013 06:03:16 -0000\r\nX-Sender: sha2_g9@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 9191 invoked by uid 102); 23 Sep 2013 18:41:14 -0000\r\nX-Received: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m1.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 18:41:14 -0000\r\nX-Received: (qmail 6780 invoked from network); 23 Sep 2013 18:41:14 -0000\r\nX-Received: from unknown (HELO n6-vm6.bullet.mail.bf1.yahoo.com) (72.30.234.93)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 18:41:14 -0000\r\nX-Received: from [72.30.235.67] by n6.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 18:41:14 -0000\r\nX-Received: from [10.193.75.124] by t4.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 18:41:14 -0000\r\nDate: 23 Sep 2013 11:41:14 -0700\r\nX-Received: from [127.0.0.1] by gapi6.grp.bf1.yahoo.com with NNFMP; 23 Sep 2013 18:41:14 -0000\r\nMessage-ID: &lt;l1q20a+1k13ltv@...&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Yahoo Groups Message Poster\r\nContent-Transfer-Encoding: base64\r\nContent-Type: text/html; charset=UTF-8\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 2:3:4:0:0\r\nFrom: &lt;sha2_g9@...&gt;\r\nSubject: Tensei Iga War\r\nX-Yahoo-Group-Post: member; u=278473362; y=5JIcJzgEZ6SVMbq94z4cltczC736eLetHS4a8eZRvjp2og\r\nX-Yahoo-Profile: aerenoir\r\nTo: samuraihistory@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: kitsuno via web; 02 Oct 2013 23:03:16 -0000\r\n\r\nPHA+SSYjMzk7dmUgYmVlbiBsb29raW5nIGFyb3VuZCBmb3IgaW5mb3JtYXRpb24gb24gd2hhdCBz\r\ndGFydGVkIHRoaXMgaW5jaWRlbnQgYW5kIHNvIGZhciAmbmJzcDtoYXZlIG5vIGx1Y2suIFdoYXQg\r\nZXhhY3RseSBoYXBwZW5lZD8mbmJzcDs8L3A+PHA+PGJyPjwvcD48cCBzdHlsZT0iY29sb3I6cmdi\r\nKDAsIDAsIDApO2ZvbnQtc2l6ZToxM3B4O2JhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7Zm9u\r\ndC1zdHlsZTpub3JtYWw7Ij5Tb21lIHNvdXJjZXMgdGhhdCBJIHJlYWQgc2FpZCBpdCB3YXMgdGhl\r\nIElnYSBtZW4gd2hvIHN0YXJ0ZWQgdGhlIHByb2JsZW1zIGJ5IG1ha2luZyB1bnByb3Zva2VkIGF0\r\ndGFja3MgdG8gSXNlLiBTb21lIHNheXMgaXQmIzM5O3MgT2RhIE5vYnVvIGJlaW5nIHJhc2ggYW5k\r\nIHdhbnRpbmcgdG8gbWFrZSBhIG5hbWUgZm9yIGhpbXNlbGYuIFNvbWUgc2F5IHRoYXQgdGhlcmUg\r\nd2VyZSByZWJlbHMgZnJvbSBJc2Ugd2hvIHJhbiBhbmQgaGlkIGluIElnYSBhbmQgTm9idW8gb25s\r\neSB3YW50ZWQgdG8gdGFrZSBjYXJlIG9mIHRob3NlIHJlYmVscy48L3A+PHAgc3R5bGU9ImNvbG9y\r\nOnJnYigwLCAwLCAwKTtmb250LXNpemU6MTNweDtiYWNrZ3JvdW5kLWNvbG9yOnRyYW5zcGFyZW50\r\nO2ZvbnQtc3R5bGU6bm9ybWFsOyI+PGJyPjwvcD48cCBzdHlsZT0iY29sb3I6cmdiKDAsIDAsIDAp\r\nO2ZvbnQtc2l6ZToxM3B4O2JhY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7Zm9udC1zdHlsZTpu\r\nb3JtYWw7Ij5JIHJlYWQgU2hpbmNob3Uta28ga2kgYW5kIHRoaXMgd2FzIHNvbWV0aGluZyB0aGF0\r\nIHdhcyBiYXJlbHkgbWVudGlvbmVkIGF0IGFsbCwgc28gdGhhdCYjMzk7cyBubyBoZWxwIGVpdGhl\r\nci4gVGhlcmUgd2FzIGEgbGV0dGVyIGZyb20gTm9idW5hZ2EgaW1wbHlpbmcgdGhhdCBOb2J1byB3\r\nYXMgc3VwcG9zZWQgdG8gYmUgam9pbmluZyBjYW1wYWlnbnMgaW4gYW5vdGhlciBwbGFjZSwgYnV0\r\nIGluc3RlYWQgb3B0ZWQgdG8gcHVyc3VlIElnYSwgYnV0IHRoZSByZWFzb24gV0hZIHdhcyBuZXZl\r\nciBzYWlkLjwvcD48cCBzdHlsZT0iY29sb3I6cmdiKDAsIDAsIDApO2ZvbnQtc2l6ZToxM3B4O2Jh\r\nY2tncm91bmQtY29sb3I6dHJhbnNwYXJlbnQ7Zm9udC1zdHlsZTpub3JtYWw7Ij48YnI+PC9wPjxw\r\nIHN0eWxlPSJjb2xvcjpyZ2IoMCwgMCwgMCk7Zm9udC1zaXplOjEzcHg7YmFja2dyb3VuZC1jb2xv\r\ncjp0cmFuc3BhcmVudDtmb250LXN0eWxlOm5vcm1hbDsiPkFueW9uZSBjYW4gaGVscCBtZSBoZXJl\r\nPyZuYnNwOzwvcD4=\r\n\r\n"
+}

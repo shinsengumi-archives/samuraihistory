@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "S-A Podcast Introduction to Japanese History Series",
+            "postDate": "1311028938",
+            "msgId": 10332,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGowMmNzYStvcDlqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10331,
+            "nextInTime": 10333,
+            "topicId": 10332,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Due to popular demand, starting this week we are doing an Introduction to Japanese history series.  Our first episode covers Japan s paleolithic age to the end",
+            "messageBody": "<div id=\"ygrps-yiv-655304125\">Due to popular demand, starting this week we are doing an Introduction to Japanese history series.  Our first episode covers Japan&#39;s paleolithic age to the end of the Jomon period.  We examine the technology, culture, and events of these eras.  We would appreciate feedback on the episode so that as we move forward through Japanes history, we can tailor it and focus on what you are interested in, and the methods you find most effective in getting across the information.  What works, what doesn&#39;t, etc. We look forward to your feedback as we undertake this comprehensive introduction to Japanese history:<br/>\n<br/>\nEP10 Intro to Japanese History Part 1 - Prehistory<br/>\n<br/>\nDirect link: <a rel=\"nofollow\" target=\"_blank\" href=\"http://bit.ly/mXo50f\">http://bit.ly/mXo50f</a><br/>\nSamurai Archives Podcast on iTunes: <a rel=\"nofollow\" target=\"_blank\" href=\"http://itunes.apple.com/us/podcast/samurai-archives-podcast/id430277324\">http://itunes.apple.com/us/podcast/samurai-archives-podcast/id430277324</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10324,
+    "nextTopicId": 10333
+}

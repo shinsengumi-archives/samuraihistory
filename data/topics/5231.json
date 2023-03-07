@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 193920748,
+            "authorName": "mark kd",
+            "from": "mark kd &lt;depos42300@...&gt;",
+            "profile": "depos42300",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "samurai books on armour",
+            "postDate": "1092536913",
+            "msgId": 5231,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODE1MDIyODMzLjU4Nzc2LnFtYWlsQHdlYjUxNDAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5230,
+            "nextInTime": 5232,
+            "topicId": 5231,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I was wondering if anyone could tell me what books are good to buy about samurai armour. If anyone does know some good ones with great pics(not",
+            "messageBody": "<div id=\"ygrps-yiv-596697765\">Hello,<br/>\n I was wondering if anyone could tell me what books are good to buy about samurai armour. If anyone does know some good ones with great pics(not illustrations) i would greatly appreciate it. Please include authors name too. I&#39;m mainly looking for the books that will show me lots of different types of samurai armour with close up pics and good descriptions on how to make it myself. Thanks you very much.<br/>\n                                                            Hope to here from someone soon,<br/>\n                                                                     Mark<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail Address AutoComplete - You start. We finish.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5228,
+    "nextTopicId": 5110
+}

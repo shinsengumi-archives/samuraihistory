@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Another history query re Samurai Deeper Kyo?",
+            "postDate": "1173316107",
+            "msgId": 9409,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzbm5tYisxZTExQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVzbXVydStvM2NiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9405,
+            "nextInTopic": 0,
+            "prevInTime": 9408,
+            "nextInTime": 9410,
+            "topicId": 9405,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The battle of Sekigahara happened in 1600.  The rest is pretty much just fiction.",
+            "messageBody": "<div id=\"ygrps-yiv-180236108\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;keiman0&quot; &lt;KeimanZero@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; In the anime noted above the story is set four years after the (gomen <br/>\n&gt; the spelling onegai) battle of &#39;Chekigahara&#39; (Shek-ee-ga-har-a) and <br/>\n&gt; there is a big Samurai kenjutsu (sword fighting) tournament being held <br/>\n&gt; by the Shogun of the Toshowgowa Clan. My question is this--what year <br/>\n&gt; was that battle and was there ever such a tournament? Who won? The <br/>\n&gt; anime concerns a Battousai or Legendary manslayer nicknamed &#39;Demon Eyes <br/>\n&gt; Kyo&#39; whose spirit/soul inhabits the body of a younger hero named <br/>\n&gt; Yushira. Looks like a cool series and I&#39;m told it actually has an <br/>\n&gt; ending after 24 eppys. I think that Shina the gal bounty hunter&#39;s 3 <br/>\n&gt; barrelled flintlock pistol is just smoke and mirrors and was never a <br/>\n&gt; real weapon since flintlocks do not have rotating barrels. Domo arigato <br/>\n&gt; for your assistance. Kami bless you all. Sayonara-K&K<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>The battle of Sekigahara happened in 1600.  The rest is pretty much<br/>\njust fiction.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 131547598,
+            "authorName": "keiman0",
+            "from": "&quot;keiman0&quot; &lt;KeimanZero@...&gt;",
+            "profile": "keiman0",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Another history query re Samurai Deeper Kyo?",
+            "postDate": "1173290686",
+            "msgId": 9405,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzbXVydStvM2NiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9409,
+            "prevInTime": 9404,
+            "nextInTime": 9406,
+            "topicId": 9405,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In the anime noted above the story is set four years after the (gomen the spelling onegai) battle of Chekigahara (Shek-ee-ga-har-a) and there is a big",
+            "messageBody": "<div id=\"ygrps-yiv-94923654\">In the anime noted above the story is set four years after the (gomen <br/>\nthe spelling onegai) battle of &#39;Chekigahara&#39; (Shek-ee-ga-har-a) and <br/>\nthere is a big Samurai kenjutsu (sword fighting) tournament being held <br/>\nby the Shogun of the Toshowgowa Clan. My question is this--what year <br/>\nwas that battle and was there ever such a tournament? Who won? The <br/>\nanime concerns a Battousai or Legendary manslayer nicknamed &#39;Demon Eyes <br/>\nKyo&#39; whose spirit/soul inhabits the body of a younger hero named <br/>\nYushira. Looks like a cool series and I&#39;m told it actually has an <br/>\nending after 24 eppys. I think that Shina the gal bounty hunter&#39;s 3 <br/>\nbarrelled flintlock pistol is just smoke and mirrors and was never a <br/>\nreal weapon since flintlocks do not have rotating barrels. Domo arigato <br/>\nfor your assistance. Kami bless you all. Sayonara-K&K</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9402,
+    "nextTopicId": 9411
+}

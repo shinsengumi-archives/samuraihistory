@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "profile": "amphipolis",
+            "replyTo": "LIST",
+            "senderId": "Hki25IAAsCEvKTiY5wAHyJmlhWj1fDLnh2LDSStYQf9C0eJaOG2nbEbtOBlLd_hNpfCoH1_J28TpUPcqyMf-hc6jK8GhTahP8Tom2zl1CEV2WUvp",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: . Greetings from Greece",
+            "postDate": "1006535897",
+            "msgId": 361,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxNzQ2ZiRkY2IwMDZjMCRhZTYwNDJjM0BMb2NhbEhvc3Q+",
+                "referencesHeader": "PDEwMDY1MDY2MDYuMjMwLjgzMjI0Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 360,
+            "nextInTime": 362,
+            "topicId": 361,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there Konstantinos. I m glad to see in every mailinh list Greek guys. Zeis stin Ellada? Ego eimai apo Thessaloniki friendly, Amphipolis",
+            "messageBody": "<div id=\"ygrps-yiv-1991933300\">Hi there Konstantinos.<br/>\nI&#39;m glad to see in every mailinh list Greek guys.<br/>\nZeis stin Ellada? Ego eimai apo Thessaloniki<br/>\n<br/>\nfriendly,<br/>\nAmphipolis<br/>\n<br/>\n___________________________________<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; &gt; From Konstantinos greetings. Remember the 13 articles of law called<br/>\n&gt; Buke-Shohatto, during Tokugawa Shogunate. In articles 9-11 prescribed the<br/>\n&gt; clothing that each class was to wear. Greetings form Greece<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; ________________________________________________________________________<br/>\n&gt; ________________________________________________________________________<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Your use of Yahoo! Groups is subject to <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a><br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 350,
+    "nextTopicId": 364
+}

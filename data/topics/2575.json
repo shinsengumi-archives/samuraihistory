@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 167299676,
+            "authorName": "Edward Alexander",
+            "from": "&quot;Edward Alexander&quot; &lt;edytakeda@...&gt;",
+            "profile": "edynature",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tell me something about Takeda Katsuyori",
+            "postDate": "1069936544",
+            "msgId": 2575,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwLUYxMjR3M0ZOTWxmT1IwMDAxOTlmY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2574,
+            "nextInTime": 2576,
+            "topicId": 2575,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey there!I m Edy and i m new to samuraihistory!Could you tell me something about my favourite samurai,Takeda Katsuyori?Please????? ",
+            "messageBody": "<div id=\"ygrps-yiv-305716965\">Hey there!I&#39;m Edy and i&#39;m new to samuraihistory!Could you tell me something <br/>\nabout my favourite samurai,Takeda Katsuyori?Please?????<br/>\n<br/>\n_________________________________________________________________<br/>\nHelp STOP SPAM with the new MSN 8 and get 2 months FREE*  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/junkmail\">http://join.msn.com/?page=features/junkmail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2573,
+    "nextTopicId": 2576
+}

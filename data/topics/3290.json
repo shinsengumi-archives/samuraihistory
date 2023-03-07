@@ -1,0 +1,34 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 129164387,
+            "authorName": "Gillian Rubinstein",
+            "from": "Gillian Rubinstein &lt;gillian@...&gt;",
+            "profile": "gilliru",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: web page on Japan",
+            "postDate": "1075016434",
+            "msgId": 3290,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {},
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3289,
+            "nextInTime": 3291,
+            "topicId": 3290,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... This web site was in the Sydney Morning Herald this weekend. It s got some amazing links - the person asking about language classes might find something",
+            "messageBody": "<div id=\"ygrps-yiv-709078562\"><blockquote><span title=\"ireply\">&gt;<br/>\n </span></blockquote>This web site was in the Sydney Morning Herald this weekend. It&#39;s got some amazing links - the person asking about language classes might find something here.<br/>\n<br/>\n<br/>\n <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.csse.monash.edu.au/~jwb/japanese.html\">http://www.csse.monash.edu.au/~jwb/japanese.html</a><br/>\n<br/>\nAnd since I&#39;m posting I&#39;ll say, Inuyama is my favourite castle too!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3267,
+    "nextTopicId": 3271
+}

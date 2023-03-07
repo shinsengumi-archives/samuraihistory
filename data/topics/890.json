@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 82600261,
+            "authorName": "samurai182uk",
+            "from": "&quot;samurai182uk&quot; &lt;samurai182uk@...&gt;",
+            "profile": "samurai182uk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Very useful maps (especially for Japanese readers)",
+            "postDate": "1022767759",
+            "msgId": 890,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFkNWJxZitqM2FqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 889,
+            "nextInTime": 891,
+            "topicId": 890,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Everyone I am trying to compile a map of Japan during the sengoku jidai that I am happy with, the maps I have found are good but I always want them to go a",
+            "messageBody": "<div id=\"ygrps-yiv-1475586135\">Hi Everyone<br/>\n<br/>\n   I am trying to compile a map of Japan during the sengoku jidai <br/>\nthat I am happy with, the maps I have found are good but I always <br/>\nwant them to go a bit further listing more than the old province <br/>\nnames.  Anyhow I have found this site which has links to loads of old <br/>\nmaps <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.lib.duke.edu/ias/eac/jpnmap.htm\">http://www.lib.duke.edu/ias/eac/jpnmap.htm</a> it is excellent the <br/>\ndetail on the maps is superb, shame I can&#39;t read Japanese as well as <br/>\nI&#39;d like.  Anyhow Edo stretts digital , from Tokyo university in <br/>\nTokyo has maps of samurai houses and daimyo residences cool I would <br/>\nsay. If anyone has any good maps I&#39;d appreciate a post ,anyhow I&#39;ll <br/>\ncontinue working on my project Later then.<br/>\n<br/>\nMark</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 882,
+    "nextTopicId": 891
+}

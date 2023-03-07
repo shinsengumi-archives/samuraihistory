@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1022816144",
+            "msgId": 894,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDRjZFRjk0LkNDRUI5QjBAZnNpbmV0Lm9yLmpwPg==",
+                "referencesHeader": "PDAwMDIwMWMyMDgyZSQ5MjM0MTVjMCRmNTY2MzI0MkBocHBhdj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 893,
+            "nextInTime": 895,
+            "topicId": 894,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A ... There are a number of smiths who signed Yoshitake, Do you happen to have the kanji? or more info on his signature, if so I could help you out. Tom",
+            "messageBody": "<div id=\"ygrps-yiv-1132306965\">A<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Also any information in his sword made by Fujihara Yoshitake.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>There are a number of smiths who signed Yoshitake, Do you happen to have the kanji? or more info on his signature, if so I could help you out.<br/>\n<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 892,
+    "nextTopicId": 895
+}

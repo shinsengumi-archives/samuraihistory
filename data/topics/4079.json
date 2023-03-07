@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 181473852,
+            "authorName": "oseansyde_1",
+            "from": "&quot;oseansyde_1&quot; &lt;oseansyde_1@...&gt;",
+            "profile": "oseansyde_1",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Jinbo",
+            "postDate": "1080790460",
+            "msgId": 4079,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0ZzJqcys1ZjBjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4078,
+            "nextInTime": 4080,
+            "topicId": 4079,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Anyone have any information regarding the Jinbo family from 1500 s to 1800 s?",
+            "messageBody": "<div id=\"ygrps-yiv-1128486692\">Anyone have any information regarding the Jinbo family from 1500&#39;s to<br/>\n1800&#39;s?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4040,
+    "nextTopicId": 4080
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1011194996",
+            "msgId": 488,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwMTE2MTUyOTU2Ljg2NTg1LnFtYWlsQHdlYjE0NzAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDAwMGQwMWMxOWUwNCQwZDIwZGQ4MCQ0ZDA1ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 483,
+            "nextInTopic": 0,
+            "prevInTime": 487,
+            "nextInTime": 489,
+            "topicId": 483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As the sister ship to the Musashi was named the Yamato, I d have to guess they were named after provinces. Nate ... ",
+            "messageBody": "<div id=\"ygrps-yiv-489599864\">As the sister ship to the Musashi was named the<br/>\nYamato, I&#39;d have to guess they were named after<br/>\nprovinces. <br/>\n<br/>\nNate<br/>\n<br/>\n--- O&#39;Keefe &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Viva77@...\">Viva77@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi. The japanese Navy had a series of battle ships<br/>\n&gt; named Musashi. were they named after the famed<br/>\n&gt; swordsman or the province in Japan? Thanks <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been<br/>\n&gt; removed]<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nSend FREE video emails in Yahoo! Mail!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promo.yahoo.com/videomail/\">http://promo.yahoo.com/videomail/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 89272809,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1011126876",
+            "msgId": 483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGQwMWMxOWUwNCQwZDIwZGQ4MCQ0ZDA1ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 488,
+            "prevInTime": 482,
+            "nextInTime": 484,
+            "topicId": 483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. The japanese Navy had a series of battle ships named Musashi. were they named after the famed swordsman or the province in Japan? Thanks [Non-text portions",
+            "messageBody": "<div id=\"ygrps-yiv-426323055\">Hi. The japanese Navy had a series of battle ships named Musashi. were they named after the famed swordsman or the province in Japan? Thanks <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 484,
+    "nextTopicId": 489
+}

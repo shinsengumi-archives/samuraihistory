@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]:  Sword metals?   Prof Murphy---for Barry warlord-resp",
+            "postDate": "1069006434",
+            "msgId": 2463,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGExLjQwYTI1ZWQxLjJjZTkxODYyQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2462,
+            "nextInTime": 2464,
+            "topicId": 2463,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "So that s why my allergies have been worse!!!!!!! MUahahahahahahaa! [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1728186299\">So that&#39;s why my allergies have been worse!!!!!!! MUahahahahahahaa!<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2411,
+    "nextTopicId": 2464
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "Mikiko Letham",
+            "from": "&quot;Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saigo Takamori Videos",
+            "postDate": "1029679968",
+            "msgId": 1109,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjUwMWMyNDZjMyQ3MTcyYTEyMCQ1YmI4ZGJjYUBuZS5qcD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1108,
+            "nextInTime": 1110,
+            "topicId": 1109,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The NHK production Tobu ga Gotoku is available from NHK for a very pricey 27,700 yen for a four cassettes. the hompage is http://www.amuse-soft.co.jp/ . This",
+            "messageBody": "<div id=\"ygrps-yiv-2101362486\">The NHK production Tobu ga Gotoku is available from NHK for a very pricey 27,700 yen for a four cassettes. the hompage is <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.amuse-soft.co.jp/\">http://www.amuse-soft.co.jp/</a> . This again is the condensed version 49 episodes into 7 and a half hours. Taharazaka was done by VAP video company. I&#39;m not sure where it might be available if it still is but I think it was as expensive as the other one. These videos plus many others are available for rent in most big Japanese video stores like Tsutaya. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1099,
+    "nextTopicId": 1098
+}

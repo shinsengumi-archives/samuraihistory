@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Eamon Murray",
+            "from": "&quot;Eamon Murray&quot; &lt;eamonbm@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "8TN2EJzN9l0RMoBPhQ3oi-o9MyIDDdAS7l4d9PUWiLtYQlcTVTzqq1qxoPZ1hozXiWR7ZzyXJ3LDs6et-e5VbEq57aSkquHzbPs",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "TESTING, TESTING, 1...2...3...",
+            "postDate": "995890339",
+            "msgId": 259,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxMTM3MSQ5NWRiNjQ2MCQxZGQ4ODY5ZkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 258,
+            "nextInTime": 260,
+            "topicId": 259,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just testing. E.",
+            "messageBody": "<div id=\"ygrps-yiv-504502599\">Just testing.<br/>\n<br/>\nE.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 258,
+    "nextTopicId": 267
+}

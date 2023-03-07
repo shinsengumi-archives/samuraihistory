@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 55069340,
+            "authorName": "Richardson Paul",
+            "from": "Richardson Paul &lt;umaryu@...&gt;",
+            "profile": "umaryu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: TACHI  and tai chi---fine &quot;point&quot; and very ellegantly made !",
+            "postDate": "1069489134",
+            "msgId": 2547,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMTIyMDgxODU0Ljc5NjAucW1haWxAd2ViMjUxMDMubWFpbC51a2wueWFob28uY29tPg==",
+                "inReplyToHeader": "PDkzLjM2M2RlM2Y3LjJjZWZkMWJiQGFvbC5jb20+"
+            },
+            "prevInTopic": 2535,
+            "nextInTopic": 0,
+            "prevInTime": 2546,
+            "nextInTime": 2548,
+            "topicId": 2535,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "dont know if there is supposed to be anything here but I get quite a few emails on this list from this person with no text in it. either start typing or check",
+            "messageBody": "<div id=\"ygrps-yiv-1316382692\">dont know if there is supposed to be anything here but<br/>\nI get quite a few emails on this list from this person<br/>\nwith no text in it.<br/>\n<br/>\neither start typing or check you havent got a virus<br/>\n<br/>\nPaul<br/>\n<br/>\n<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:murphymurphyjohn@...\">murphymurphyjohn@...</a> wrote:<br/>\n<br/>\n---------------------------------<br/>\n <br/>\n<br/>\nYahoo! Groups Sponsor  ADVERTISEMENT<br/>\n <br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n---<br/>\nTo unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n<br/>\n<br/>\nYour use of Yahoo! Groups is subject to the Yahoo!<br/>\nTerms of Service.<br/>\n<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nFree Pop-Up Blocker - Get it now<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://companion.yahoo.com/\">http://companion.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: TACHI  and tai chi---fine &quot;point&quot; and very ellegantly made !",
+            "postDate": "1069447099",
+            "msgId": 2535,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkzLjM2M2RlM2Y3LjJjZWZkMWJiQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2547,
+            "prevInTime": 2534,
+            "nextInTime": 2536,
+            "topicId": 2535,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2443,
+    "nextTopicId": 2549
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: TO ALL HANDS/  TURNBULL ALERT----resp ProfMurf: -------.TITLE",
+            "postDate": "1070180127",
+            "msgId": 2598,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFlOS4xNDYwM2MwNy4yY2ZiMDExZkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2597,
+            "nextInTime": 2599,
+            "topicId": 2598,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Turnbull s new book is Samurai:  The World of the Warrior:  Uncloak the Mysteries of the Orient.  The book is $29.95 but is on sale at Barnes & Noble on the",
+            "messageBody": "<div id=\"ygrps-yiv-241716755\">Turnbull&#39;s new book is Samurai:  The World of the Warrior:  Uncloak the <br/>\nMysteries of the Orient.  The book is $29.95 but is on sale at Barnes & Noble on <br/>\nthe Web at $17.95,  40 % off the cover.  This is the first week the book is in <br/>\nthe stores too, so it appears B & N is not suspecting high sales.  Jack Murphy, <br/>\n The Japan Foundation<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2427,
+    "nextTopicId": 2589
+}

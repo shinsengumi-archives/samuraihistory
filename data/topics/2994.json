@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] (no subject)",
+            "postDate": "1072929574",
+            "msgId": 2994,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE1LjFmYWQ3MjIyLjJkMjRmNTI2QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2993,
+            "nextInTime": 2995,
+            "topicId": 2994,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey, y all! Onnellista uutta vuotta!!  (that s finnish for Happy New Year.  :-D!) L8R Tim [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1061162148\">Hey, y&#39;all!<br/>\n       Onnellista uutta vuotta!!  (that&#39;s finnish for Happy New Year.  :-D!)<br/>\n<br/>\nL8R<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2993,
+    "nextTopicId": 2995
+}

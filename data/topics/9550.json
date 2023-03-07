@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Results of the 2007 Samurai Fiction Contest",
+            "postDate": "1177908716",
+            "msgId": 9550,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYxM3NsYyttN2xyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9549,
+            "nextInTime": 9551,
+            "topicId": 9550,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here are the results of the third annual Samurai Fiction contest.  The link to all of the stories, with genres and authors listed can be found here:",
+            "messageBody": "<div id=\"ygrps-yiv-2014015060\">Here are the results of the third annual Samurai Fiction contest.  The<br/>\nlink to all of the stories, with genres and authors listed can be<br/>\nfound here: <a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.samurai-archives.com/viewtopic.php?t=1793\">http://forums.samurai-archives.com/viewtopic.php?t=1793</a><br/>\n<br/>\nCongratulations to all of the winners, and in general, the high<br/>\nquality of all of the entries this year. I hope to have the stories on<br/>\nthe samurai archives site by the end of next week.<br/>\n<br/>\n---------------<br/>\n<br/>\nBest Ending:<br/>\n<br/>\nIntruder<br/>\n<br/>\nBest Writing:<br/>\n<br/>\nThe Matsudaira Plot<br/>\n<br/>\nMost Original:<br/>\n<br/>\nMagni Nominis Umbra<br/>\n<br/>\nBest Dialogue:<br/>\n<br/>\nThe Snow-Light Warrior<br/>\n<br/>\n---------------<br/>\n<br/>\nThird Place:<br/>\n<br/>\nThe Matsudaira Plot<br/>\n<br/>\nSecond Place:<br/>\n<br/>\nMagni Nominis Umbra<br/>\n<br/>\nFirst Place:<br/>\n<br/>\nIntruder</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9547,
+    "nextTopicId": 9552
+}

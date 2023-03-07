@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kenshin himura battosaiel carnicero",
+            "from": "&quot;kenshin himura battosai&quot;el carnicero&quot;&quot; &lt;himura19@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "iYAdpDGHoPXP9YLWJTowbjyQzo2xhD2PRE5LQngtjm7xDbhEnuSIpRzwNnrI06Zqrus2wp6mWULdkaCJKp2nK9LLXPbWsrczCsNYepgTeZAT-WEOoaQIcV1aEZeXlrhNQ7hwh3o",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "i want a book",
+            "postDate": "977920848",
+            "msgId": 40,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkyY28wZythMmh0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 39,
+            "nextInTime": 41,
+            "topicId": 40,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I want the book of ryotaro shiba called flaming sword in english or spanish(flaming sword is a book who speak about the edo-meiji era and a lot of",
+            "messageBody": "<div id=\"ygrps-yiv-1787988758\">I want the book of ryotaro shiba called &quot;flaming sword&quot; in english or <br/>\nspanish(flaming sword is a book who speak about the edo-meiji era and <br/>\na lot of characters)and I desire a market or a bookstore in internet <br/>\nwhere i can buy.If anybody can help me.(or if anybody has the <br/>\ninformation of the publisher etc better..)<br/>\n                       domo arigato<br/>\n<br/>\np.d:my email is <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:himura19@...\">himura19@...</a> and sorry by my horrible <br/>\nenglish,im from barcelona.(spain)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 39,
+    "nextTopicId": 41
+}

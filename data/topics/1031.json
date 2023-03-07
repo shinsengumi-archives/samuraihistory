@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 92765930,
+            "authorName": "audigoalking",
+            "from": "&quot;audigoalking&quot; &lt;stevenbaumann89@...&gt;",
+            "profile": "audigoalking",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Miniature Samurai",
+            "postDate": "1028480449",
+            "msgId": 1031,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFpam1rMSszYm5sQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1030,
+            "nextInTime": 1032,
+            "topicId": 1031,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "While we are on the subject of miniature kabuto, I found a website selling mini samurai(One-quarter size) from the Sengoku period. The website is",
+            "messageBody": "<div id=\"ygrps-yiv-1548066652\">While we are on the subject of miniature kabuto, I found a website <br/>\nselling mini samurai(One-quarter size) from the Sengoku period. The <br/>\nwebsite is  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.orientalweapons.com/index.html?\">http://www.orientalweapons.com/index.html?</a><br/>\ntarget=dept_322.html&lang=en-us -If you haven&#39;t found it already<br/>\n<br/>\n       Steven Baumann</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1020,
+    "nextTopicId": 1021
+}

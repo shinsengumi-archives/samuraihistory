@@ -1,0 +1,50 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 643749257,
+        "photoId": 465667981,
+        "photoName": "Mishima Taisha Shrine",
+        "photoFilename": "PHOTO171.JPG",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "wheneker",
+        "modificationDate": 1244685802,
+        "creationDate": 1244685802,
+        "position": 0,
+        "commentCount": 1,
+        "ordinal": 0,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/wmwCeIfofNQDv_emXlI-/name/PHOTO171.jpg",
+                "height": 64,
+                "width": 96,
+                "size": 2146,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/wmwCeIfofNQDv_emXlI-/name/PHOTO171.jpg",
+                "height": 320,
+                "width": 480,
+                "size": 33577,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/wmwCeIfofNQDv_emXlI-/name/PHOTO171.jpg",
+                "height": 533,
+                "width": 800,
+                "size": 83732,
+                "photoType": "hr"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/or/wmwCeIfofNQDv_emXlI-/name/PHOTO171.JPG",
+                "height": 2592,
+                "width": 3888,
+                "size": 1279687,
+                "photoType": "or"
+            }
+        ]
+    }
+]

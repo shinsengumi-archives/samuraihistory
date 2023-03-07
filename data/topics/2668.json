@@ -1,0 +1,157 @@
+{
+    "totalMsgInTopic": 5,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] INFO ABOUT SAMURAY AMORED",
+            "postDate": "1070823072",
+            "msgId": 2684,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGRDM3NkEwLjcwMjA3MDJAaW5kaWFuYS5lZHU+",
+                "inReplyToHeader": "PDIwMDMxMjA3MTgyODIyLjkyMTgxLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDMxMjA3MTgyODIyLjkyMTgxLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 2681,
+            "nextInTopic": 0,
+            "prevInTime": 2683,
+            "nextInTime": 2685,
+            "topicId": 2668,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I was kind of wondering the same thing? Tony",
+            "messageBody": "<div id=\"ygrps-yiv-1354966045\">The Angry Llama wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; yes...<br/>\n&gt; what&#39;s so unbelievable?<br/>\n<br/>\n </span></blockquote>I was kind of wondering the same thing?<br/>\n<br/>\nTony<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt;&gt;Is all this for real??? </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 62491063,
+            "authorName": "The Angry Llama",
+            "from": "The Angry Llama &lt;klancesegall@...&gt;",
+            "profile": "klancesegall",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] INFO ABOUT SAMURAY AMORED",
+            "postDate": "1070821702",
+            "msgId": 2681,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjA3MTgyODIyLjkyMTgxLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDY2QkY3MUI2LTI4ODUtMTFEOC04QzA0LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 2673,
+            "nextInTopic": 2684,
+            "prevInTime": 2680,
+            "nextInTime": 2682,
+            "topicId": 2668,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yes... what s so unbelievable? ... __________________________________ Do you Yahoo!? New Yahoo! Photos - easier uploading and sharing. http://photos.yahoo.com/",
+            "messageBody": "<div id=\"ygrps-yiv-1382560456\">yes...<br/>\nwhat&#39;s so unbelievable?<br/>\n<br/>\n--- Cesare Polenghi &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cepo@...\">cepo@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Is all this for real???<br/>\n&gt; cepo<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; On Dec 6, 2003, at 6:47 PM, The Angry Llama wrote:<br/>\n&gt; <br/>\n&gt; &gt; www.sengokudaimyo.com<br/>\n&gt; &gt; It&#39;s A.J. Bryan&#39;ts page.<br/>\n&gt; &gt;<br/>\n&gt; &gt; --- Francisco Manuel Luna Zapata<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nNew Yahoo! Photos - easier uploading and sharing.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.yahoo.com/\">http://photos.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] INFO ABOUT SAMURAY AMORED",
+            "postDate": "1070781442",
+            "msgId": 2673,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDY2QkY3MUI2LTI4ODUtMTFEOC04QzA0LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg==",
+                "inReplyToHeader": "PDIwMDMxMjA3MDQ0NzI3LjM0MDg0LnFtYWlsQHdlYjIwODEzLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDMxMjA3MDQ0NzI3LjM0MDg0LnFtYWlsQHdlYjIwODEzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 2672,
+            "nextInTopic": 2681,
+            "prevInTime": 2672,
+            "nextInTime": 2674,
+            "topicId": 2668,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is all this for real??? cepo",
+            "messageBody": "<div id=\"ygrps-yiv-360011832\">Is all this for real???<br/>\ncepo<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Dec 6, 2003, at 6:47 PM, The Angry Llama wrote:<br/>\n<br/>\n&gt; www.sengokudaimyo.com<br/>\n&gt; It&#39;s A.J. Bryan&#39;ts page.<br/>\n&gt;<br/>\n&gt; --- Francisco Manuel Luna Zapata </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 62491063,
+            "authorName": "The Angry Llama",
+            "from": "The Angry Llama &lt;klancesegall@...&gt;",
+            "profile": "klancesegall",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] INFO ABOUT SAMURAY AMORED",
+            "postDate": "1070772447",
+            "msgId": 2672,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjA3MDQ0NzI3LjM0MDg0LnFtYWlsQHdlYjIwODEzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PFNlYTEtRjg5VllwMjFvcHhUUTUwMDAwYWE2OEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 2668,
+            "nextInTopic": 2673,
+            "prevInTime": 2671,
+            "nextInTime": 2673,
+            "topicId": 2668,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "www.sengokudaimyo.com It s A.J. Bryan ts page. ... __________________________________ Do you Yahoo!? Protect your identity with Yahoo! Mail AddressGuard ",
+            "messageBody": "<div id=\"ygrps-yiv-1009761710\">www.sengokudaimyo.com<br/>\nIt&#39;s A.J. Bryan&#39;ts page.<br/>\n<br/>\n--- Francisco Manuel Luna Zapata<br/>\n&lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:swarzdraken@...\">swarzdraken@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; HELLO FROM COLOMBIA!!!<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; I NEED A A LITULE HELP, I REMEBER THAT A MEMEBER OF<br/>\n&gt; THIS GROUP HAVE HOME <br/>\n&gt; PAGE, ABOUR HOW TO BUILT A JAPANESE SAMURAI ARMOR.<br/>\n&gt; IF SOME BODY REMEBER A <br/>\n&gt; THIS PAGE PLEASE SEND ME ELECTRONIC ADRESS OF THIS<br/>\n&gt; PAGE. IS VERY IMPORTANT <br/>\n&gt; SO THAT CAN START TO BUILT MY PROPER ARMOR.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; THANKS FULL<br/>\n&gt; <br/>\n&gt; FRANCISCO LUNA<br/>\n&gt; <br/>\n&gt;<br/>\n </span></blockquote>_________________________________________________________________<br/>\n<blockquote><span title=\"ireply\"> &gt; Consigue aqu� las mejores y mas recientes ofertas de<br/>\n&gt; trabajo en Am�rica <br/>\n&gt; Latina y USA: <a rel=\"nofollow\" target=\"_blank\" href=\"http://latam.msn.com/empleos/\">http://latam.msn.com/empleos/</a><br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nProtect your identity with Yahoo! Mail AddressGuard<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://antispam.yahoo.com/whatsnewfree\">http://antispam.yahoo.com/whatsnewfree</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 95013733,
+            "authorName": "Francisco Manuel Luna Zapata",
+            "from": "&quot;Francisco Manuel Luna Zapata&quot; &lt;swarzdraken@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "INFO ABOUT SAMURAY AMORED",
+            "postDate": "1070746820",
+            "msgId": 2668,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTEtRjg5VllwMjFvcHhUUTUwMDAwYWE2OEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2672,
+            "prevInTime": 2667,
+            "nextInTime": 2669,
+            "topicId": 2668,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "HELLO FROM COLOMBIA!!! I NEED A A LITULE HELP, I REMEBER THAT A MEMEBER OF THIS GROUP HAVE HOME PAGE, ABOUR HOW TO BUILT A JAPANESE SAMURAI ARMOR. IF SOME BODY",
+            "messageBody": "<div id=\"ygrps-yiv-352277771\">HELLO FROM COLOMBIA!!!<br/>\n<br/>\n<br/>\nI NEED A A LITULE HELP, I REMEBER THAT A MEMEBER OF THIS GROUP HAVE HOME <br/>\nPAGE, ABOUR HOW TO BUILT A JAPANESE SAMURAI ARMOR. IF SOME BODY REMEBER A <br/>\nTHIS PAGE PLEASE SEND ME ELECTRONIC ADRESS OF THIS PAGE. IS VERY IMPORTANT <br/>\nSO THAT CAN START TO BUILT MY PROPER ARMOR.<br/>\n<br/>\n<br/>\nTHANKS FULL<br/>\n<br/>\nFRANCISCO LUNA<br/>\n<br/>\n_________________________________________________________________<br/>\nConsigue aquí las mejores y mas recientes ofertas de trabajo en América <br/>\nLatina y USA: <a rel=\"nofollow\" target=\"_blank\" href=\"http://latam.msn.com/empleos/\">http://latam.msn.com/empleos/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2678,
+    "nextTopicId": 2687
+}

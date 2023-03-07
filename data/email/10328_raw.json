@@ -1,0 +1,31 @@
+{
+    "userId": 99950145,
+    "authorName": "Robert McArthur",
+    "from": "&quot;Robert McArthur&quot; &lt;rmcarthur@...&gt;",
+    "profile": "submarine_92064",
+    "replyTo": "LIST",
+    "senderId": "eGPKUeZ0s0aLJqXRLEQi_gZNpbJupovGST5WNwiSUF4URqIXOsl2TSQs5lFgVb1dJcKohc-XY3oOumIM_aufTjY85v1bKaDUG3ETtA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "RE: [samuraihistory] kubi kiri",
+    "postDate": "1309380919",
+    "msgId": 10328,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDdGNkZGQjhDQTg0QjQzMzVBQUVDMUEzM0IzNjdBRTU4QFJvYmVydFBDPg==",
+        "inReplyToHeader": "PGl1Nzh0bythNWRnQGVHcm91cHMuY29tPg==",
+        "referencesHeader": "PGl1Nzh0bythNWRnQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 10326,
+    "nextInTopic": 10329,
+    "prevInTime": 10327,
+    "nextInTime": 10329,
+    "topicId": 10324,
+    "numMessagesInTopic": 7,
+    "msgSnippet": "The Japanese were not head hunters in the strict anthropological sense. They did not go to war for the express purpose of taking heads. Rather, the taking of",
+    "rawEmail": "Return-Path: &lt;rmcarthur@...&gt;\r\nReceived: (qmail 21081 invoked from network); 30 Jun 2011 02:46:57 -0000\r\nReceived: from unknown (66.196.94.106)\n  by m17.grp.re1.yahoo.com with QMQP; 30 Jun 2011 02:46:57 -0000\r\nReceived: from unknown (HELO ng4-ip2.bullet.mail.bf1.yahoo.com) (98.139.165.18)\n  by mta2.grp.re1.yahoo.com with SMTP; 30 Jun 2011 02:46:57 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1309402017; bh=rM2pkifh6dqc+SX3ZKYPuo3YXMRf3yjtcpM+v/N4jpk=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-CT-Score:X-CT-RefID:X-CT-Spam:X-Authority-Analysis:X-CM-Score:Authentication-Results:To:References:In-Reply-To:Date:Message-ID:MIME-Version:X-Mailer:Thread-Index:X-MimeOLE:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=b0tzc88EH5RXS1yu0x1+3Mtc0F+rSZtFgOpT/pCXfGVbmx94Nxn2E6qW13jP7GJyD90annuj3vuAtGGJ78bpMvzN0cymEC2cpEVnl8FDgTNVddJtT8FNMPcgz8JbESXN\r\nReceived: from [98.139.164.124] by ng4.bullet.mail.bf1.yahoo.com with NNFMP; 30 Jun 2011 02:46:57 -0000\r\nReceived: from [69.147.65.149] by tg5.bullet.mail.bf1.yahoo.com with NNFMP; 30 Jun 2011 02:46:57 -0000\r\nReceived: from [98.137.34.34] by t9.bullet.mail.sp1.yahoo.com with NNFMP; 30 Jun 2011 02:46:57 -0000\r\nX-Sender: rmcarthur@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 46630 invoked from network); 29 Jun 2011 20:55:33 -0000\r\nX-Received: from unknown (98.137.34.46)\n  by m1.grp.sp2.yahoo.com with QMQP; 29 Jun 2011 20:55:33 -0000\r\nX-Received: from unknown (HELO fed1rmfepo102.cox.net) (68.230.241.144)\n  by mta3.grp.sp2.yahoo.com with SMTP; 29 Jun 2011 20:55:32 -0000\r\nX-Received: from fed1rmimpo03.cox.net ([70.169.32.75])\n          by fed1rmfepo102.cox.net\n          (InterMail vM.8.01.04.00 201-2260-137-20101110) with ESMTP\n          id &lt;20110629205532.YESY18463.fed1rmfepo102.cox.net@...&gt;\n          for &lt;samuraihistory@yahoogroups.com&gt;;\n          Wed, 29 Jun 2011 16:55:32 -0400\r\nX-Received: from RobertPC ([72.197.254.231])\n\tby fed1rmimpo03.cox.net with bizsmtp\n\tid 1wvY1h00A50Kbz404wvYbT; Wed, 29 Jun 2011 16:55:32 -0400\r\nX-CT-Score: 0.00\r\nX-CT-RefID: str=0001.0A020208.4E0B9144.0115,ss=1,re=0.000,fgs=0\r\nX-CT-Spam: 0\r\nX-Authority-Analysis: v=1.1 cv=Tga9Qrvq4UdK1WdVFPhw9uV6oTKk0gQVF54T/PWfzDk=\n c=1 sm=1 a=_EUMBMcSul8A:10 a=G8Uczd0VNMoA:10 a=yKJUAIhskGEa4mYUjIlxRQ==:17\n a=qV0mfD4mAAAA:8 a=8CmCXRF5qMZmzDmi-N4A:9 a=CjuIK1q_8ugA:10 a=ao4RW71Vw8YA:10\n a=zVted0xisLOlAy6E99UA:9 a=3DL_rsL--GlF8S34zwMA:7\n a=yKJUAIhskGEa4mYUjIlxRQ==:117\r\nX-CM-Score: 0.00\r\nAuthentication-Results: cox.net; none\r\nTo: &lt;samuraihistory@yahoogroups.com&gt;\r\nReferences: &lt;iu78to+a5dg@...&gt;\r\nIn-Reply-To: &lt;iu78to+a5dg@...&gt;\r\nDate: Wed, 29 Jun 2011 13:55:19 -0700\r\nMessage-ID: &lt;7F6FFB8CA84B4335AAEC1A33B367AE58@RobertPC&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Microsoft Office Outlook 11\r\nThread-Index: Acw0Pj6d2YTZyfboQd+na0SblESTyAAbvmWw\r\nX-MimeOLE: Produced By Microsoft MimeOLE V6.0.6002.18463\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;Robert McArthur&quot; &lt;rmcarthur@...&gt;\r\nSubject: RE: [samuraihistory] kubi kiri\r\nX-Yahoo-Group-Post: member; u=99950145; y=Wm3q-cwVJM8jOvHy23bkSr4AVjWLQz0CA4TBhXYAvCJ9EePaDvBEyuio\r\nX-Yahoo-Profile: submarine_92064\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via web; 30 Jun 2011 02:46:55 -0000\r\n\r\nThe Japanese were not head hunters in the strict anthropological sense. They\ndid not go to war for the express purpose of taking heads. Rather, the\ntaking of heads was an adjunct to war and was used to tally enemy losses, to\ndocument personal bravery, and to verify the deaths of enemy leaders. Once\nthese purposes had been met the heads were disposed of by burying or\nburning. Head hunting societies, in contrast, usually retained taken heads\non permanent display.\n \nRobert\n\n  _____  \n\nFrom: samuraihistory@yahoogroups.com [mailto:samuraihistory@yahoogroups.com]\nOn Behalf Of jiri\nSent: Sunday, June 26, 2011 5:33 AM\nTo: samuraihistory@yahoogroups.com\nSubject: [samuraihistory] kubi kiri\n\n \n Are there any sources for the samurai as headhunters? In a book ot\nThurnbull there are a few information about the head-viewing ceremony but\nnot much.\n\n\n\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

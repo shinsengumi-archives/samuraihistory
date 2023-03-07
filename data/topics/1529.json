@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andrea Smith",
+            "from": "andrea Smith &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai Life in 2003? maby in the mind?not in the real w...",
+            "postDate": "1046358262",
+            "msgId": 1555,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwMjI3MTUwNDIyLjY2MzYzLnFtYWlsQHdlYjQxNDEzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDExMC4yMDdmNTNmNy4yYjhiOTgyMkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 1529,
+            "nextInTopic": 0,
+            "prevInTime": 1554,
+            "nextInTime": 1556,
+            "topicId": 1529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks, I m going to need it after while to get my book written and published. ... __________________________________________________ Do you Yahoo!? Yahoo! Tax",
+            "messageBody": "<div id=\"ygrps-yiv-1255024537\">Thanks, I&#39;m going to need it after while to get my<br/>\nbook written and published.<br/>\n<br/>\n<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Eponymous13@...\">Eponymous13@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Good luck, Andrea!  :-D<br/>\n&gt; <br/>\n&gt; Tim<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been<br/>\n&gt; removed]<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Tax Center - forms, calculators, tips, more<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://taxes.yahoo.com/\">http://taxes.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai Life in 2003? maby in the mind?not in the real w...",
+            "postDate": "1046101538",
+            "msgId": 1529,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDExMC4yMDdmNTNmNy4yYjhiOTgyMkBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1555,
+            "prevInTime": 1528,
+            "nextInTime": 1530,
+            "topicId": 1529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Good luck, Andrea!  :-D Tim [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-794125738\">Good luck, Andrea!  :-D<br/>\n<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1545,
+    "nextTopicId": 1565
+}

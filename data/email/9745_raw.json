@@ -1,0 +1,29 @@
+{
+    "userId": 255258164,
+    "authorName": "k kobayakawa",
+    "from": "&quot;k kobayakawa&quot; &lt;kobaya635@...&gt;",
+    "profile": "shikisokuzekukusokuzeshiki8",
+    "replyTo": "LIST",
+    "senderId": "YyuE9fpfjbJuHh_-4Mmu8JpDBH2koGIrvyPz1b8Q55gpTzUq51ZysntAxZW3q6Lgsgni4xGLtQm18coDHfJn80EolzdBmwL6eVOA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "samurai-archives.com server down?",
+    "postDate": "1211979000",
+    "msgId": 9745,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGZkMTk5M2ZlMDgwNTI4MDU1MGwxZWQ5YTE2OHM0MjUzODkxYzg5MWE5YTI2QG1haWwuZ21haWwuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 9746,
+    "prevInTime": 9744,
+    "nextInTime": 9746,
+    "topicId": 9745,
+    "numMessagesInTopic": 6,
+    "msgSnippet": "I received an error",
+    "rawEmail": "Return-Path: &lt;kobaya635@...&gt;\r\nX-Sender: kobaya635@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 30104 invoked from network); 28 May 2008 12:50:01 -0000\r\nX-Received: from unknown (66.218.67.97)\n  by m52.grp.scd.yahoo.com with QMQP; 28 May 2008 12:50:01 -0000\r\nX-Received: from unknown (HELO wr-out-0506.google.com) (64.233.184.238)\n  by mta18.grp.scd.yahoo.com with SMTP; 28 May 2008 12:50:01 -0000\r\nX-Received: by wr-out-0506.google.com with SMTP id 69so1821407wra.16\n        for &lt;samuraihistory@yahoogroups.com&gt;; Wed, 28 May 2008 05:50:01 -0700 (PDT)\r\nX-Received: by 10.142.173.14 with SMTP id v14mr1030311wfe.74.1211979000900;\n        Wed, 28 May 2008 05:50:00 -0700 (PDT)\r\nX-Received: by 10.142.230.19 with HTTP; Wed, 28 May 2008 05:50:00 -0700 (PDT)\r\nMessage-ID: &lt;fd1993fe0805280550l1ed9a168s4253891c891a9a26@...&gt;\r\nDate: Wed, 28 May 2008 21:50:00 +0900\r\nTo: samuraihistory@yahoogroups.com\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Transfer-Encoding: 7bit\r\nContent-Disposition: inline\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: &quot;k kobayakawa&quot; &lt;kobaya635@...&gt;\r\nSubject: samurai-archives.com server down?\r\nX-Yahoo-Group-Post: member; u=255258164; y=a1_Ll3f0Z9_BJxubrsKpvmUksWSD00J-GF5_2q0AiQDprOTHqo17vjxVsg\r\nX-Yahoo-Profile: shikisokuzekukusokuzeshiki8\r\n\r\nI received an error\n\n&gt;SamuraiWiki has a problem\n&gt;Sorry! This site is experiencing technical difficulties.\n&gt;Try waiting a few minutes and reloading.\n&gt;(Can&#39;t contact the database server: Lost connection to MySQL server during query (localhost))\n\n"
+}

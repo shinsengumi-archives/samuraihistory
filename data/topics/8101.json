@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 244371864,
+            "authorName": "tintoysoldiers",
+            "from": "&quot;tintoysoldiers&quot; &lt;tintoysoldiers@...&gt;",
+            "profile": "tintoysoldiers",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurais and Ninjas",
+            "postDate": "1134662649",
+            "msgId": 8101,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRuczQ1cCtmOWgwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8100,
+            "nextInTime": 8102,
+            "topicId": 8101,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, we would like introduce our new models of Samurais and Ninjas. Please visit our web site here: http://tinbay.com/index.php/cPath/37 We put much efforts",
+            "messageBody": "<div id=\"ygrps-yiv-1044056067\">Hello,<br/>\n<br/>\n we would like introduce our new models of Samurais and Ninjas.<br/>\nPlease visit our web site here: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinbay.com/index.php/cPath/37\">http://tinbay.com/index.php/cPath/37</a><br/>\n<br/>\nWe put much efforts to produce historicaly accurate figures, so your <br/>\ncritism will be appreciate.<br/>\n<br/>\nBest Regards,<br/>\nBoris</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 598,
+    "nextTopicId": 8104
+}

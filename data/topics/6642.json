@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 130539158,
+            "authorName": "Brian Bradford",
+            "from": "&quot;Brian Bradford&quot; &lt;BBradford1973@...&gt;",
+            "profile": "bbradf3021",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Battle of Hitotori Bridge (Hitotoribashi)",
+            "postDate": "1107388909",
+            "msgId": 6642,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN0cnBsZCs1Z2poQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6641,
+            "nextInTime": 6643,
+            "topicId": 6642,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I am an author of a miniature wargames ruleset called Killer Katanas and I am finishing up on writing a second edition to the rules.  I am going back",
+            "messageBody": "<div id=\"ygrps-yiv-1179987114\">Hello,<br/>\n<br/>\nI am an author of a miniature wargames ruleset called Killer Katanas <br/>\nand I am finishing up on writing a second edition to the rules.  I am <br/>\ngoing back and relooking at my information to ensure accuracy.  <br/>\n<br/>\nWith regards to The Battle of Hitotori Bridge between the Date and <br/>\nHatakeyama, I am unable to find a map scale or any references to <br/>\ndistances in the sources I have.  When I made a scenario for this a <br/>\ncouple years ago I went by a painting and an &quot;estimated guess&quot; on the <br/>\ndistances.  I&#39;d like to be accurate this time.<br/>\n<br/>\nIf anyone could point out the distances between any of the following <br/>\nplaces I can use that as a guide.<br/>\n<br/>\nPlaces in the battle:<br/>\n<br/>\nTown of Arai<br/>\nTakakura Castle<br/>\nSetogawa mansion<br/>\nMotomiya Castle<br/>\nMount Daimyokura<br/>\nHitotori Bridge<br/>\nMount Kannondo<br/>\n<br/>\nThanks,<br/>\n<br/>\nBrian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6639,
+    "nextTopicId": 6647
+}

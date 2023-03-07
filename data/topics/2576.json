@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Last Samurai Site",
+            "postDate": "1069971072",
+            "msgId": 2576,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxNXNxMCtpbjk1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2575,
+            "nextInTime": 2577,
+            "topicId": 2576,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone interested, here is a link to the new movie The Last Samurai flash website, with links to the teaser trailer, full trailer, winamp and windows",
+            "messageBody": "<div id=\"ygrps-yiv-1251099096\">For anyone interested, here is a link to the new movie &quot;The Last <br/>\nSamurai&quot; flash website, with links to the teaser trailer, full <br/>\ntrailer, winamp and windows media player skins, info on the cast and <br/>\ncrew, etc:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.buzztone.com/lastsamurai/bclick.asp?sel=b2&ori=35\">http://www.buzztone.com/lastsamurai/bclick.asp?sel=b2&ori=35</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2575,
+    "nextTopicId": 2574
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "The Sengoku Biographical Dictionary Online",
+            "postDate": "1110179975",
+            "msgId": 6792,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwZ3ZhNys4bXFrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6791,
+            "nextInTime": 6793,
+            "topicId": 6792,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The new Sengoku Biographical Dictionary is now online. Enjoy! http://www.samurai-archives.com/dictionary/index.html",
+            "messageBody": "<div id=\"ygrps-yiv-1138063348\">The new Sengoku Biographical Dictionary is now online. Enjoy!<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/dictionary/index.html\">http://www.samurai-archives.com/dictionary/index.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6781,
+    "nextTopicId": 6794
+}
