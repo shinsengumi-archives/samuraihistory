@@ -44,7 +44,7 @@ def getListing(type, group, path, file, md):
     out.close()
     templateFile.close()
     
-    return '<table border=0><tr><td><a href="images/'+outFile+'"><img src="'+path+'" alt="'+file+'" height=150 /></a></td></tr><tr><td style="word-wrap: break-word; width: 100px;">'+md['photoName']+'</td></tr></table>\n'
+    return '<table border=0><tr><td><a href="images/'+outFile+'"><img src="'+path+'" alt="'+file+'" height=150 /></a></td></tr><tr><td style="word-wrap: break-word; width: 100px;"><a href="images/'+outFile+'">'+md['photoName']+'</a></td></tr></table>\n'
 
 
 def getFilesInDirectory(type, content, group, path, dir, metadata, lev):
