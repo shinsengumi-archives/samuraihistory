@@ -23,7 +23,7 @@ def getPhotoMetadata(metadata, file):
             return md
 
 
-def getListing(type, path, file, md):
+def getListing(type, group, path, file, md):
     print(path)
     if type == 'files':
         return '<a href="'+path+'">'+md['fileName']+'</a> - '+md['description']+'<br/>\n'
@@ -31,7 +31,20 @@ def getListing(type, path, file, md):
     desc = ''
     if 'description' in md:
         desc = md['description']
-    return '<table border=0><tr><td><a href="'+path+'"><img src="'+path+'" alt="'+file+'" height=150 /></a></td><td style="max-width: 100px;"><div style="max-height: 150px; overflow-y: auto; word-wrap: break-word;">'+desc+'</div></td></tr><tr><td style="word-wrap: break-word; width: 100px;">'+md['photoName']+'</td></tr></table>\n'
+        
+    templateFile = open('templates/image.html', "r", encoding="utf8")
+    template = templateFile.read()
+    output = template.replace('{{name}}', md['photoName'])
+    output = output.replace('{{file}}', file)
+    output = output.replace('{{path}}', path)
+    output = output.replace('{{desc}}', desc)
+    outFile = file.replace('.jpg', '.html').replace('.png', '.html')
+    out = open(group+'images/'+outFile, "w+", encoding="utf8")	
+    out.write(output)
+    out.close()
+    templateFile.close()
+    
+    return '<table border=0><tr><td><a href="images/'+outFile+'"><img src="'+path+'" alt="'+file+'" height=150 /></a></td></tr><tr><td style="word-wrap: break-word; width: 100px;">'+md['photoName']+'</td></tr></table>\n'
 
 
 def getFilesInDirectory(type, content, group, path, dir, metadata, lev):
@@ -64,7 +77,7 @@ def getFilesInDirectory(type, content, group, path, dir, metadata, lev):
         if isdir(group+path+'/'+subfile):
             content, added = getFilesInDirectory(type, content, group, path+'/'+subfile, subfile, metadata, lev+1)
         else:
-            content = content + getListing(type, path+'/'+subfile, subfile, md)
+            content = content + getListing(type, group, path+'/'+subfile, subfile, md)
     if type == 'photos':
         content = content+'</div>\n'
     content = content + '<br/>\n'
@@ -98,7 +111,7 @@ def gen(type, group):
             if added:
                 nav = nav + '<li>'+'<a href="#'+file+'">'+md[nameKey]+'</a> - '+md['description']+'</li>\n'
         else:
-            content = content + getListing(type, path, file, md)
+            content = content + getListing(type, group, path, file, md)
 
     output = template.replace('{{group}}', group.replace('_', ' ').replace('/',' '))
     output = output.replace('{{table-of-contents}}', nav)
