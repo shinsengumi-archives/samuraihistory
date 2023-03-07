@@ -26,7 +26,10 @@ def getPhotoMetadata(metadata, file):
 def getListing(type, group, path, file, md):
     print(path)
     if type == 'files':
-        return '<a href="'+path+'">'+md['fileName']+'</a> - '+md['description']+'<br/>\n'
+        desc = md['description']
+        if desc != '':
+            desc = ' - ' + desc
+        return '<a href="'+path+'">'+md['fileName']+'</a>'+desc+'<br/>\n'
         
     desc = ''
     if 'description' in md:
