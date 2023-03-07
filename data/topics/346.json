@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "markhall@gol.com",
+            "from": "markhall@...",
+            "profile": "mhall940",
+            "replyTo": "LIST",
+            "senderId": "y1r3ymeaEZdFlDtwF_9rBDwqQokRrsGByaGmEVzOcN8MJR3pOZU2aLjPodS0xr5QUKX-LnXjRg",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Uesugi Kenshin exhibit",
+            "postDate": "1005793029",
+            "msgId": 346,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlzdmF1NStsaGNiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 345,
+            "nextInTime": 347,
+            "topicId": 346,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Niigata Prefectural Museum of History s current special exhibit focuses on the life and career of Uesugi Kenshin.  The exhibit runs through Oct. 20 until",
+            "messageBody": "<div id=\"ygrps-yiv-2059603343\">The Niigata Prefectural Museum of History&#39;s current special exhibit <br/>\nfocuses on the life and career of Uesugi Kenshin.  The exhibit runs <br/>\nthrough Oct. 20 until Dec. 2, 2001.  You can see some of the displays <br/>\nat<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nbz.or.jp/eng/uesugi03.htm\">http://www.nbz.or.jp/eng/uesugi03.htm</a><br/>\n<br/>\nFeel free to leave comments at<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nbz.or.jp/scripts/wwwboard/index.html\">http://www.nbz.or.jp/scripts/wwwboard/index.html</a><br/>\n<br/>\nBest, MEH</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 345,
+    "nextTopicId": 347
+}

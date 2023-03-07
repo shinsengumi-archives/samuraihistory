@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott &lt;scottc_4@hotmail.com&gt;",
+            "from": "&quot;Scott &lt;scottc_4@...&gt;&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Heaven and Earth Review",
+            "postDate": "1045854813",
+            "msgId": 1503,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIzNXRvdCthb2tkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1502,
+            "nextInTime": 1504,
+            "topicId": 1503,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I read the review of Heaven and Earth that was linked here a while ago when I asked about the movie on DVD.  I can tell that guy didn t like it, and I think he",
+            "messageBody": "<div id=\"ygrps-yiv-1416190774\">I read the review of Heaven and Earth that was linked here a while <br/>\nago when I asked about the movie on DVD.  I can tell that guy didn&#39;t <br/>\nlike it, and I think he sees Kurasawa as god, at least he acts like <br/>\nit.  One thing I can see that shows that he didnt give it chance when <br/>\nhe mentions that Kagetora is waiting or 6 days for troops from a <br/>\ncastle that is a 2 day ride.  It doesn&#39;t seem to take much thought to <br/>\nme to see this as possible.  2 days for meengers to arrive, time to <br/>\nmobilize the garrison, and then 2 days back, and the almost <br/>\ninvetiable delays in the actual travel.  Just something that has been <br/>\non my mind and wanted to speak my peace.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1499,
+    "nextTopicId": 1469
+}

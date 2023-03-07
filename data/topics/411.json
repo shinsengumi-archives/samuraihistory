@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "sSnite91fQNv_whZIfGP-qAVmdzvAzThLDhoR95zW-w5lHo7cIPjHKeoDooDIkN4VecirY6Yz0y92p3eIQBgFDucTtA",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1007309481",
+            "msgId": 411,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDMEE1MkE4LkI2NzJDODk4QGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDkuMWY2Yjg1OGQuMjkzYTc5MTBAYW9sLmNvbT4gPDNDMDk5ODg2LkJCNjE4OEVAZnNpbmV0Lm9yLmpwPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 410,
+            "nextInTime": 412,
+            "topicId": 411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I want to apoligize to heijosha and the listees, My attempt at being wry just sounds snotty, and in light of recent postings here I should be more careful. ",
+            "messageBody": "<div id=\"ygrps-yiv-1097380186\">I want to apoligize to heijosha and the listees,<br/>\n    My attempt at being wry just sounds snotty, and in light of recent postings here<br/>\nI should be more careful.<br/>\n    Pray for surf,<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 409,
+    "nextTopicId": 412
+}

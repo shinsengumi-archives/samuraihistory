@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "FmugASaCq-vF1zZyb5w2XCLNd8X4ji6ILQbjewgobNIZHWqZ-DtH02vxcZuv2VVbBZDhHlC5gEsKc1L5vBG-9e3Y5EYSOOzp5Mnz",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Re: on encoding....",
+    "postDate": "1091400924",
+    "msgId": 4961,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODAxMjI1NTI1LjEyNzU5LnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PDIwMDQwODAxMTMxNS5pNzFERjlJWjAxMjMyNUBtcy1zbXRwLTA0LWVyaTAub2hpb3JkYy5yci5jb20+"
+    },
+    "prevInTopic": 4958,
+    "nextInTopic": 4965,
+    "prevInTime": 4960,
+    "nextInTime": 4962,
+    "topicId": 4936,
+    "numMessagesInTopic": 19,
+    "msgSnippet": "... Jay-- I always access the list through email--never through the website. The issue is that my encoding at home was somehow set to Japanese-Shift JIS , and",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 40550 invoked from network); 1 Aug 2004 22:55:25 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m16.grp.scd.yahoo.com with QMQP; 1 Aug 2004 22:55:25 -0000\r\nReceived: from unknown (HELO web41315.mail.yahoo.com) (66.218.93.64)\n  by mta5.grp.scd.yahoo.com with SMTP; 1 Aug 2004 22:55:25 -0000\r\nMessage-ID: &lt;20040801225525.12759.qmail@...&gt;\r\nReceived: from [155.6.244.5] by web41315.mail.yahoo.com via HTTP; Sun, 01 Aug 2004 15:55:24 PDT\r\nDate: Sun, 1 Aug 2004 15:55:24 -0700 (PDT)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;200408011315.i71DF9IZ012325@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.64\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Re: on encoding....\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Oyakata &lt;oyakata@...&gt; wrote:\n\n\n&gt; Nate,\n&gt; I&#39;ve noticed that alot about Yahoo groups. The main\n&gt; problem \n&gt; seems to be posting from the Yahoo website (as\n&gt; opposed to composing \n&gt; an email in an email program and sending it to the\n&gt; mailing list, like \n&gt; I&#39;m doing now).\n&gt; \n&gt; I think the main problem is that even if you can see\n&gt; Japanese on \n&gt; your screen, Yahoo won&#39;t handle it properly. The\n&gt; person who is posting \n&gt; has to make sure that they change the dialog box at\n&gt; the bottom of \n&gt; the screen (the one that says &quot;What language is this\n&gt; post in?&quot;) from \n&gt; English to Japanese.\n&gt; \n&gt; Even after doing that I think that Yahoo is\n&gt; notoriously bad at this. I \n&gt; think that the only real way to solve it is to send\n&gt; an email from an \n&gt; email program.\n\nJay--\n\nI always access the list through email--never through\nthe website. The issue is that my encoding at home was\nsomehow set to &quot;Japanese-Shift JIS&quot;, and not\n&quot;Japanese-Autoselect&quot; like normal. For whatever\nreason, it wouldn&#39;t change to Autoselect when I tried\nto change it--it kept reverting back. Hence, Kitsuno&#39;s\n&quot;hara&quot; came up correctly, but the second set of\ncharacters was just random katakana. \n\nThe other issue was that somehow, Kitsuno&#39;s first post\ngot sent about 7 hours after his second. Normally\nthings get posted late if someone has to &quot;check&quot; them\nand say they are okay--since Kitsuno&#39;s a moderator\nhimself, that&#39;s not the issue. It was just....weird.\n\n\n\t\t\n__________________________________\nDo you Yahoo!?\nYahoo! Mail - 50x more storage than other providers!\nhttp://promotions.yahoo.com/new_mail\n\n"
+}

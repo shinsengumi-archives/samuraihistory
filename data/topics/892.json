@@ -1,0 +1,64 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] i need movies",
+            "postDate": "1022815877",
+            "msgId": 893,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDRjZFRTg5LjM5MjJGMEJCQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDIxLjFlYjYyNzg5LjJhMjgyZWRmQGFvbC5jb20+"
+            },
+            "prevInTopic": 892,
+            "nextInTopic": 0,
+            "prevInTime": 892,
+            "nextInTime": 894,
+            "topicId": 892,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "WWW.SAMURAIFLIX.COM JapanVideo.com Video search of Miami Shouldn t be hard. I expect Toho and Daiei films have sites as well as Janus films who did many of the",
+            "messageBody": "<div id=\"ygrps-yiv-1408103302\">WWW.SAMURAIFLIX.COM<br/>\n<br/>\nJapanVideo.com<br/>\n<br/>\nVideo search of Miami<br/>\n<br/>\nShouldn&#39;t be hard. I expect Toho and Daiei films have sites as well as Janus<br/>\nfilms who did many of the classics.<br/>\n<br/>\nGood Hunting - Tom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 29119678,
+            "authorName": "ICPninja67@aol.com",
+            "from": "ICPninja67@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "i need movies",
+            "postDate": "1022809311",
+            "msgId": 892,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIxLjFlYjYyNzg5LjJhMjgyZWRmQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 893,
+            "prevInTime": 891,
+            "nextInTime": 893,
+            "topicId": 892,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "i wanna get some good ATTAINABLE and ENGLISH (at least subtitles) samurai movies. anime or real, whutever. preferably both. but help me please. let me know of",
+            "messageBody": "<div id=\"ygrps-yiv-1733606332\">i wanna get some good ATTAINABLE and ENGLISH (at least subtitles) samurai <br/>\nmovies. anime or real, whutever. preferably both. but help me please. let me <br/>\nknow of some good ones and dont give me ones i gotta search across the world <br/>\nfor. <br/>\n<br/>\nthanks<br/>\n<br/>\ntwitch</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 891,
+    "nextTopicId": 894
+}

@@ -1,0 +1,95 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2077096,
+    "listId": 2247946,
+    "dateCreated": 1134662456,
+    "userIdCreated": 210287375,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "If Kenshin Uesugi and Shigan Takeda lived longer, do you think they would have formed an alliance to destroy the powerful Oda?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 15157699,
+            "selectionText": "Yes, they would have made peace and became friends.",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 15157699,
+                    "surveyId": 2077096,
+                    "userId": 162727959,
+                    "guid": "CHLLFD4HOWSBUYGL432RECSEZM",
+                    "nickname": "eisuke_2001",
+                    "email": "eisuke_2001@yahoo.com"
+                },
+                {
+                    "selectionId": 15157699,
+                    "surveyId": 2077096,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 15157699,
+                    "surveyId": 2077096,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 15157699,
+                    "surveyId": 2077096,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15157700,
+            "selectionText": "Are you kidding!? The Takeda and Uesugi were bitter enemies and hated each other. They would never ally!",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 15157700,
+                    "surveyId": 2077096,
+                    "userId": 286881682,
+                    "guid": "MEP2V2XES3R26YXR3TLW5WK7EQ",
+                    "nickname": "boojienacpil",
+                    "email": "boojienacpil@yahoo.com"
+                },
+                {
+                    "selectionId": 15157700,
+                    "surveyId": 2077096,
+                    "userId": 292922662,
+                    "nickname": "classy_gui",
+                    "email": "classy_gui@yahoo.com"
+                },
+                {
+                    "selectionId": 15157700,
+                    "surveyId": 2077096,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 9,
+    "previousSurveyId": 2084054,
+    "nextSurveyId": 2074811
+}

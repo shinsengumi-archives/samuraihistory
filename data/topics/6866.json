@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 219367746,
+            "authorName": "planetsamir",
+            "from": "&quot;planetsamir&quot; &lt;planetsamir@...&gt;",
+            "profile": "planetsamir",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Introduction and Info",
+            "postDate": "1112031852",
+            "msgId": 6866,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyOWZwYytsMGs0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6865,
+            "nextInTime": 6867,
+            "topicId": 6866,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, my name is Samir, and I have to do a research project for school. I hope you wouldn t mind if I asked you guys some questions for my survey. By the way, I",
+            "messageBody": "<div id=\"ygrps-yiv-1100006419\">Hi, my name is Samir, and I have to do a research project for <br/>\nschool. I hope you wouldn&#39;t mind if I asked you guys some <br/>\nquestions for my survey. By the way, I am doing my project on if <br/>\nthe samurai legacy still lives on in modern Japan.<br/>\n<br/>\nThanks,<br/>\nSamir</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6865,
+    "nextTopicId": 5237
+}

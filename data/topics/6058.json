@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ukiyoe prints n pics",
+            "postDate": "1102027473",
+            "msgId": 6058,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNvbzVzaCthdW9jQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6057,
+            "nextInTime": 6059,
+            "topicId": 6058,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.geocities.jp/web_ukiyoe/index.html Not sure if this has been posted, but it shows some reproductions of the 53 stations...  print series alongside",
+            "messageBody": "<div id=\"ygrps-yiv-544539701\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.jp/web_ukiyoe/index.html\">http://www.geocities.jp/web_ukiyoe/index.html</a><br/>\n<br/>\nNot sure if this has been posted, but it shows some reproductions of the &#39;53 stations... &#39; <br/>\nprint series alongside old photographs of the same location.<br/>\n<br/>\n The site is in Japanese, but the linguistically-challenged amongst us can find our way <br/>\nthrough, I think.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5961,
+    "nextTopicId": 5996
+}

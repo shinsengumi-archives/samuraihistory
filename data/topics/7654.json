@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "my new theme song...",
+            "postDate": "1126052594",
+            "msgId": 7654,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNjIxMDI0OWJmNDNlMzVhNWVjM0BbMTkyLjE2OC4xLjExNF0+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7653,
+            "nextInTime": 7655,
+            "topicId": 7654,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Perhaps it could be yours too, http://tinyurl.com/73woo [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-592113901\">Perhaps it could be yours too,<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://tinyurl.com/73woo\">http://tinyurl.com/73woo</a><br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7651,
+    "nextTopicId": 7656
+}

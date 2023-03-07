@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 147064370,
+            "authorName": "waltervanderstiggel",
+            "from": "&quot;waltervanderstiggel&quot; &lt;walter@...&gt;",
+            "profile": "waltervanderstiggel",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "kamon of Takamori Seigo",
+            "postDate": "1114847181",
+            "msgId": 7029,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0dmQ0ZCtoZjViQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7028,
+            "nextInTime": 7030,
+            "topicId": 7029,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, since I m a wargamer interested in the samurai, I m searching for pictures of the kamon used in the Satsuma rebellion. Could anybody give me a site",
+            "messageBody": "<div id=\"ygrps-yiv-1457818027\">Hello, since I&#39;m a wargamer interested in the samurai, I&#39;m searching <br/>\nfor pictures of the kamon used in the Satsuma rebellion. Could anybody <br/>\ngive me a site where I can find these or describe them to me<br/>\nThanks in advance<br/>\n<br/>\nWalter</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7027,
+    "nextTopicId": 6975
+}

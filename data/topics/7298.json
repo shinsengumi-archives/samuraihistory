@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives summer sale",
+            "postDate": "1121532107",
+            "msgId": 7298,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiYmRjYituamNmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7297,
+            "nextInTime": 7299,
+            "topicId": 7298,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "New summer sale @ the Samurai Archives store: http://www.cafepress.com/samuraiarchives Savings: $5 off orders over $40 Coupon code: SUMSAV Dates: 7/14/2005 -",
+            "messageBody": "<div id=\"ygrps-yiv-874553572\">New summer sale @ the Samurai Archives store:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a><br/>\n<br/>\nSavings: $5 off orders over $40<br/>\nCoupon code: SUMSAV<br/>\nDates: 7/14/2005 - 7/26/2005</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7297,
+    "nextTopicId": 7300
+}

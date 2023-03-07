@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 232440797,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;anthony_bryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Samurai Essay",
+            "postDate": "1200620215",
+            "msgId": 9677,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI1RUQ4NjE1LUJGQ0MtNEY0Ni05QkJGLTgxRkU5MTUzMjg4QUBjb3gubmV0Pg==",
+                "inReplyToHeader": "PGZtbzM5NSt2MmhhQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGZtbzM5NSt2MmhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9676,
+            "nextInTopic": 0,
+            "prevInTime": 9676,
+            "nextInTime": 9678,
+            "topicId": 9676,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I m afraid you re missing a few key points. Samurai were a social class. This answers your first two questions. One was BORN into it. No one was",
+            "messageBody": "<div id=\"ygrps-yiv-6170993\">On Jan 17, 2008, at 12:29 PM, samuraiprofiler wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi, I&#39;m writing an essay about samurais. I was wondering if anyone<br/>\n&gt; could answer my following questions. If you can&#39;t, do you know about<br/>\n&gt; any websites where I can email someone about it?<br/>\n&gt; Here is the questions<br/>\n&gt;<br/>\n&gt; 1. How old were the boys when they were recruited as samurais?<br/>\n&gt; 2. Did you have to be of the the upper class to be become one?<br/>\n&gt; 3. Did they got to war against each other?<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>I&#39;m afraid you&#39;re missing a few key points.<br/>\n<br/>\nSamurai were a social class. This answers your first two questions.<br/>\n<br/>\nOne was BORN into it. No one was &quot;recruited&quot; as a samurai.<br/>\n<br/>\nAnd as to three: of COURSE. They were the warrior class, of course  <br/>\nthey did.<br/>\n<br/>\nTo write an essay, you really should READ some material rather than  <br/>\njust asking questions. Let the material you read produce the questions  <br/>\nas they answer others. Just about any cursory reading of ANYTHING on  <br/>\nsamurai (for example, the wikipedia article) would have had the  <br/>\nanswers to these questions.<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 334692751,
+            "authorName": "samuraiprofiler",
+            "from": "&quot;samuraiprofiler&quot; &lt;samuraiprofiler@...&gt;",
+            "profile": "samuraiprofiler",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Essay",
+            "postDate": "1200590949",
+            "msgId": 9676,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZtbzM5NSt2MmhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9677,
+            "prevInTime": 9675,
+            "nextInTime": 9677,
+            "topicId": 9676,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I m writing an essay about samurais. I was wondering if anyone could answer my following questions. If you can t, do you know about any websites where I",
+            "messageBody": "<div id=\"ygrps-yiv-448329342\">Hi, I&#39;m writing an essay about samurais. I was wondering if anyone<br/>\ncould answer my following questions. If you can&#39;t, do you know about<br/>\nany websites where I can email someone about it?<br/>\nHere is the questions<br/>\n<br/>\n1. How old were the boys when they were recruited as samurais?<br/>\n2. Did you have to be of the the upper class to be become one?<br/>\n3. Did they got to war against each other?<br/>\n<br/>\nThese are my questions, it would be really great if you could take<br/>\nsome time to answer some of the questions. Thanks beforehand.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9670,
+    "nextTopicId": 9678
+}

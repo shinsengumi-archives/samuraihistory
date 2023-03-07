@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 246617682,
+            "authorName": "onnak",
+            "from": "&quot;onnak&quot; &lt;onnak@...&gt;",
+            "profile": "onnak",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Books",
+            "postDate": "1136510061",
+            "msgId": 8168,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwa2c5ZCszNGNwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDUxMjExMjMyNTAzLjE3OTAxLnFtYWlsQHdlYjM2NDEzLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 8080,
+            "nextInTopic": 0,
+            "prevInTime": 8167,
+            "nextInTime": 8169,
+            "topicId": 8080,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... get started ... Musashi (c. 1981) by Eiji Yoshikawa - published by Harper & Row/Kodansha Int l; Ryoma - Life of a Rennaissance Samurai (c. 1999) by",
+            "messageBody": "<div id=\"ygrps-yiv-146615994\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, ronald sweet <br/>\n&lt;ronsweet19@y...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; hello,<br/>\n&gt;     I  am new and I wouldlike to know some books I could read to <br/>\n </span></blockquote>get started<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; \t\t\t<br/>\n&gt; ---------------------------------<br/>\n&gt; Yahoo! Shopping<br/>\n&gt;  Find Great Deals on Holiday Gifts at Yahoo! Shopping <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n </span></blockquote>&quot;Musashi&quot; (c. 1981) by Eiji Yoshikawa - published by Harper & <br/>\nRow/Kodansha Int&#39;l;<br/>\n&quot;Ryoma - Life of a Rennaissance Samurai&quot; (c. 1999) by Romulus <br/>\nHillsborough - published by Ridgeback Press.<br/>\n Two books to get you started on Samurai history, life, etc.<br/>\nMushashi time period is prior to the golden age of samurai and Ryoma <br/>\nis just before the samurai became all but obsolete.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 247736824,
+            "authorName": "ronald sweet",
+            "from": "ronald sweet &lt;ronsweet19@...&gt;",
+            "profile": "ronsweet19",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "postDate": "1134343503",
+            "msgId": 8080,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMjExMjMyNTAzLjE3OTAxLnFtYWlsQHdlYjM2NDEzLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8168,
+            "prevInTime": 8078,
+            "nextInTime": 8081,
+            "topicId": 8080,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello, I  am new and I wouldlike to know some books I could read to get started ... Yahoo! Shopping Find Great Deals on Holiday Gifts at Yahoo! Shopping ",
+            "messageBody": "<div id=\"ygrps-yiv-1035786388\">hello,<br/>\n    I  am new and I wouldlike to know some books I could read to get started<br/>\n<br/>\n\t\t\t<br/>\n---------------------------------<br/>\nYahoo! Shopping<br/>\n Find Great Deals on Holiday Gifts at Yahoo! Shopping <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8167,
+    "nextTopicId": 8170
+}

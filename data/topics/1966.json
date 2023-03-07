@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Imperial Regalia",
+            "postDate": "1057717871",
+            "msgId": 1966,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwMmJiMzEyZWJkMmQ5N0BbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1965,
+            "nextInTime": 1967,
+            "topicId": 1966,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "While looking for something entirely different I fell upon this site... http://www.usagiyojimbo.com/grasscutter/history.html -t",
+            "messageBody": "<div id=\"ygrps-yiv-132058035\">While looking for something entirely different I fell upon this site...<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.usagiyojimbo.com/grasscutter/history.html\">http://www.usagiyojimbo.com/grasscutter/history.html</a><br/>\n<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1940,
+    "nextTopicId": 1967
+}

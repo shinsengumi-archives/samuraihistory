@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 222612280,
+            "authorName": "thehornedgodslaine",
+            "from": "&quot;thehornedgodslaine&quot; &lt;thehornedgodslaine@...&gt;",
+            "profile": "thehornedgodslaine",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Miniature game development",
+            "postDate": "1120712903",
+            "msgId": 7290,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRhaWRjNytnZWhqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7289,
+            "nextInTime": 7291,
+            "topicId": 7290,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, I am in the process of finding people who wish to contribute/help create/playtest a new set of tabletop wargames rules for the Samurai Wars. The",
+            "messageBody": "<div id=\"ygrps-yiv-1140814604\">Hi all,<br/>\n<br/>\nI am in the process of finding people who wish to contribute/help<br/>\ncreate/playtest a new set of tabletop wargames rules for the Samurai Wars.<br/>\n<br/>\nThe current scale will be 1/100th (15mm) and the game will be using a<br/>\ncore set of rules from a popular established game system with real<br/>\nworld financial backing.<br/>\n<br/>\nWithout having a great deal of knowledge on the history etc. I thought<br/>\nthe time period of mid/late 1500 to mid/late 1600 would be the best<br/>\ntime  slice for the Samurai clan wars?<br/>\n<br/>\nIf any of you have played tabletop wargames (like DBM, Games Workshop,<br/>\nFlames Of War, Ancients etc.) and think they could contribute in any<br/>\nway please contact me off list <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:thehornedgodslaine@...\">thehornedgodslaine@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7271,
+    "nextTopicId": 7291
+}

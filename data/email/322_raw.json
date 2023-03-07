@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "fredjnsn@hotmail.com",
+    "from": "fredjnsn@...",
+    "replyTo": "LIST",
+    "senderId": "xWaw2ThNi-E1-s8rbW2Td5U72StW8heRrcFmfJ54OPF-MLgJiyj9y0l8Wp0fZLowdU4GaWwIn_tnGew",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Broken Link",
+    "postDate": "999794431",
+    "msgId": 322,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDluODh0ditkdDUxQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 321,
+    "nextInTime": 323,
+    "topicId": 322,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "The link to AJ Bryant s armor page has an extra http:// in it - you might want to fix that....",
+    "rawEmail": "Return-Path: &lt;fredjnsn@...&gt;\r\nX-Sender: fredjnsn@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2_1); 6 Sep 2001 16:59:49 -0000\r\nReceived: (qmail 42368 invoked from network); 6 Sep 2001 16:40:35 -0000\r\nReceived: from unknown (10.1.10.26)\n  by m8.onelist.org with QMQP; 6 Sep 2001 16:40:35 -0000\r\nReceived: from unknown (HELO n19.groups.yahoo.com) (10.1.2.2)\n  by mta1 with SMTP; 6 Sep 2001 16:40:35 -0000\r\nX-eGroups-Return: fredjnsn@...\r\nReceived: from [10.1.10.121] by mw.egroups.com with NNFMP; 06 Sep 2001 16:40:35 -0000\r\nDate: Thu, 06 Sep 2001 16:40:31 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Broken Link\r\nMessage-ID: &lt;9n88tv+dt51@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 98\r\nX-Mailer: eGroups Message Poster\r\nFrom: fredjnsn@...\r\n\r\nThe link to AJ Bryant&#39;s armor page has an extra &#39;http://&#39; in it - you \nmight want to fix that....\n\n\n"
+}

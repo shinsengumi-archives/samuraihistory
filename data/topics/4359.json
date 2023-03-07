@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] books for topics",
+            "postDate": "1084335786",
+            "msgId": 4360,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDExNTU3NkI3LUEzQ0MtMTFEOC05QzYxLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwNTEyMDA1NzQxLjUxMzI1LnFtYWlsQHdlYjIxMzI1Lm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwNTEyMDA1NzQxLjUxMzI1LnFtYWlsQHdlYjIxMzI1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 4359,
+            "nextInTopic": 0,
+            "prevInTime": 4359,
+            "nextInTime": 4361,
+            "topicId": 4359,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.oriental.cam.ac.uk/jbib/bibtitle.html Jake- Someone else on this list turned us on to this. Click the link, go to Meiji Restoration and enjoy, easy",
+            "messageBody": "<div id=\"ygrps-yiv-883360105\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.oriental.cam.ac.uk/jbib/bibtitle.html\">http://www.oriental.cam.ac.uk/jbib/bibtitle.html</a><br/>\n<br/>\n<br/>\nJake-<br/>\n\tSomeone else on this list turned us on to this. Click the link, go to <br/>\nMeiji Restoration and enjoy, easy to get lost among all the great <br/>\nreferences...<br/>\n<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 172296709,
+            "authorName": "jacob gerhard",
+            "from": "jacob gerhard &lt;madbearscave@...&gt;",
+            "profile": "madbearscave",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "books for topics",
+            "postDate": "1084323461",
+            "msgId": 4359,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNTEyMDA1NzQxLjUxMzI1LnFtYWlsQHdlYjIxMzI1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4360,
+            "prevInTime": 4358,
+            "nextInTime": 4360,
+            "topicId": 4359,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi every one, I was wondering if any one could help me to find good books concerning the following topics: Choshu Civil War, Tangu Rebelion, Boshin War and the",
+            "messageBody": "<div id=\"ygrps-yiv-1571020893\">Hi every one,<br/>\n<br/>\nI was wondering if any one could help me to find good<br/>\nbooks concerning the following topics:<br/>\n<br/>\nChoshu Civil War, Tangu Rebelion, Boshin War and the<br/>\nSatsuma Rebelion<br/>\n<br/>\nAny help would be greatly appreciated!!<br/>\n<br/>\nSincerly,<br/>\n<br/>\nJake<br/>\n<br/>\n<br/>\n\t<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nWin a $20,000 Career Makeover at Yahoo! HotJobs  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hotjobs.sweepstakes.yahoo.com/careermakeover\">http://hotjobs.sweepstakes.yahoo.com/careermakeover</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4351,
+    "nextTopicId": 4361
+}

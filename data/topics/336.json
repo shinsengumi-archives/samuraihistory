@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "Xpc-V9oOgTOgG1EO2PlAhnxGcxJMKdPRz-RpNcj_3kYF6MXli2jblw09Z5DcbN8on6wSmpViyGuTXViLmy1mCz5qk5NRMIAx0gerfDkQbla6BaL3",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: MUSASHI",
+            "postDate": "1001517945",
+            "msgId": 336,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWMxNDY5ZiQ4NDdjY2I4MCQ3MTYwNDJjM0BMb2NhbEhvc3Q+",
+                "referencesHeader": "PDIwMDEwOTI2MDk1NTEyLjUxMTIyLnFtYWlsQG10YTQ1My5tYWlsLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 335,
+            "nextInTime": 338,
+            "topicId": 336,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks guys! Please try again to access BIOGRAPHY,  try the refresh button, I think I fixed it. thanks again, Amph.",
+            "messageBody": "<div id=\"ygrps-yiv-744330224\">Thanks guys!<br/>\nPlease try again to access BIOGRAPHY,  try the refresh button, I think I<br/>\nfixed it.<br/>\n<br/>\nthanks again,<br/>\nAmph.<br/>\n--------------------------------------<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt;    Date: Tue, 25 Sep 2001 23:24:48 +0900<br/>\n&gt;    From: &quot;William Letham&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraiw@...\">samuraiw@...</a>&gt;<br/>\n&gt; Subject: Re: musashi site<br/>\n&gt;<br/>\n&gt; I got to the main page but couln&#39;t get the biography page open </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 310,
+    "nextTopicId": 209
+}

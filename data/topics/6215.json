@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Mibugishiden (was Japan purchases)",
+            "postDate": "1102808404",
+            "msgId": 6230,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwZzBnaytnZzc2QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNwYzlsYis1OGhuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6215,
+            "nextInTopic": 0,
+            "prevInTime": 6229,
+            "nextInTime": 6231,
+            "topicId": 6215,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tartan Films is releasing When The Last Sword is Drawn in the UK on December 17th, and no doubt the DVD later. Did they read my post, d you think? Thomas",
+            "messageBody": "<div id=\"ygrps-yiv-1868934287\">Tartan Films is releasing When The Last Sword is Drawn in the UK on<br/>\nDecember 17th, and no doubt the DVD later.<br/>\n<br/>\nDid they read my post, d&#39;you think?<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japan purchases",
+            "postDate": "1102686699",
+            "msgId": 6215,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNwYzlsYis1OGhuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6230,
+            "prevInTime": 6214,
+            "nextInTime": 6216,
+            "topicId": 6215,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am just about to purchase Mibugishiden from CD-Japan (probably) and am also trying to get a copy of Lives of the Master Swordsmen from The East",
+            "messageBody": "<div id=\"ygrps-yiv-1029048171\">I am just about to purchase &#39;Mibugishiden&#39; from CD-Japan (probably) and am also trying to <br/>\nget a copy of &quot;Lives of the Master Swordsmen&quot; from The East Publications.<br/>\n<br/>\nI&#39;ve bought CDs from CD-Japan before, and get charged an additional tax by the Post  <br/>\nOffice here in the UK, which is somewhat annoying.<br/>\n<br/>\nDoes anyone know of an alternative source for the DVD, or any source for the book? (The <br/>\nEast doesn&#39;t look like it&#39;s at home with online ordering.)<br/>\n<br/>\nIf anyone in Japan wants to purchase and mail them to me, we can arrange money up <br/>\nfront. Not sure if this is a viable use of the forum, but I just thought I&#39;d ask.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6204,
+    "nextTopicId": 6206
+}

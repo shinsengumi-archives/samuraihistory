@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 7570899,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "profile": "amphipolis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: musashi",
+            "postDate": "1011135898",
+            "msgId": 481,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWYwMWMxOWUxOSQxMDEwZWMwMCQ3YTYwNDJjM0BMb2NhbEhvc3Q+",
+                "referencesHeader": "PDEwMTExMTQ5NjMuMTc0LjU3MDA4Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 480,
+            "nextInTime": 482,
+            "topicId": 481,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Go to www.crosswinds.net/~musashi1584/ amphipolis ... or",
+            "messageBody": "<div id=\"ygrps-yiv-907135761\">Go to<br/>\nwww.crosswinds.net/~musashi1584/<br/>\n<br/>\namphipolis<br/>\n<br/>\n________________________________________________________________________<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Message: 1<br/>\n&gt;    Date: Mon, 14 Jan 2002 12:34:33 +0000<br/>\n&gt;    From: &quot;Matthew Dean&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:uchi_deshi@...\">uchi_deshi@...</a>&gt;<br/>\n&gt; Subject: Miyamoto Musashi<br/>\n&gt;<br/>\n&gt; Hi everyone,<br/>\n&gt; I would like to find out more about Miyamoto Musashi (1584-1645).<br/>\n&gt; Does anyone know of any websites with information on his sword techniques<br/>\n </span></blockquote>or<br/>\n<blockquote><span title=\"qreply\"> &gt; stories of his famous duels. If he won 60 duels by the age of 28 and the<br/>\n&gt; first by the age of 13. Then I&#39;m hoping that someone knows more about him<br/>\n&gt; and his incredible life. I know he wrote<br/>\n&gt; &quot;Gorin No Sho&quot; but can you get it in the original text rather than english<br/>\n&gt; copies which miss out much information.<br/>\n&gt;<br/>\n&gt; Many thanks,<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 476,
+    "nextTopicId": 477
+}

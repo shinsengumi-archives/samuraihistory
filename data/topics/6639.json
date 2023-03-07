@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Article: Siren to release &#39;The Samurai&#39; series 4",
+            "postDate": "1107312060",
+            "msgId": 6639,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN0cGVqcytmN2Q4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6638,
+            "nextInTime": 6640,
+            "topicId": 6639,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "NEWS Siren to release The Samurai series 4 2005.01.31 - Aussie distributor Siren Visual Entertainment has announced plans to release series four of The",
+            "messageBody": "<div id=\"ygrps-yiv-2008755128\">NEWS <br/>\n<br/>\nSiren to release &#39;The Samurai&#39; series 4<br/>\n<br/>\n2005.01.31 - Aussie distributor Siren Visual Entertainment has <br/>\nannounced plans to release series four of The Samurai (1962-1965), a <br/>\npopular television program produced in Japan that aired in Australia <br/>\nwith English dubbing back in the &#39;60s.<br/>\n<br/>\nThe Samurai followed the 18th-century exploits of Shintaro (Koichi <br/>\nOse), a master swordsman and his faithful sidekick Tombei &quot;The Mist&quot; <br/>\n(Fuyukichi Maki) - an Iga ninja - who together battled enemies of <br/>\nthe shogun and the Koga ninjas.<br/>\n<br/>\nThis four-disc box set arrives on DVD in Australia on March 21st, <br/>\n2005. Series five is planned for release in June.<br/>\n<br/>\nSiren is also Australia&#39;s official distributor of the remastered <br/>\nShaw Brothers classics, the first to be released with their original <br/>\nEnglish dubbing included. To find out more about their products or <br/>\nto order online visit www.sirenvisual.com.au.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6626,
+    "nextTopicId": 6642
+}

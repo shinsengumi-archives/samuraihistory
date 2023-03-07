@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Shingen or Nobunaga",
+            "postDate": "1063591847",
+            "msgId": 2249,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwOTE1MDIxMDQ3Ljk1MzQwLnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGJrMzJwbis1NXZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2248,
+            "nextInTopic": 0,
+            "prevInTime": 2248,
+            "nextInTime": 2250,
+            "topicId": 2248,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Right. But the point is that it SAYS Takeda Shingen. Several people weighed in with their opinions of who it was (correct or incorrect), and those who were",
+            "messageBody": "<div id=\"ygrps-yiv-536072243\">Right.<br/>\n<br/>\nBut the point is that it SAYS Takeda Shingen. Several<br/>\npeople weighed in with their opinions of who it was<br/>\n(correct or incorrect), and those who were correct<br/>\ndidn&#39;t explain WHY. That&#39;s not helpful to those they<br/>\nare trying to correct. Regardless of if you could<br/>\nrecognize the armor/helmet, etc. IT&#39;S GOT THE GUY&#39;S<br/>\nFREAKING NAME ON IT!!<br/>\n<br/>\nI would think that even if you had no idea about<br/>\nJapanese history or Takeda Shingen, before you went<br/>\nhawking it you&#39;d at least try to get someone to<br/>\ntranslate the darn Japanese on it. <br/>\n<br/>\nNate<br/>\n--- Scott &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:scottc_4@...\">scottc_4@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Even if you cannot read the Kanji one should easily<br/>\n&gt; be able to tell <br/>\n&gt; that is in fact Takeda Shingen.  There is no<br/>\n&gt; mistaking that very <br/>\n&gt; unique and very famous kabuto (helmet) of his.  <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! SiteBuilder - Free, easy-to-use web site design software<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sitebuilder.yahoo.com\">http://sitebuilder.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shingen or Nobunaga",
+            "postDate": "1063587447",
+            "msgId": 2248,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJrMzJwbis1NXZvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2249,
+            "prevInTime": 2247,
+            "nextInTime": 2249,
+            "topicId": 2248,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Even if you cannot read the Kanji one should easily be able to tell that is in fact Takeda Shingen.  There is no mistaking that very unique and very famous",
+            "messageBody": "<div id=\"ygrps-yiv-869692032\">Even if you cannot read the Kanji one should easily be able to tell <br/>\nthat is in fact Takeda Shingen.  There is no mistaking that very <br/>\nunique and very famous kabuto (helmet) of his.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2222,
+    "nextTopicId": 2241
+}

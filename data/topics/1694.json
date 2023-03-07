@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andjoysmith",
+            "from": "&quot;andjoysmith&quot; &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The family crest of the Tokugawa Clan",
+            "postDate": "1051880241",
+            "msgId": 1694,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI4dHB2aCtkMXIwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1693,
+            "nextInTime": 1695,
+            "topicId": 1694,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have been looking for the crest of the Tokugawa Clan, would someone be able to help me? That s all I ask for, thank you in advance.",
+            "messageBody": "<div id=\"ygrps-yiv-847071266\">I have been looking for the crest of the Tokugawa Clan, would someone<br/>\nbe able to help me? That&#39;s all I ask for, thank you in advance.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1692,
+    "nextTopicId": 1695
+}

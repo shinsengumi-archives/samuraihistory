@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "fy-t37QYLg4LtPag6ehBtDp9U7WA7MdRXs50yGyg2HQB2wnifbzcC5ShBkya4uEIhQAB2SWIsxxbcv0Y8HuKAWDc05F87yJqKbEmyfMZkQ",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: musashi link",
+            "postDate": "999701340",
+            "msgId": 319,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDluNWUwcytrdTh0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDAwMzEwMWMxMzU1NyQ0MTc2OGRjMCQzODYwNDJjM0BkZWZhdWx0Pg=="
+            },
+            "prevInTopic": 316,
+            "nextInTopic": 0,
+            "prevInTime": 318,
+            "nextInTime": 320,
+            "topicId": 316,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.samurai-archives.com",
+            "messageBody": "<div id=\"ygrps-yiv-1221997771\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In samuraihistory@y..., &quot;amphipolis@y...&quot; &lt;amphipolis@y...&gt; wrote:<br/>\n&gt; It&#39;s ok by me.<br/>\n&gt; But please let me know your page, ok?<br/>\n&gt; <br/>\n&gt; amphipolis<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "FSLP06MjSmAr2OsA8xlGbJGQPWnOfvA80Ys6hpgqM5gvG6jH0fuBmmTJkwfBSybZqrA1zvuAZR0RvGYgSS5O-ReBXqlsLYpQmRQP_sWqGCwNI6xl",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: musashi link",
+            "postDate": "999617580",
+            "msgId": 316,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMzEwMWMxMzU1NyQ0MTc2OGRjMCQzODYwNDJjM0BkZWZhdWx0Pg==",
+                "referencesHeader": "PDk5OTYxMDU3OC4xMDkuNjc5MTYubDEwQHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 319,
+            "prevInTime": 315,
+            "nextInTime": 317,
+            "topicId": 316,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "It s ok by me. But please let me know your page, ok? amphipolis ... in",
+            "messageBody": "<div id=\"ygrps-yiv-612487446\">It&#39;s ok by me.<br/>\nBut please let me know your page, ok?<br/>\n<br/>\namphipolis<br/>\n________________________________________________________________________<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Message: 1<br/>\n&gt;    Date: Mon, 03 Sep 2001 22:30:27 +0000<br/>\n&gt;    From: &quot;Chris W&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kitsuno@...\">kitsuno@...</a>&gt;<br/>\n&gt; Subject: Re: Musashi site<br/>\n&gt;<br/>\n&gt; That&#39;s the site I was looking for.  If you don&#39;t mind, I&#39;d like to put it<br/>\n </span></blockquote>in<br/>\n<blockquote><span title=\"qreply\"> &gt; the links page.<br/>\n&gt;<br/>\n&gt; c. </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 314,
+    "nextTopicId": 312
+}

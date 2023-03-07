@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Online dictionary/translator/study guide",
+            "postDate": "1028084619",
+            "msgId": 1017,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFpN2syYitjNTFwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1016,
+            "nextInTime": 1018,
+            "topicId": 1017,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A friend of mine has put together an extensive online Japanese Language database ( http://www.jdictionary.com )that includes a japanese text translator, a",
+            "messageBody": "<div id=\"ygrps-yiv-971671647\">A friend of mine has put together an extensive online Japanese Language database ( <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jdictionary.com\">http://www.jdictionary.com</a> )that includes a japanese text translator, a japanese english - english japanese dictionary as well as a complete list of &#39;level 2&#39; kanji for the level 2 japanese language proficiency exam - you can also mark kanji to add to a &#39;study list&#39;.  In the future he is considering allowing people to have &#39;login names&#39; to save your personal study lists. As it is right now, I think you lose your list if you close your browser.  This is what is &#39;in the works&#39; in addition to what is already there:<br/>\n<br/>\nHave a quiz mode for each list that drills you on the common jukugo and kunyomi. <br/>\nAllow user to save their study lists to retrieve at a later date. <br/>\nAllow user to create multiple study lists and sort them by name. <br/>\nCreate a version of this tool that is an all purpose kanji lookup tool that queries all Joyou kanji.<br/>\n<br/>\nThis would be a very valuable resource for anyone studying Japanese.<br/>\n(you need japanese fonts installed in your browser to fully utilize the site)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.jdictionary.com\">http://www.jdictionary.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 963,
+    "nextTopicId": 1018
+}

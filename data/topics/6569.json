@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 208791144,
+            "authorName": "masamune@prodigy.net.mx",
+            "from": "masamune@...",
+            "profile": "miurapatrick69",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Respuesta: [samuraihistory] Miura Clans",
+            "postDate": "1106196218",
+            "msgId": 6569,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJlYmIzYmRjMDUuYmRjMDViZWJiM0Bwcm9kaWd5Lm5ldC5teD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6568,
+            "nextInTime": 6570,
+            "topicId": 6569,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Miura family was a retainer family for the ouchi daimyo can any body help me out where to find more info. Pat. [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1838360667\">Miura family was a retainer family for the ouchi daimyo can any body help me out where to find more info.<br/>\n<br/>\nPat.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2010,
+    "nextTopicId": 6570
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 120915089,
+            "authorName": "otoromaki@aol.com",
+            "from": "otoromaki@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(no subject)",
+            "postDate": "1028729234",
+            "msgId": 1039,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE2LjIzNWExM2M1LjJhODI4MzkyQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1038,
+            "nextInTime": 1040,
+            "topicId": 1039,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all........ [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-603988467\">Hello all........<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1015,
+    "nextTopicId": 1051
+}

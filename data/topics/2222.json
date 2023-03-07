@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134935423,
+            "authorName": "SP",
+            "from": "SP &lt;crazyhun@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] ukiyo e discussion group",
+            "postDate": "1063315478",
+            "msgId": 2236,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGNjBFODE2LjgwMTA3MDBAc3ltcGF0aWNvLmNhPg==",
+                "referencesHeader": "PDAwNjEwMWMzNzY1OCQ5NTk1ODZiMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 2222,
+            "nextInTopic": 0,
+            "prevInTime": 2235,
+            "nextInTime": 2237,
+            "topicId": 2222,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Actually, you can also try http://www.bahnhof.se/~secutor/wwwboard/wwwboard.html Steve",
+            "messageBody": "<div id=\"ygrps-yiv-145163425\">Hi<br/>\n<br/>\nActually, you can also try<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.bahnhof.se/~secutor/wwwboard/wwwboard.html\">http://www.bahnhof.se/~secutor/wwwboard/wwwboard.html</a><br/>\n<br/>\nSteve<br/>\n<br/>\nMatthew E. Hoyle wrote:<br/>\n<br/>\n<blockquote><span title=\"qreply\"> &gt; <br/>\n&gt;Friends, since there was nowhere on the net to talk about Japanese<br/>\n&gt;prints, I took the liberty of starting a group myself. <br/>\n&gt; <br/>\n&gt;I encourage anyone even remotely interested to join. Look here<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/ukiyo_e/\">http://groups.yahoo.com/group/ukiyo_e/</a><br/>\n&gt; <br/>\n&gt;thanks, Matt<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;[Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt;---<br/>\n&gt;To unsubscribe from this group, send an email to:<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt; <br/>\n&gt;<br/>\n&gt;Your use of Yahoo! Groups is subject to <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a> <br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;  <br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ukiyo e discussion group",
+            "postDate": "1063060126",
+            "msgId": 2222,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNjEwMWMzNzY1OCQ5NTk1ODZiMCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2236,
+            "prevInTime": 2221,
+            "nextInTime": 2223,
+            "topicId": 2222,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Friends, since there was nowhere on the net to talk about Japanese prints, I took the liberty of starting a group myself. I encourage anyone even remotely",
+            "messageBody": "<div id=\"ygrps-yiv-476160928\">Friends, since there was nowhere on the net to talk about Japanese<br/>\nprints, I took the liberty of starting a group myself. <br/>\n <br/>\nI encourage anyone even remotely interested to join. Look here<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/ukiyo_e/\">http://groups.yahoo.com/group/ukiyo_e/</a><br/>\n <br/>\nthanks, Matt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2226,
+    "nextTopicId": 2248
+}

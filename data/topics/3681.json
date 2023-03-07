@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Paper on Japanese history... anybody?",
+            "postDate": "1076278941",
+            "msgId": 3683,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwMjZCNjlELjIwNTA0MDdAaW5kaWFuYS5lZHU+",
+                "inReplyToHeader": "PERDQzgyMzg4LTVBODItMTFEOC05M0I0LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg==",
+                "referencesHeader": "PERDQzgyMzg4LTVBODItMTFEOC05M0I0LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 3681,
+            "nextInTopic": 0,
+            "prevInTime": 3682,
+            "nextInTime": 3684,
+            "topicId": 3681,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... There s no reason you can t have people look at it and give you opinions. We re not going to *rewrite* it.  You can send it to me and I ll try to look",
+            "messageBody": "<div id=\"ygrps-yiv-560795176\">Cesare Polenghi wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; PS = Professor Tony and other faculty on the list... This would be <br/>\n&gt; academically acceptable, right? I mean, I am not asking people to write <br/>\n&gt; my papers, just to give an opinion on them...<br/>\n<br/>\n </span></blockquote>There&#39;s no reason you can&#39;t have people look at it and give you opinions. We&#39;re <br/>\nnot going to *rewrite* it. &lt;G&gt;<br/>\n<br/>\nYou can send it to me and I&#39;ll try to look it over.<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Paper on Japanese history... anybody?",
+            "postDate": "1076277910",
+            "msgId": 3681,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PERDQzgyMzg4LTVBODItMTFEOC05M0I0LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3683,
+            "prevInTime": 3680,
+            "nextInTime": 3682,
+            "topicId": 3681,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering... I am writing yet another paper on the Meiji Restoration for my grad class. These papers (4-6 pages) are usually to be written in 4 days, and",
+            "messageBody": "<div id=\"ygrps-yiv-1728879769\">I was wondering... I am writing yet another paper on the Meiji <br/>\nRestoration for my grad class. These papers (4-6 pages) are usually to <br/>\nbe written in 4 days, and are real killers, since there is technically <br/>\nno time to double and triple check one&#39;s sources. (we usually read <br/>\n3-400 pages per paper) I usually exchange them with some of my <br/>\nclassmates the day before they&#39;re due, but rarely get a real input.<br/>\n<br/>\nWell, since in this mailing list there are so many competent people, I <br/>\nwas thinking that maybe somebody ***MIGHT*** want to read the final <br/>\ndraft of my papers, and point out to eventual mistakes. More over, I <br/>\nsuppose I am not the only student here, so it would be cool if others <br/>\nas well would exchange papers and we could help each other, while <br/>\nlearning something new.<br/>\n<br/>\nWell, my paper is due on Tuesday... let me know here or in private if <br/>\nyou have the time and the will to check it... Or should I simply send <br/>\nit like a post, and the willing can criticize it. That would be... <br/>\nouch... but... why not??<br/>\nThanks and ban-banzai.<br/>\ncepo<br/>\n<br/>\nPS = Professor Tony and other faculty on the list... This would be <br/>\nacademically acceptable, right? I mean, I am not asking people to write <br/>\nmy papers, just to give an opinion on them...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3679,
+    "nextTopicId": 3698
+}

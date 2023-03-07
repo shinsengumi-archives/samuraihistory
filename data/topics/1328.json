@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "cewest@samurai-archives.com",
+            "from": "cewest@...",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: Shogun miniseries",
+            "postDate": "1040757724",
+            "msgId": 1328,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIxMjI0MTkyMi5OQUEyMDE3MEBjcm93cy5zaXRlcHJvdGVjdC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1327,
+            "nextInTime": 1329,
+            "topicId": 1328,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just found it on Ebay for about $84.  Not too bad, since it usually goes for about $200 new.  You might have to cut and paste the URL into the browser if the",
+            "messageBody": "<div id=\"ygrps-yiv-882613526\">I just found it on Ebay for about $84.  Not too bad, since it usually goes for about $200 new.  You might have to cut and paste the URL into the browser if the hyperlink gets cut off in this email.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=1161&item=3301746697\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&category=1161&item=3301746697</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1325,
+    "nextTopicId": 1320
+}

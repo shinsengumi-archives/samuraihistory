@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 225755910,
+            "authorName": "ronin64@netti.fi",
+            "from": "ronin64@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [a quest for a book",
+            "postDate": "1119518850",
+            "msgId": 7251,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI3NjA4NjY1LjExMTk1MTg4NTA0MjYuSmF2YU1haWwucm9uaW42NEBuZXR0aS5maT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7250,
+            "nextInTime": 7252,
+            "topicId": 7251,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi!i´ve been trying to get my hands onthe book called NITEN-KI.no luck.can anyone help me out here?i need to read it(in english)(its a book about Shinmen",
+            "messageBody": "<div id=\"ygrps-yiv-289694372\">hi!i´ve been trying to get my hands onthe book called NITEN-KI.no <br/>\nluck.can anyone help me out here?i need to read it(in english)(its a <br/>\nbook about Shinmen Musashi ,written by his &quot;followers&quot;)ill be ever <br/>\ngratefull!!...regards JORE,from Finland<br/>\n<br/>\n__<br/>\nSaunalahti Xtra - Uusi GSM-vuokrapuhelin ja edistykselliset Xtra-palvelut käyttöösi alk. 4,95 e/kk! <a rel=\"nofollow\" target=\"_blank\" href=\"http://saunalahti.fi/xtra/\">http://saunalahti.fi/xtra/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7249,
+    "nextTopicId": 7255
+}

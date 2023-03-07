@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:  Movie about Rikyu... &lt;#1&gt;",
+            "postDate": "1162782474",
+            "msgId": 9175,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ1NEVBNzBBLjIwNjA2MDFAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExNjI3MzgwMTcuNDA1LjkyMjc5Lm0xOEB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExNjI3MzgwMTcuNDA1LjkyMjc5Lm0xOEB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9174,
+            "nextInTime": 9176,
+            "topicId": 9175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The local library had it, not a knockout, but you will never think of tea ceremony the same way again... Jim Eckman",
+            "messageBody": "<div id=\"ygrps-yiv-1510092194\"><blockquote><span title=\"ireply\">&gt;           Posted by: &quot;cepo&quot;<br/>\n &gt;<br/>\n &gt;     ...and Hideyoshi, I assume.<br/>\n &gt;     has anybody seen this??<br/>\n &gt;     <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.imdb.com/title/tt0098204/\">http://www.imdb.com/title/tt0098204/</a><br/>\n &gt;     &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.imdb.com/title/tt0098204/\">http://www.imdb.com/title/tt0098204/</a>&gt;<br/>\n &gt;<br/>\n &gt;     Any opinion??<br/>\n </span></blockquote>The local library had it, not a knockout, but you will never think of <br/>\ntea ceremony the same way again...<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9158,
+    "nextTopicId": 9123
+}

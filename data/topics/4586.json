@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168905062,
+            "authorName": "RAMI EFAL",
+            "from": "&quot;RAMI EFAL&quot; &lt;rami_efal@...&gt;",
+            "profile": "rami_efal",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Age of Training",
+            "postDate": "1087762103",
+            "msgId": 4586,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTMtREFWOTE5UWtURGkwcW0wMDAwNWQ3OUBob3RtYWlsLmNvbT4=",
+                "referencesHeader": "PDIwMDQwNjIwMTM1NDU1LjgzOS5xbWFpbEB3ZWIyMDgwOS5tYWlsLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4585,
+            "nextInTime": 4587,
+            "topicId": 4586,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Group, At what age were the young boys sent to Samurai schools? [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1063386411\">Dear Group, <br/>\n<br/>\nAt what age were the young boys sent to Samurai schools?<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4568,
+    "nextTopicId": 4595
+}

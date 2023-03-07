@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "5Qjn546zbV_pG67F2r8XWsUUofQEaa6DeLsbjSrP1P623WKWAawgms9cAMQjtJrMWpg92XiCz3-nDpS5zP8s6E9CVeKZd-7b",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Korean Invasion",
+    "postDate": "1106506259",
+    "msgId": 6604,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PEI5MTdCRDMxLTZENkYtMTFEOS04MDgwLTAwMDM5M0I3NUFFMkB0b3J5dS1tb24uY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 6605,
+    "prevInTime": 6603,
+    "nextInTime": 6605,
+    "topicId": 6604,
+    "numMessagesInTopic": 4,
+    "msgSnippet": "Nice work Bob! and you done us all a huge favor by sharing, this ll make research a whole lot easier for others. Thanks, -t",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 66458 invoked from network); 23 Jan 2005 18:51:04 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m8.grp.scd.yahoo.com with QMQP; 23 Jan 2005 18:51:04 -0000\r\nReceived: from unknown (HELO solanne.parasun.net) (204.174.16.15)\n  by mta6.grp.scd.yahoo.com with SMTP; 23 Jan 2005 18:51:04 -0000\r\nReceived: from cpe-65-172-239-48.sanbrunocable.com ([65.172.239.48] helo=[10.0.1.2])\n\tby solanne.parasun.net with esmtp (Exim 4.43)\n\tid 1CsmpE-0007xp-CR\n\tfor samuraihistory@yahoogroups.com; Sun, 23 Jan 2005 10:51:04 -0800\r\nMime-Version: 1.0 (Apple Message framework v619)\r\nContent-Transfer-Encoding: 7bit\r\nMessage-Id: &lt;B917BD31-6D6F-11D9-8080-000393B75AE2@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nTo: samuraihistory@yahoogroups.com\r\nDate: Sun, 23 Jan 2005 10:50:59 -0800\r\nX-Mailer: Apple Mail (2.619)\r\nX-eGroups-Remote-IP: 204.174.16.15\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: Korean Invasion\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nNice work Bob!\n\tand you done us all a huge favor by sharing, this&#39;ll make research a \nwhole lot easier for others.\nThanks,\n-t\n\n\n"
+}

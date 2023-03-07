@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Ebay - Minamoto Yoshitsune",
+            "postDate": "1264988237",
+            "msgId": 10092,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhrNWI4ZCtsYmw0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10091,
+            "nextInTime": 10093,
+            "topicId": 10092,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is another Ebay auction - this time two issues of Shanao Yoshitsune Genpei no Kassen , a manga about Minamoto Yoshitsune. Enjoy! ",
+            "messageBody": "<div id=\"ygrps-yiv-1897966978\">Here is another Ebay auction - this time two issues of &quot;Shanao Yoshitsune Genpei no Kassen&quot;, a manga about Minamoto Yoshitsune. Enjoy! <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=190369773604\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=190369773604</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10039,
+    "nextTopicId": 10090
+}

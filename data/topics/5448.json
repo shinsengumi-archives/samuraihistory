@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 920",
+            "postDate": "1093918996",
+            "msgId": 5449,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODMxMDIyMzE2LjM2NDg1LnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQxMzNERThGLjYwMDAzMDhAY29tY2FzdC5uZXQ+"
+            },
+            "prevInTopic": 5448,
+            "nextInTopic": 0,
+            "prevInTime": 5448,
+            "nextInTime": 5450,
+            "topicId": 5448,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I meant in the article. I was of course referring to the one in the movie. __________________________________ Do you Yahoo!? Yahoo! Mail - 50x more storage",
+            "messageBody": "<div id=\"ygrps-yiv-1282841429\">--- James Eckman &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ronin_engineer@...\">ronin_engineer@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; &gt;   From: Nate Ledbetter &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ltdomer98@...\">ltdomer98@...</a>&gt;<br/>\n&gt; &gt;Subject: Re: Article: Tap-dancing samurai show a<br/>\n&gt; sense of humor<br/>\n&gt; &gt;<br/>\n&gt; &gt;NO mention of naked insane ashigaru?<br/>\n&gt; &gt;  <br/>\n&gt; &gt;<br/>\n&gt; Does almost naked count?<br/>\n<br/>\n </span></blockquote>I meant in the article. I was of course referring to<br/>\nthe one in the movie. <br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 920",
+            "postDate": "1093918351",
+            "msgId": 5448,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxMzNERThGLjYwMDAzMDhAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDEwOTM4ODcwMzAuMTM2Mi40MzQzNy5tMTJAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwOTM4ODcwMzAuMTM2Mi40MzQzNy5tMTJAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5449,
+            "prevInTime": 5447,
+            "nextInTime": 5449,
+            "topicId": 5448,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Does almost naked count? Jim",
+            "messageBody": "<div id=\"ygrps-yiv-243693858\"><blockquote><span title=\"ireply\">&gt;   From: Nate Ledbetter &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ltdomer98@...\">ltdomer98@...</a>&gt;<br/>\n&gt;Subject: Re: Article: Tap-dancing samurai show a sense of humor<br/>\n&gt;<br/>\n&gt;NO mention of naked insane ashigaru?<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Does almost naked count?<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5437,
+    "nextTopicId": 4943
+}

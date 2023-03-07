@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Help Support the Samurai Archives",
+            "postDate": "1256869124",
+            "msgId": 10016,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhjZGllNCthZGQzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10015,
+            "nextInTime": 10017,
+            "topicId": 10016,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The time of year where I fork out the cash to keep the website, forum, and samuraiwiki afloat has arrived, and so if anyone is willing or interested in",
+            "messageBody": "<div id=\"ygrps-yiv-1075727847\">The time of year where I fork out the cash to keep the website, forum, and samuraiwiki afloat has arrived, and so if anyone is willing or interested in donating any amount regardless of how small towards the maintenance of the website, you can do so here via the paypal button:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/donate1.html\">http://www.samurai-archives.com/donate1.html</a><br/>\n<br/>\nIf you don&#39;t want to part with cash, but might like something for your efforts, you can also support the Samurai Archives by purchasing books at the bookstore, or items at the online Samurai Archives shop:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a><br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://astore.amazon.com/samurai-20\">http://astore.amazon.com/samurai-20</a><br/>\n<br/>\nAnything is appreciated, and thanks for your support!<br/>\n<br/>\nWebmaster,  C.West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9984,
+    "nextTopicId": 9629
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "vacation!!!",
+            "postDate": "1089025782",
+            "msgId": 4755,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEQwRUMwREI2LUNFNzMtMTFEOC1BRjc2LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4754,
+            "nextInTime": 4756,
+            "topicId": 4755,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bye y all dudes and dudettes. I take off for the summer!! I ll be in Japan on 8/8 to 8/22 (kansai). If somebody s around, call me in Kyoto! c/o Fuse",
+            "messageBody": "<div id=\"ygrps-yiv-2061644124\">Bye y&#39;all dudes and dudettes. I take off for the summer!!<br/>\nI&#39;ll be in Japan on 8/8 to 8/22 (kansai).<br/>\nIf somebody&#39;s around, call me in Kyoto!<br/>\nc/o Fuse 075-3944029<br/>\n<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4742,
+    "nextTopicId": 4762
+}

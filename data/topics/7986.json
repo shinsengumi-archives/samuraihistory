@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Akira Kurosawa Database",
+            "postDate": "1131520339",
+            "msgId": 7986,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRrczdnaitmcXA1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7985,
+            "nextInTime": 7987,
+            "topicId": 7986,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www2.tky.3web.ne.jp/~adk/kurosawa/AKpage.html",
+            "messageBody": "<div id=\"ygrps-yiv-1609501933\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www2.tky.3web.ne.jp/~adk/kurosawa/AKpage.html\">http://www2.tky.3web.ne.jp/~adk/kurosawa/AKpage.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7985,
+    "nextTopicId": 7988
+}

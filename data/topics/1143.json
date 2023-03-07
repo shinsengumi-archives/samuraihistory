@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "Mikiko letham",
+            "from": "&quot;Mikiko letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Yoshitsune book help",
+            "postDate": "1031706633",
+            "msgId": 1144,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDYwMWMyNTkzMCQwODZmMjg0MCQyOWI4ZGJjYUBmbXY+",
+                "referencesHeader": "PDIwMDIwOTA5MDkwODA1Ljc2MzAucW1haWxAd2ViMjA4MDQubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 1143,
+            "nextInTopic": 0,
+            "prevInTime": 1143,
+            "nextInTime": 1145,
+            "topicId": 1143,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Helen McCullough did a translation of a 15th century gunki called Gikeiki about Yoshitsune. The translation is called Yoshitsune. it has copious notes and",
+            "messageBody": "<div id=\"ygrps-yiv-133391487\">Helen McCullough did a translation of a 15th century gunki called Gikeiki<br/>\nabout Yoshitsune. The translation is called Yoshitsune. it has copious notes<br/>\nand background info. Its probably the best thing you can find in English.<br/>\nhowever I think it might be out of print. You might try some of the used<br/>\nbooks web sites like Addall.com or Alibris. I found a copy at Addall. Good<br/>\nluck</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 117084251,
+            "authorName": "Ucok Simbara",
+            "from": "Ucok Simbara &lt;devisofian@...&gt;",
+            "profile": "devisofian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yoshitsune book help",
+            "postDate": "1031562485",
+            "msgId": 1143,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwOTA5MDkwODA1Ljc2MzAucW1haWxAd2ViMjA4MDQubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1144,
+            "prevInTime": 1142,
+            "nextInTime": 1144,
+            "topicId": 1143,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi... I am Indonesian just starting to like Samurai, especially Yoshitsune. Anyone can help me to have a book/novel about him? ",
+            "messageBody": "<div id=\"ygrps-yiv-490441160\">Hi... I am Indonesian just starting to like Samurai,<br/>\nespecially Yoshitsune. Anyone can help me to have a<br/>\nbook/novel about him?<br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nYahoo! Finance - Get real-time stock quotes<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://finance.yahoo.com\">http://finance.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1140,
+    "nextTopicId": 1154
+}

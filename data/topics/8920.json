@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 160314779,
+            "authorName": "Steven Matsheshu",
+            "from": "&quot;Steven Matsheshu&quot; &lt;steven_matsheshu@...&gt;",
+            "profile": "steven_matsheshu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Question about Politics (Fujii/Mori-- late 1500s)",
+            "postDate": "1151596597",
+            "msgId": 8920,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU4MHQ3bCs2MGR1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8919,
+            "nextInTime": 8921,
+            "topicId": 8920,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can we shed some light on the politics of Hiroshima/Okayama in the late 1500s.... why did Kogen throw all his resources into dying with the Amago why the rest",
+            "messageBody": "<div id=\"ygrps-yiv-856568601\">Can we shed some light on the politics of Hiroshima/Okayama in the late <br/>\n1500s.... why did Kogen throw all his resources into dying with the <br/>\nAmago why the rest of the Fujii family were vassals of the Mori ?<br/>\n<br/>\n   I understand the principle of a family sending its members to <br/>\ndifferent Daimyo and such... and of the honor and loyalty to one&#39;s <br/>\nmaster... but I am also wondering of any other less obvious and <br/>\npossibly less &quot;fantasy-sounding&quot; reasons why the Fujii home base near <br/>\nYoshii would fall to the Mori Army while.... within the Mori Army <br/>\nitself, you had Fujii commanders and Fujii shinobi/samurai.<br/>\n<br/>\n         Any insight would be awesome.<br/>\n<br/>\n Thank you.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8919,
+    "nextTopicId": 8921
+}

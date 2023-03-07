@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Gatling-----some history Prof Murf-reply",
+            "postDate": "1074202785",
+            "msgId": 3149,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE4My4yNGQ3NmFmZS4yZDM4NjJhMUBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3148,
+            "nextInTime": 3150,
+            "topicId": 3149,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "First use on battlefield was at Siege of Petersburg.  I doubt if it was used in the Draft Riots.  The battle of Gettysburg was almost concurrent:  why was it",
+            "messageBody": "<div id=\"ygrps-yiv-1541921053\">First use on battlefield was at Siege of Petersburg.  I doubt if it was used <br/>\nin the Draft Riots.  The battle of Gettysburg was almost concurrent:  why was <br/>\nit not used then?  Jack Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3113,
+    "nextTopicId": 3151
+}

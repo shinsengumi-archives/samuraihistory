@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: NSR-Japanese Culture article",
+            "postDate": "1055437734",
+            "msgId": 1873,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJjYWMzNitmZG5wQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGEwNTIxMDYwNGJiMGQwOTBkYzFkY0BbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 1872,
+            "nextInTopic": 0,
+            "prevInTime": 1872,
+            "nextInTime": 1874,
+            "topicId": 1872,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As a moderator of this forum, I d prefer we don t start labeling some discussions Not Samurai Related , because then that opens the door for hundreds of",
+            "messageBody": "<div id=\"ygrps-yiv-281761634\">As a moderator of this forum, I&#39;d prefer we don&#39;t start labeling some <br/>\ndiscussions &quot;Not Samurai Related&quot;, because then that opens the door <br/>\nfor hundreds of completely off-topic posts.  As long as a topic is <br/>\neven vaguely or marginally related to Japanese history or culture or <br/>\nJapan or Japanese, it is free to go (and I think that gives a lot of <br/>\nleeway in discussion, and I&#39;m not against history-related posts that <br/>\nare more or less off-topic).  Allowing a free-reign of completely off-<br/>\ntopic posts opens a can of worms I&#39;d prefer to avoid.<br/>\n<br/>\nThanks<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, tom helm &lt;junkmail@t...&gt; wrote:<br/>\n&gt; Nate et al-<br/>\n&gt; \tMy point was that it is a little hypocritical to say it is ok <br/>\n&gt; to chat about mopeds because they are Japanese, but not politics <br/>\n&gt; because they are European. After all the discussion of European <br/>\n&gt; history and politics started from a posting about things Japanese <br/>\nand <br/>\n&gt; may well have returned to that subject in time.<br/>\n&gt; \tThis list has been quiet for so long I thought it was dead. <br/>\n&gt; Once people are talking we ought to be able to draw the <br/>\nconversation <br/>\n&gt; into areas more on topic. The Swiss are the Pope&#39;s samurai don&#39;t <br/>\nyou <br/>\n&gt; know...<br/>\n&gt; -t </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NSR-Japanese Culture article",
+            "postDate": "1055349456",
+            "msgId": 1872,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwNGJiMGQwOTBkYzFkY0BbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1873,
+            "prevInTime": 1871,
+            "nextInTime": 1873,
+            "topicId": 1872,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nate et al- My point was that it is a little hypocritical to say it is ok to chat about mopeds because they are Japanese, but not politics because they are",
+            "messageBody": "<div id=\"ygrps-yiv-1089872337\">Nate et al-<br/>\n\tMy point was that it is a little hypocritical to say it is ok <br/>\nto chat about mopeds because they are Japanese, but not politics <br/>\nbecause they are European. After all the discussion of European <br/>\nhistory and politics started from a posting about things Japanese and <br/>\nmay well have returned to that subject in time.<br/>\n\tThis list has been quiet for so long I thought it was dead. <br/>\nOnce people are talking we ought to be able to draw the conversation <br/>\ninto areas more on topic. The Swiss are the Pope&#39;s samurai don&#39;t you <br/>\nknow...<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1871,
+    "nextTopicId": 1874
+}

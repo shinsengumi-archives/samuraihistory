@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Takeda Shingen&#39;s 24 Generals DESKTOP NEW IDEA",
+            "postDate": "1067533567",
+            "msgId": 2391,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEwLjM3ODJjYzc3LjJjZDI5ZWZmQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2390,
+            "nextInTime": 2392,
+            "topicId": 2391,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey, I like the idea 24 generals!  Now if somebody could only come up with an idea for 7 samurai!  Prof Murphy [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-1280955734\">Hey, I like the idea &quot;24 generals!&quot;  Now if somebody could only come up with <br/>\nan idea for &#39;7 samurai!&quot;  Prof Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2361,
+    "nextTopicId": 2394
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 140874866,
+            "authorName": "Alexander",
+            "from": "&quot;Alexander&quot; &lt;umadise@...&gt;",
+            "profile": "umadise",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Link: Mishima Readers",
+            "postDate": "1284680741",
+            "msgId": 10235,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGk2dWE3NStsOWdzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10234,
+            "nextInTime": 10236,
+            "topicId": 10235,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all-I m starting a new group devoted to the works and life of Yukio Mishima. Feel free to check it out if you are bored. ",
+            "messageBody": "<div id=\"ygrps-yiv-482754964\">Hi all-I&#39;m starting a new group devoted to the works and life of Yukio Mishima. Feel free to check it out if you are bored.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/mishimareaders\">http://groups.yahoo.com/group/mishimareaders</a><br/>\n<br/>\nCort</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10230,
+    "nextTopicId": 10238
+}

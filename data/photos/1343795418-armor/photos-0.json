@@ -1,0 +1,44 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 1343795418,
+        "photoId": 1395634071,
+        "photoName": "samuraimy2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "canDelete": false,
+        "creatorNickname": "hornsofodin",
+        "modificationDate": 1201992934,
+        "creationDate": 1201992934,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/P7B7OS_tedjFmk4f28Mf/name/n_a",
+                "height": 96,
+                "width": 72,
+                "size": 1773,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/P7B7OS_tedjFmk4f28Mf/name/n_a",
+                "height": 480,
+                "width": 360,
+                "size": 31692,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/P7B7OS_tedjFmk4f28Mf/name/n_a",
+                "height": 640,
+                "width": 480,
+                "size": 55014,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

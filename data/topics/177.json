@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Mark Hall",
+            "from": "&quot;Mark Hall&quot; &lt;markhall@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "1Q6j1LJPETtUndAUW9J7BB_WJ43tlfzDmzFXGYh3jD0okhCnCmWGMLvP3-65Di2ctKiy-hU96qjFcepPRDRadZbXNdCE",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fw:Book announcement and TOC: Akira Hayami,  The Historical Demography of pre-modern Japan",
+            "postDate": "988433328",
+            "msgId": 177,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMmYwMWMwY2Y5ZiQ4MTQ5N2FjMCQ5NzE0ZDhjYkAwMTY4MDQzNz4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 176,
+            "nextInTime": 178,
+            "topicId": 177,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "May be of interest to some...MEH ... enabled ... and",
+            "messageBody": "<div id=\"ygrps-yiv-123621633\">May be of interest to some...MEH<br/>\n<br/>\n|<br/>\n| From: Antoinette Fauve-Chamoux &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:fauve@...\">fauve@...</a>&gt;<br/>\n| Book announcement and TOC: Akira Hayami, The Historical Demography of<br/>\n| pre-modern Japan, University of Tokyo Press, 2001, 191 p.<br/>\n|<br/>\n| In this volume, Akira Hayami, one of the pioneers of historical demography<br/>\n| in Japan, reports on the findings of researchers who are working with rich<br/>\n| sources of data. He explains the importance of their conclusions not only<br/>\n| for historical studies but also for the understanding the demography of<br/>\n| contemporary Japan and its foreseeable future.<br/>\n|<br/>\n| Beginning in 1638, under orders from the central government, town and<br/>\n| village officials in Tokugawa Japan collected data annually on their<br/>\n| residents. Although the government original purpose was to ferret out<br/>\n| adherents to the forbidden religion of Christianity, the information<br/>\n| collected in the census books known as SAC (Shumon Aratame Cho) has<br/>\nenabled<br/>\n| researchers to trace the life histories of individuals and familes for<br/>\n| several generations, looking at their migration and employment patterns,<br/>\n| family size  and composition, education, and other aspects of community<br/>\nand<br/>\n| family life.<br/>\n|<br/>\n| Contents:<br/>\n| Chapter 1  Introduction to historical demography: history and population<br/>\n| Chapter 2  The establishment and development of historical demography<br/>\n| Chapter 3  Population trends based on macro-data<br/>\n| Chapter 4  A demographic overview of early modern Japan based on<br/>\n| micro-data: population, family reconstitution, and households in Suwa gun,<br/>\n| Shinano province<br/>\n| Chapter 5  Demographic aspects of Tokugawa Japan based on micro-data:<br/>\n| Nishijo mura, Ampachi gun, Mino province<br/>\n| Chapter 6  Historical demography and family history: a conclusion<br/>\n| Appendix<br/>\n| Notes<br/>\n| Index<br/>\n| ---<br/>\n| The author can be reached at<br/>\n| <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ahayami@...\">ahayami@...</a><br/>\n| ---</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 176,
+    "nextTopicId": 178
+}

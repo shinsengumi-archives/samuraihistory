@@ -1,0 +1,54 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1903173,
+    "listId": 2247946,
+    "dateCreated": 1121642732,
+    "userIdCreated": 210287375,
+    "dateEnd": 1130821140,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Was the Tokugawa loyal to the Imagawa?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 13983727,
+            "selectionText": "Yes",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 13983728,
+            "selectionText": "No",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 13983729,
+            "selectionText": "To some degree",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 13983729,
+                    "surveyId": 1903173,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 3,
+    "previousSurveyId": 1903176,
+    "nextSurveyId": 1742834
+}

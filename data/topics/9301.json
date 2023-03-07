@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: samurai warriors",
+            "postDate": "1168582768",
+            "msgId": 9302,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVvNzk5ZytubGFiQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVvNmZvYiszZGc4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9301,
+            "nextInTopic": 0,
+            "prevInTime": 9301,
+            "nextInTime": 9303,
+            "topicId": 9301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... http://www.samurai-archives.com http://www.google.com *sigh*",
+            "messageBody": "<div id=\"ygrps-yiv-2032605490\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;melvin7740&quot; &lt;carragher1@...&gt;<br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; If there&#39;s any one else out there that knows a bit about samurai <br/>\n&gt; soilders feel free to tell me. Also i would like to really understand <br/>\n&gt; samurai.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.google.com\">http://www.google.com</a><br/>\n<br/>\n*sigh*</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 294602877,
+            "authorName": "melvin7740",
+            "from": "&quot;melvin7740&quot; &lt;carragher1@...&gt;",
+            "profile": "melvin7740",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "samurai warriors",
+            "postDate": "1168556619",
+            "msgId": 9301,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVvNmZvYiszZGc4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9302,
+            "prevInTime": 9300,
+            "nextInTime": 9302,
+            "topicId": 9301,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If there s any one else out there that knows a bit about samurai soilders feel free to tell me. Also i would like to really understand samurai.",
+            "messageBody": "<div id=\"ygrps-yiv-432284484\">If there&#39;s any one else out there that knows a bit about samurai <br/>\nsoilders feel free to tell me. Also i would like to really understand <br/>\nsamurai.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9233,
+    "nextTopicId": 9303
+}

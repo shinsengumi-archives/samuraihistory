@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 256500464,
+            "authorName": "Rob",
+            "from": "&quot;Rob&quot; &lt;capt_bochan@...&gt;",
+            "profile": "capt_bochan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Very nice samurai artwork",
+            "postDate": "1139882762",
+            "msgId": 8411,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRzcmR1YSsya2FpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8410,
+            "nextInTime": 8412,
+            "topicId": 8411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For those interested I found an ebay store that sells very nice samurai artwork. The sellers ebay store name is- worldartbroker Enjoy! Hirai",
+            "messageBody": "<div id=\"ygrps-yiv-902927459\">For those interested I found an ebay store that sells very nice samurai <br/>\nartwork. The sellers ebay store name is-<br/>\n<br/>\nworldartbroker<br/>\n<br/>\nEnjoy!<br/>\n<br/>\nHirai</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8326,
+    "nextTopicId": 8351
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 2613231,
+            "authorName": "Mark E. Hall",
+            "from": "&quot;Mark E. Hall&quot; &lt;markhall@...&gt;",
+            "profile": "mhall940",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [samuraihistory] Turbull&#39;s Papers",
+            "postDate": "1029316286",
+            "msgId": 1083,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMyNDM3MiQ5MmQ3MjA2MCQ0YjFmZDhjYkAwMTY4MDQzNz4=",
+                "inReplyToHeader": "PGFqYmVtZStzbDU4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1080,
+            "nextInTopic": 0,
+            "prevInTime": 1082,
+            "nextInTime": 1084,
+            "topicId": 1080,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I have heard that it was from SOAS no less in Japanese history.... Hmm, maybe I should check more closely. Later, MEH",
+            "messageBody": "<div id=\"ygrps-yiv-575365944\"><blockquote><span title=\"ireply\">&gt; <br/>\n&gt; This might have been &#39;lost&#39; in my last post, so I&#39;ll put it out - can<br/>\n&gt; someone please tell me exactly what Turnbull has his doctorate in and<br/>\n&gt; exactly where he got it, as well as if it is one of those &#39;honorary&#39;<br/>\n&gt; doctorates, or a &#39;real&#39; one?<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>I have heard that it was from SOAS no less in Japanese history....<br/>\nHmm, maybe I should check more closely.<br/>\n<br/>\nLater, MEH</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 63629217,
+            "authorName": "iganokami",
+            "from": "&quot;iganokami&quot; &lt;fredjnsn@...&gt;",
+            "profile": "iganokami",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Turbull&#39;s Papers",
+            "postDate": "1029258766",
+            "msgId": 1080,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFqYmVtZStzbDU4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1083,
+            "prevInTime": 1079,
+            "nextInTime": 1081,
+            "topicId": 1080,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This might have been lost in my last post, so I ll put it out - can someone please tell me exactly what Turnbull has his doctorate in and exactly where he",
+            "messageBody": "<div id=\"ygrps-yiv-398698839\">This might have been &#39;lost&#39; in my last post, so I&#39;ll put it out - can <br/>\nsomeone please tell me exactly what Turnbull has his doctorate in and <br/>\nexactly where he got it, as well as if it is one of those &#39;honorary&#39; <br/>\ndoctorates, or a &#39;real&#39; one?<br/>\n<br/>\nIf he has a doctorate in horticulture or screenwriting then I&#39;ll not <br/>\nonly forgive the guy, but give him kudos for putting out the effort <br/>\n(however limited) in putting out Japanese history books to the <br/>\npubic!  If on the other hand, he has a doctorate in Japanese history, <br/>\nmy criticism stands.<br/>\n<br/>\nIga no Kami</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1077,
+    "nextTopicId": 1085
+}

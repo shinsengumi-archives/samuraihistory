@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "792xKL6p8lb2RJuX1IcXaRt-yIZUSNrvFOzbjrR5_WdciQPldhH5IwaxSMDzwDrVXM1wfoIKf4_NJoxHIyMhcuXKwNwtS4CdEUPqeNNgOw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai &#39;Wish List&#39;",
+            "postDate": "998582167",
+            "msgId": 300,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDltMzkybitjcnZjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 299,
+            "nextInTime": 301,
+            "topicId": 300,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In the interest of future updates and ideas for the Samurai Archives, if you can think of anything you d like to see on the page, please let us know. If you",
+            "messageBody": "<div id=\"ygrps-yiv-1207995405\">In the interest of future updates and ideas for the Samurai Archives, <br/>\nif you can think of anything you&#39;d like to see on the page, please <br/>\nlet us know. If you feel there is anything painfully absent, or have <br/>\nan interesting idea, respond to this post!<br/>\n<br/>\nCEW & FWS</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 293,
+    "nextTopicId": 295
+}

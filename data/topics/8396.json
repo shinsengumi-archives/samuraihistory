@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 214802153,
+            "authorName": "Haynes, A (Angus)",
+            "from": "&quot;Haynes, A &#92;(Angus&#92;)&quot; &lt;angus.haynes@...&gt;",
+            "profile": "angushaynes",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [samuraihistory] Benkei",
+            "postDate": "1139786445",
+            "msgId": 8398,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhGOEY2MTU5RjM1NzVCNDNBM0Y4RUFCOUY2QTk2N0QwRjA2NTBDQHJhYm9iYW5rLmNvbT4="
+            },
+            "prevInTopic": 8396,
+            "nextInTopic": 0,
+            "prevInTime": 8397,
+            "nextInTime": 8399,
+            "topicId": 8396,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... authenticity? ... From what I understand Benkei s entire character is considered a legend. I d have to look back through the introduction to McCullough s ",
+            "messageBody": "<div id=\"ygrps-yiv-1787229310\"><blockquote><span title=\"ireply\">&gt; Kind of on the subject of Benkei. I have a 2 volume copy of a book<br/>\n &gt; published in 1910 by James Seguin de Benneville on Saito Musashi Bo<br/>\n &gt; Benkei. Anyone read it? Know anything about it&#39;s historical<br/>\n </span></blockquote>authenticity? <br/>\n<blockquote><span title=\"ireply\">  &gt; Thanks, Steve<br/>\n <br/>\n </span></blockquote>From what I understand Benkei&#39;s entire character is considered a legend.<br/>\nI&#39;d have to look back through the introduction to McCullough&#39;s<br/>\ntranslation of the Yoshitsune legend but I&#39;m fairly certain this is the<br/>\ncase. I remember reading once that Yoshitsune did have a monk companion<br/>\nso this is probably where the legend grew from, as most of the people<br/>\n(real or not) in Yoshitsune&#39;s party had their characters fleshed out by<br/>\nlater stories.<br/>\n <br/>\n--AngusH<br/>\n<br/>\n_____________________________________________________________<br/>\n<br/>\nThis email (including any attachments to it) is confidential, legally privileged, subject to copyright and is sent for the personal attention of the intended recipient only. If you have received this email in error, please advise us immediately and delete it. You are notified that disclosing, copying, distributing or taking any action in reliance on the contents of this information is strictly prohibited. Although we have taken reasonable precautions to ensure no viruses are present in this email, we cannot accept responsibility for any loss or damage arising from the viruses in this email or attachments. We exclude any liability for the content of this email, or for the consequences of any actions taken on the basis of the information provided in this email or its attachments, unless that information is subsequently confirmed in writing. If this email contains an offer, that should be considered as an invitation to treat.<br/>\n_____________________________________________________________<br/>\n<br/>\nIf this e-Mail contains marketing material and you do not wish to receive such material by e-Mail in future, please reply to this e-Mail and place the words &quot;Remove My Details - Electronic Messages&quot; in the Subject Header.  <br/>\n<br/>\nThe Rabobank Group <br/>\nAustralia: 1800 025 484<br/>\nNew Zealand: 0800 500 933<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 50056426,
+            "authorName": "lunghsing2001",
+            "from": "&quot;lunghsing2001&quot; &lt;lunghsing@...&gt;",
+            "profile": "lunghsing2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Benkei",
+            "postDate": "1139773941",
+            "msgId": 8396,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRzbzNsbCtqNjQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8398,
+            "prevInTime": 8395,
+            "nextInTime": 8397,
+            "topicId": 8396,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Kind of on the subject of Benkei. I have a 2 volume copy of a book published in 1910 by James Seguin de Benneville on Saito Musashi Bo Benkei. Anyone read it?",
+            "messageBody": "<div id=\"ygrps-yiv-1048287913\">Kind of on the subject of Benkei. I have a 2 volume copy of a book<br/>\npublished in 1910 by James Seguin de Benneville on Saito Musashi Bo<br/>\nBenkei. Anyone read it? Know anything about it&#39;s historical authenticity? <br/>\nThanks, Steve</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8388,
+    "nextTopicId": 8384
+}

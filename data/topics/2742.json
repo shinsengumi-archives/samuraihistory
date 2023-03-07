@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168479836,
+            "authorName": "wildkraven",
+            "from": "&quot;wildkraven&quot; &lt;wildkraven@...&gt;",
+            "profile": "wildkraven",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Symbols",
+            "postDate": "1070916989",
+            "msgId": 2742,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJyMm9odCs4amQ3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2741,
+            "nextInTime": 2743,
+            "topicId": 2742,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone out here help me? Im looking to get my first tattoo and I wanted it to be samurai related. Im very interested in the history and nobility of the",
+            "messageBody": "<div id=\"ygrps-yiv-945712281\">Can anyone out here help me? Im looking to get my first tattoo and I <br/>\nwanted it to be samurai related. Im very interested in the history <br/>\nand nobility of the samurai and Im looking for a symbol that is <br/>\nsamurai related that I can perhaps make a tattoo. Does anyone know <br/>\nwhere I might find this type of thing or does anyone have any sort of <br/>\ninfo they can share with me?<br/>\n<br/>\nTHX</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2737,
+    "nextTopicId": 2746
+}

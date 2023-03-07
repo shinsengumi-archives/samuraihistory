@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 332177272,
+            "authorName": "Evan Hodge",
+            "from": "&quot;Evan Hodge&quot; &lt;evan_hodge@...&gt;",
+            "profile": "evan_hodge",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Taiheiki",
+            "postDate": "1244908151",
+            "msgId": 9944,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGgxMGhwbitvM2JtQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDg3NzA2NC43MTgyNC5xbUB3ZWIyMzMwNy5tYWlsLmlyZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 9916,
+            "nextInTopic": 0,
+            "prevInTime": 9943,
+            "nextInTime": 9945,
+            "topicId": 9916,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "One good source for looking into this text is Paul Varley s Warriors of Japan as Portrayed in the War Tales . As a professional historian, Prof Varley",
+            "messageBody": "<div id=\"ygrps-yiv-926222566\">One good source for looking into this text is Paul Varley&#39;s &quot;Warriors of Japan as Portrayed in the War Tales&quot;. As a professional historian, Prof Varley explains how various sections of the 40-book text are reliable or less so. He relates how Nan-Taiheiki by Imagawa Ryoshun challenged the authority of the Taiheiki&#39;s stance, in that it took an anti-Ashikaga view, and due to that end, its author or authors invented parts of the tale. There are several versions of the Taiheiki text. One factual difference Varley states is numbers of troops quoted as present in battles. The book is on Amazon and available through Powells.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 154423207,
+            "authorName": "Michael Lorimer",
+            "from": "Michael Lorimer &lt;mijalo_jp@...&gt;",
+            "profile": "mijalo_jp",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Taiheiki",
+            "postDate": "1241617756",
+            "msgId": 9916,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDg3NzA2NC43MTgyNC5xbUB3ZWIyMzMwNy5tYWlsLmlyZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9944,
+            "prevInTime": 9915,
+            "nextInTime": 9917,
+            "topicId": 9916,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all,   I ve again completed a reading of Taiheiki, and while I find it a truly exhilerating read, one cannot help but question certain elements.   ",
+            "messageBody": "<div id=\"ygrps-yiv-327390104\">Dear all,<br/>\n <br/>\nI&#39;ve again completed a reading of Taiheiki, and while I find it a truly exhilerating read, one cannot help but question certain elements.<br/>\n <br/>\nCertainly the basic events in the tale are grounded in history (the Kamakura regime, the characters, the chastisement of Go-Daigo, etc). While this foundation in fact extends to certain clashes (notably Akasaka and Chihaya), but were the other &#39;battles&#39; in the tale actual occurrences (such as Funanoe in chapter7) or embellishments??<br/>\n <br/>\nThankyou<br/>\nMLorimer<br/>\n<br/>\n<br/>\n      <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9943,
+    "nextTopicId": 9945
+}

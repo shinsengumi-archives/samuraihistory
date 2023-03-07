@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 150698147,
+            "authorName": "airfix2003",
+            "from": "&quot;airfix2003&quot; &lt;airfix2003@...&gt;",
+            "profile": "airfix2003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "hi",
+            "postDate": "1062929965",
+            "msgId": 2220,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJqZjBuZCs5cWJyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2219,
+            "nextInTime": 2221,
+            "topicId": 2220,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "this is my first itme in here,my name is andy im interested in the samurai so i hope people in here can help me.im looking for phrases and articles that i can",
+            "messageBody": "<div id=\"ygrps-yiv-1373656546\">this is my first itme in here,my name is andy im interested in the <br/>\nsamurai so i hope people in here can help me.im looking for phrases <br/>\nand articles that i can use in decorating part of my flat in.thankyou <br/>\nfor your help.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2217,
+    "nextTopicId": 2210
+}

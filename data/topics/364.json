@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Jack Venables",
+            "from": "&quot;Jack Venables&quot; &lt;jackvenables@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "X_M5Q3JdJvsEr_35lIR7lk3e_XjBrmsiiw3eERcrmjkT7ljigfIUNjmbmi9v_hL835mfQeQwBQAq3khzxJd2AcVf_C3JG-GhXrIgfSNewrBl",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1006795004",
+            "msgId": 364,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEYyMHhWVUlJMEl2SWFPWHFvNHkwMDAwOTAxOUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 363,
+            "nextInTime": 365,
+            "topicId": 364,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "COULD YOU PLAESE SEND SOME INFOR MATION TO MY HIME ADDRESS IF YES RESPOND AND THEN I WILL GIVE YOU MY ADDRESS ",
+            "messageBody": "<div id=\"ygrps-yiv-62170127\">COULD YOU PLAESE SEND SOME INFOR MATION TO MY HIME ADDRESS IF YES RESPOND <br/>\nAND THEN I WILL GIVE YOU MY ADDRESS<br/>\n<br/>\n_________________________________________________________________<br/>\nGet your FREE download of MSN Explorer at <a rel=\"nofollow\" target=\"_blank\" href=\"http://explorer.msn.com/intl.asp\">http://explorer.msn.com/intl.asp</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 361,
+    "nextTopicId": 374
+}

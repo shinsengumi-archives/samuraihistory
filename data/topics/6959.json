@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 219367746,
+            "authorName": "planetsamir",
+            "from": "&quot;planetsamir&quot; &lt;planetsamir@...&gt;",
+            "profile": "planetsamir",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Attention Japanese Members (respectfully)",
+            "postDate": "1113859588",
+            "msgId": 6959,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0MThtNCtrNWQ4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6958,
+            "nextInTime": 6960,
+            "topicId": 6959,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, my name is Samir, and I need to interview a Japanese person to obtain primary sources for a Gifted and Talented Research Report. All you have to do (if you",
+            "messageBody": "<div id=\"ygrps-yiv-1798612830\">Hi, my name is Samir, and I need to interview a Japanese person to <br/>\nobtain primary sources for a Gifted and Talented Research Report.<br/>\nAll you have to do (if you want to) answer some questions via e-mail<br/>\nfrom me at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:planetsamir@...\">planetsamir@...</a> about samurai cultureand japanese <br/>\nhistory. My topic is about how the samurai legacy affects modern <br/>\nJapanese.<br/>\n<br/>\nThanks a lot<br/>\n<br/>\nSamir</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6958,
+    "nextTopicId": 6960
+}

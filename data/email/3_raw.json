@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "kitsuno@teleport.com",
+    "from": "kitsuno@...",
+    "replyTo": "LIST",
+    "senderId": "WXn4NHlDIja7lR7R7EU6FwPF7jwkIPzfj9jSlHagoVKVBA4h7bP-5ugPq-lvtlSabnBb-mNcQKxDmzA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Japanese Date Converter",
+    "postDate": "969911004",
+    "msgId": 3,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDhxbzlzcys5cDhtQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 2,
+    "nextInTime": 4,
+    "topicId": 3,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Version 1.01 of the Japanese Date Converter is finally complete and available for download in the Downloads section of the Samurai Archives Japanese History",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@egroups.com\r\nReceived: (EGP: mail-6_0_2); 25 Sep 2000 19:43:38 -0000\r\nReceived: (qmail 11334 invoked from network); 25 Sep 2000 19:43:38 -0000\r\nReceived: from unknown (10.1.10.27) by m1.onelist.org with QMQP; 25 Sep 2000 19:43:38 -0000\r\nReceived: from unknown (HELO ml.egroups.com) (10.1.1.31) by mta2 with SMTP; 25 Sep 2000 19:43:38 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.109] by ml.egroups.com with NNFMP; 25 Sep 2000 19:43:37 -0000\r\nDate: Mon, 25 Sep 2000 19:43:24 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: Japanese Date Converter\r\nMessage-ID: &lt;8qo9ss+9p8m@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 851\r\nX-Mailer: eGroups Message Poster\r\nFrom: kitsuno@...\r\n\r\nVersion 1.01 of the Japanese Date Converter is finally complete and \navailable for download in the Downloads section of the Samurai \nArchives Japanese History page \n(www.techjapanese.com/samurai/downloads.html). This updated version \nwill convert the Japanese Era names and numbers to the &#39;western&#39; year \nequivalents as well as the &#39;western&#39; year to the Japanese era name \nand number equivalents. It isn&#39;t case sensitive, and long &#39;O&#39; and &#39;U&#39; \nsounds can be written as either &#39;o&#39; and &#39;ou&#39; or &#39;u&#39; and &#39;uu&#39; \nrespectively. The Japanese &#39;N&#39; can also be written as &#39;m&#39; where such \na substitution would be logically possible. Apostrophe&#39;s can be \nomitted after the &quot;N&quot; or left in. Either way. \nThis version also corrected a few minor mistakes that came up in the \noriginal. Let me know if there are any problems with, or mistakes in \nthis version. \nCEWest\n\n\n\n"
+}

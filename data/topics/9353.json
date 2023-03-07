@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 255258164,
+            "authorName": "k kobayakawa",
+            "from": "&quot;k kobayakawa&quot; &lt;kobaya635@...&gt;",
+            "profile": "shikisokuzekukusokuzeshiki8",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] jube",
+            "postDate": "1171462202",
+            "msgId": 9369,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZkMTk5M2ZlMDcwMjE0MDYxMHE2MDRmYzY4MHE0MDI2ZWYxOTk1ZDczYzNmQG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGVxZHExaCtwYWU3QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGVxZHExaCtwYWU3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9353,
+            "nextInTopic": 0,
+            "prevInTime": 9368,
+            "nextInTime": 9370,
+            "topicId": 9353,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yagyu Jube was born in 1607. Sekigahara was 1600. shikisoku",
+            "messageBody": "<div id=\"ygrps-yiv-619327231\">Yagyu Jube was born in 1607.<br/>\nSekigahara was 1600.<br/>\n<br/>\nshikisoku<br/>\n<br/>\n2007/2/8, Riffin Sukmana Hakim &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:hakim_it06@...\">hakim_it06@...</a>&gt;:<br/>\n<blockquote><span title=\"qreply\"> &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; thanks for the last answer, did jube take a part in sekigahara war? in<br/>\n&gt; which army he toke his part if he follow this war ? when yagyu clan be<br/>\n&gt; under tokugawa&#39;s martial art style ? is it right iga&#39;s ninja under<br/>\n&gt; tokugawa and yukimura ? thanks before, may be it is too much<br/>\n&gt; questions!!he,he<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 281537605,
+            "authorName": "Riffin Sukmana Hakim",
+            "from": "&quot;Riffin Sukmana Hakim&quot; &lt;hakim_it06@...&gt;",
+            "profile": "hakim_it06",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "jube",
+            "postDate": "1170893681",
+            "msgId": 9353,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVxZHExaCtwYWU3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9369,
+            "prevInTime": 9352,
+            "nextInTime": 9354,
+            "topicId": 9353,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "thanks for the last answer, did jube take a part in sekigahara war? in which army he toke his part if he follow this war ? when yagyu clan be under tokugawa s",
+            "messageBody": "<div id=\"ygrps-yiv-1884639987\">thanks for the last answer, did jube take a part in sekigahara war? in <br/>\nwhich army he toke his part if he follow this war ? when yagyu clan be <br/>\nunder tokugawa&#39;s martial art style ? is it right iga&#39;s ninja under <br/>\ntokugawa and yukimura ? thanks before, may be it is too much <br/>\nquestions!!he,he</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9347,
+    "nextTopicId": 203
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Japanese Sword Club",
+            "postDate": "1143005920",
+            "msgId": 8560,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDZDQTBBNDNGLUM0RDQtNEQzNi1BN0MxLTc0MTg5MDcyRTM1QUB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8559,
+            "nextInTime": 8561,
+            "topicId": 8560,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, Please allow a little bandwidth for a public service announcement; The Northern California Japanese Sword Club invites you to our annual Cherry",
+            "messageBody": "<div id=\"ygrps-yiv-217812787\">Dear All,<br/>\n\tPlease allow a little bandwidth for a public service announcement;<br/>\n<br/>\nThe Northern California Japanese Sword Club invites you to our annual  <br/>\nCherry Blossom display at San Francisco&#39;s Miyako Hotel. On Saturday  <br/>\nand Sunday April 22nd and 23rd, 2006 as part of this years&#39; Northern  <br/>\nCalifornia Cherry Blossom festival, our club will put on a display of  <br/>\nfine Japanese Swords, Armour, sword fittings and related materials in  <br/>\nthe Radisson Miyako Hotel Spring Room.<br/>\n\tThe display is free and open to the public, we will be there from  <br/>\n1100 to 1700 Saturday and 1000-1600 Sunday, we welcome people of all  <br/>\nages and levels interest. If you are in &quot;The City&quot; that weekend, join  <br/>\nthe festival, come see some art in steel and be sure to tell &#39;em Big  <br/>\nTom sent you!<br/>\n<br/>\n-t<br/>\n<br/>\nwww.ncjsc.org<br/>\nwww.nccbf.org</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8547,
+    "nextTopicId": 8553
+}

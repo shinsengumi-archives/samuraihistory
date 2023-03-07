@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Topknot-----resp",
+            "postDate": "1071959896",
+            "msgId": 2949,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlLjQyODMyNjQ5LjJkMTYyOTU4QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2948,
+            "nextInTime": 2950,
+            "topicId": 2949,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "BEING A SAMURAI MEANS NEVER HAVING TO SAY YOU ARE SORRY! HEHEHE [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1584967791\">BEING A SAMURAI MEANS NEVER HAVING TO SAY YOU ARE SORRY! HEHEHE<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2939,
+    "nextTopicId": 2940
+}

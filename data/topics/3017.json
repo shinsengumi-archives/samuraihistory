@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 104538904,
+            "authorName": "Thom Jason",
+            "from": "&quot;Thom Jason&quot; &lt;cabbit10@...&gt;",
+            "profile": "jaso1670",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re:Re:Samurai in Mummers&#39; Parade--------Phila Samurai",
+            "postDate": "1073244023",
+            "msgId": 3018,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNTUwMWMzZDJmNyRjZGQ5ZTQ3MCQ3OTZmNTQ0NEBDSEFPU01BQ0hJTkU+",
+                "referencesHeader": "PGQyLjI3Y2Y4MDQuMmQyOWJkM2ZAYW9sLmNvbT4="
+            },
+            "prevInTopic": 3017,
+            "nextInTopic": 0,
+            "prevInTime": 3017,
+            "nextInTime": 3019,
+            "topicId": 3017,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I can attest from experience that Scrapple Sushi will make you sick. Ahhhh, the old fraternity days... -Thom ... From:  To:",
+            "messageBody": "<div id=\"ygrps-yiv-537295399\">I can attest from experience that Scrapple Sushi will make you sick.<br/>\n<br/>\nAhhhh, the old fraternity days...<br/>\n<br/>\n-Thom<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:murphymurphyjohn@...\">murphymurphyjohn@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Sunday, January 04, 2004 2:02 PM<br/>\nSubject: [samuraihistory] Re:Re:Samurai in Mummers&#39; Parade--------Phila<br/>\nSamurai<br/>\n<br/>\n<br/>\n&gt; Instead of sushi,  make their favorite meal Philadelphia Scrapple.  Domo.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; ---<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; Samurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n&gt; --- <br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt; To visit your group on the web, go to:<br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n&gt;<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt; Your use of Yahoo! Groups is subject to:<br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:Re:Samurai in Mummers&#39; Parade--------Phila Samurai",
+            "postDate": "1073242943",
+            "msgId": 3017,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyLjI3Y2Y4MDQuMmQyOWJkM2ZAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3018,
+            "prevInTime": 3016,
+            "nextInTime": 3018,
+            "topicId": 3017,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Instead of sushi,  make their favorite meal Philadelphia Scrapple.  Domo. [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-334935681\">Instead of sushi,  make their favorite meal Philadelphia Scrapple.  Domo.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3012,
+    "nextTopicId": 3019
+}

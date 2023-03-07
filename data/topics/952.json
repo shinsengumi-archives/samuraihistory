@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 110648548,
+            "authorName": "ggouveia312000",
+            "from": "&quot;ggouveia312000&quot; &lt;ggouveia@...&gt;",
+            "profile": "ggouveia312000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Painting service",
+            "postDate": "1026719769",
+            "msgId": 952,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFndHY2cCtjanUwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 951,
+            "nextInTime": 953,
+            "topicId": 952,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Shameless Plug for Last Post Painting Service , by George Gouveia I have started this part-time. Click below to access my temporary page set up on Fanaticus.",
+            "messageBody": "<div id=\"ygrps-yiv-1116532178\">Shameless Plug for &quot;Last Post Painting Service&quot;, by George Gouveia<br/>\n<br/>\nI have started this part-time. Click below to access my temporary <br/>\npage set up on Fanaticus. Thanks Chris.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fanaticus.org/DBA/Bazaar/lastpost/index.html\">http://www.fanaticus.org/DBA/Bazaar/lastpost/index.html</a><br/>\n<br/>\nPic Samples of work available if requested.<br/>\n<br/>\nThanks and happy gaming,<br/>\nGeorge</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 948,
+    "nextTopicId": 957
+}

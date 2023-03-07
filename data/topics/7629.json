@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 121492,
+            "authorName": "nohit@aol.com",
+            "from": "nohit@...",
+            "profile": "ninaboal21044",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Miyamoto Musashi (was Re: [samuraihistory] Re: Top Ten Samurai Movies",
+            "postDate": "1125760176",
+            "msgId": 7629,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE5Yi4zYjZhZjk5OS4zMDRiMTZiMEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7628,
+            "nextInTime": 7630,
+            "topicId": 7629,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To anyone who might be interested in the life of Miyamoto Musashi. Just type in Miyamoto Musashi into Google or any other search engine. You will come up ",
+            "messageBody": "<div id=\"ygrps-yiv-1943154012\">To anyone who might be interested in the life of Miyamoto Musashi. Just type <br/>\nin &quot;Miyamoto Musashi&quot; into Google or any other search engine. You will come up <br/>\nwith some sites that offer historical information about his life. They are <br/>\nvaried and you simply have to use your logic to figure out which ones make the <br/>\nmost sense after reading several of them. <br/>\n<br/>\nYou can even read Miyamoto&#39;s own version of his life in his &quot;Book Of Five <br/>\nRings.&quot; Which is widely available, translated into several languages. <br/>\n<br/>\nSpeaking of individuals, this is one individual whose life fascinates me.<br/>\n<br/>\nNina</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7234,
+    "nextTopicId": 7628
+}

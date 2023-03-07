@@ -1,0 +1,98 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 27940151,
+            "authorName": "Barbara Nostrand",
+            "from": "Barbara Nostrand &lt;nostrand@...&gt;",
+            "profile": "drnostrand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai identity",
+            "postDate": "1150847368",
+            "msgId": 8899,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ5ODkzMDY2LURFRkYtNEZCRi1CQUU1LUIwNTczRjRGNjEzOUBhY20ub3JnPg==",
+                "inReplyToHeader": "PDQ0OTU4RjJFLjYwMTA0MDZAY294Lm5ldD4=",
+                "referencesHeader": "PGU3MWs3cis2ZDduQGVHcm91cHMuY29tPiA8NDQ5NThGMkUuNjAxMDQwNkBjb3gubmV0Pg=="
+            },
+            "prevInTopic": 8895,
+            "nextInTopic": 0,
+            "prevInTime": 8898,
+            "nextInTime": 8900,
+            "topicId": 8891,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. On the issue of swords. Pretty much all samurai had swords, but they frequently had something else as their primary weapon. Also, as Tony pointed out,",
+            "messageBody": "<div id=\"ygrps-yiv-968078721\">Hi.<br/>\n<br/>\nOn the issue of swords. Pretty much all samurai had swords, but they  <br/>\nfrequently had something else as their primary weapon. Also, as Tony  <br/>\npointed out, before the sword hunts at the end of the sixteenth  <br/>\ncentury, lots of peasants had swords. Further, before the end of the  <br/>\nsixteenth century, the distinction between peasant and samurai could  <br/>\nbe a bit blurry as the &quot;ji-samurai&quot; engaged in farming.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 232440797,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;anthony_bryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai identity",
+            "postDate": "1150652206",
+            "msgId": 8895,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ0OTU4RjJFLjYwMTA0MDZAY294Lm5ldD4=",
+                "inReplyToHeader": "PGU3MWs3cis2ZDduQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGU3MWs3cis2ZDduQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8891,
+            "nextInTopic": 8899,
+            "prevInTime": 8894,
+            "nextInTime": 8896,
+            "topicId": 8891,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I m not sure if I understand the question, but it seems to smack of Hollywood myth backgrounds. A samurai was a member of an elite social class. It was a ",
+            "messageBody": "<div id=\"ygrps-yiv-1831234110\">bacetech wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; Was a samurai only classified by his sword, or could he be<br/>\n&gt; considered a warrior in our modern world. Is what made a samurai not<br/>\n&gt; the quality of his sword, but the state of his mind and soul in<br/>\n&gt; everyday life. Sorry this question is so corny but i couldnt think of<br/>\n&gt; any better way to type it. At first this doesnt sound like history but<br/>\n&gt; i suppose it could be if you consider edo period samurai in the<br/>\n&gt; question. Also i cant ask a question straightforward.<br/>\n<br/>\n </span></blockquote>I&#39;m not sure if I understand the question, but it seems to <br/>\nsmack of Hollywood myth backgrounds.<br/>\n<br/>\nA samurai was a member of an elite social class. It was a <br/>\nsocial CASTE. A sword was a weapon. NSome non-samurai had <br/>\nswords, some samurai used weapons other than swords.<br/>\n<br/>\n<br/>\nTony<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff):<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nAll sorts of cool things Japanese and SCA:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/sengokudaimyo\">http://www.cafepress.com/sengokudaimyo</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 263536898,
+            "authorName": "bacetech",
+            "from": "&quot;bacetech&quot; &lt;bacetech@...&gt;",
+            "profile": "bacetech",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai identity",
+            "postDate": "1150571579",
+            "msgId": 8891,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3MWs3cis2ZDduQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8895,
+            "prevInTime": 8890,
+            "nextInTime": 8892,
+            "topicId": 8891,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Was a samurai only classified by his sword, or could he be considered a warrior in our modern world. Is what made a samurai not the quality of his sword, but",
+            "messageBody": "<div id=\"ygrps-yiv-1981654797\">Was a samurai only classified by his sword, or could he be <br/>\nconsidered a warrior in our modern world. Is what made a samurai not <br/>\nthe quality of his sword, but the state of his mind and soul in <br/>\neveryday life. Sorry this question is so corny but i couldnt think of <br/>\nany better way to type it. At first this doesnt sound like history but <br/>\ni suppose it could be if you consider edo period samurai in the <br/>\nquestion. Also i cant ask a question straightforward.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8890,
+    "nextTopicId": 8860
+}

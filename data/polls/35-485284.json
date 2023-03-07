@@ -1,0 +1,113 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 485284,
+    "listId": 2247946,
+    "dateCreated": 978742604,
+    "userIdCreated": 12240860,
+    "dateEnd": 983595540,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "What is your favorite samurai \nfamily during the Sengoku period?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 3977842,
+            "selectionText": "Oda",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977843,
+            "selectionText": "Hojo",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977844,
+            "selectionText": "Mori",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977845,
+            "selectionText": "Uesugi",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977846,
+            "selectionText": "Takeda",
+            "selections": 2,
+            "voted": false
+        },
+        {
+            "selectionId": 3977847,
+            "selectionText": "Imagawa",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977848,
+            "selectionText": "Akechi",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977849,
+            "selectionText": "Asai",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977850,
+            "selectionText": "Saito",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977851,
+            "selectionText": "Tokugawa",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977852,
+            "selectionText": "Shibata",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977853,
+            "selectionText": "Hachisuka",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977854,
+            "selectionText": "Shimazu",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977855,
+            "selectionText": "Ronin",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 3977856,
+            "selectionText": "Other",
+            "selections": 1,
+            "voted": false
+        }
+    ],
+    "voteCount": 3,
+    "previousSurveyId": 900315,
+    "nextSurveyId": 0
+}

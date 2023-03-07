@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Daimyo standards and warrior sashimonos?",
+            "postDate": "1028071347",
+            "msgId": 1012,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwNzMwMjMyMjI3Ljk3NDUwLnFtYWlsQHdlYjE0NzA2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGFocGNsaytqN2JrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 987,
+            "nextInTopic": 0,
+            "prevInTime": 1011,
+            "nextInTime": 1013,
+            "topicId": 987,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Check out Stephen Turnbull s books, he s got detailed lists of the Takeda familiy heraldry in the Samurai Sourcebook and Samurai Warlords. ",
+            "messageBody": "<div id=\"ygrps-yiv-1758743633\">Check out Stephen Turnbull&#39;s books, he&#39;s got detailed<br/>\nlists of the Takeda familiy heraldry in the Samurai<br/>\nSourcebook and Samurai Warlords. <br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nYahoo! Health - Feel better, live better<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://health.yahoo.com\">http://health.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 110648548,
+            "authorName": "ggouveia312000",
+            "from": "&quot;ggouveia312000&quot; &lt;ggouveia@...&gt;",
+            "profile": "ggouveia312000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Daimyo standards and warrior sashimonos?",
+            "postDate": "1027618292",
+            "msgId": 987,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFocGNsaytqN2JrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1012,
+            "prevInTime": 986,
+            "nextInTime": 988,
+            "topicId": 987,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a question about the Daimyo s standards and the retainers sashimono. Would the colour of the sashimono for his samurai and ashigaru generally be the",
+            "messageBody": "<div id=\"ygrps-yiv-409734163\">I have a question about the Daimyo&#39;s standards and the retainers <br/>\nsashimono. Would the colour of the sashimono for his samurai and <br/>\nashigaru generally be the colour of the lord&#39;s banner? Ex. For Takeda <br/>\nwho had a red banner with black symbol, would his followers have the <br/>\nTaekda black lozenge on a red background?<br/>\n<br/>\nWho else would have a Takeda lozenge mon? Any direct family member <br/>\nbut with a background colour as per the lord&#39;s banner? I have a print <br/>\nof a Takeda army crossing a river with Shingen&#39;s men having white <br/>\nbackround on their mon with a red symbol. Also present are men in <br/>\nanother area that have a white background with a black lozenge. Are <br/>\nthese men from a different Takeda general????????<br/>\n<br/>\nWould the mon of Takeda&#39;s 24 generals ashigaru and samurai be a <br/>\nTakeda mon or something similar to the specific general&#39;s mon?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 953,
+    "nextTopicId": 990
+}

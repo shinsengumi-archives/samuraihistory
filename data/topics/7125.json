@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 214046052,
+            "authorName": "John Hinds",
+            "from": "&quot;John Hinds&quot; &lt;jdh351@...&gt;",
+            "profile": "jdh351",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "introductions are a must shokai shimashoo",
+            "postDate": "1116036847",
+            "msgId": 7125,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2M210Zis0cTJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7124,
+            "nextInTime": 7126,
+            "topicId": 7125,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello group, Just thought that I would introduce myself.  My name is John and I am a student of Japanese language and Anthropology.  My main interest, of ",
+            "messageBody": "<div id=\"ygrps-yiv-1446735305\">Hello group,<br/>\n Just thought that I would introduce myself.  My name is John and I am <br/>\na student of Japanese language and Anthropology.  My main interest, of <br/>\ncourse, is the history and culture of Japan.  What I plan to do with <br/>\nthis interest is unknown to me, but I was hoping to chat with some <br/>\nlike minded individuals in this forum. Hello.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7117,
+    "nextTopicId": 7043
+}

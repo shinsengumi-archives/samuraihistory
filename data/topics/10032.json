@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Fiction 2009",
+            "postDate": "1257820079",
+            "msgId": 10032,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhkYWozZithZXEwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10031,
+            "nextInTime": 10033,
+            "topicId": 10032,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The deadline for the 2009 Samurai Fiction Contest has been extended to December 1st, 2009. See this link for details: ",
+            "messageBody": "<div id=\"ygrps-yiv-1836711085\">The deadline for the 2009 Samurai Fiction Contest has been extended to December 1st, 2009.<br/>\n<br/>\nSee this link for details: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9629,
+    "nextTopicId": 10018
+}

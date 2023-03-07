@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Leeds Conference",
+            "postDate": "1148370939",
+            "msgId": 8830,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGQwMWM2N2U0MCRlZDFmNWM2MCQ0OGIyMmY1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8829,
+            "nextInTime": 8831,
+            "topicId": 8830,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all Details of the apeakers at International Conference on Japanese Arms and Armour, to be held at The Royal Armouries in Leeds, Yorkshire are now",
+            "messageBody": "<div id=\"ygrps-yiv-1448382020\">Dear all<br/>\nDetails of the apeakers at International Conference on Japanese Arms and Armour, to be held at The Royal Armouries in Leeds, Yorkshire are now released as follows:<br/>\n<br/>\nSAT 28 Oct<br/>\n10.00 Clive Sinclaire - Appreciating and Collecting Japanese Swords from a Westerner&#39;s Perspective.<br/>\n11.15 Richard Suran - Echizen Kinai Tsuba<br/>\n13.45 Leon Kapp - The Art of The Japanese Sword, Aesthetics and Function are Inseperable.<br/>\n16.00 - Takaiwa Setsuo - Sword Polishing<br/>\n<br/>\nSUNDAY 28 OCT<br/>\n10.00 - Victor Harris - The Japanese Aesthetic<br/>\n11.15 - Yoshihara Yoshindo - The Process and Features of Japanese Swordmaking, the Jigane and Hamon<br/>\n13.45 - Graham Curtis - Characteristic Kitae in the context of Kantei<br/>\n14.45 - Matsunaga Hirokichi - The History of Kodugu and the charateristics of schools and styles<br/>\n16.00 - Ogasawara Nobuo - Masamune<br/>\nMONDAY30 OCT<br/>\nHands on swords of the collection.<br/>\n<br/>\nFor further details e-mail Jon Copley at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jon.copley@...\">jon.copley@...</a>. We will also have them on our to-ken society web site as soon as possible.<br/>\nRegards<br/>\nClive Sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8828,
+    "nextTopicId": 8747
+}

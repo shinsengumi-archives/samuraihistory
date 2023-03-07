@@ -1,0 +1,90 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "war3271200",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1903178,
+    "listId": 2247946,
+    "dateCreated": 1121643163,
+    "userIdCreated": 210287375,
+    "dateEnd": 1133326740,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "If Shigan was still alive during the the Battle of Nagshino, \nwould the Takeda army have won?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 13983742,
+            "selectionText": "Yes",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 13983742,
+                    "surveyId": 1903178,
+                    "userId": 231015865,
+                    "nickname": "starwarsjedi08",
+                    "email": "StarWarsJedi08@aol.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 13983743,
+            "selectionText": "No",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 13983743,
+                    "surveyId": 1903178,
+                    "userId": 101560437,
+                    "email": "takayama_hara@yahoo.com"
+                },
+                {
+                    "selectionId": 13983743,
+                    "surveyId": 1903178,
+                    "userId": 235011896,
+                    "email": "yoshishigesatake@yahoo.com.tw"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 13983744,
+            "selectionText": "They would have done better, but they still would have lost",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 13983744,
+                    "surveyId": 1903178,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 13983744,
+                    "surveyId": 1903178,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 13983744,
+                    "surveyId": 1903178,
+                    "userId": 236824407,
+                    "nickname": "kosaka_samurai",
+                    "email": "kosaka_samurai@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 8,
+    "previousSurveyId": 1911577,
+    "nextSurveyId": 1903176
+}

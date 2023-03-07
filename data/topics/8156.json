@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 102344422,
+            "authorName": "Randy Schadel",
+            "from": "&quot;Randy Schadel&quot; &lt;ayamechiba@...&gt;",
+            "profile": "kurotatsunoshi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: The invasion of Aizu",
+            "postDate": "1136032091",
+            "msgId": 8157,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwNXRncitoYTd0QGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRwMmZmaStuc3JhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8156,
+            "nextInTopic": 0,
+            "prevInTime": 8156,
+            "nextInTime": 8158,
+            "topicId": 8156,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Maeda Keijiro was a minor samurai who lived from 1540-1612. He was originally born into the Takigawa clan but later was adopted by Maeda Toshihisa (Maeda",
+            "messageBody": "<div id=\"ygrps-yiv-172805147\">Maeda Keijiro was a minor samurai who lived from 1540-1612. He was originally born into the Takigawa clan but later was adopted by Maeda Toshihisa (Maeda Toshiie&#39;s brother) when Toshihisa married Keijiro&#39;s mother. He was drummed out of the Maeda clan when Toshiie took over leadership from Toshihisa. He resurfaced about the time of the battle of Sekigahara, fighting for the Uesugi clan against the northeastern allies of the Eastern army (primarily the Date, Mogami, etc) under his new name of Hyottosai Kokuzoin. He was of course on the losing side and ended up becoming a ronin again, living out his final years in a small one room cottage. His travel journal, armor, and spear are on display at one of the Uesugi castle museums-I&#39;m pretty sure it&#39;s Kasugayama-jo.<br/>\nDespite having a rather bland career, he has found fame through kabuki performances, a popular early 90&#39;s manga series, and Koei video games.<br/>\nAs to your other question, invasion of Aizu by who? Lots of fighting went on there over several centuries.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 241770376,
+            "authorName": "Ijin Mibu",
+            "from": "&quot;Ijin Mibu&quot; &lt;ijinmibu@...&gt;",
+            "profile": "ijinmibu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "The invasion of Aizu",
+            "postDate": "1135919410",
+            "msgId": 8156,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwMmZmaStuc3JhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8157,
+            "prevInTime": 8155,
+            "nextInTime": 8157,
+            "topicId": 8156,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know what year the invasion of Aizu took place, and does anyone no alot about Keiji Maeda. He wasn t just a game character! thanks,Ijin",
+            "messageBody": "<div id=\"ygrps-yiv-552209677\">Does anyone know what year the invasion of Aizu took place, and <br/>\ndoes anyone no alot about Keiji Maeda. He wasn&#39;t just a game character!<br/>\n    <br/>\n        thanks,Ijin</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8152,
+    "nextTopicId": 8008
+}

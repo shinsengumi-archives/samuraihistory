@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "Mikiko Letham",
+            "from": "&quot;Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] History Question",
+            "postDate": "1029680681",
+            "msgId": 1110,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYjcwMWMyNDZjMyQ3MzFkZTAyMCQ1YmI4ZGJjYUBuZS5qcD4=",
+                "referencesHeader": "PGFqaTUybCtnYnI0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1098,
+            "nextInTopic": 0,
+            "prevInTime": 1109,
+            "nextInTime": 1111,
+            "topicId": 1098,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There were quite a few small scale rebellions during the Edo period mostly during poor harvest periods. I don t recall what weapons they used. Shimabara s",
+            "messageBody": "<div id=\"ygrps-yiv-1038684366\">There were quite a few small scale rebellions during the Edo period mostly<br/>\nduring poor harvest periods. I don&#39;t recall what weapons they used.<br/>\nShimabara&#39;s revolt involved ronin as well as peasants. Some books that might<br/>\nhelp &#39;Peasant protests and uprisings in Tokugawa Japan&#39; Stephan Vlastos,<br/>\n&#39;Peasant Protest in Japan&#39; Herbert Bix. Both books focus on the social<br/>\nconditions of the revolts, not on the military aspects.<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: nkbhvs &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:nkbhvs@...\">nkbhvs@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Friday, August 16, 2002 3:11 PM<br/>\nSubject: [samuraihistory] History Question<br/>\n<br/>\n<br/>\n&gt; I&#39;m researching an historical event(or events?) about farmers<br/>\n&gt; rebelling against their Samurai masters using their farm tools as<br/>\n&gt; weapons. Am I correct that it was the Shimabara rebellion? If not,<br/>\n&gt; please help me find the right event.<br/>\n&gt;<br/>\n&gt; I need specific names and dates and locations. Any info or links or<br/>\n&gt; book recommendations would be great.<br/>\n&gt;<br/>\n&gt; Thank you,<br/>\n&gt; Doug C.<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; ---<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Your use of Yahoo! Groups is subject to <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 62260904,
+            "authorName": "nkbhvs",
+            "from": "&quot;nkbhvs&quot; &lt;nkbhvs@...&gt;",
+            "profile": "nkbhvs",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "History Question",
+            "postDate": "1029478293",
+            "msgId": 1098,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFqaTUybCtnYnI0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1110,
+            "prevInTime": 1097,
+            "nextInTime": 1099,
+            "topicId": 1098,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m researching an historical event(or events?) about farmers rebelling against their Samurai masters using their farm tools as weapons. Am I correct that it",
+            "messageBody": "<div id=\"ygrps-yiv-2092376977\">I&#39;m researching an historical event(or events?) about farmers <br/>\nrebelling against their Samurai masters using their farm tools as <br/>\nweapons. Am I correct that it was the Shimabara rebellion? If not, <br/>\nplease help me find the right event.<br/>\n<br/>\nI need specific names and dates and locations. Any info or links or <br/>\nbook recommendations would be great.<br/>\n<br/>\nThank you,<br/>\nDoug C.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1109,
+    "nextTopicId": 1103
+}

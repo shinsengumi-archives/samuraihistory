@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 63629217,
+            "authorName": "iganokami",
+            "from": "&quot;iganokami&quot; &lt;fredjnsn@...&gt;",
+            "profile": "iganokami",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: George Lucas made a Samurai film !!",
+            "postDate": "1027659928",
+            "msgId": 995,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFocWxhbytvZXZwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGFocHFpOStzaDJoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 989,
+            "nextInTopic": 0,
+            "prevInTime": 994,
+            "nextInTime": 996,
+            "topicId": 989,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "He was a producer on Kagemusha , but Akira Kurosawa was the director...",
+            "messageBody": "<div id=\"ygrps-yiv-340332440\">He was a producer on &#39;Kagemusha&#39;, but Akira Kurosawa was the director...<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In samuraihistory@y..., &quot;squrpio_prince&quot; &lt;squrpio_prince@y...&gt; wrote:<br/>\n&gt;   I saw a movie at blockbuster ( It was rented out) that was a <br/>\n&gt; samurai movie that said that it was directed or produced by George <br/>\n&gt; Lucas. I don&#39;t remember what it was called by I do remember that it <br/>\n&gt; was made in 1980. <br/>\n&gt; <br/>\n&gt; Ryan </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 119500921,
+            "authorName": "squrpio_prince",
+            "from": "&quot;squrpio_prince&quot; &lt;squrpio_prince@...&gt;",
+            "profile": "squrpio_prince",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "George Lucas made a Samurai film !!",
+            "postDate": "1027632521",
+            "msgId": 989,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFocHFpOStzaDJoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 995,
+            "prevInTime": 988,
+            "nextInTime": 990,
+            "topicId": 989,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I saw a movie at blockbuster ( It was rented out) that was a samurai movie that said that it was directed or produced by George Lucas. I don t remember what it",
+            "messageBody": "<div id=\"ygrps-yiv-1178322182\">I saw a movie at blockbuster ( It was rented out) that was a <br/>\nsamurai movie that said that it was directed or produced by George <br/>\nLucas. I don&#39;t remember what it was called by I do remember that it <br/>\nwas made in 1980. <br/>\n<br/>\nRyan</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 958,
+    "nextTopicId": 982
+}

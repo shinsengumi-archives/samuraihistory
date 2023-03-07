@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sword Lecture",
+            "postDate": "1099474042",
+            "msgId": 5868,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTAwMWM0YzE4NyQ3NjYyMGVhMCRlMWM0ZTE1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5867,
+            "nextInTime": 5869,
+            "topicId": 5868,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ladies and gentlemen We have just up-dated our web site with the transcript of an informal chat I gave at the London Arms Fair in September. This was an",
+            "messageBody": "<div id=\"ygrps-yiv-1046363390\">Ladies and gentlemen<br/>\nWe have just up-dated our web site with the transcript of an informal chat I gave at the London Arms Fair in September. This was an illustrated talk with 12 swords dating from the Kamakura to the Bakamatsu period. The transcript is a bit &quot;sketchy&quot; and the oshigata are rather poor but, for what its worth you may find it of some interest on www.to-ken.com under Articles.<br/>\nBest regards<br/>\nClive Sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5843,
+    "nextTopicId": 5882
+}

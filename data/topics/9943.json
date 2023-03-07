@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai History group applications",
+            "postDate": "1244686548",
+            "msgId": 9943,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGgwcHBjaytwNzVvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9942,
+            "nextInTime": 9944,
+            "topicId": 9943,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just a few neat little additions to this group - if you look at the lefthand bar on this yahoo group website, you ll see the Application link near the",
+            "messageBody": "<div id=\"ygrps-yiv-339680567\">Just a few neat little additions to this group - if you look at the lefthand bar on this yahoo group website, you&#39;ll see the &quot;Application&quot; link near the bottom.  In there you&#39;ll find a map where you can pinpoint your location, as well as a &quot;historic spots&quot; map, where you can add historic spots in Japan to see to the map, to let everyone know the interesting stuff to see.  Anyone and everyone has access to it, so feel free to add your location on the member map, and your favorite spots in Japan to the historical spots map.  This is the direct link here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/grouplets/subscriptions\">http://groups.yahoo.com/group/samuraihistory/grouplets/subscriptions</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9910,
+    "nextTopicId": 9916
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Back on track",
+            "postDate": "1158446635",
+            "msgId": 9062,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVlaHVuYis3N3U1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9061,
+            "nextInTime": 9063,
+            "topicId": 9062,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry for the backlog of email, I wasn t around to check, and neither was the moderator, apparently.",
+            "messageBody": "<div id=\"ygrps-yiv-397358857\">Sorry for the backlog of email, I wasn&#39;t around to check, and neither<br/>\nwas the moderator, apparently.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 419,
+    "nextTopicId": 9043
+}

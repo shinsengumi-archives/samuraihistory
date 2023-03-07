@@ -1,0 +1,96 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hagakure crest ?",
+            "postDate": "1044942815",
+            "msgId": 1457,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTExMWIwOGJhNmU0MDMzMWMzY0BbNjUuMTcyLjIzOS40OF0+",
+                "inReplyToHeader": "PGIyOHRxNyttbzVsQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGIyOHRxNyttbzVsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1453,
+            "nextInTopic": 0,
+            "prevInTime": 1456,
+            "nextInTime": 1458,
+            "topicId": 1452,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Probably the mon of the Nabeshima Family is they got it right... -t [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1777408535\">Probably the mon of the Nabeshima Family is they got it right...<br/>\n<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 112242612,
+            "authorName": "Tobias A Heiberg",
+            "from": "Tobias A Heiberg &lt;tobiasaheiberg@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hagakure crest ?",
+            "postDate": "1044913561",
+            "msgId": 1453,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwMjEwMjE0NjAxLjQxNzA4LnFtYWlsQHdlYjEzMTAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGIyOHRxNyttbzVsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1452,
+            "nextInTopic": 1457,
+            "prevInTime": 1452,
+            "nextInTime": 1454,
+            "topicId": 1452,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Unfortunately I can not answer your question regarding the crest, but I too have just read the book (for the fifth time i think..) an I LOVE IT!! So, hwat I",
+            "messageBody": "<div id=\"ygrps-yiv-366499397\">Unfortunately I can not answer your question regarding the crest, but I<br/>\ntoo have just read the book (for the fifth time i think..) an I LOVE IT!!<br/>\nSo, hwat I would like to knowe is wether someone has a recommendation for<br/>\na book along the same kind of line - maybe something more on the art af<br/>\nwarfare and tactics...??<br/>\n<br/>\nMy appologies for adding a question to a question.<br/>\n<br/>\ntobias<br/>\n<br/>\n__________________________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail Plus - Powerful. Affordable. Sign up now.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mailplus.yahoo.com\">http://mailplus.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 137945721,
+            "authorName": "evilelvis0420 &lt;evilelvis0420@yahoo.com&gt;",
+            "from": "&quot;evilelvis0420 &lt;evilelvis0420@...&gt;&quot; &lt;evilelvis0420@...&gt;",
+            "profile": "evilelvis0420",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hagakure crest ?",
+            "postDate": "1044904583",
+            "msgId": 1452,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIyOHRxNyttbzVsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1453,
+            "prevInTime": 1451,
+            "nextInTime": 1453,
+            "topicId": 1452,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just finished reading the Hagakure by Yamamoto Tsunemoto , and I was wondering what the signifigance of the crest on the cover of the book was.  Is it a",
+            "messageBody": "<div id=\"ygrps-yiv-1096921829\">I just finished reading the &#39;Hagakure&#39; by Yamamoto Tsunemoto , and I <br/>\nwas wondering what the signifigance of the crest on the cover of the <br/>\nbook was.  Is it a family crest or some sort of symbol for something?<br/>\nIf anyone could answer my question I would greatly appreciate it.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1454,
+    "nextTopicId": 1418
+}

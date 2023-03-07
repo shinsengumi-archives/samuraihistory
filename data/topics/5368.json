@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hideyoshi and Yoshimoto",
+            "postDate": "1093217015",
+            "msgId": 5374,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODIyMjMyMzM1LjM1MDgzLnFtYWlsQHdlYjQxMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNnOWw2Yytwdms0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5368,
+            "nextInTopic": 0,
+            "prevInTime": 5373,
+            "nextInTime": 5375,
+            "topicId": 5368,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Confirmed by Berry. Don t have the book with me, but she discusses it. __________________________________ Do you Yahoo!? New and Improved Yahoo! Mail -",
+            "messageBody": "<div id=\"ygrps-yiv-1908175454\">--- Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;<br/>\nwrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I read recently that at age 13 Hideyoshi left home,<br/>\n&gt; and eventually <br/>\n&gt; ended up in the service of Imagawa Yoshimoto, but<br/>\n&gt; then left to go <br/>\n&gt; serve Nobunaga.  Anyone have any info on this?<br/>\n<br/>\n </span></blockquote>Confirmed by Berry. Don&#39;t have the book with me, but<br/>\nshe discusses it.<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nNew and Improved Yahoo! Mail - Send 10MB messages!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hideyoshi and Yoshimoto",
+            "postDate": "1093163020",
+            "msgId": 5368,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNnOWw2Yytwdms0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5374,
+            "prevInTime": 5367,
+            "nextInTime": 5369,
+            "topicId": 5368,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I read recently that at age 13 Hideyoshi left home, and eventually ended up in the service of Imagawa Yoshimoto, but then left to go serve Nobunaga.  Anyone",
+            "messageBody": "<div id=\"ygrps-yiv-1786978081\">I read recently that at age 13 Hideyoshi left home, and eventually <br/>\nended up in the service of Imagawa Yoshimoto, but then left to go <br/>\nserve Nobunaga.  Anyone have any info on this?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5370,
+    "nextTopicId": 5369
+}

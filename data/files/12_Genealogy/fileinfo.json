@@ -1,0 +1,50 @@
+[
+    {
+        "fileName": "Fujiwara3.JPG",
+        "description": "Page 3 of the Fujiwara Genealogy - the right hand side of page 2",
+        "ownerName": "kitsuno",
+        "pathURI": "/Genealogy/Fujiwara3.JPG",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/Fujiwara3.JPG?token=ljO9ChTrNZ3JnXd_0bXX9vU4vsTBhzdPLBBRn_mD8AMEu1wNyJoVVLPd69uKwA372ol9zJBGmI6bkINFiBR-8SLKiEuvwp85GWT-EWG3gxHyEie8g_Q&type=download",
+        "userID": 9022071,
+        "createdTime": 982726128,
+        "type": 0,
+        "size": 81470,
+        "mimeType": "image/pjpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "Fujiwara2.JPG",
+        "description": "Fujiwara Genealogy, P.2",
+        "ownerName": "kitsuno",
+        "pathURI": "/Genealogy/Fujiwara2.JPG",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/Fujiwara2.JPG?token=YHKTT9J0qYZCxeWRfLhvKJbsirKG1-a1ze2Xf9ezmKlbEDRpudjGSQ6onckB9yr29QXyA1ajddKhVFKlu5CXAnKXhQrGufmhyM5i4Bz8CK-55bZLDdI&type=download",
+        "userID": 9022071,
+        "createdTime": 982021767,
+        "type": 0,
+        "size": 375659,
+        "mimeType": "image/pjpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    },
+    {
+        "fileName": "Fujiwara1.JPG",
+        "description": "Fujiwara Genealogy (Decendants of Kamatari Fujiwara), Page 1",
+        "ownerName": "kitsuno",
+        "pathURI": "/Genealogy/Fujiwara1.JPG",
+        "downloadURL": "https://xa.yimg.com/df/samuraihistory/Fujiwara1.JPG?token=OGN1OifwBOqpEJjcxLVH_OP1in4e6Q1O6-iSWjx4KGCKLCYXoE40jFU1vwhjeA9iQrVVqBuYLHc_RpbQymcH1hDm_v-XZhyeEXZ7nKkG8mSaCse5O4c&type=download",
+        "userID": 9022071,
+        "createdTime": 981769308,
+        "type": 0,
+        "size": 191600,
+        "mimeType": "image/pjpeg",
+        "option": 0,
+        "fileOptionFlags": [
+            "SF_OPT_NONE"
+        ]
+    }
+]

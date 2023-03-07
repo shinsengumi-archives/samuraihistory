@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] how can i find out if i have saurai in my history?",
+            "postDate": "1071199186",
+            "msgId": 2847,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDA5OUFFMDU0LTJDNTItMTFEOC1CRERCLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGJyNmJvMis4ZWprQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2796,
+            "nextInTopic": 0,
+            "prevInTime": 2846,
+            "nextInTime": 2848,
+            "topicId": 2796,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Jennifer- Since this is a history list, there is likely no one here who can assist your search. You ll need to check genealogical sites or perhaps the San",
+            "messageBody": "<div id=\"ygrps-yiv-225034864\">Jennifer-<br/>\nSince this is a &quot;history&quot; list, there is likely no one here who can <br/>\nassist your search. You&#39;ll need to check genealogical sites or perhaps <br/>\nthe San Francisco Japanese-American  History Archives. Now if you want <br/>\nto learn more about what that heritage means check out;<br/>\n  www.samurai-archive.com/<br/>\n<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 168651553,
+            "authorName": "jennifermcorcoran",
+            "from": "&quot;jennifermcorcoran&quot; &lt;jennifermcorcoran@...&gt;",
+            "profile": "jennifermcorcoran",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "how can i find out if i have saurai in my history?",
+            "postDate": "1071034946",
+            "msgId": 2796,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJyNmJvMis4ZWprQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2847,
+            "prevInTime": 2795,
+            "nextInTime": 2797,
+            "topicId": 2796,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I m 25 % Japenese.  My mom was born at the foot of Mt. Fuji and lived there until she was 8. My grandmother was a fascinating women who stayed very true to",
+            "messageBody": "<div id=\"ygrps-yiv-345760605\">Hi!<br/>\n I&#39;m 25 % Japenese.  My mom was born at the foot of Mt. Fuji and <br/>\nlived there until she was 8. My grandmother was a fascinating women <br/>\nwho stayed very true to her culture.  Before she died, I remember <br/>\nher talking of some kind of history of Samurai in her family.  Is <br/>\nthere any way I can find out if it was true?  It&#39;s not that I doubt <br/>\nher honesty, it&#39;s just that she was sick in the end, and not as <br/>\nsharp as before.  Her Japenese name was Akiko Takeuchi.  I think I <br/>\nspelled that right.  Any help would be appriecated!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2822,
+    "nextTopicId": 2849
+}

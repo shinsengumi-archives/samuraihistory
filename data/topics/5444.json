@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sengoku Clan Genealogy Quiz",
+            "postDate": "1093680707",
+            "msgId": 5444,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNncGVvMys5MWdsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5443,
+            "nextInTime": 5445,
+            "topicId": 5444,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I know this was posted to the Samurai History Forum, but I dont recall if it was posted here, so I will post the link, which yahoo is guaranteed to butcher, so",
+            "messageBody": "<div id=\"ygrps-yiv-672433375\">I know this was posted to the Samurai History Forum, but I dont <br/>\nrecall if it was posted here, so I will post the link, which yahoo is <br/>\nguaranteed to butcher, so it will likely take some cutting and <br/>\npasting to get it right:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www01.quizyourfriends.com/scoreboard.php?quizname=040207035941-\">http://www01.quizyourfriends.com/scoreboard.php?quizname=040207035941-</a><br/>\n~p27Sengoku~p20Clans~p27~p20quiz&c=0&a=18</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5442,
+    "nextTopicId": 5445
+}

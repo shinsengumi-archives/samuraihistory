@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 113689370,
+            "authorName": "kallikrates777",
+            "from": "&quot;kallikrates777&quot; &lt;kallikrates777@...&gt;",
+            "profile": "kallikrates777",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Executioners on the Bakumatsu",
+            "postDate": "1023830422",
+            "msgId": 901,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFlNXBpbSs5dXRuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 900,
+            "nextInTime": 902,
+            "topicId": 901,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like to know how can I find info about a ronin by the name KawaKami GenSan , that fought for the Meiji during the Bakumatsu. He was a superb swordsman",
+            "messageBody": "<div id=\"ygrps-yiv-636534111\">I would like to know how can I find info about a ronin by the name <br/>\nKawaKami GenSan , that fought for the Meiji during the Bakumatsu.<br/>\n<br/>\nHe was a superb swordsman of the Shiranui Ryu school and seems to <br/>\nhave been killed after the restoration by his former allies (he <br/>\nwasn&#39;t satisfied with the Meiji politics).<br/>\n<br/>\nAny information about he or his school, or means to get it, will be <br/>\ngreatly welcome.<br/>\n<br/>\n     Kallikrates</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 895,
+    "nextTopicId": 900
+}

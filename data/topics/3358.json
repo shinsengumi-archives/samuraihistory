@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 43901450,
+            "authorName": "Parker S. Lyle",
+            "from": "&quot;Parker S. Lyle&quot; &lt;rntihg@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mass Lecture",
+            "postDate": "1075179525",
+            "msgId": 3358,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PFNlYTItRjI0dU9sdlg2RDk2ZG8wMDAyYmI5ZkBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3357,
+            "nextInTime": 3359,
+            "topicId": 3358,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I hasve a question for Cepo: How did you come by this lecture? -Shannon _________________________________________________________________ ",
+            "messageBody": "<div id=\"ygrps-yiv-1815956162\">I hasve a question for Cepo:<br/>\n<br/>\nHow did you come by this lecture?<br/>\n<br/>\n-Shannon<br/>\n<br/>\n_________________________________________________________________<br/>\n友達と24時間ホットライン「MSN メッセンジャー」、今すぐダウンロード！  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://messenger.msn.co.jp\">http://messenger.msn.co.jp</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3265,
+    "nextTopicId": 3316
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai History Forum- RT Chat",
+            "postDate": "1030122227",
+            "msgId": 1128,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFrNXB0aitmcHZ2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1127,
+            "nextInTime": 1129,
+            "topicId": 1128,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone who doesn t know, there is a forum also associated with this group: http://forums.delphiforums.com/samuraihistory/ Recently a real time chat",
+            "messageBody": "<div id=\"ygrps-yiv-322669397\">For anyone who doesn&#39;t know, there is a forum also associated with <br/>\nthis group: <a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.delphiforums.com/samuraihistory/\">http://forums.delphiforums.com/samuraihistory/</a><br/>\n<br/>\nRecently a &#39;real time chat&#39; feature has been added, so anyone <br/>\ninterested, sign up and log in. People randomly check the chat room <br/>\nthroughout the day and night. <br/>\nIt is a delphi forum, so there is no charge and a simple sign up <br/>\nprocess.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 869,
+    "nextTopicId": 1129
+}

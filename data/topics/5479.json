@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sono Toki.... Oda Nobunaga and Saito Dosan",
+            "postDate": "1094649042",
+            "msgId": 5479,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNobjBjaSs1aWt0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5478,
+            "nextInTime": 5480,
+            "topicId": 5479,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just finished watching this weeks episode of Sono toki rekishi ga ugoita .  It examined the relationship between Oda Nobunaga and Saito Dosan, as well as the",
+            "messageBody": "<div id=\"ygrps-yiv-294990060\">Just finished watching this weeks episode of &quot;Sono toki rekishi ga <br/>\nugoita&quot;.  It examined the relationship between Oda Nobunaga and Saito <br/>\nDosan, as well as the 4 years leading up to Nobunaga&#39;s invasion of <br/>\nMino.  It said recent scholarship points to Nobunaga being heavily <br/>\ninfluenced by Dosan (as opposed to his father, Oda Nobutora), who was <br/>\nvery brutal in his own right.  Definately an interesting show, anyone <br/>\nwith NHK should take a look, although next week is Lawrence of <br/>\nArabia...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5472,
+    "nextTopicId": 5483
+}

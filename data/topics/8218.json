@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 202251797,
+            "authorName": "sébastien Grenouillat",
+            "from": "=?iso-8859-1?q?s=E9bastien_Grenouillat?= &lt;mrnouillat01@...&gt;",
+            "profile": "mrnouillats",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Sourcebook of ashigaru colour uniforms",
+            "postDate": "1137649152",
+            "msgId": 8218,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxbjhtMCtiNTJuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8217,
+            "nextInTime": 8219,
+            "topicId": 8218,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello there is longtime i tried to find a sourcebook about colours ashigaru uniforms for each samurai familly and retainers for the senkogu period. if you have",
+            "messageBody": "<div id=\"ygrps-yiv-1972362987\">Hello <br/>\n<br/>\n there is longtime i tried to find a sourcebook about colours ashigaru <br/>\nuniforms for each samurai familly and retainers for the senkogu <br/>\nperiod. <br/>\nif you have website or another source i am interresting too . <br/>\n<br/>\nthank you very much for your help <br/>\n<br/>\n Seb</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8214,
+    "nextTopicId": 348
+}

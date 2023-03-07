@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Asai and Shibata",
+            "postDate": "1035763678",
+            "msgId": 1189,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3LjI1MmI4Mjg3LjJhZWRkOWRlQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1188,
+            "nextInTime": 1190,
+            "topicId": 1189,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know what the relations between Asai Nagamasa and Shibata Katsuie were other than the fact that they were both married to Oda s sister, Odani ",
+            "messageBody": "<div id=\"ygrps-yiv-1706026422\">Does anyone know what the relations between Asai Nagamasa and Shibata Katsuie <br/>\nwere other than the fact that they were both married to Oda&#39;s sister, Odani <br/>\nnoKata?<br/>\n<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1181,
+    "nextTopicId": 1174
+}

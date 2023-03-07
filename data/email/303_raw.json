@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "Chris Spackman",
+    "from": "&quot;Chris Spackman&quot; &lt;osugi_sakae@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "x6c4NiTx2pZWPx_7KsDklBNVc0KMMNiMUCwnRcLJ77hAtVkxe7xr5rXskXlSZgEF38c1mUvyeBYq8P7G2NT6G9RcgdkgEs6llZDwJgmbJQ",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Samurai and Secret Communication?",
+    "postDate": "998966050",
+    "msgId": 303,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDltZXZ2Mit0cTNtQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 338,
+    "prevInTime": 302,
+    "nextInTime": 304,
+    "topicId": 303,
+    "numMessagesInTopic": 6,
+    "msgSnippet": "Hi all, I m new around here and have a question maybe someone can help me with. David Kahn s book The Codebreakers deals with the history of codes, ciphers",
+    "rawEmail": "Return-Path: &lt;osugi_sakae@...&gt;\r\nReceived: (qmail 91139 invoked from network); 28 Aug 2001 04:12:20 -0000\r\nReceived: from unknown (10.1.10.26)\n  by l10.egroups.com with QMQP; 28 Aug 2001 04:12:20 -0000\r\nReceived: from unknown (HELO n33.groups.yahoo.com) (10.1.2.114)\n  by mta1 with SMTP; 28 Aug 2001 04:12:20 -0000\r\nX-eGroups-Return: osugi_sakae@...\r\nReceived: from [10.1.10.101] by ei.egroups.com with NNFMP; 28 Aug 2001 04:12:19 -0000\r\nX-eGroups-Approved-By: kitsuno@... via web; 28 Aug 2001 04:12:18 -0000\r\nX-Sender: osugi_sakae@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2); 28 Aug 2001 02:34:54 -0000\r\nReceived: (qmail 55825 invoked from network); 28 Aug 2001 02:34:14 -0000\r\nReceived: from unknown (10.1.10.26)\n  by l9.egroups.com with QMQP; 28 Aug 2001 02:34:14 -0000\r\nReceived: from unknown (HELO n14.groups.yahoo.com) (10.1.10.92)\n  by mta1 with SMTP; 28 Aug 2001 02:34:14 -0000\r\nX-eGroups-Return: osugi_sakae@...\r\nReceived: from [10.1.2.133] by jk.egroups.com with NNFMP; 28 Aug 2001 02:34:13 -0000\r\nDate: Tue, 28 Aug 2001 02:34:10 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Samurai and Secret Communication?\r\nMessage-ID: &lt;9mevv2+tq3m@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 1096\r\nX-Mailer: eGroups Message Poster\r\nFrom: &quot;Chris Spackman&quot; &lt;osugi_sakae@...&gt;\r\n\r\nHi all, I&#39;m new around here and have a question maybe someone can help\nme with.\n\nDavid Kahn&#39;s book &quot;The Codebreakers&quot; deals with the history of codes,\nciphers and cryptanalysis. Most of the book deals with Europe---from\nCaesar ciphers to the European black chambers. Japan only gets\nmentioned toward the end---WWII of course.\n\nNow most people with an interest in Japan know about the Allied\nefforts to decipher and read Japanese codes in WWII.\n\nBut what about earlier? Did the samurai (daimyo mostly i would assume)\nuse any sort of secret writing? Did their messangers just carry\nplaintext documents? If so, were there any cases of intercepted\nmessages affecting strategy or even individual battles?\n\nI know the Church was using codes / ciphers in the 1500&#39;s, so I would\nimage that the missionaries in Japan would have at least known the\nbasics of cryptography. (Especially the Jesuits). Maybe they taught\nsome to a few daimyo?\n\nI&#39;ve done a little bit of research but haven&#39;t been able to find much.\nAny one know of any good sources for this topic?\n\nyoroshiku\n\n--\nOsugi Sakae\nwww.openhistory.org\n\n\n\n"
+}

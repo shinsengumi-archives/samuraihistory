@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: The Precious",
+            "postDate": "1103037290",
+            "msgId": 6296,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxQkYwMzZBLjUwMzA1MDRAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMDMwMTI2MDkuMTA1Ni4yMDg3Ni5tM0B5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMDMwMTI2MDkuMTA1Ni4yMDg3Ni5tM0B5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6295,
+            "nextInTime": 6297,
+            "topicId": 6296,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Traditionally there were some swords with bad spirits that like to kill. One Shadow Warriors? episode had a sword that made its possesor start killing people.",
+            "messageBody": "<div id=\"ygrps-yiv-614773915\">Traditionally there were some swords with bad spirits that like to kill. <br/>\nOne Shadow Warriors? episode had a sword that made its possesor start <br/>\nkilling people. The precious indeed!<br/>\n<br/>\nIt makes a great chanbara stchick but a legal defense... &quot;Your honor the <br/>\nsword told me to kill him!&quot; &quot;Bwaaahahaha......&quot;. Kind of like an old <br/>\nDead Kennedy&#39;s song, &quot;God told me to skin you alive...&quot;<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6244,
+    "nextTopicId": 6303
+}

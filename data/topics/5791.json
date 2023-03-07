@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197795373,
+            "authorName": "wayne docimo",
+            "from": "&quot;wayne docimo&quot; &lt;kellylindawd@...&gt;",
+            "profile": "kellylindawd",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "&quot;Book of Firearms&quot;, Nagasawa Shagetzuma.",
+            "postDate": "1098335052",
+            "msgId": 5791,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsN2cwYytsbGVnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5790,
+            "nextInTime": 5792,
+            "topicId": 5791,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "has anyone ever seen this book before? i have heard it mentioned a few times and wanted to know if there were any reprints or information on it thank you wayne",
+            "messageBody": "<div id=\"ygrps-yiv-2081996246\">has anyone ever seen this book before?<br/>\ni have heard it mentioned a few times and wanted to know if there <br/>\nwere any reprints or information on it <br/>\n<br/>\n<br/>\nthank you<br/>\n<br/>\nwayne</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5787,
+    "nextTopicId": 5629
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 89272809,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1013499314",
+            "msgId": 566,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTcwMWMxYjM5NyRkMDhlMzllMCQwNjA0ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 565,
+            "nextInTime": 567,
+            "topicId": 566,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "James clavell s book Shogun Is it to be viewed as an entirely ficticious work? If not then hands down this would be an excellent source for anyone interested",
+            "messageBody": "<div id=\"ygrps-yiv-1003973471\">James clavell&#39;s book Shogun Is it to be viewed as an entirely ficticious work? If not then hands down this would be an excellent source for anyone interested in olden days af Japanese samurai If it is of accurate value then this book was a great source to my intrest in this subject<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 565,
+    "nextTopicId": 536
+}

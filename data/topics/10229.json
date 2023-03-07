@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "2010 San Francisco To-Ken Taikai",
+            "postDate": "1281161911",
+            "msgId": 10229,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PERDNTg2MEQ1LTFFN0QtNEIxRi1CRTQ4LTlENUIzQUI2NEZEMUB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10228,
+            "nextInTime": 10230,
+            "topicId": 10229,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For those thinking of coming to this years To-ken Taikai, The shinsa slots for Friday are full up, Saturday is going fast - if you are thinking of submitting",
+            "messageBody": "<div id=\"ygrps-yiv-755564656\">For those thinking of coming to this years To-ken Taikai,<br/>\nThe shinsa slots for Friday are full up, Saturday is going fast - if  <br/>\nyou are thinking of submitting swords for authentication, now is the  <br/>\ntime to get your registrations in.<br/>\n<br/>\nWe have updated the website with a Team Bio page:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.toryu-mon.com/Toryu-Mon/NTHK_Team.html\">http://www.toryu-mon.com/Toryu-Mon/NTHK_Team.html</a><br/>\n<br/>\nPlease check it out and feel free to ask us any questions. For info on  <br/>\nthe Taikai, the largest Japanese Sword Show and Sale outside of Japan,  <br/>\nvisit;<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.ncjsc.org/\">http://www.ncjsc.org/</a><br/>\n<br/>\n-t<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10224,
+    "nextTopicId": 10230
+}

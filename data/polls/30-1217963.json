@@ -1,0 +1,171 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "lordyojimbo",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1217963,
+    "listId": 2247946,
+    "dateCreated": 1083201213,
+    "userIdCreated": 184408620,
+    "dateEnd": 0,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "what is your faverite type of blade?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 9335192,
+            "selectionText": "tanto",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 9335193,
+            "selectionText": "kedatchi",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 9335194,
+            "selectionText": "wakishasy",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 9335194,
+                    "surveyId": 1217963,
+                    "userId": 102724704,
+                    "email": "shitahara@yahoo.com"
+                },
+                {
+                    "selectionId": 9335194,
+                    "surveyId": 1217963,
+                    "userId": 184411647,
+                    "nickname": "lord_yojimbo",
+                    "email": "lord_yojimbo@yahoo.com"
+                },
+                {
+                    "selectionId": 9335194,
+                    "surveyId": 1217963,
+                    "userId": 184408620,
+                    "nickname": "lordyojimbo",
+                    "email": "lordyojimbo@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 9335195,
+            "selectionText": "katana(sorry fore spelling on all the names)",
+            "selections": 28,
+            "responses": [
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 142915721,
+                    "guid": "4QVF6D6XE7ZRGSD5AQKRPVSR4I",
+                    "nickname": "nelsontemplar",
+                    "email": "nelsontemplar@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 204571571,
+                    "guid": "VRHFZB4YSYPUTPNTT6DLEX3PDE",
+                    "nickname": "ahelly69",
+                    "email": "ahelly69@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 190836730,
+                    "guid": "I4L7PHA6EBFMZGPDRATNHGI7O4",
+                    "nickname": "shay_alspach",
+                    "email": "shay_alspach@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 200594470,
+                    "guid": "IJ2PSORW6F7XVEJVY7ZFCKK6JE",
+                    "nickname": "highlander704",
+                    "email": "bigbadwolf704@aol.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 202005223,
+                    "guid": "OTG6ZWRRTPUKVSHZYGOVZOA4OI",
+                    "nickname": "psiellis",
+                    "email": "psiellis@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 193491838,
+                    "nickname": "samurai11002003",
+                    "email": "samurai11002003@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 190423216,
+                    "nickname": "yukimura1990",
+                    "email": "yukimura1990@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 198505976,
+                    "nickname": "pimpswizzle6",
+                    "email": "pimpswizzle6@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 189970242,
+                    "nickname": "cipher09born",
+                    "email": "cipher09born@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 160582764,
+                    "guid": "VONVXU5U3WEPDPMFYXW2574QDM",
+                    "nickname": "spud10000",
+                    "email": "spud10000@yahoo.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 195508126,
+                    "nickname": "tsukaboku",
+                    "email": "eiroku24@hotmail.com"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 191201695,
+                    "nickname": "samurailee55",
+                    "email": "samurailee55@yahoo.co.uk"
+                },
+                {
+                    "selectionId": 9335195,
+                    "surveyId": 1217963,
+                    "userId": 186779404,
+                    "nickname": "snipersergeant2000",
+                    "email": "snipersergeant2000@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 32,
+    "previousSurveyId": 1399939,
+    "nextSurveyId": 948036
+}

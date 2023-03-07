@@ -1,0 +1,554 @@
+{
+    "totalMsgInTopic": 18,
+    "messages": [
+        {
+            "userId": 213506180,
+            "authorName": "Philippe",
+            "from": "Philippe &lt;ptourigny@...&gt;",
+            "profile": "tls_phil",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Other query",
+            "postDate": "1109498610",
+            "msgId": 6747,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMjE5QUYyLjUwOTA3MDVAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI1MDQ1MjExLjEzODc2LnFtYWlsQHdlYjQxMzAzLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDUwMjI1MDQ1MjExLjEzODc2LnFtYWlsQHdlYjQxMzAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6728,
+            "nextInTopic": 0,
+            "prevInTime": 6746,
+            "nextInTime": 6748,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "[UTF-8 again, more on that below] Nate wrote: [Batsu -- 閥] ... The wonders of online dictionaries like EDICT is that it allows anyone with even rudimentary",
+            "messageBody": "<div id=\"ygrps-yiv-122276178\">[UTF-8 again, more on that below]<br/>\n<br/>\nNate wrote:<br/>\n<br/>\n[Batsu --&gt; 閥]<br/>\n<blockquote><span title=\"ireply\"> &gt; Gotcha. However, that&#39;s fairly obscure, and I don&#39;t<br/>\n&gt; think I&#39;ve ever seen it in the context presented. <br/>\n<br/>\n </span></blockquote>   The wonders of online dictionaries like EDICT is that it allows <br/>\nanyone with even rudimentary surfing skills to stumble upon out of <br/>\ncontext obscure terms in languages they know little to nothing about. <br/>\nThey then usually proceed to use those as is in an extraordinary display <br/>\nof linguistic butchery instead of checking, so I think the original <br/>\nposter here deserves credit for not just assuming his search yielded the <br/>\ncorrect term.<br/>\n<br/>\n[Uji --&gt; 氏]<br/>\n<blockquote><span title=\"ireply\"> &gt; This is the &quot;uji&quot; I listed--I posted in Shift JIS, so<br/>\n&gt; I apologize if you didn&#39;t see it. By itself, it can be<br/>\n&gt; used to mean &quot;the clan&quot;.<br/>\n<br/>\n </span></blockquote>   I really like Thunderbird, but it does seem to be a bit hit or miss <br/>\nwhen it comes to interpreting the correct encoding correctly, so I <br/>\ndidn&#39;t see it at first. (I knew which kanji you meant anyway, I simply <br/>\nre-listed it in my reply for the sake of completeness.)<br/>\n<br/>\n   However, the only times I remember coming across &quot;uji&quot; by itself is <br/>\nin texts about the Ritsuryō system or earlier periods, which precede <br/>\nsamurai history proper by a few centuries.<br/>\n<br/>\n   As for the choice of UTF-8, since you asked about it so nicely in <br/>\nanother reply, my main reason for that is that in addition to English, I <br/>\nalso use French and Japanese, and the letters with macrons from the <br/>\nextended character set, fairly regularly, and Unicode handles the <br/>\ncombined use of both better than other encoding schemes. My second <br/>\nchoice, if I&#39;m not using macrons or other accented characters but am <br/>\nincluding both English and Japanese, is ISO-2022-JP rather than <br/>\nShift-JIS; that last I use only for reading what other people send in <br/>\nthat encoding. :)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 209852236,
+            "authorName": "Falc",
+            "from": "Falc &lt;daitaka@...&gt;",
+            "profile": "soshidaitaka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query",
+            "postDate": "1109321337",
+            "msgId": 6728,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUVFNjc5LjcwNTA5MDRAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6726,
+            "nextInTopic": 6747,
+            "prevInTime": 6727,
+            "nextInTime": 6729,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I did indeed see the kanji as you typed it after switching to shift-jis encoding. The problem there was that I have three possible japanese encodings, only",
+            "messageBody": "<div id=\"ygrps-yiv-160908355\">Nate Ledbetter wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; CRIMINY, what is with you people and UNICODE? LOL. If<br/>\n&gt; you&#39;ve got Japanese fonts installed, mine should have<br/>\n&gt; shown up fine under Shift-JIS or Japanese<br/>\n&gt; (Auto-Select). Unicode is completely impractical if<br/>\n&gt; you actually type in Japanese, which I frequently do<br/>\n&gt; (not all that WELL, mind you). Try adjusting your<br/>\n&gt; encoding and you&#39;ll see it fine. There was no &quot;tried&quot;<br/>\n&gt; there--I did. <br/>\n<br/>\n </span></blockquote>I did indeed see the kanji as you typed it after switching to shift-jis <br/>\nencoding. The problem there was that I have three possible japanese <br/>\nencodings, only one of which displays correctly, plus unicode. 4 checks <br/>\njust to get one character... I haven&#39;t been getting enough sleep lately, <br/>\nso I&#39;ll just blame it on that.<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Of course, I can also see your entries--I have to go<br/>\n&gt; to Unicode to do so, though. And it completely messes<br/>\n&gt; up every single webpage for a while. But to answer<br/>\n&gt; your question, yes the link you provided is the one I<br/>\n&gt; typed. <br/>\n<br/>\n </span></blockquote>I copy/pasted my entries from the website. Apparently Thunderbird <br/>\nautomatically turned my entire message into utf-8 after that, probably <br/>\nbecause the site was in unicode. I have next to no experience typing <br/>\njapanese, so I don&#39;t really know what would have happened had I typed it.<br/>\n<br/>\n-- <br/>\nFalc</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Other query",
+            "postDate": "1109315457",
+            "msgId": 6726,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI1MDcxMDU4Ljc2NzU1LnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGN2bWllZCtjaGxnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6725,
+            "nextInTopic": 6728,
+            "prevInTime": 6725,
+            "nextInTime": 6727,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Of course it did, you re not using Unicode. Not sure why you would. __________________________________ Do you Yahoo!? Yahoo! Mail - now with 250MB free",
+            "messageBody": "<div id=\"ygrps-yiv-371078280\">--- Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;<br/>\nwrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; It came out fine in your original post under<br/>\n&gt; Shift-JIS for me.<br/>\n<br/>\n </span></blockquote>Of course it did, you&#39;re not using Unicode. Not sure<br/>\nwhy you would.<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nYahoo! Mail - now with 250MB free storage. Learn more.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://info.mail.yahoo.com/mail_250\">http://info.mail.yahoo.com/mail_250</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Other query",
+            "postDate": "1109314829",
+            "msgId": 6725,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2bWllZCtjaGxnQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6721,
+            "nextInTopic": 6726,
+            "prevInTime": 6724,
+            "nextInTime": 6726,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... It came out fine in your original post under Shift-JIS for me.",
+            "messageBody": "<div id=\"ygrps-yiv-147623441\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, Nate Ledbetter <br/>\n&lt;ltdomer98@y...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; --- Falc &lt;daitaka@g...&gt; wrote:<br/>\n&gt; <br/>\n&gt; &gt; (I hope this&#39;ll show up right...)<br/>\n&gt; &gt; <br/>\n&gt; &gt; é¥<br/>\n&gt; &gt; ON reading(s)\tãã<br/>\n&gt; &gt; English meanings\tclique; lineage; pedigree; faction;<br/>\n&gt; &gt; clan<br/>\n&gt; &gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5</a><br/>\n&gt; &gt; (from Jim Breem&#39;s WWWJDIC)<br/>\n&gt; &gt; <br/>\n&gt; &gt; When I searched there, it was one of the kanji that<br/>\n&gt; &gt; showed up most often <br/>\n&gt; &gt; in the results.<br/>\n&gt; &gt; <br/>\n&gt; &gt; Oh, and I&#39;m guessing you tried entering the kanji<br/>\n&gt; &gt; for &#39;uji&#39; there, but <br/>\n&gt; &gt; something must have gone wrong along the way. Is<br/>\n&gt; &gt; this <br/>\n&gt; &gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f</a><br/>\n&gt; &gt; what you meant?<br/>\n&gt; <br/>\n&gt; CRIMINY, what is with you people and UNICODE? LOL. If<br/>\n&gt; you&#39;ve got Japanese fonts installed, mine should have<br/>\n&gt; shown up fine under Shift-JIS or Japanese<br/>\n&gt; (Auto-Select). Unicode is completely impractical if<br/>\n&gt; you actually type in Japanese, which I frequently do<br/>\n&gt; (not all that WELL, mind you). Try adjusting your<br/>\n&gt; encoding and you&#39;ll see it fine. There was no &quot;tried&quot;<br/>\n&gt; there--I did. <br/>\n&gt; <br/>\n&gt; Of course, I can also see your entries--I have to go<br/>\n&gt; to Unicode to do so, though. And it completely messes<br/>\n&gt; up every single webpage for a while. But to answer<br/>\n&gt; your question, yes the link you provided is the one I<br/>\n&gt; typed. <br/>\n&gt; <br/>\n<br/>\n </span></blockquote>It came out fine in your original post under Shift-JIS for me.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query",
+            "postDate": "1109312264",
+            "msgId": 6721,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI1MDYxNzQ0LjEwMTMzLnFtYWlsQHdlYjQxMzEyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyMUVCMEQ0LjgwOTA5MDlAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 6720,
+            "nextInTopic": 6725,
+            "prevInTime": 6720,
+            "nextInTime": 6722,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5 ... http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f ... CRIMINY, what is with",
+            "messageBody": "<div id=\"ygrps-yiv-1740962670\">--- Falc &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:daitaka@...\">daitaka@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; (I hope this&#39;ll show up right...)<br/>\n&gt; <br/>\n&gt; ���<br/>\n&gt; ON reading(s)\t������<br/>\n&gt; English meanings\tclique; lineage; pedigree; faction;<br/>\n&gt; clan<br/>\n&gt;<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5</a><br/>\n<blockquote><span title=\"ireply\"> &gt; (from Jim Breem&#39;s WWWJDIC)<br/>\n&gt; <br/>\n&gt; When I searched there, it was one of the kanji that<br/>\n&gt; showed up most often <br/>\n&gt; in the results.<br/>\n&gt; <br/>\n&gt; Oh, and I&#39;m guessing you tried entering the kanji<br/>\n&gt; for &#39;uji&#39; there, but <br/>\n&gt; something must have gone wrong along the way. Is<br/>\n&gt; this <br/>\n&gt;<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f</a><br/>\n<blockquote><span title=\"ireply\"> &gt; what you meant?<br/>\n<br/>\n </span></blockquote>CRIMINY, what is with you people and UNICODE? LOL. If<br/>\nyou&#39;ve got Japanese fonts installed, mine should have<br/>\nshown up fine under Shift-JIS or Japanese<br/>\n(Auto-Select). Unicode is completely impractical if<br/>\nyou actually type in Japanese, which I frequently do<br/>\n(not all that WELL, mind you). Try adjusting your<br/>\nencoding and you&#39;ll see it fine. There was no &quot;tried&quot;<br/>\nthere--I did. <br/>\n<br/>\nOf course, I can also see your entries--I have to go<br/>\nto Unicode to do so, though. And it completely messes<br/>\nup every single webpage for a while. But to answer<br/>\nyour question, yes the link you provided is the one I<br/>\ntyped. <br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nRead only the mail you want - Yahoo! Mail SpamGuard. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 209852236,
+            "authorName": "Falc",
+            "from": "Falc &lt;daitaka@...&gt;",
+            "profile": "soshidaitaka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query",
+            "postDate": "1109307604",
+            "msgId": 6720,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUVCMEQ0LjgwOTA5MDlAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI0MTkzOTAzLjY0ODY4LnFtYWlsQHdlYjQxMzEzLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDUwMjI0MTkzOTAzLjY0ODY4LnFtYWlsQHdlYjQxMzEzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6718,
+            "nextInTopic": 6721,
+            "prevInTime": 6719,
+            "nextInTime": 6721,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... (I hope this ll show up right...) 閥 ON reading(s)\tバツ English meanings\tclique; lineage; pedigree; faction; clan ",
+            "messageBody": "<div id=\"ygrps-yiv-1394961313\">Nate Ledbetter wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; --- Falc &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:daitaka@...\">daitaka@...</a>&gt; wrote:<br/>\n&gt; <br/>\n&gt; <br/>\n&gt;&gt;What word was used (during the Sengoku period if it<br/>\n&gt;&gt;makes a difference) <br/>\n&gt;&gt;for a family or a clan? You know, the whole feudal<br/>\n&gt;&gt;pyramid structure <br/>\n&gt;&gt;with a daimyo at the top? Simply looking at the<br/>\n&gt;&gt;dictionaries seems to <br/>\n&gt;&gt;indicate &#39;batsu&#39; but I would like some confirmation<br/>\n&gt;&gt;on this.<br/>\n&gt;&gt;<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Where do you get &quot;batsu&quot;? I can think of a number of<br/>\n&gt; meanings for &quot;batsu&quot; (X being one of them) but clan<br/>\n&gt; isn&#39;t one of them. Most places I&#39;ve seen &quot;uji&quot; Ž.<br/>\n&gt; <br/>\n&gt; Nate<br/>\n<br/>\n </span></blockquote>(I hope this&#39;ll show up right...)<br/>\n<br/>\n閥<br/>\nON reading(s)\tバツ<br/>\nEnglish meanings\tclique; lineage; pedigree; faction; clan<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=95a5</a><br/>\n<br/>\n(from Jim Breem&#39;s WWWJDIC)<br/>\n<br/>\nWhen I searched there, it was one of the kanji that showed up most often <br/>\nin the results.<br/>\n<br/>\nOh, and I&#39;m guessing you tried entering the kanji for &#39;uji&#39; there, but <br/>\nsomething must have gone wrong along the way. Is this <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f\">http://www.unicode.org/cgi-bin/GetUnihanData.pl?codepoint=6c0f</a><br/>\nwhat you meant?<br/>\n<br/>\n-- <br/>\nFalc                                          ///         ///<br/>\nAKA Soshi Dai-Taka                            &#92;_//       /-//<br/>\n                                                &#92;_///    /-//<br/>\nUnless I hold the sword, I cannot protect you   &#92;_///  /-//<br/>\nWhile holding the sword, I cannot embrace you    &#92;_////--&#92;&#92;<br/>\n   - Kubo Tite, Bleach volume 5                   /    __   &#92;<br/>\n                                                 /,)~_(  &#92;~~&#92;&#92;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://homeusers.brutele.be/bvannitsen/\">http://homeusers.brutele.be/bvannitsen/</a>         (/   &#92;&#92; /  &#92;&#92;&#92;<br/>\n                                                       //    &#92;/&#92;<br/>\n=====================================================((`=======</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query (was: words)",
+            "postDate": "1109307131",
+            "msgId": 6718,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI1MDQ1MjExLjEzODc2LnFtYWlsQHdlYjQxMzAzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyMUU3N0E3LjkwOTAwMDNAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 6717,
+            "nextInTopic": 6720,
+            "prevInTime": 6717,
+            "nextInTime": 6719,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Gotcha. However, that s fairly obscure, and I don t think I ve ever seen it in the context presented. ... This is the uji I listed--I posted in Shift",
+            "messageBody": "<div id=\"ygrps-yiv-510310909\">--- Philippe &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ptourigny@...\">ptourigny@...</a>&gt; wrote:<br/>\n<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;    My guess is that he&#39;s thinking of ��� (batsu;<br/>\n&gt; meaning clique, clan, <br/>\n&gt; faction).<br/>\n<br/>\n </span></blockquote>Gotcha. However, that&#39;s fairly obscure, and I don&#39;t<br/>\nthink I&#39;ve ever seen it in the context presented. <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;    I&#39;m not sure about specific Sengoku-era usage,<br/>\n&gt; but my Japanese books <br/>\n&gt; on Sengoku history tend to favour &quot;-shi&quot; (���: uji,<br/>\n&gt; shi) as a suffix <br/>\n&gt; appended to the family name of the head of the clan.<br/>\n<br/>\n </span></blockquote>This is the &quot;uji&quot; I listed--I posted in Shift JIS, so<br/>\nI apologize if you didn&#39;t see it. By itself, it can be<br/>\nused to mean &quot;the clan&quot;. <br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; I also see &quot;-ke&quot; <br/>\n&gt; (���: ie, ya, uchi, ka, ke) and occasionally<br/>\n&gt; &quot;ichizoku&quot; (������) or the <br/>\n&gt; &quot;-zoku&quot; part thereof used as a suffix, and even more<br/>\n&gt; rarely &quot;ichimon&quot; <br/>\n&gt; (������), but I&#39;d be hard pressed to identify the<br/>\n&gt; subtle distinctions <br/>\n&gt; those might have carried during the relevant time<br/>\n&gt; period.<br/>\n<br/>\n </span></blockquote>I second all of the above. :)<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nTake Yahoo! Mail with you! Get it on your mobile phone. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mobile.yahoo.com/maildemo\">http://mobile.yahoo.com/maildemo</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Re: Re: words",
+            "postDate": "1109303970",
+            "msgId": 6715,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUVBMkEyLjUwMzAzMDlAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMDkyOTU3NjEuNjczLjY2OTU0Lm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMDkyOTU3NjEuNjczLjY2OTU0Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 6714,
+            "nextInTopic": 6717,
+            "prevInTime": 6714,
+            "nextInTime": 6716,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Utte? As in rifles. Jim",
+            "messageBody": "<div id=\"ygrps-yiv-504449454\"><blockquote><span title=\"ireply\">&gt;Don&#39;t forget honoo.<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Utte? As in rifles.<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 213506180,
+            "authorName": "Philippe",
+            "from": "Philippe &lt;ptourigny@...&gt;",
+            "profile": "tls_phil",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query (was: words)",
+            "postDate": "1109292967",
+            "msgId": 6717,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUU3N0E3LjkwOTAwMDNAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI0MTkzOTAzLjY0ODY4LnFtYWlsQHdlYjQxMzEzLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDUwMjI0MTkzOTAzLjY0ODY4LnFtYWlsQHdlYjQxMzEzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6715,
+            "nextInTopic": 6718,
+            "prevInTime": 6716,
+            "nextInTime": 6718,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "[Posted in UTF-8, so the kanji should show up properly] ... My guess is that he s thinking of 閥 (batsu; meaning clique, clan, faction). I m not sure about",
+            "messageBody": "<div id=\"ygrps-yiv-425389420\">[Posted in UTF-8, so the kanji should show up properly]<br/>\n<br/>\nNate wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; --- Falc &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:daitaka@...\">daitaka@...</a>&gt; wrote:<br/>\n&gt; <br/>\n&gt;&gt; What word was used (during the Sengoku period if it makes a<br/>\n&gt;&gt; difference) for a family or a clan? You know, the whole feudal <br/>\n&gt;&gt; pyramid structure with a daimyo at the top? Simply looking at the <br/>\n&gt;&gt; dictionaries seems to indicate &#39;batsu&#39; but I would like some<br/>\n&gt;&gt; confirmation on this.<br/>\n&gt; <br/>\n&gt; Where do you get &quot;batsu&quot;? I can think of a number of<br/>\n&gt; meanings for &quot;batsu&quot; (X being one of them) but clan<br/>\n&gt; isn&#39;t one of them. Most places I&#39;ve seen &quot;uji&quot; Ž.<br/>\n<br/>\n </span></blockquote>   My guess is that he&#39;s thinking of 閥 (batsu; meaning clique, clan, <br/>\nfaction).<br/>\n<br/>\n   I&#39;m not sure about specific Sengoku-era usage, but my Japanese books <br/>\non Sengoku history tend to favour &quot;-shi&quot; (氏: uji, shi) as a suffix <br/>\nappended to the family name of the head of the clan. I also see &quot;-ke&quot; <br/>\n(家: ie, ya, uchi, ka, ke) and occasionally &quot;ichizoku&quot; (一族) or the <br/>\n&quot;-zoku&quot; part thereof used as a suffix, and even more rarely &quot;ichimon&quot; <br/>\n(一門), but I&#39;d be hard pressed to identify the subtle distinctions <br/>\nthose might have carried during the relevant time period.<br/>\n<br/>\n   The question, however, doesn&#39;t provide sufficient context to provide <br/>\nan accurate answer.<br/>\n<br/>\nPhil</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] words",
+            "postDate": "1109287501",
+            "msgId": 6712,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVmZTA0YzAyOWExZTY0ZjQxODg0ODIyYWI0ZmQ2NDQ3QGRvbmtleWlzbGFuZC5jb20+",
+                "inReplyToHeader": "PGN2amFuYStoaThnQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGN2amFuYStoaThnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6708,
+            "nextInTopic": 6714,
+            "prevInTime": 6711,
+            "nextInTime": 6713,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... http://kanjialive.lib.uchicago.edu/main.php?page=overview&lang=en Anyway, they should have a dictionary at the library close to where you live!! cepo",
+            "messageBody": "<div id=\"ygrps-yiv-80399779\">On Feb 23, 2005, at 3:30 PM, Rod Pavez wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Hi there everybody:<br/>\n&gt;<br/>\n&gt; Just wondering if anyone knows of a good site where I can find the<br/>\n&gt; translation for words and things from English to Japanese. I really<br/>\n&gt; need to know how you would say fire in japanese.<br/>\n&gt;<br/>\n&gt; Arigato,<br/>\n&gt; G3mneye<br/>\n<br/>\n </span></blockquote><a rel=\"nofollow\" target=\"_blank\" href=\"http://kanjialive.lib.uchicago.edu/main.php?page=overview&lang=en\">http://kanjialive.lib.uchicago.edu/main.php?page=overview&lang=en</a><br/>\n<br/>\nAnyway, they should have a dictionary at the library close to where you <br/>\nlive!!<br/>\ncepo</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 97125001,
+            "authorName": "Terry Lemon",
+            "from": "Terry Lemon &lt;swiftnote@...&gt;",
+            "profile": "swiftnote",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query (was: words)",
+            "postDate": "1109282096",
+            "msgId": 6714,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI0MjE1NDU3LjczODgucW1haWxAd2ViMzA5MDQubWFpbC5tdWQueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyMUUxNDhFLjgwMTA5MDFAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 6712,
+            "nextInTopic": 6715,
+            "prevInTime": 6713,
+            "nextInTime": 6715,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I don t know if this helps but: Buke - Military house; family whose duties include the bearing of arms -most often applied to those warrior clans prior to and",
+            "messageBody": "<div id=\"ygrps-yiv-695697352\">I don&#39;t know if this helps but:<br/>\n<br/>\nBuke - Military house; family whose duties include the<br/>\nbearing of arms -most often applied to those warrior<br/>\nclans prior to and during the Gempei War (1180-85) but<br/>\nin use into and beyond the Momoyama Period. Buke is<br/>\noccasionally- and misleadingly- translated as<br/>\n�equestrians�<br/>\n<br/>\nGokenin - A retainer/vassal family of the Kamakura<br/>\nBakufu, especially those who had served under Minamoto<br/>\nYoritomo; generally having a certain amount of<br/>\ninfluence. <br/>\n<br/>\nIe - A household; family<br/>\n<br/>\nI don&#39;t know if any of these will help or answer your<br/>\nquestion just found them to hopefully aid.  If not<br/>\nthen sorry to bother you.<br/>\n<br/>\nThank you for listening.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nRead only the mail you want - Yahoo! Mail SpamGuard. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Other query (was: words)",
+            "postDate": "1109273943",
+            "msgId": 6708,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI0MTkzOTAzLjY0ODY4LnFtYWlsQHdlYjQxMzEzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyMUUxNDhFLjgwMTA5MDFAZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 6707,
+            "nextInTopic": 6712,
+            "prevInTime": 6707,
+            "nextInTime": 6709,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Where do you get batsu ? I can think of a number of meanings for batsu (X being one of them) but clan isn t one of them. Most places I ve seen uji",
+            "messageBody": "<div id=\"ygrps-yiv-2053041738\">--- Falc &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:daitaka@...\">daitaka@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; What word was used (during the Sengoku period if it<br/>\n&gt; makes a difference) <br/>\n&gt; for a family or a clan? You know, the whole feudal<br/>\n&gt; pyramid structure <br/>\n&gt; with a daimyo at the top? Simply looking at the<br/>\n&gt; dictionaries seems to <br/>\n&gt; indicate &#39;batsu&#39; but I would like some confirmation<br/>\n&gt; on this.<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>Where do you get &quot;batsu&quot;? I can think of a number of<br/>\nmeanings for &quot;batsu&quot; (X being one of them) but clan<br/>\nisn&#39;t one of them. Most places I&#39;ve seen &quot;uji&quot; ��.<br/>\n<br/>\nNate<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________ <br/>\nDo you Yahoo!? <br/>\nYahoo! Mail - Helps protect you from nasty viruses. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 209852236,
+            "authorName": "Falc",
+            "from": "Falc &lt;daitaka@...&gt;",
+            "profile": "soshidaitaka",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Other query (was: words)",
+            "postDate": "1109267598",
+            "msgId": 6707,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUUxNDhFLjgwMTA5MDFAZ21haWwuY29tPg==",
+                "inReplyToHeader": "PDIwMDUwMjI0MDY1ODQ5LjEwMzYxLnFtYWlsQHdlYjU0MzA1Lm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDUwMjI0MDY1ODQ5LjEwMzYxLnFtYWlsQHdlYjU0MzA1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 6706,
+            "nextInTopic": 6708,
+            "prevInTime": 6706,
+            "nextInTime": 6708,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What word was used (during the Sengoku period if it makes a difference) for a family or a clan? You know, the whole feudal pyramid structure with a daimyo at",
+            "messageBody": "<div id=\"ygrps-yiv-2034933074\">What word was used (during the Sengoku period if it makes a difference) <br/>\nfor a family or a clan? You know, the whole feudal pyramid structure <br/>\nwith a daimyo at the top? Simply looking at the dictionaries seems to <br/>\nindicate &#39;batsu&#39; but I would like some confirmation on this.<br/>\n<br/>\n-- <br/>\nFalc</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 214272372,
+            "authorName": "ROD PAVEZ",
+            "from": "ROD PAVEZ &lt;grfkboyz@...&gt;",
+            "profile": "g3mneye",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: words",
+            "postDate": "1109228329",
+            "msgId": 6706,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI0MDY1ODQ5LjEwMzYxLnFtYWlsQHdlYjU0MzA1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDQyMUQ0OTU1LjEwMzA2MDNAYmxvb21pbmd0b24uaW4udXM+"
+            },
+            "prevInTopic": 6705,
+            "nextInTopic": 6707,
+            "prevInTime": 6705,
+            "nextInTime": 6707,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thank you ... Don t forget honoo. Tony -- Anthony J. Bryant Website: http://www.sengokudaimyo.com Effingham s Heraldic Avatars (...and stuff): ",
+            "messageBody": "<div id=\"ygrps-yiv-1731873142\">Thank you<br/>\n<br/>\nAnthony Bryant &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ajbryant@...\">ajbryant@...</a>&gt; wrote:Kitsuno wrote:<br/>\n<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Fire, as in &quot;flame&quot;, is &quot;hi&quot;, and fire as in &quot;the house is on fire!&quot; <br/>\n&gt; is &quot;Kaji&quot;.<br/>\n<br/>\n </span></blockquote>Don&#39;t forget honoo.<br/>\n<br/>\nTony<br/>\n<br/>\n<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff):<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nGrand Cross, Order of the Laurel:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/laurelorder\">http://www.cafepress.com/laurelorder</a><br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nJoin the 2005 &#39;Samurai Fiction&#39; contest: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon.html\">http://www.samurai-archives.com/writcon.html</a><br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\nSamurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n--- <br/>\n<br/>\n<br/>\nYahoo! Groups SponsorADVERTISEMENT<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nYahoo! Groups Links<br/>\n<br/>\n   To visit your group on the web, go to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n  <br/>\n   To unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n  <br/>\n   Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Yahoo! Mail - 250MB free storage. Do more. Manage less.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 9275689,
+            "authorName": "raijin31",
+            "from": "&quot;raijin31&quot; &lt;otoshi2@...&gt;",
+            "profile": "raijin31",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: words",
+            "postDate": "1109222192",
+            "msgId": 6705,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2am52ZytlOHZmQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDQyMUQ0OTU1LjEwMzA2MDNAYmxvb21pbmd0b24uaW4udXM+"
+            },
+            "prevInTopic": 6704,
+            "nextInTopic": 6706,
+            "prevInTime": 6704,
+            "nextInTime": 6706,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Tony, You wouldn t happen to have that information on kura that you promised me several months ago, would you? Trace (Otoshi)",
+            "messageBody": "<div id=\"ygrps-yiv-967982297\"><blockquote><span title=\"ireply\">&gt; Don&#39;t forget honoo.<br/>\n&gt; <br/>\n&gt; Tony<br/>\n<br/>\n </span></blockquote>Tony,<br/>\n<br/>\nYou wouldn&#39;t happen to have that information on kura that you <br/>\npromised me several months ago, would you?<br/>\n<br/>\nTrace (Otoshi)</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 206469169,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: words",
+            "postDate": "1109215573",
+            "msgId": 6704,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyMUQ0OTU1LjEwMzA2MDNAYmxvb21pbmd0b24uaW4udXM+",
+                "inReplyToHeader": "PGN2amRyZitvZXFpQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGN2amRyZitvZXFpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6703,
+            "nextInTopic": 6705,
+            "prevInTime": 6703,
+            "nextInTime": 6705,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Don t forget honoo. Tony -- Anthony J. Bryant Website: http://www.sengokudaimyo.com Effingham s Heraldic Avatars (...and stuff): ",
+            "messageBody": "<div id=\"ygrps-yiv-773783946\">Kitsuno wrote:<br/>\n<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Fire, as in &quot;flame&quot;, is &quot;hi&quot;, and fire as in &quot;the house is on fire!&quot; <br/>\n&gt; is &quot;Kaji&quot;.<br/>\n<br/>\n </span></blockquote>Don&#39;t forget honoo.<br/>\n<br/>\nTony<br/>\n<br/>\n<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff):<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nGrand Cross, Order of the Laurel:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/laurelorder\">http://www.cafepress.com/laurelorder</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: words",
+            "postDate": "1109211823",
+            "msgId": 6703,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2amRyZitvZXFpQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGN2amFuYStoaThnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6702,
+            "nextInTopic": 6704,
+            "prevInTime": 6702,
+            "nextInTime": 6704,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... really ... Fire, as in flame , is hi , and fire as in the house is on fire! is Kaji .",
+            "messageBody": "<div id=\"ygrps-yiv-257325492\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Rod Pavez&quot; &lt;grfkboyz@y...&gt; <br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; Hi there everybody:<br/>\n&gt; <br/>\n&gt; Just wondering if anyone knows of a good site where I can find the <br/>\n&gt; translation for words and things from English to Japanese. I <br/>\n </span></blockquote>really <br/>\n<blockquote><span title=\"ireply\"> &gt; need to know how you would say fire in japanese.<br/>\n&gt; <br/>\n&gt; Arigato,<br/>\n&gt; G3mneye<br/>\n<br/>\n </span></blockquote>Fire, as in &quot;flame&quot;, is &quot;hi&quot;, and fire as in &quot;the house is on fire!&quot; <br/>\nis &quot;Kaji&quot;.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 214272372,
+            "authorName": "Rod Pavez",
+            "from": "&quot;Rod Pavez&quot; &lt;grfkboyz@...&gt;",
+            "profile": "g3mneye",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "words",
+            "postDate": "1109208618",
+            "msgId": 6702,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN2amFuYStoaThnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6703,
+            "prevInTime": 6701,
+            "nextInTime": 6703,
+            "topicId": 6702,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there everybody: Just wondering if anyone knows of a good site where I can find the translation for words and things from English to Japanese. I really need",
+            "messageBody": "<div id=\"ygrps-yiv-1610053618\">Hi there everybody:<br/>\n<br/>\nJust wondering if anyone knows of a good site where I can find the <br/>\ntranslation for words and things from English to Japanese. I really <br/>\nneed to know how you would say fire in japanese.<br/>\n<br/>\nArigato,<br/>\nG3mneye</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6625,
+    "nextTopicId": 6529
+}

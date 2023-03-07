@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Unbeaten Tracks in Japan",
+            "postDate": "1126178710",
+            "msgId": 7659,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRmcDcybSs1YTc4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7658,
+            "nextInTime": 7660,
+            "topicId": 7659,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.gutenberg.org/etext/2184 Unbeaten Tracks in Japan: An account of travels in the interior including visits to the aborigines of Yezo and the Shrine",
+            "messageBody": "<div id=\"ygrps-yiv-720196119\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.gutenberg.org/etext/2184\">http://www.gutenberg.org/etext/2184</a><br/>\n<br/>\n&quot;Unbeaten Tracks in Japan: An account of travels in the interior<br/>\nincluding visits to the aborigines of Yezo and the Shrine of Nikko&quot;<br/>\nIsabella L Bird, written 1878.<br/>\n<br/>\nI have found this book and have only had a chance for a quick perusal.<br/>\n<br/>\n&quot;The house-master is of the samurai, or two-sworded class, now, as<br/>\nsuch, extinct. His face is longer, his lips thinner, and his nose<br/>\nstraighter and more prominent than those of the lower class, and there<br/>\nis a difference in his manner and bearing. I have had a great deal of<br/>\ninteresting conversation with him.&quot;<br/>\nAlthough the class has gone, the author notes on a couple of occasions<br/>\nthis difference in bearing.<br/>\n<br/>\nThe other note is the stunning beauty of the countryside on the one<br/>\nhand, and the utter and abject squalor, poverty and misery of the<br/>\ngeneral rural population on the other. Full of interesting observation.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7656,
+    "nextTopicId": 7431
+}

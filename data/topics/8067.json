@@ -1,0 +1,63 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 225755910,
+            "authorName": "ronin64@netti.fi",
+            "from": "ronin64@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Kojiro Sasaki",
+            "postDate": "1133777575",
+            "msgId": 8069,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzMDU0OTAyLjExMzM3Nzc1NzU1NDMuSmF2YU1haWwucm9uaW42NEBuZXR0aS5maT4="
+            },
+            "prevInTopic": 8067,
+            "nextInTopic": 0,
+            "prevInTime": 8068,
+            "nextInTime": 8070,
+            "topicId": 8067,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... 80´s there was no written documents about Kojiro or his duel with Shinmen Musashi(maybe info change nowadays)some scholars wrote that even today,people on",
+            "messageBody": "<div id=\"ygrps-yiv-636790241\"><blockquote><span title=\"ireply\">&gt;Mncoffey asks about Kojiro Sasaki:i dont know these days,but in the <br/>\n </span></blockquote>80´s there was no written documents about Kojiro or his duel with <br/>\nShinmen Musashi(maybe info change nowadays)some scholars wrote that even <br/>\ntoday,people on the area can tell you what kind of clothing he wore on <br/>\nthe day of the duel,but there was no real evidence about him.who <br/>\nknows?-the sword MnC ask was named &quot;clothing rod&quot;,meaning a certain pole <br/>\nwhere you can dry out your clothes.regards...Jore<br/>\n<br/>\n__<br/>\nSaunalahti Xtra - Uusi GSM-vuokrapuhelin ja edistykselliset Xtra-palvelut käyttöösi alk. 4,95 e/kk! <a rel=\"nofollow\" target=\"_blank\" href=\"http://saunalahti.fi/xtra/\">http://saunalahti.fi/xtra/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 244418542,
+            "authorName": "MNcoffey@frontiernet.net",
+            "from": "&quot;MNcoffey@...&quot; &lt;MNCoffey@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Kojiro Sasaki",
+            "postDate": "1133587646",
+            "msgId": 8067,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMjAzMDUyNzI2LmtycTVvZ3F1bmhzczBzb2NAd2VibWFpbC5mcm9udGllcm5ldC5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8069,
+            "prevInTime": 8066,
+            "nextInTime": 8068,
+            "topicId": 8067,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was hoping somebody might have some information on Kojiro Sasaki, and if his sword was really named close rod . Any and all information will be very",
+            "messageBody": "<div id=\"ygrps-yiv-968274534\">I was hoping somebody might have some information on Kojiro Sasaki, and <br/>\nif his sword was really named &quot;close rod&quot;. Any and all information will <br/>\nbe very helpful, thanks.-Martin Jr.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8065,
+    "nextTopicId": 8070
+}

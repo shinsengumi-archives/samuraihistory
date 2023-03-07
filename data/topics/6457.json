@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 158276734,
+            "authorName": "Minamoto no Taikawa Saiaiko",
+            "from": "&quot;Minamoto no Taikawa Saiaiko&quot; &lt;barbie_runs_amok@...&gt;",
+            "profile": "barbie_runs_amok",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Clan Organization",
+            "postDate": "1104413554",
+            "msgId": 6459,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNyMTAxaStmNDdpQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNxc2o4dCtmYWNnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6457,
+            "nextInTopic": 0,
+            "prevInTime": 6458,
+            "nextInTime": 6460,
+            "topicId": 6457,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... While I am not an expert on this area, I do have an interest as well.  May I suggest the Clan Structure and other pertinent pages on the Yama Kaminari",
+            "messageBody": "<div id=\"ygrps-yiv-465016380\">Mr. Andrew Benton writes:<br/>\n<blockquote><span title=\"ireply\"> &gt; Can anyone point me to a typical structure for a samurai clan of <br/>\n&gt; moderate to large size? <br/>\n&gt; What sorts of positions would be found in such a clan? <br/>\n<br/>\n </span></blockquote>While I am not an expert on this area, I do have an interest as <br/>\nwell.  May I suggest the &quot;Clan Structure&quot; and other pertinent pages <br/>\non the Yama Kaminari website?  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nb.net/~kmeg/kaminari/\">http://www.nb.net/~kmeg/kaminari/</a><br/>\n<br/>\nThank you,<br/>\nMinamoto no Taikawa Saiaiko<br/>\nRetainer for Lady Muirgen Sideach - Squire to Sir Ogami Akira</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1227957,
+            "authorName": "Andrew Benton",
+            "from": "&quot;Andrew Benton&quot; &lt;spearweasel@...&gt;",
+            "profile": "spearweasel",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Clan Organization",
+            "postDate": "1104269405",
+            "msgId": 6457,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNxc2o4dCtmYWNnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6459,
+            "prevInTime": 6456,
+            "nextInTime": 6458,
+            "topicId": 6457,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was reading about the bamboo plate armor of the ninja and how they used the mystic disciplines of the Hagakure, which was written by Musashi after the Mongol",
+            "messageBody": "<div id=\"ygrps-yiv-98674126\">I was reading about the bamboo plate armor of the ninja and how they <br/>\nused the mystic disciplines of the Hagakure, which was written by <br/>\nMusashi after the Mongol Wars.<br/>\n<br/>\nOK, I&#39;m just kidding. <br/>\n<br/>\nWorking on a Sengoku campaign, ca 1550 (as usual), and was curious. <br/>\nCan anyone point me to a typical structure for a samurai clan of <br/>\nmoderate to large size? In addition to the daimyo, what specific <br/>\nofficers/ministers/apparatchiks/functionaries would such a clan have?<br/>\n<br/>\nDaimyo&#39;s bodyguard?<br/>\nCouncil of important vassal daimyo?<br/>\nTreasurer?<br/>\nOfficial bean counter?<br/>\n<br/>\nWhat sorts of positions would be found in such a clan? I understand <br/>\nthat it will differ from clan to clan somewhat, but I would like to <br/>\nget a clear picture of what sorts of offices there are and who would <br/>\ntypically fill them. <br/>\n<br/>\nRespectfully,<br/>\nAndrew Benton<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.spearweasel.com\">http://www.spearweasel.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6449,
+    "nextTopicId": 6460
+}

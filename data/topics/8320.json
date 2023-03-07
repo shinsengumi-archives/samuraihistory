@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 1366",
+            "postDate": "1139022346",
+            "msgId": 8323,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYwMjA0MDMwNTQ2Ljk4MTYwLnFtYWlsQHdlYjMyMTA1Lm1haWwubXVkLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDQzRTQwQzNELjQwM0Bjb21jYXN0Lm5ldD4="
+            },
+            "prevInTopic": 8320,
+            "nextInTopic": 0,
+            "prevInTime": 8322,
+            "nextInTime": 8324,
+            "topicId": 8320,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I put it on my resume. And then I flip out and ban someone for writing samuria . __________________________________________________ Do You Yahoo!? Tired",
+            "messageBody": "<div id=\"ygrps-yiv-1241939979\">--- James Eckman &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ronin_engineer@...\">ronin_engineer@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; &gt;   From: &quot;Kitsuno&quot;<br/>\n&gt; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;<br/>\n&gt; &gt;  <br/>\n&gt; &gt;<br/>\n&gt; &gt;&gt;Please tell me. Who are the moderators???   Irish<br/>\n&gt; Kee<br/>\n&gt; &gt;&gt;    <br/>\n&gt; &gt;&gt;<br/>\n&gt; &gt;These guys:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/ultmods.html\">http://www.samurai-archives.com/ultmods.html</a><br/>\n&gt; &gt;<br/>\n&gt; &gt;AKA myself, LtDomer, and FWSeal.<br/>\n&gt; &gt;  <br/>\n&gt; &gt;<br/>\n&gt; Which is like bragable ;)<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>I put it on my resume. <br/>\n<br/>\nAnd then I flip out and ban someone for writing<br/>\n&quot;samuria&quot;. <br/>\n<br/>\n__________________________________________________<br/>\nDo You Yahoo!?<br/>\nTired of spam?  Yahoo! Mail has the best spam protection around <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail.yahoo.com\">http://mail.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 1366",
+            "postDate": "1139018813",
+            "msgId": 8320,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQzRTQwQzNELjQwM0Bjb21jYXN0Lm5ldD4=",
+                "inReplyToHeader": "PDExMzg5NDY4NjguMzI5LjkyMTYxLm0xN0B5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDExMzg5NDY4NjguMzI5LjkyMTYxLm0xN0B5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8323,
+            "prevInTime": 8319,
+            "nextInTime": 8321,
+            "topicId": 8320,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Which is like bragable ;) Jim",
+            "messageBody": "<div id=\"ygrps-yiv-1154972668\"><blockquote><span title=\"ireply\">&gt;   From: &quot;Kitsuno&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;<br/>\n&gt;  <br/>\n&gt;<br/>\n&gt;&gt;Please tell me. Who are the moderators???   Irish Kee<br/>\n&gt;&gt;    <br/>\n&gt;&gt;<br/>\n&gt;These guys: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/ultmods.html\">http://www.samurai-archives.com/ultmods.html</a><br/>\n&gt;<br/>\n&gt;AKA myself, LtDomer, and FWSeal.<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Which is like bragable ;)<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8280,
+    "nextTopicId": 8321
+}

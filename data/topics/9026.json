@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 214272372,
+            "authorName": "Rod Pavez",
+            "from": "&quot;Rod Pavez&quot; &lt;grfkboyz@...&gt;",
+            "profile": "g3mneye",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "obake neko",
+            "postDate": "1154903098",
+            "msgId": 9026,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGViNXE3cSsxMHJ2NUBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9025,
+            "nextInTime": 9027,
+            "topicId": 9026,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone: I hope you are all well. I wanted to know if anyone had information or knew of a site regarding the Obake-Neko (cat ghost) of Japan. I would ",
+            "messageBody": "<div id=\"ygrps-yiv-1058543063\">Hello everyone:<br/>\nI hope you are all well. I wanted to know if anyone had information or <br/>\nknew of a site regarding the Obake-Neko (cat ghost) of Japan. I would <br/>\nappreciate any help. What I am looking for specifically is if they can <br/>\nbe controlled or controll themselves. Thanks guys. <br/>\nRod</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9021,
+    "nextTopicId": 8984
+}

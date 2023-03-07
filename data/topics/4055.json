@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 101135602,
+            "authorName": "str22554",
+            "from": "&quot;str22554&quot; &lt;str22554@...&gt;",
+            "profile": "str22554",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Murai Nagayori",
+            "postDate": "1080505431",
+            "msgId": 4055,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM0N2M4bis0MHJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4054,
+            "nextInTime": 4056,
+            "topicId": 4055,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi , I was trying to find the kamon for a samurai named Murai Nagayori  he was a retainer of Maeda  Toshiie. He lived from 1543-1605 .",
+            "messageBody": "<div id=\"ygrps-yiv-1536712105\">Hi ,<br/>\n   I was trying to find the kamon for a samurai named Murai Nagayori  he was a <br/>\nretainer of Maeda  Toshiie. He lived from 1543-1605 .</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4048,
+    "nextTopicId": 4058
+}

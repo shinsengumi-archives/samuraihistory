@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Heijoshin@aol.com",
+            "from": "Heijoshin@...",
+            "replyTo": "LIST",
+            "senderId": "ADYJopQgDMl8ZuuCLqOheNegVW0p-DMoE4ZU8mdwlVLy0etnV93_8y2InRbTDXPoPJsYeeLbqIU",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1007085604",
+            "msgId": 390,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlmLjFmMTdkYWNhLjI5Mzg0MjI0QGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 389,
+            "nextInTime": 391,
+            "topicId": 390,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In European Swordsmanship, the right hand is used for the sword because it places the heart furthest away from the attacker.  Safer place to have it. The left",
+            "messageBody": "<div id=\"ygrps-yiv-789441536\">In European Swordsmanship, the right hand is used for the sword because it <br/>\nplaces the heart furthest away from the attacker.  Safer place to have it.  <br/>\nThe left hand was used for a shield to protect the heart.<br/>\n<br/>\nScott Erickson<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Heijoshin@...\">Heijoshin@...</a><br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 389,
+    "nextTopicId": 395
+}

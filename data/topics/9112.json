@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 10613559,
+            "authorName": "Sensei J. Richard Kirkham B.Sc",
+            "from": "&quot;Sensei J. Richard Kirkham B.Sc&quot; &lt;tutor2000@...&gt;",
+            "profile": "tutor2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OT My Experiences with the Hawaii Earthquake and What I should Tell You",
+            "postDate": "1161117500",
+            "msgId": 9112,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDYxMDE3MjAzODIwLjM1ODg3LnFtYWlsQHdlYjMwODEzLm1haWwubXVkLnlhaG9vLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9111,
+            "nextInTime": 9113,
+            "topicId": 9112,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "My Experiences with the Hawaii Earthquake and What I should Tell You http://kirkhamsebooks.com/MartialArts/MartialArtsArticles/HawaiiEarthquake.html",
+            "messageBody": "<div id=\"ygrps-yiv-291146208\">My Experiences with the Hawaii Earthquake and What I should Tell You <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://kirkhamsebooks.com/MartialArts/MartialArtsArticles/HawaiiEarthquake.html\">http://kirkhamsebooks.com/MartialArts/MartialArtsArticles/HawaiiEarthquake.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9091,
+    "nextTopicId": 567
+}

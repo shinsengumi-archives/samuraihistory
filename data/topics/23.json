@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "tCEKRIl4L_lUO1ureOZcw0LTzHmh_jz5OCQBfYaRQQrvFQ_PmlHBR6XQ4icdgcBG6FxPRcgVzV4Wl0U",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "UPDATES - FYI",
+            "postDate": "975115602",
+            "msgId": 23,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDh2bjRnaStndGJzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 22,
+            "nextInTime": 24,
+            "topicId": 23,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Due to server upgrades over the past few days, most of the updates mentioned in this month s recent updates sort of disapeared.... however, the page is now",
+            "messageBody": "<div id=\"ygrps-yiv-355353884\">Due to server upgrades over the past few days, most of the &#39;updates&#39; <br/>\nmentioned in this month&#39;s &#39;recent updates&#39; sort of disapeared....  <br/>\nhowever, the page is now oficially updated, with all the links in the <br/>\nprevious email now good and current.<br/>\n<br/>\nThanks,<br/>\n<br/>\nC.E. West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 22,
+    "nextTopicId": 24
+}

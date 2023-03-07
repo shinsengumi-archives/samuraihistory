@@ -1,0 +1,575 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2084054,
+    "listId": 2247946,
+    "dateCreated": 1135362940,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "What is your favorite type of ancient weapon?",
+    "flagBits": 0,
+    "multiResponse": true,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 15206000,
+            "selectionText": "Katana",
+            "selections": 15,
+            "responses": [
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 286881682,
+                    "guid": "MEP2V2XES3R26YXR3TLW5WK7EQ",
+                    "nickname": "boojienacpil",
+                    "email": "boojienacpil@yahoo.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 257405796,
+                    "guid": "H7C26Q7EBTZAUJ2DLEETO37S6I",
+                    "nickname": "seki_nakagawa",
+                    "email": "sekinakagawa@aol.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 257071481,
+                    "guid": "SMVX6CBJRMSOAXW64AXVEOJNPI",
+                    "nickname": "nonojnet",
+                    "email": "nonojnet@gmail.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 158578907,
+                    "email": "nuqwIjatlh@hotmail.com"
+                },
+                {
+                    "selectionId": 15206000,
+                    "surveyId": 2084054,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206001,
+            "selectionText": "Bow and arrow",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 15206001,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206001,
+                    "surveyId": 2084054,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206002,
+            "selectionText": "Nodachi",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206002,
+                    "surveyId": 2084054,
+                    "userId": 292922662,
+                    "nickname": "classy_gui",
+                    "email": "classy_gui@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206003,
+            "selectionText": "Wakizashi",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 15206003,
+                    "surveyId": 2084054,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 15206003,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206003,
+                    "surveyId": 2084054,
+                    "userId": 234853852,
+                    "nickname": "bellaireroad",
+                    "email": "bellaireroad@yahoo.com"
+                },
+                {
+                    "selectionId": 15206003,
+                    "surveyId": 2084054,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                },
+                {
+                    "selectionId": 15206003,
+                    "surveyId": 2084054,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206004,
+            "selectionText": "Tiger hook",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 15206005,
+            "selectionText": "Ninja-to/ Shinobigatana",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 15206005,
+                    "surveyId": 2084054,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                },
+                {
+                    "selectionId": 15206005,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206006,
+            "selectionText": "Axe",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 15206007,
+            "selectionText": "Tanto",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206007,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206008,
+            "selectionText": "Mace",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206008,
+                    "surveyId": 2084054,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206009,
+            "selectionText": "Naginata",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 15206009,
+                    "surveyId": 2084054,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 15206009,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206009,
+                    "surveyId": 2084054,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206010,
+            "selectionText": "Yari(spear)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206010,
+                    "surveyId": 2084054,
+                    "userId": 461973763,
+                    "guid": "E63IMOBQJRYXUVUUQQBVFNNQMM",
+                    "nickname": "amosodea",
+                    "email": "amosodea@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206011,
+            "selectionText": "Bo(staff)",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 15206011,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206011,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206012,
+            "selectionText": "Jo(shorter staff)",
+            "selections": 5,
+            "responses": [
+                {
+                    "selectionId": 15206012,
+                    "surveyId": 2084054,
+                    "userId": 255930893,
+                    "guid": "JKLS2WPPJTZKGHFMVKRJ4P7UEE",
+                    "nickname": "rodsloan",
+                    "email": "rodsloan@gmail.com"
+                },
+                {
+                    "selectionId": 15206012,
+                    "surveyId": 2084054,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 15206012,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 15206012,
+                    "surveyId": 2084054,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206013,
+            "selectionText": "Tekken(brass knuckles)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206013,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206014,
+            "selectionText": "Brass Leggings(for kickers)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206014,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206015,
+            "selectionText": "Crossbow",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 15206015,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 15206015,
+                    "surveyId": 2084054,
+                    "userId": 97199946,
+                    "email": "queenli19@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206016,
+            "selectionText": "Kusari Gama(sicle w/ chain)",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 15206016,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 15206016,
+                    "surveyId": 2084054,
+                    "userId": 247914591,
+                    "guid": "R426RRAVCEBAHV4YMGCOGWRVPQ",
+                    "nickname": "the_jigglin_penguin",
+                    "email": "the_jigglin_penguin@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206017,
+            "selectionText": "Kama(sickle)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206017,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206018,
+            "selectionText": "(Unarmed Combat)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206018,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206019,
+            "selectionText": "Nunchaku(flail)",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206019,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206020,
+            "selectionText": "Chinese straight sword",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 15206021,
+            "selectionText": "Tonfa",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 15206021,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206021,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206022,
+            "selectionText": "Chinese broadsword",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 15206023,
+            "selectionText": "Blowgun",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 15206023,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15206024,
+            "selectionText": "Shuriken/shaken/throwing weapons",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 15206024,
+                    "surveyId": 2084054,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15206024,
+                    "surveyId": 2084054,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 55,
+    "previousSurveyId": 2106597,
+    "nextSurveyId": 2077096
+}

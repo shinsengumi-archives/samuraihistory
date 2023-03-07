@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives Update",
+            "postDate": "1072338244",
+            "msgId": 2974,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJzZTRnNCtndXI4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2973,
+            "nextInTime": 2975,
+            "topicId": 2974,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve added the Hosokawa clan to the clan genealogies section: http://www.samurai-archives.com/clanindex.html (You ll find it in the left hand frame) Let me",
+            "messageBody": "<div id=\"ygrps-yiv-534708661\">I&#39;ve added the Hosokawa clan to the clan genealogies section:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/clanindex.html\">http://www.samurai-archives.com/clanindex.html</a><br/>\n<br/>\n(You&#39;ll find it in the left hand frame)<br/>\n<br/>\nLet me know if there are any problems with it.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2962,
+    "nextTopicId": 2975
+}

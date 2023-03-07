@@ -1,0 +1,29 @@
+{
+    "userId": 0,
+    "authorName": "tom.davidson@realtime.co.uk",
+    "from": "tom.davidson@...",
+    "replyTo": "LIST",
+    "senderId": "8C5t7hB98-EuvY8WrHB1i4bwvkRvXFNUB9yQhpEkek_oQkUdEKyNGAvhuOUWekeZxLobSAr1WHEU1i2yVmt42iz2",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Hi Ben",
+    "postDate": "988020096",
+    "msgId": 171,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDljMHVpMCs4amJpQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDc3LjEzNTM4MzJiLjI4MTA1YzZhQGFvbC5jb20+"
+    },
+    "prevInTopic": 168,
+    "nextInTopic": 172,
+    "prevInTime": 170,
+    "nextInTime": 172,
+    "topicId": 168,
+    "numMessagesInTopic": 4,
+    "msgSnippet": "Hi Ben - My personal favourite is the Sengoku Jidai - whilst this era saw the samurai ethos reach its lowest ebb, it also saw the emergence and development of",
+    "rawEmail": "Return-Path: &lt;tom.davidson@...&gt;\r\nReceived: (qmail 61393 invoked from network); 23 Apr 2001 18:59:44 -0000\r\nReceived: from unknown (10.1.10.26) by l10.egroups.com with QMQP; 23 Apr 2001 18:59:44 -0000\r\nReceived: from unknown (HELO hk.egroups.com) (10.1.10.43) by mta1 with SMTP; 23 Apr 2001 18:59:44 -0000\r\nX-eGroups-Return: tom.davidson@...\r\nReceived: from [10.1.2.208] by hk.egroups.com with NNFMP; 23 Apr 2001 18:59:42 -0000\r\nX-eGroups-Approved-By: kitsuno@... via web; 23 Apr 2001 18:59:39 -0000\r\nX-Sender: tom.davidson@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_1_2); 23 Apr 2001 10:01:39 -0000\r\nReceived: (qmail 70780 invoked from network); 23 Apr 2001 10:01:39 -0000\r\nReceived: from unknown (10.1.10.26) by l10.egroups.com with QMQP; 23 Apr 2001 10:01:39 -0000\r\nReceived: from unknown (HELO mr.egroups.com) (10.1.1.37) by mta1 with SMTP; 23 Apr 2001 10:01:38 -0000\r\nX-eGroups-Return: tom.davidson@...\r\nReceived: from [10.1.10.114] by mr.egroups.com with NNFMP; 23 Apr 2001 10:01:36 -0000\r\nDate: Mon, 23 Apr 2001 10:01:36 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Hi Ben\r\nMessage-ID: &lt;9c0ui0+8jbi@...&gt;\r\nIn-Reply-To: &lt;77.1353832b.28105c6a@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 269\r\nX-Mailer: eGroups Message Poster\r\nFrom: tom.davidson@...\r\n\r\nHi Ben - \n\nMy personal favourite is the Sengoku Jidai - whilst this era saw the\nsamurai ethos reach its lowest ebb, it also saw the emergence \nand development of some of the foremost martial ryu and also \nsome of the most &#39;colourful&#39; names in samurai history.\n\nThomas\n\n\n\n\n"
+}

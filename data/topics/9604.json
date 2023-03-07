@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "JapanEx",
+            "postDate": "1184787897",
+            "msgId": 9604,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjUwMWM3Yzk3NCQ1NTkyNzc4MCQxM2E5ZTE1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9603,
+            "nextInTime": 9606,
+            "topicId": 9604,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone Just to remind you that the Japan Ex show is at the Excel Centre in London s docklands this weekend. I will have a display of swords there, a few",
+            "messageBody": "<div id=\"ygrps-yiv-1277278549\">Hi everyone<br/>\nJust to remind you that the Japan Ex show is at the Excel Centre in London&#39;s docklands this weekend. I will have a display of swords there, a few for sale, so please say hello if you come.<br/>\nRegards<br/>\nClive Sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9602,
+    "nextTopicId": 9606
+}

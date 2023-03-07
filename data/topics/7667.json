@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 86908828,
+            "authorName": "Jack",
+            "from": "&quot;Jack&quot; &lt;Hsiensei@...&gt;",
+            "profile": "hsiensei",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Murakami Pirates",
+            "postDate": "1126659773",
+            "msgId": 7667,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRnN3NydCsycjgxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7666,
+            "nextInTime": 7668,
+            "topicId": 7667,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve been doing some research on piracy in general, and found some very interesting information on the wako, and on the Murakami in specific.  The only problem",
+            "messageBody": "<div id=\"ygrps-yiv-1720352549\">I&#39;ve been doing some research on piracy in general, and found some <br/>\nvery interesting information on the wako, and on the Murakami in <br/>\nspecific.  The only problem is that any information seems to stop after <br/>\nKuki Yoshitaka&#39;s victory in the second battle of Kizugawaguchi and <br/>\nHideyoshi&#39;s release of his anti-piracy edict.  I need to know what <br/>\nhappened to the Murakami in the time between their defeat, and <br/>\nTokugawa&#39;s rise to power.  Did they cease to exist as a naval power <br/>\naltogether?  Also, any information on naval battles in the Seto area <br/>\nduring that time, especially those involving the Murakami, Kuki, or <br/>\nMori, would be useful. <br/>\n   I&#39;m afraid I&#39;ve exhausted all of my resources on this, any help <br/>\nwould be tremendously appreciated.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7431,
+    "nextTopicId": 6834
+}

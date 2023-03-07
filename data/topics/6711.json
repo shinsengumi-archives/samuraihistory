@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Article on Nobunaga and warfare",
+            "postDate": "1109312981",
+            "msgId": 6722,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMjI1MDYyOTQxLjYyOTYwLnFtYWlsQHdlYjQxMzA3Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGIyYjVjOTQ1YTQ0NWNhOTY5Yjk3YTYzNDJjNTBlZmE3QGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 6711,
+            "nextInTopic": 0,
+            "prevInTime": 6721,
+            "nextInTime": 6723,
+            "topicId": 6711,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Wasn t me, but I m interested :) ... __________________________________ Do you Yahoo!? Yahoo! Sports - Sign up for Fantasy Baseball. ",
+            "messageBody": "<div id=\"ygrps-yiv-1034862654\">Wasn&#39;t me, but I&#39;m interested :)<br/>\n<br/>\n--- Cesare Polenghi &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:cepo@...\">cepo@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Months ago, I had promised to somebody here an<br/>\n&gt; unpublished article on <br/>\n&gt; Nobunaga and warfare (especially Nagashino). Ok, I<br/>\n&gt; have finally got it. <br/>\n&gt; Please contact me in private.<br/>\n&gt; cepo<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n </span></blockquote>__________________________________ <br/>\nDo you Yahoo!? <br/>\nYahoo! Sports - Sign up for Fantasy Baseball. <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://baseball.fantasysports.yahoo.com/\">http://baseball.fantasysports.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Article on Nobunaga and warfare",
+            "postDate": "1109287292",
+            "msgId": 6711,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIyYjVjOTQ1YTQ0NWNhOTY5Yjk3YTYzNDJjNTBlZmE3QGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6722,
+            "prevInTime": 6710,
+            "nextInTime": 6712,
+            "topicId": 6711,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Months ago, I had promised to somebody here an unpublished article on Nobunaga and warfare (especially Nagashino). Ok, I have finally got it. Please contact me",
+            "messageBody": "<div id=\"ygrps-yiv-1937843651\">Months ago, I had promised to somebody here an unpublished article on <br/>\nNobunaga and warfare (especially Nagashino). Ok, I have finally got it. <br/>\nPlease contact me in private.<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6697,
+    "nextTopicId": 6685
+}

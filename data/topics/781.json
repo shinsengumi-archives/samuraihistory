@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 89272809,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1019598711",
+            "msgId": 781,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGQwMWMxZWIxMSQxNDYwMjA2MCQ2YzA1ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 780,
+            "nextInTime": 782,
+            "topicId": 781,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. Do any of you know about a film  about a Japanese soldier from WW2 & the ghostly  beings that would appear to him after the war was over for him. If you do",
+            "messageBody": "<div id=\"ygrps-yiv-1427319062\">Hi. Do any of you know about a film  about a Japanese soldier from WW2 & the ghostly  beings that would appear to him after the war was over for him. If you do know could you post the name of the film? I would also appreciate if you could tell me where I can order a copy. THANKS Walter O&#39;Keefe<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 777,
+    "nextTopicId": 789
+}

@@ -1,0 +1,30 @@
+{
+    "userId": 472843210,
+    "authorName": "Dr. Sófi Gyula",
+    "from": "=?ISO-8859-1?Q?Dr=2E_S=F3fi_Gyula?= &lt;drsofigyula@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "wf8My7gM74xf30Ju8y5nsmy9MpBOwXwwOfdwomAStYzKkEAe0yYWEwL4l4-qyCJu4SLfiXc3Ksao7HEGwbfv_orWX3JXnCkPZsq_mpSaRatE3hA8SLG7M5hgbj3KPLIB-7ORGqLkx3ehjdKgXLVXbtDCOB0D-3YZXw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Re: [samuraihistory] Divorce in Japan at the XVI. century",
+    "postDate": "1305697150",
+    "msgId": 10312,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PEJBTkxrVGltWUdSVTJ3UD1uNmFySzdSX2JzS3NjTj1rPXlBQG1haWwuZ21haWwuY29tPg==",
+        "inReplyToHeader": "PDZFNTgzNEQ5N0Y0NzQ4QTBCQzFEMDBGRjA1NDZDQTg0QEFTRlBDPg==",
+        "referencesHeader": "PEJBTkxrVGk9dmtBWFJQcFpwU0pEK0FWSko2QnI3M0JkYTFBQG1haWwuZ21haWwuY29tPgk8NkU1ODM0RDk3RjQ3NDhBMEJDMUQwMEZGMDU0NkNBODRAQVNGUEM+"
+    },
+    "prevInTopic": 10311,
+    "nextInTopic": 10314,
+    "prevInTime": 10311,
+    "nextInTime": 10313,
+    "topicId": 10308,
+    "numMessagesInTopic": 8,
+    "msgSnippet": "Does it means, that: 1. there were syphylis in Japan before the Europeans arrived at Japan? or 2. there were no syphylis at that time in Japan? My other",
+    "rawEmail": "Return-Path: &lt;drsofigyula@...&gt;\r\nReceived: (qmail 41632 invoked from network); 19 May 2011 04:01:29 -0000\r\nReceived: from unknown (66.196.94.107)\n  by m11.grp.re1.yahoo.com with QMQP; 19 May 2011 04:01:29 -0000\r\nReceived: from unknown (HELO n45b.bullet.mail.sp1.yahoo.com) (66.163.168.159)\n  by mta3.grp.re1.yahoo.com with SMTP; 19 May 2011 04:01:29 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1305777688; bh=SAzHYXEaAQvcJLnAvEk6XBYVkVbiWnjhrTvOmM9mRrs=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:MIME-Version:X-Received:X-Received:In-Reply-To:References:Date:X-Google-Sender-Auth:Message-ID:To:X-Originating-IP:X-eGroups-Msg-Info:From:Reply-To:Subject:X-Yahoo-Group-Post:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=KWmfECo1DCQ+baGhSFzQtftZvPyVFH+oByOAgEpH7Oceepf2rz0Dkdbj5wIdQ4zKkb3XK9L4y2CWX8JcjHFRjhE4k7h1xwVLO/swjYg6x0nhMrAvbG013wZ5DYRLlcxL\r\nReceived: from [69.147.65.172] by n45.bullet.mail.sp1.yahoo.com with NNFMP; 19 May 2011 04:01:28 -0000\r\nReceived: from [98.137.34.33] by t14.bullet.mail.sp1.yahoo.com with NNFMP; 19 May 2011 04:01:28 -0000\r\nX-Sender: drsofigyula@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 30416 invoked from network); 18 May 2011 05:39:11 -0000\r\nX-Received: from unknown (98.137.34.45)\n  by m6.grp.sp2.yahoo.com with QMQP; 18 May 2011 05:39:11 -0000\r\nX-Received: from unknown (HELO mail-vx0-f177.google.com) (209.85.220.177)\n  by mta2.grp.sp2.yahoo.com with SMTP; 18 May 2011 05:39:11 -0000\r\nX-Received: by vxd2 with SMTP id 2so1113416vxd.8\n        for &lt;samuraihistory@yahoogroups.com&gt;; Tue, 17 May 2011 22:39:10 -0700 (PDT)\r\nMIME-Version: 1.0\r\nX-Received: by 10.52.0.136 with SMTP id 8mr385833vde.45.1305697150123; Tue, 17\n May 2011 22:39:10 -0700 (PDT)\r\nX-Received: by 10.52.165.225 with HTTP; Tue, 17 May 2011 22:39:10 -0700 (PDT)\r\nIn-Reply-To: &lt;6E5834D97F4748A0BC1D00FF0546CA84@ASFPC&gt;\r\nReferences: &lt;BANLkTi=vkAXRPpZpSJD+AVJJ6Br73Bda1A@...&gt;\n\t&lt;6E5834D97F4748A0BC1D00FF0546CA84@ASFPC&gt;\r\nDate: Wed, 18 May 2011 07:39:10 +0200\r\nX-Google-Sender-Auth: RqgonPPdFnChAdkXdwenuQtw3aM\r\nMessage-ID: &lt;BANLkTimYGRU2wP=n6arK7R_bsKscN=k=yA@...&gt;\r\nTo: samuraihistory@yahoogroups.com\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: =?ISO-8859-1?Q?Dr=2E_S=F3fi_Gyula?= &lt;drsofigyula@...&gt;\r\nReply-To: drsofigyula@...\r\nSubject: Re: [samuraihistory] Divorce in Japan at the XVI. century\r\nX-Yahoo-Group-Post: member; u=472843210\r\nContent-Type: text/plain\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via web; 19 May 2011 04:01:28 -0000\r\n\r\nDoes it means, that:\n1. there were syphylis in Japan before the Europeans a=\r\nrrived at Japan? or\n2. there were no syphylis at that time in Japan?\n\nMy ot=\r\nher question focused on the daily life of tha Japanese families. Was\nthere =\r\nchance for divorcing before the Tokugawa shogunate?\n\nThanks for your cooper=\r\nations!\n\nGyula Sofi MD\n\n2011/5/18 fabros1 &lt;fabros1@...&gt;\n\n&gt;\n&gt;\n&gt; The =\r\nJapanese custom of bathing would have uncovered very quickly if any of\n&gt; th=\r\ne Dutch/Portuguese would have had any type of STD. That could have been\n&gt; o=\r\nne reason for isolating them away from the rest of the population.\n&gt;\n&gt; From=\r\n: Dr. S=F3fi Gyula\n&gt; Sent: Tuesday, May 17, 2011 12:09 PM\n&gt; To: samuraihist=\r\nory@yahoogroups.com\n&gt; Subject: [samuraihistory] Divorce in Japan at the XVI=\r\n. century\n&gt;\n&gt;\n&gt; Dear friends,\n&gt;\n&gt; if somebody have informations (and source=\r\ns!) on how divorce could occur in\n&gt; Japan, at the XVI. century, please writ=\r\ne me details.\n&gt;\n&gt; Other thing what would be very interesting to me is conce=\r\nrning on STD-s\n&gt; (sexually transmitted deseases). Is there any information =\r\non whether the\n&gt; Europeans spread to Japanese p.e. the syphylis and other S=\r\nTD-s, after ther\n&gt; Black Ship arrived at the west coast of Japan?\n&gt;\n&gt; Thank=\r\ns for every cooperation you will do for helping my research work!\n&gt;\n&gt; Gyula=\r\n SOFI MD\n&gt; Budapest, Hungary\n&gt;\n&gt; [Non-text portions of this message have be=\r\nen removed]\n&gt;\n&gt; [Non-text portions of this message have been removed]\n&gt;\n&gt;  =\r\n\n&gt;\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "NEW WEBSITE DISCOVERY???",
+            "postDate": "1200799396",
+            "msgId": 9678,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxMzUwMWM4NWIxMyRjZDYxNmVjMCQwNDAwYThjMEBCQVJSWT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9677,
+            "nextInTime": 9679,
+            "topicId": 9678,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.okamotocorp.co.jp/english/okamoto_story/history/01.html The Okamoto Corp would appear to be a major manufacturer of socks in Japan.  They have both",
+            "messageBody": "<div id=\"ygrps-yiv-1168255003\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.okamotocorp.co.jp/english/okamoto_story/history/01.html\">http://www.okamotocorp.co.jp/english/okamoto_story/history/01.html</a><br/>\n<br/>\n<br/>\nThe Okamoto Corp would appear to be a major manufacturer of socks in Japan.  They have both an English and Japanese site.  I found it somewhat convoluted when I went to the website root and tried to open the link above, but I discovered the link above in an unrelated search.  There is quite a bit of history about the samurai and clothing.<br/>\n<br/>\nBest regards,<br/>\nBarry Thomas<br/>\n(Melbourne, Australia)<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9676,
+    "nextTopicId": 9679
+}

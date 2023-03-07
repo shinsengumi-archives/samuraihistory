@@ -1,0 +1,29 @@
+{
+    "userId": 134498325,
+    "authorName": "tom helm",
+    "from": "tom helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "JREN8_VBjyXh5BpNqaxkz71eUBtGu5aIUkAFuw5nqYTblCKiKB0yCOEmGNXcuOZsmZsiEl59YQLKbaCv9xHSOP9LM-H-8Bo9",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Shingen or Nobunaga?",
+    "postDate": "1063487198",
+    "msgId": 2241,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGEwNTIxMDYwMmJiODkzNmY5OTUxMkBbMTkyLjE2OC4xNzMuMTY2XT4="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 2242,
+    "prevInTime": 2240,
+    "nextInTime": 2242,
+    "topicId": 2241,
+    "numMessagesInTopic": 8,
+    "msgSnippet": "The description of Nobunaga is neat but the figure is NOT Nobunaga... -t http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2191935121&category=43338",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 21609 invoked from network); 13 Sep 2003 21:06:41 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m14.grp.scd.yahoo.com with QMQP; 13 Sep 2003 21:06:41 -0000\r\nReceived: from unknown (HELO pop.sanbrunocable.com) (65.172.230.120)\n  by mta6.grp.scd.yahoo.com with SMTP; 13 Sep 2003 21:06:41 -0000\r\nReceived: from [192.168.173.166] (dynamic-192-168-173-166.sanbrunocable.com [192.168.173.166])\n\tby pop.sanbrunocable.com (8.11.6/8.11.6) with ESMTP id h8DL64m02577\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Sat, 13 Sep 2003 14:06:04 -0700\r\nMime-Version: 1.0\r\nX-Sender: sanbruno@... (Unverified)\r\nMessage-Id: &lt;a05210602bb8936f99512@[192.168.173.166]&gt;\r\nDate: Sat, 13 Sep 2003 14:06:38 -0700\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Shingen or Nobunaga?\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-eGroups-From: tom helm &lt;toryu@...&gt;\r\nFrom: tom helm &lt;junkmail@...&gt;\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nThe description of Nobunaga is neat but the figure is NOT Nobunaga...\n\n-t\n\nhttp://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=2191935121&category=43338\n\n"
+}

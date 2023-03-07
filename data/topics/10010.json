@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 36450143,
+            "authorName": "Cearb@aol.com",
+            "from": "Cearb@...",
+            "profile": "omajinchan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Sashimono Back Banners",
+            "postDate": "1256610292",
+            "msgId": 10013,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0Ni40OTg3N2IwZC4zODE3YjNmNEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 10010,
+            "nextInTopic": 0,
+            "prevInTime": 10012,
+            "nextInTime": 10014,
+            "topicId": 10010,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In a message dated 10/26/2009 7:13:00 AM Eastern Daylight Time, carpenterj12000@yahoo.co.uk writes: Can  anyone tell me please, when the Sashimono came into",
+            "messageBody": "<div id=\"ygrps-yiv-1705225298\">In a message dated 10/26/2009 7:13:00 AM Eastern Daylight Time,  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:carpenterj12000@...\">carpenterj12000@...</a> writes:<br/>\n<br/>\nCan  anyone tell me please, when the Sashimono came into general  use?<br/>\n<br/>\n<br/>\n<br/>\nAccording to Stephen Turnbull in _Samurai Heraldry_ (Osprey Publishing),  <br/>\nthe sashimomo came into use in the 16th century.  Prior to that, samurai  <br/>\nwould fight under a distinctive common banner.<br/>\n <br/>\nShould you be interested in finding the book, the ISBN is  1-84176-304-7.<br/>\n <br/>\nHope that helps...<br/>\n <br/>\n--R.M.B.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 227163427,
+            "authorName": "carpenterj12000",
+            "from": "&quot;carpenterj12000&quot; &lt;carpenterj12000@...&gt;",
+            "profile": "carpenterj12000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Sashimono Back Banners",
+            "postDate": "1256552580",
+            "msgId": 10010,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhjM3RhNCs1aTZ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 10013,
+            "prevInTime": 10009,
+            "nextInTime": 10011,
+            "topicId": 10010,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone tell me please, when the Sashimono can into general use?",
+            "messageBody": "<div id=\"ygrps-yiv-311545918\">Can anyone tell me please, when the Sashimono can into general use?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10007,
+    "nextTopicId": 10012
+}

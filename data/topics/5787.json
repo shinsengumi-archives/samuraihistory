@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 50835431,
+            "authorName": "lothrim6",
+            "from": "&quot;lothrim6&quot; &lt;lothrim6@...&gt;",
+            "profile": "lothrim6",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Book recommendations for Sengoku provinces",
+            "postDate": "1098215491",
+            "msgId": 5787,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsM3I4MytqajE2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5786,
+            "nextInTime": 5788,
+            "topicId": 5787,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I m looking for any suggestions folks might have for books displaying detailed maps of the Sengoku provinces. Such maps hopefully show major (and minor)",
+            "messageBody": "<div id=\"ygrps-yiv-690549103\">Hi,<br/>\n<br/>\nI&#39;m looking for any suggestions folks might have for books displaying <br/>\ndetailed maps of the Sengoku provinces. Such maps hopefully show <br/>\nmajor (and minor) settlements, fortresses and castles, rivers and <br/>\nother prominent topography. The map(s) provided with the game system <br/>\nare in my view, while helpful as a start, rather lacking in detail. <br/>\nI&#39;ve found some maps along the lines of what I&#39;m looking for in some <br/>\nof the Osprey books (i.e. Sekigahara, Kawanakajima, Nagashino, etc.), <br/>\nbut I was really hoping to find yet more detail over a larger area if <br/>\npossible. I&#39;m even open to primary sources in the original Japanese <br/>\nif anyone knows of such books by name. Thanks,<br/>\n<br/>\nPaul</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5784,
+    "nextTopicId": 5791
+}

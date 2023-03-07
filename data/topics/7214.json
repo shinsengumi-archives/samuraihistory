@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Lecture - Samurai Arts from the Collector&#39;s Viewpoint",
+            "postDate": "1117873555",
+            "msgId": 7214,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ3cm9paitwbnI1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7213,
+            "nextInTime": 7215,
+            "topicId": 7214,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Lecture - Samurai Arts from the Collector s Viewpoint At Pacific Asia Museum RICHARD SURAN, a member of the museum s Japanese Arts Council and knowledgeable",
+            "messageBody": "<div id=\"ygrps-yiv-2039860240\">Lecture - Samurai Arts from the Collector&#39;s Viewpoint<br/>\nAt Pacific Asia Museum<br/>\n<br/>\nRICHARD SURAN, a member of the museum&#39;s Japanese Arts Council and <br/>\nknowledgeable collector of Japanese samurai arts will offer an <br/>\ninsider&#39;s view of a fascinating topic.  <br/>\n<br/>\n<br/>\n*                    *                    *<br/>\n<br/>\nTo keep up with Asia-related events in Southern California, visit <br/>\nthe calendar section of the Asia Institute website.  If you would <br/>\nlike to receive a weekly email newsletter listing Asia-focused <br/>\nevents, please send your name and email address to <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:asia@...\">asia@...</a><br/>\n<br/>\n<br/>\nDate: Saturday, June 04, 2005 <br/>\n<br/>\nTime: 1:30 PM - 2:30 PM<br/>\n<br/>\nPacific Asia Museum<br/>\n46 N. Los Robles Ave<br/>\nPasadena, CA 91101<br/>\n<br/>\n<br/>\nCost: free<br/>\n<br/>\nTel: (626) 449-2742, ext. 31<br/>\nwww.pacificasiamuseum.org</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7208,
+    "nextTopicId": 6375
+}

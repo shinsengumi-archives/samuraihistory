@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Archives now on Facebook",
+            "postDate": "1249159204",
+            "msgId": 9953,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg1Mjk3NCsyM243QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9952,
+            "nextInTime": 9954,
+            "topicId": 9953,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Samurai Archives is now on facebook: http://www.facebook.com/pages/Samurai-Archives/104533213984",
+            "messageBody": "<div id=\"ygrps-yiv-69986375\">The Samurai Archives is now on facebook:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.facebook.com/pages/Samurai-Archives/104533213984\">http://www.facebook.com/pages/Samurai-Archives/104533213984</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9952,
+    "nextTopicId": 9954
+}

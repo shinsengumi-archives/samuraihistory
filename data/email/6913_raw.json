@@ -1,0 +1,31 @@
+{
+    "userId": 134498325,
+    "authorName": "tom helm",
+    "from": "tom helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "rd2jSrUATXi5NR2mwIs7V_t4pmIXQCQsKU9onzHX_UIeT79P4bWb12Q4uwOueYQALXj00IFM2dThsSXYWH7F_c0ZAeQAegVa",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "7"
+    },
+    "subject": "Re: [samuraihistory] Re: SWORD",
+    "postDate": "1112684041",
+    "msgId": 6913,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGEwNjExMDQzNGJlNzdlNjZhM2MzNEBbMTAuMC4xLjJdPg==",
+        "inReplyToHeader": "PDIwMDUwNDA0MTYyODMxLjQ4MS5xbWFpbEB3ZWIzMTAwNC5tYWlsLm11ZC55YWhvby5jb20+",
+        "referencesHeader": "PDIwMDUwNDA0MTYyODMxLjQ4MS5xbWFpbEB3ZWIzMTAwNC5tYWlsLm11ZC55YWhvby5jb20+"
+    },
+    "prevInTopic": 6912,
+    "nextInTopic": 6914,
+    "prevInTime": 6912,
+    "nextInTime": 6914,
+    "topicId": 6896,
+    "numMessagesInTopic": 27,
+    "msgSnippet": "Cool stuff Changsub, Thanks. -t",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 54524 invoked from network); 5 Apr 2005 05:54:13 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m25.grp.scd.yahoo.com with QMQP; 5 Apr 2005 05:54:13 -0000\r\nReceived: from unknown (HELO solanne.parasun.net) (204.174.16.15)\n  by mta5.grp.scd.yahoo.com with SMTP; 5 Apr 2005 05:54:13 -0000\r\nReceived: from cpe-65-172-239-48.sanbrunocable.com ([65.172.239.48] helo=[10.0.1.2])\n\tby solanne.parasun.net with esmtp (Exim 4.43)\n\tid 1DIh0u-00038r-MC\n\tfor samuraihistory@yahoogroups.com; Mon, 04 Apr 2005 22:54:12 -0700\r\nMime-Version: 1.0\r\nX-Sender: toryu@...@...-mon.com\r\nMessage-Id: &lt;a06110434be77e66a3c34@[10.0.1.2]&gt;\r\nIn-Reply-To: &lt;20050404162831.481.qmail@...&gt;\r\nReferences: &lt;20050404162831.481.qmail@...&gt;\r\nDate: Mon, 4 Apr 2005 22:54:01 -0800\r\nTo: samuraihistory@yahoogroups.com\r\nContent-Type: text/plain; charset=&quot;us-ascii&quot; ; format=&quot;flowed&quot;\r\nX-eGroups-Msg-Info: 1:7:0\r\nX-eGroups-From: tom helm &lt;toryu@...&gt;\r\nFrom: tom helm &lt;junkmail@...&gt;\r\nSubject: Re: [samuraihistory] Re: SWORD\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nCool stuff Changsub,\n\tThanks.\n-t\n\n"
+}

@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "kitsuno@teleport.com",
+    "from": "kitsuno@...",
+    "replyTo": "LIST",
+    "senderId": "Md1LTKYh1skCcq4Yx6auogblpLNziQe0yHYcagaDyhZcKfqv1E1LUOkQzuibC1gof0AYBPZ-pvLOEeA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "UPDATES - FYI",
+    "postDate": "975115602",
+    "msgId": 23,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDh2bjRnaStndGJzQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 22,
+    "nextInTime": 24,
+    "topicId": 23,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "Due to server upgrades over the past few days, most of the updates mentioned in this month s recent updates sort of disapeared.... however, the page is now",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@egroups.com\r\nReceived: (EGP: mail-6_3_1_2); 25 Nov 2000 01:26:56 -0000\r\nReceived: (qmail 64422 invoked from network); 25 Nov 2000 01:26:55 -0000\r\nReceived: from unknown (10.1.10.26) by m8.onelist.org with QMQP; 25 Nov 2000 01:26:55 -0000\r\nReceived: from unknown (HELO mr.egroups.com) (10.1.1.37) by mta1 with SMTP; 25 Nov 2000 01:26:55 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.125] by mr.egroups.com with NNFMP; 25 Nov 2000 01:26:55 -0000\r\nDate: Sat, 25 Nov 2000 01:26:42 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: UPDATES - FYI\r\nMessage-ID: &lt;8vn4gi+gtbs@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 266\r\nX-Mailer: eGroups Message Poster\r\nFrom: kitsuno@...\r\n\r\nDue to server upgrades over the past few days, most of the &#39;updates&#39; \nmentioned in this month&#39;s &#39;recent updates&#39; sort of disapeared....  \nhowever, the page is now oficially updated, with all the links in the \nprevious email now good and current.\n\nThanks,\n\nC.E. West\n\n\n"
+}

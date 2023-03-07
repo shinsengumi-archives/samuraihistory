@@ -1,0 +1,31 @@
+{
+    "userId": 213506180,
+    "authorName": "Philippe",
+    "from": "Philippe &lt;ptourigny@...&gt;",
+    "profile": "tls_phil",
+    "replyTo": "LIST",
+    "senderId": "ET2qmk9jLAPq_CSu44EQ4fuPStH_Rk5fAP0IgEogWGCa6G-qIW5yzNu5AFlNQDf0GBsjdmvE2Obp6EAH9Z7Y3Nq93ByI",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Kamo",
+    "postDate": "1154008721",
+    "msgId": 8996,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDQ0QzhDNjkxLjMwMDAzMDNAZ21haWwuY29tPg==",
+        "inReplyToHeader": "PDIwMDYwNzI3MDc0NTQ3LjU4ODQ3LnFtYWlsQHdlYjMyMTE1Lm1haWwubXVkLnlhaG9vLmNvbT4=",
+        "referencesHeader": "PDIwMDYwNzI3MDc0NTQ3LjU4ODQ3LnFtYWlsQHdlYjMyMTE1Lm1haWwubXVkLnlhaG9vLmNvbT4="
+    },
+    "prevInTopic": 8995,
+    "nextInTopic": 8998,
+    "prevInTime": 8995,
+    "nextInTime": 8997,
+    "topicId": 8984,
+    "numMessagesInTopic": 11,
+    "msgSnippet": "... Your mailer isn t specifying the encoding properly, and it s coming through as Content-Type: text/plain; charset=ISO-8859-1 . Changing the encoding",
+    "rawEmail": "Return-Path: &lt;ptourigny@...&gt;\r\nReceived: (qmail 22878 invoked from network); 28 Jul 2006 01:41:27 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m37.grp.scd.yahoo.com with QMQP; 28 Jul 2006 01:41:27 -0000\r\nReceived: from unknown (HELO n12c.bullet.sc5.yahoo.com) (66.163.187.203)\n  by mta5.grp.scd.yahoo.com with SMTP; 28 Jul 2006 01:41:27 -0000\r\nReceived: from [66.163.187.122] by n12.bullet.sc5.yahoo.com with NNFMP; 28 Jul 2006 01:41:02 -0000\r\nReceived: from [66.218.69.1] by t3.bullet.sc5.yahoo.com with NNFMP; 28 Jul 2006 01:41:02 -0000\r\nReceived: from [66.218.66.85] by t1.bullet.scd.yahoo.com with NNFMP; 28 Jul 2006 01:41:02 -0000\r\nX-Sender: ptourigny@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 66371 invoked from network); 27 Jul 2006 14:01:57 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m25.grp.scd.yahoo.com with QMQP; 27 Jul 2006 14:01:57 -0000\r\nReceived: from unknown (HELO py-out-1112.google.com) (64.233.166.180)\n  by mta4.grp.scd.yahoo.com with SMTP; 27 Jul 2006 14:01:57 -0000\r\nReceived: by py-out-1112.google.com with SMTP id m51so276578pye\n        for &lt;samuraihistory@yahoogroups.com&gt;; Thu, 27 Jul 2006 06:58:46 -0700 (PDT)\r\nReceived: by 10.35.63.2 with SMTP id q2mr13205947pyk;\n        Thu, 27 Jul 2006 06:58:46 -0700 (PDT)\r\nReceived: from ?221.92.96.69? ( [221.92.96.69])\n        by mx.gmail.com with ESMTP id q71sm418121pyg.2006.07.27.06.58.43;\n        Thu, 27 Jul 2006 06:58:45 -0700 (PDT)\r\nMessage-ID: &lt;44C8C691.3000303@...&gt;\r\nDate: Thu, 27 Jul 2006 22:58:41 +0900\r\nUser-Agent: Thunderbird 1.5.0.4 (Windows/20060516)\r\nMIME-Version: 1.0\r\nTo: samuraihistory@yahoogroups.com\r\nReferences: &lt;20060727074547.58847.qmail@...&gt;\r\nIn-Reply-To: &lt;20060727074547.58847.qmail@...&gt;\r\nContent-Type: text/plain; charset=ISO-8859-1; format=flowed\r\nContent-Transfer-Encoding: 7bit\r\nX-eGroups-Msg-Info: 1:0:0:0\r\nFrom: Philippe &lt;ptourigny@...&gt;\r\nSubject: Re: [samuraihistory] Kamo\r\nX-Yahoo-Group-Post: member; u=213506180; y=INmn25DY9Dh51vN7MSRyUQmiB0T1zwT9iscFevY_HrVrJM0\r\nX-Yahoo-Profile: tls_phil\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: ltdomer98 &lt;ltdomer98@...&gt; via web; 28 Jul 2006 01:41:01 -0000\r\n\r\nNate Ledbetter wrote:\n&gt; \n&gt; --- Anthony Bryant &lt;anthony_bryant@...&gt; wrote:\n&gt; \n&gt;&gt; Interesting encoding. ;)\n&gt;&gt;\n&gt; \n&gt; Waddya mean? It&#39;s Shift-JIS. Pretty standard...\n\n   Your mailer isn&#39;t specifying the encoding properly, and it&#39;s coming \nthrough as &quot;Content-Type: text/plain; charset=ISO-8859-1&quot;.\n\n   Changing the encoding manually did make the message legible, but it&#39;s \nmildly annoying to have to do so. :)\n\n-- \nPhilippe\nMen with sharpness of mind are to be found only among those with a \npenchant for thought. -- Shiba Yoshimasa\n\n\n\n\n"
+}

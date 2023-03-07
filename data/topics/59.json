@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "zF3BJxTFn49epYsqj48P_NpTClSNshMv2NjhA48DyWWUUpOpt6axiUdosRNGt11-TinAa4iZfulAkK0",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Poll up",
+            "postDate": "980495610",
+            "msgId": 76,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0cmFkcStzOWVpQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDk0a3V0dCtoaDdvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 59,
+            "nextInTopic": 0,
+            "prevInTime": 75,
+            "nextInTime": 77,
+            "topicId": 59,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Just in case no one noticed, the poll itself is available at the homepage of this listserve at www.egroups.com , or directly at: ",
+            "messageBody": "<div id=\"ygrps-yiv-687935613\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@egroups.com\">samuraihistory@egroups.com</a>, anubis6784@h... wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; I posted a poll on your favorite sengoku family but no one has <br/>\n&gt; answered it, I would like to know your opinions so please take the <br/>\n&gt; poll.<br/>\n<br/>\n<br/>\n </span></blockquote>Just in case no one noticed, the poll itself is available at <br/>\nthe &#39;homepage&#39; of this listserve at www.egroups.com , or directly at: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.egroups.com/polls/samuraihistory\">http://www.egroups.com/polls/samuraihistory</a><br/>\n<br/>\nlet&#39;s see some feedback!<br/>\n<br/>\nCEWest</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "anubis6784@hotmail.com",
+            "from": "anubis6784@...",
+            "replyTo": "LIST",
+            "senderId": "IcqvXNKrYTlr6GwPHaPnfuwLSeqeWI6Pl7Imilp9bNOH3y5tkBMcUqYbvlghcwqkI2Eery5hPzdT7nKyjw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Poll up",
+            "postDate": "980287229",
+            "msgId": 59,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0a3V0dCtoaDdvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 76,
+            "prevInTime": 58,
+            "nextInTime": 60,
+            "topicId": 59,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I posted a poll on your favorite sengoku family but no one has answered it, I would like to know your opinions so please take the poll.",
+            "messageBody": "<div id=\"ygrps-yiv-1457123132\">I posted a poll on your favorite sengoku family but no one has <br/>\nanswered it, I would like to know your opinions so please take the <br/>\npoll.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 75,
+    "nextTopicId": 58
+}

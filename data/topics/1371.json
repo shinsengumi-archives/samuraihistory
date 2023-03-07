@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128517145,
+            "authorName": "Jovine",
+            "from": "&quot;Jovine&quot; &lt;jovine4rubrub@...&gt;",
+            "profile": "jovine4rubrub",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory]",
+            "postDate": "1042594584",
+            "msgId": 1371,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PE9FNDc0WVRPQW5wUHpSTDRvdEQwMDAxMjc4YUBob3RtYWlsLmNvbT4=",
+                "referencesHeader": "PDEwNDI1NzAzOTEuMTcwLjEzNTY3Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1370,
+            "nextInTime": 1372,
+            "topicId": 1371,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can someone tell me: what historical truth is there in the story of Lone Wolf and Cub (kozure Okami).  Is there any truth in the story, or rather, historical",
+            "messageBody": "<div id=\"ygrps-yiv-521962552\">Can someone tell me: what historical truth is there in the story of Lone<br/>\nWolf and Cub (kozure Okami).  Is there any truth in the story, or rather,<br/>\nhistorical setting at all?<br/>\n<br/>\nThanks<br/>\nJV</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1363,
+    "nextTopicId": 1369
+}

@@ -1,0 +1,63 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: INTERESTING WEBSITE - JAPANESE CERAMICS",
+            "postDate": "1197497466",
+            "msgId": 9671,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTUwMWM4M2QwYiRlNWRmNzI2MCQwNDAwYThjMEBCQVJSWT4="
+            },
+            "prevInTopic": 9670,
+            "nextInTopic": 0,
+            "prevInTime": 9670,
+            "nextInTime": 9672,
+            "topicId": 9670,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve just noticed that scrolling right to the bottom reveals pages on numerous other arts and crafts. Barry Thomas. ... From: Barry Thomas",
+            "messageBody": "<div id=\"ygrps-yiv-930063925\">I&#39;ve just noticed that scrolling right to the bottom reveals pages on <br/>\nnumerous other arts and crafts.<br/>\n<br/>\nBarry Thomas.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\nFrom: &quot;Barry Thomas&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:warlord@...\">warlord@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Thursday, December 13, 2007 9:04 AM<br/>\nSubject: INTERESTING WEBSITE - JAPANESE CERAMICS<br/>\n<br/>\n<br/>\nDear All,<br/>\n<br/>\nJust stumbled on this which may be of more than passing interest to many:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihon-kogeikai.com/TEBIKI-E/1.html\">http://www.nihon-kogeikai.com/TEBIKI-E/1.html</a><br/>\n<br/>\nBest regards,<br/>\nBarry Thomas. </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "INTERESTING WEBSITE - JAPANESE CERAMICS",
+            "postDate": "1197497044",
+            "msgId": 9670,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNjIwMWM4M2QwYSRlYTBmY2IxMCQwNDAwYThjMEBCQVJSWT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9671,
+            "prevInTime": 9669,
+            "nextInTime": 9671,
+            "topicId": 9670,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, Just stumbled on this which may be of more than passing interest to many: http://www.nihon-kogeikai.com/TEBIKI-E/1.html Best regards, Barry Thomas.",
+            "messageBody": "<div id=\"ygrps-yiv-115144481\">Dear All,<br/>\n<br/>\nJust stumbled on this which may be of more than passing interest to many:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.nihon-kogeikai.com/TEBIKI-E/1.html\">http://www.nihon-kogeikai.com/TEBIKI-E/1.html</a><br/>\n<br/>\nBest regards,<br/>\nBarry Thomas.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9668,
+    "nextTopicId": 9676
+}

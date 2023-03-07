@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 42330449,
+            "authorName": "bobar57",
+            "from": "&quot;bobar57&quot; &lt;bobar57@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:The Art of War",
+            "postDate": "1008336181",
+            "msgId": 445,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNDIwMWMxODRhMiQ3NGRlYTA0MCQ0NjIzM2RkMEBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 444,
+            "nextInTime": 446,
+            "topicId": 445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sure,The Art of War was a well known study in the circle of army leaders in Japan during feudal era.Japan as a matter of fact has adsorbed quite a bit of",
+            "messageBody": "<div id=\"ygrps-yiv-298779415\">Sure,The Art of War was a well known study in the circle of army leaders in Japan during feudal era.Japan as a matter of fact has adsorbed quite a bit of Chinese culture for centuries,in all aspects of society and in most of the cases transformed and adapted those ideas,concepts and practices.<br/>\nRegards,<br/>\nRobert<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 444,
+    "nextTopicId": 446
+}

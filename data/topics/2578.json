@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William&Mikiko Letham",
+            "from": "&quot;William&Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "profile": "samuraiwm",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Yamada Nagamasa - info, if you can...",
+            "postDate": "1070120354",
+            "msgId": 2583,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTIwMWMzYjY4ZSRmMTdiYTc5MCQyYjIwMTZkYkBGTTEyNjAyNjc0Mj4=",
+                "referencesHeader": "PEEzMTY4MDgwLTIxNTgtMTFEOC04NDdELTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 2578,
+            "nextInTopic": 0,
+            "prevInTime": 2582,
+            "nextInTime": 2584,
+            "topicId": 2578,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hmmmm. We just had a similar discussion over at the Samurai History Forum; so I might have given this info to you before. In English the only detailed work on",
+            "messageBody": "<div id=\"ygrps-yiv-1323957962\">Hmmmm. We just had a similar discussion over at the Samurai History Forum;<br/>\nso I might have given this info to you before.<br/>\n<br/>\nIn English the only detailed work on Nagamasa and Japanese involvement in<br/>\nThailand/Siam I have found is;<br/>\n&quot;Notes on the Intercourse between Japan and Siam in the Seventeenth century&quot;<br/>\nby Ernest M Satow, Transactions of the Asiatic Society of Japan, Vol. 13, pt<br/>\nII, pages 139-210<br/>\n<br/>\nIn Japanese there are oodles but the only thing I have is volume 140 of the<br/>\nVisual Nihon Rekishi Series by DeAgustini on Nagamasa.<br/>\n<br/>\nI hope this helps.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Yamada Nagamasa - info, if you can...",
+            "postDate": "1069992558",
+            "msgId": 2578,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEEzMTY4MDgwLTIxNTgtMTFEOC04NDdELTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2583,
+            "prevInTime": 2577,
+            "nextInTime": 2579,
+            "topicId": 2578,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi gang. I am beginning a massive paper on Yamada Nagamasa, an adventurer-merchant (and warrior) who lived and fought in Siam in the early 17th.c. (his dates",
+            "messageBody": "<div id=\"ygrps-yiv-1116096964\">Hi gang. I am beginning a massive paper on Yamada Nagamasa, an <br/>\nadventurer-merchant (and warrior) who lived and fought in Siam in the <br/>\nearly 17th.c. (his dates are ?-1630)<br/>\nI found most of my sources in books related to Siamese History, but I <br/>\nwas wondering if you have any information on him, the Japanese in <br/>\nAyutthaya, and eventually other Japanese who lived in Southeast asia <br/>\n(Hue, Manila, etc.) in this period.<br/>\nIf you can refer to any book or journal, that might really help. <br/>\nmaterial in japanese language is ok too.<br/>\nThanks a lot!!<br/>\nCepo, Honolulu</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2574,
+    "nextTopicId": 2581
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159789776,
+            "authorName": "Paul Thennes",
+            "from": "&quot;Paul Thennes&quot; &lt;guardianwolf01@...&gt;",
+            "profile": "guardianwolf01",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Thank you",
+            "postDate": "1121399469",
+            "msgId": 7297,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRiN2JyZCsybHFyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7296,
+            "nextInTime": 7298,
+            "topicId": 7297,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thank you for allowing me to join your group I am very interested in Samurai history. again thank you",
+            "messageBody": "<div id=\"ygrps-yiv-2065670744\">Thank you for allowing me to join your group I am very interested in <br/>\nSamurai history. again thank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7278,
+    "nextTopicId": 7298
+}

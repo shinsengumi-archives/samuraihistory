@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "scott_rekishika",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Horses in Japan",
+            "postDate": "1196699952",
+            "msgId": 9666,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZqMWJmZys2aDNtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9665,
+            "nextInTime": 9667,
+            "topicId": 9666,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Horses had been in Japan since well before the Mongol invasions. However, I believe the evidence shows that they were not native to Japan. I can t remember off",
+            "messageBody": "<div id=\"ygrps-yiv-933944314\">Horses had been in Japan since well before the Mongol invasions. <br/>\nHowever, I believe the evidence shows that they were not native to <br/>\nJapan. I can&#39;t remember off the top of my head when horses were <br/>\nintroduced to Japan though. I believe that they are in some of the <br/>\nearliest chronicles about Japan from China though. And I think those <br/>\ndate from the 3rd century CE or so. But bones seem to indicate that <br/>\neven though they were there a long time ago they were originally <br/>\nbrought from the contiinent.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9653,
+    "nextTopicId": 9667
+}

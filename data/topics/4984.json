@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] I&#39;m new to the group.",
+            "postDate": "1091490786",
+            "msgId": 4986,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAyMjM1My5pNzJOcjdKVzAxODczNkBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+",
+                "inReplyToHeader": "PDIwMDQwODAyMTQwODMyLjMzNDYzLnFtYWlsQHdlYjQwMDAzLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwODAyMTQwODMyLjMzNDYzLnFtYWlsQHdlYjQwMDAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 4984,
+            "nextInTopic": 0,
+            "prevInTime": 4985,
+            "nextInTime": 4987,
+            "topicId": 4984,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Oyakata holds session: ... Welcome Gloria! I hope you enjoy yourself. -- Jay Kelly oyakata@OdaNobunaga.com",
+            "messageBody": "<div id=\"ygrps-yiv-171356593\">Oyakata holds session:<br/>\n<blockquote><span title=\"qreply\"> On Mon, 2 Aug 2004 07:08:32 -0700 (PDT), Gloria Proctorさん wrote:<br/>\n&gt;Hello, <br/>\n&gt;       my name is gloria proctor, but all my email friends know me as captain <br/>\n&gt;nemo. I have always had a fasination with the samurai culture of japan and <br/>\n&gt;the histories of samurai culture.<br/>\n<br/>\nWelcome Gloria! I hope you enjoy yourself.<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 109858840,
+            "authorName": "Gloria Proctor",
+            "from": "Gloria Proctor &lt;captainnemo12901@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "I&#39;m new to the group.",
+            "postDate": "1091455712",
+            "msgId": 4984,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAyMTQwODMyLjMzNDYzLnFtYWlsQHdlYjQwMDAzLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4986,
+            "prevInTime": 4983,
+            "nextInTime": 4985,
+            "topicId": 4984,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, my name is gloria proctor, but all my email friends know me as captain nemo. I have always had a fasination with the samurai culture of japan and the",
+            "messageBody": "<div id=\"ygrps-yiv-979308424\">Hello, <br/>\n       my name is gloria proctor, but all my email friends know me as captain nemo. I have always had a fasination with the samurai culture of japan and the histories of samurai culture.<br/>\n      i have been reading all the emails that i have now been recieving and have found it all very intriguing. and it is a wealth of information!<br/>\n      I am so glad that i have found this group, i&#39;m almost certain, i will be learning more and asking tons of questions more then anything, but maybe once in a while i maybe knowlegeble enough to add my two-cents worth.<br/>\n <br/>\n              yours in cyberspace,<br/>\n                                   Captain Nemo<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail is new and improved - Check it out!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4936,
+    "nextTopicId": 4993
+}

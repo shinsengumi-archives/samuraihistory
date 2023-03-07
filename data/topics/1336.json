@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "Kitsuno &lt;cewest@samurai-archives.com&gt;",
+            "from": "&quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives - Update",
+            "postDate": "1041133642",
+            "msgId": 1336,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGF1bHI4YStxMHFhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1335,
+            "nextInTime": 1337,
+            "topicId": 1336,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve uploaded the article Katsu Kaishu- The Man Who Saved Early Modern Japan By Romulus Hillsborough to the Featured Articles section:",
+            "messageBody": "<div id=\"ygrps-yiv-522021972\">I&#39;ve uploaded the article &quot;Katsu Kaishu- The Man Who Saved Early <br/>\nModern Japan&quot; By Romulus Hillsborough to the Featured Articles <br/>\nsection:  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/kak.html\">http://www.samurai-archives.com/kak.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1335,
+    "nextTopicId": 1350
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] honour",
+            "postDate": "1080104183",
+            "msgId": 3987,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMzI0MDQ1NjIzLjM5MDA2LnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGMzcTg0OCtkY2lzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3980,
+            "nextInTopic": 0,
+            "prevInTime": 3986,
+            "nextInTime": 3988,
+            "topicId": 3980,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Way to go...this is what the world needs, more generalizations and statements that sound good, but have no substance. War can bring out the",
+            "messageBody": "<div id=\"ygrps-yiv-1861386394\">--- kentguy212002 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kentguy212002@...\">kentguy212002@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; has any war or army fought with true honour, war<br/>\n&gt; brings out the worst <br/>\n&gt; in mankind <br/>\n<br/>\n </span></blockquote>Way to go...this is what the world needs, more<br/>\ngeneralizations and statements that sound good, but<br/>\nhave no substance. <br/>\n<br/>\nWar can bring out the worst--sometimes it also brings<br/>\nout the best. <br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Finance Tax Center - File online. File on time.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://taxes.yahoo.com/filing.html\">http://taxes.yahoo.com/filing.html</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 179990918,
+            "authorName": "kentguy212002",
+            "from": "&quot;kentguy212002&quot; &lt;kentguy212002@...&gt;",
+            "profile": "kentguy212002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "honour",
+            "postDate": "1080075208",
+            "msgId": 3980,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzcTg0OCtkY2lzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3987,
+            "prevInTime": 3979,
+            "nextInTime": 3981,
+            "topicId": 3980,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "has any war or army fought with true honour, war brings out the worst in mankind",
+            "messageBody": "<div id=\"ygrps-yiv-855320424\">has any war or army fought with true honour, war brings out the worst <br/>\nin mankind</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3964,
+    "nextTopicId": 3973
+}

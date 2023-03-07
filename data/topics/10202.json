@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Samurai Archives Yakuza Film Rundown",
+            "postDate": "1278297905",
+            "msgId": 10202,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGkwcmd2aCs5YTM1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10201,
+            "nextInTime": 10203,
+            "topicId": 10202,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve started a side project I wanted to let everyone know about, the Yakuza Film Rundown: www.yakuzafilm.com I ll be giving a rundown of 1-2 Yakuza films a",
+            "messageBody": "<div id=\"ygrps-yiv-134894162\">I&#39;ve started a side project I wanted to let everyone know about, the Yakuza Film Rundown:<br/>\n<br/>\nwww.yakuzafilm.com<br/>\n<br/>\nI&#39;ll be giving a rundown of 1-2 Yakuza films a month, which will are chosen by you, the readers - the next movie will be Takashi Miike&#39;s &quot;Like a Dragon&quot;, which beat out &quot;Deadly Outlaw: REKKA&quot; and &quot;Yakuza Demon&quot;, after which I&#39;ll have up another poll so you can vote on the next movie.  The first rundown is available - Takashi Miike&#39;s 2002 &quot;Graveyard of Honor&quot;, as well as a post detailing the AnimEigo release and Extras DVD.  Rather than keeping it a straight review, I try to mix it up, keep it conversational, and add as many pertinent and entertaining links and images into the text as I can find, trying to give it a more &quot;multimedia&quot; feel. <br/>\n<br/>\nLook for the &quot;Like a Dragon&quot; rundown soon.  I hope you enjoy the blog.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10188,
+    "nextTopicId": 10201
+}

@@ -1,0 +1,29 @@
+{
+    "userId": 0,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;toryu@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "oychxShgm56GQ9je8ZmerxCdk0hKOnfp8gHoRfRXjo0lo0HzRA9avLla8Xk9AIaaznnZC5jC2meoc57s8uQHfIsu9AI",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory]",
+    "postDate": "1007309481",
+    "msgId": 411,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDNDMEE1MkE4LkI2NzJDODk4QGZzaW5ldC5vci5qcD4=",
+        "referencesHeader": "PDkuMWY2Yjg1OGQuMjkzYTc5MTBAYW9sLmNvbT4gPDNDMDk5ODg2LkJCNjE4OEVAZnNpbmV0Lm9yLmpwPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 410,
+    "nextInTime": 412,
+    "topicId": 411,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "I want to apoligize to heijosha and the listees, My attempt at being wry just sounds snotty, and in light of recent postings here I should be more careful. ",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-8_0_0_1); 3 Dec 2001 14:02:49 -0000\r\nReceived: (qmail 82883 invoked from network); 3 Dec 2001 14:02:47 -0000\r\nReceived: from unknown (216.115.97.167)\n  by m5.grp.snv.yahoo.com with QMQP; 3 Dec 2001 14:02:47 -0000\r\nReceived: from unknown (HELO gamma.fsinet.or.jp) (202.239.206.45)\n  by mta1.grp.snv.yahoo.com with SMTP; 3 Dec 2001 14:02:47 -0000\r\nReceived: from fsinet.or.jp (pm-km113.fsinet.or.jp [157.120.214.93])\n\tby gamma.fsinet.or.jp (8.9.3+3.2W/3.7W) with ESMTP id XAA26501\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Mon, 3 Dec 2001 23:02:45 +0900 (JST)\r\nMessage-ID: &lt;3C0A52A8.B672C898@...&gt;\r\nDate: Sun, 02 Dec 2001 08:11:21 -0800\r\nReply-To: toryu@...\r\nOrganization: NCJSC\r\nX-Mailer: Mozilla 4.7 (Macintosh; I; PPC)\r\nX-Accept-Language: en,ja\r\nMIME-Version: 1.0\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Re: [samuraihistory]\r\nReferences: &lt;9.1f6b858d.293a7910@...&gt; &lt;3C099886.BB6188E@...&gt;\r\nContent-Type: text/plain; charset=us-ascii; x-mac-type=&quot;54455854&quot;; x-mac-creator=&quot;4D4F5353&quot;\r\nContent-Transfer-Encoding: 7bit\r\nFrom: Tom Helm &lt;toryu@...&gt;\r\n\r\nI want to apoligize to heijosha and the listees,\n    My attempt at being wry just sounds snotty, and in light of recent postings here\nI should be more careful.\n    Pray for surf,\nTom\n\n\n"
+}

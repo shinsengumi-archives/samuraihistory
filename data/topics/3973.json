@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William&Mikiko Letham",
+            "from": "&quot;William&Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "profile": "samuraiwm",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] tadaima...",
+            "postDate": "1080139081",
+            "msgId": 3997,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwYzQwMWM0MTFhZCQ5YzE1YjgyMCQyYjIwMTZkYkBGTTEyNjAyNjc0Mj4=",
+                "referencesHeader": "PDlBNDExMTRBLTdEMjgtMTFEOC1BNDBELTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 3973,
+            "nextInTopic": 0,
+            "prevInTime": 3996,
+            "nextInTime": 3998,
+            "topicId": 3973,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "<div id=\"ygrps-yiv-557266249\">&lt;&lt;Cepo, from Honolulu<br/>\nPS=I&#39;ll be in Japan in the summer, so the gathering is still up, uh?&gt;&gt;<br/>\n<br/>\nWhen and where? I will probably be here for another 40 years or so.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "tadaima...",
+            "postDate": "1080087434",
+            "msgId": 3973,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlBNDExMTRBLTdEMjgtMTFEOC1BNDBELTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3997,
+            "prevInTime": 3972,
+            "nextInTime": 3974,
+            "topicId": 3973,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there guys. I ve been away. I had simultaneously huge problems with both of my families: in Japan (a divorce - not mine!!!) and in Europe (my mom was sick,",
+            "messageBody": "<div id=\"ygrps-yiv-337672104\">Hi there guys. I&#39;ve been away. I had simultaneously huge problems with <br/>\nboth of my families: in Japan (a divorce - not mine!!!) and in Europe <br/>\n(my mom was sick, and my sister was on a train in Madrid the day of the <br/>\nbombs - no BS!! She&#39;s ok, luckily). I used my spring-break to fix all <br/>\nthe mess, but sadly I wasn&#39;t able to go to Kyoto and to participate to <br/>\nthe discussions on this mailing list. Now I have 395 messages to <br/>\nread... hihihi.<br/>\nI missed you guys.<br/>\nciao<br/>\nCepo, from Honolulu<br/>\nPS=I&#39;ll be in japan in the summer, so the gathering is still up, uh?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3980,
+    "nextTopicId": 3998
+}

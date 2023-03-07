@@ -1,0 +1,64 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1164395710",
+            "msgId": 9211,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVrN2didStsa2RqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PEJBWTEyNS1GMzI2MzM4NTc0QTI5RjgwQUI5N0Q0NTgyRTEwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 9210,
+            "nextInTopic": 0,
+            "prevInTime": 9210,
+            "nextInTime": 9212,
+            "topicId": 9210,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... There are only 107 usernames, you should be able to recognize yours: http://wiki.samurai-archives.com/index.php?title=Special:Listusers",
+            "messageBody": "<div id=\"ygrps-yiv-1884941595\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;shannon fenella&quot;<br/>\n&lt;shannon_fenella@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I forgot my username so I can&#39;t log in...what can I do now?<br/>\n&gt; <br/>\n<br/>\n </span></blockquote>There are only 107 usernames, you should be able to recognize yours:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://wiki.samurai-archives.com/index.php?title=Special:Listusers\">http://wiki.samurai-archives.com/index.php?title=Special:Listusers</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 244256767,
+            "authorName": "shannon fenella",
+            "from": "&quot;shannon fenella&quot; &lt;shannon_fenella@...&gt;",
+            "profile": "sfenella",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1164393841",
+            "msgId": 9210,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEyNS1GMzI2MzM4NTc0QTI5RjgwQUI5N0Q0NTgyRTEwQHBoeC5nYmw+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9211,
+            "prevInTime": 9209,
+            "nextInTime": 9211,
+            "topicId": 9210,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I forgot my username so I can t log in...what can I do now? _________________________________________________________________ Bewaar alles met de gigantische",
+            "messageBody": "<div id=\"ygrps-yiv-1867681243\">I forgot my username so I can&#39;t log in...what can I do now?<br/>\n<br/>\n_________________________________________________________________<br/>\nBewaar alles met de gigantische opslagruimte van Live Mail: 2 GB! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://imagine-windowslive.com/mail/launch/default.aspx?Locale=nl-nl\">http://imagine-windowslive.com/mail/launch/default.aspx?Locale=nl-nl</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9199,
+    "nextTopicId": 9176
+}

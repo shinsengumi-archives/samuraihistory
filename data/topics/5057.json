@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 192504069,
+            "authorName": "samurai_dokoro",
+            "from": "&quot;samurai_dokoro&quot; &lt;samurai_dokoro@...&gt;",
+            "profile": "samurai_dokoro",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "shimabara revolt",
+            "postDate": "1091693839",
+            "msgId": 5057,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlc3FlZitmMzc2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5056,
+            "nextInTime": 5058,
+            "topicId": 5057,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I saw the lists of samurai battles on this website. I was wondering why the siege of hara castle in 1637 wasn t included? Aside from christians (both samurai",
+            "messageBody": "<div id=\"ygrps-yiv-1771604315\">I saw the lists of samurai battles on this website. I was wondering <br/>\nwhy the siege of hara castle in 1637 wasn&#39;t included? Aside from <br/>\nchristians (both samurai and peasant) there were also disgruntled <br/>\nsamurai who participated on the side of the rebels.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5056,
+    "nextTopicId": 5064
+}

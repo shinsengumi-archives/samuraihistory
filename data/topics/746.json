@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109558685,
+            "authorName": "debunaru",
+            "from": "&quot;debunaru&quot; &lt;milosd@...&gt;",
+            "profile": "debunaru",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Question for all of you",
+            "postDate": "1018641885",
+            "msgId": 746,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxZTI1ZCQ1OTY3ZGYyMCRlZjNmYThjM0Bob21lcDFxaGhseW9ubD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 745,
+            "nextInTime": 747,
+            "topicId": 746,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m a new member of this group. I m studying japanese and I m doing a little research on sengoku jidai. My question is : Who are the man behind Hideyoshi s",
+            "messageBody": "<div id=\"ygrps-yiv-1891567390\">I&#39;m a new member of this group. I&#39;m studying japanese and I&#39;m doing a<br/>\nlittle research on sengoku jidai.<br/>\n <br/>\nMy question is : Who are the man behind Hideyoshi&#39;s success and why. And<br/>\nlike to know also reasons, why do you think that they influenced him and<br/>\nhelped him on his way to unification.<br/>\n <br/>\nThank you for cooperation. It would be a great help for me, if you could<br/>\nanswer my question.<br/>\n <br/>\nMilos<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 696,
+    "nextTopicId": 748
+}

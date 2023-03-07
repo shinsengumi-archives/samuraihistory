@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 665",
+            "postDate": "1071205979",
+            "msgId": 2845,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PERBMjFFNkVELTJDNjEtMTFEOC1CRERCLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDIwMDMxMjExMTcxODU4LjMyMzMzLnFtYWlsQHdlYjYwNDA2Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 2843,
+            "nextInTopic": 0,
+            "prevInTime": 2844,
+            "nextInTime": 2846,
+            "topicId": 2843,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry Tatu, I was just having fun, my examples are just that and not REAL links on the archive... -t",
+            "messageBody": "<div id=\"ygrps-yiv-770571\">Sorry Tatu,<br/>\n\tI was just having fun, my examples are just that and not REAL links on <br/>\nthe archive...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 10427392,
+            "authorName": "Tatu",
+            "from": "Tatu &lt;JimiTatu@...&gt;",
+            "profile": "jimitatu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 665",
+            "postDate": "1071163138",
+            "msgId": 2843,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjExMTcxODU4LjMyMzMzLnFtYWlsQHdlYjYwNDA2Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDEwNzExNjE0NDUuNjAzLjg0Njk3Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2845,
+            "prevInTime": 2842,
+            "nextInTime": 2844,
+            "topicId": 2843,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "None of these links seem to work for me, can someone assist? Thx, Tatu . For more on the samurai class see; www.samurai-archives.com/originalgangsta/html on",
+            "messageBody": "<div id=\"ygrps-yiv-426485346\">None of these links seem to work for me, can someone assist? <br/>\nThx,<br/>\nTatu<br/>\n <br/>\n<br/>\n. For more on the samurai class see;<br/>\n<br/>\nwww.samurai-archives.com/originalgangsta/html<br/>\n<br/>\non the abolition of bushi status;<br/>\n<br/>\nwww.samurai-archive.com/bustthisup!/html<br/>\n<br/>\non Bushi culture;<br/>\n<br/>\nwww.samurai-archive.com/cultofpersonality/html<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nProtect your identity with Yahoo! Mail AddressGuard<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2694,
+    "nextTopicId": 2822
+}

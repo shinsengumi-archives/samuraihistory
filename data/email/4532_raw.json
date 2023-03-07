@@ -1,0 +1,31 @@
+{
+    "userId": 134498325,
+    "authorName": "Tom Helm",
+    "from": "Tom Helm &lt;junkmail@...&gt;",
+    "profile": "soshuju",
+    "replyTo": "LIST",
+    "senderId": "fmac-i4U4WcdmMgdpAQrPrf65LMRAwYw92LjKffMGAe22muQvu2Byq7MZr1if9DqPEcKi1fgx6_04JkR0n5-EbPY_uuj1dFu",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] STUPID ME!",
+    "postDate": "1086786532",
+    "msgId": 4532,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDI3RTkyNDE4LUJBMTYtMTFEOC05NUNELTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+        "inReplyToHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg=="
+    },
+    "prevInTopic": 4531,
+    "nextInTopic": 0,
+    "prevInTime": 4531,
+    "nextInTime": 4533,
+    "topicId": 4529,
+    "numMessagesInTopic": 3,
+    "msgSnippet": "The poem is untitled... -t",
+    "rawEmail": "Return-Path: &lt;toryu@...&gt;\r\nX-Sender: toryu@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 37087 invoked from network); 9 Jun 2004 13:11:39 -0000\r\nReceived: from unknown (66.218.66.172)\n  by m8.grp.scd.yahoo.com with QMQP; 9 Jun 2004 13:11:39 -0000\r\nReceived: from unknown (HELO pop.sanbrunocable.com) (65.172.230.120)\n  by mta4.grp.scd.yahoo.com with SMTP; 9 Jun 2004 13:11:39 -0000\r\nReceived: from [10.0.1.2] (dynamic-204-95-18-20.sanbrunocable.com [204.95.18.20])\n\tby pop.sanbrunocable.com (8.11.6/8.11.6) with ESMTP id i59D86i04447\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Wed, 9 Jun 2004 06:08:06 -0700\r\nMime-Version: 1.0 (Apple Message framework v618)\r\nIn-Reply-To: &lt;20040609082212.63710.qmail@...&gt;\r\nReferences: &lt;20040609082212.63710.qmail@...&gt;\r\nContent-Type: text/plain; charset=US-ASCII; format=flowed\r\nMessage-Id: &lt;27E92418-BA16-11D8-95CD-000393B56BC0@...&gt;\r\nContent-Transfer-Encoding: 7bit\r\nDate: Wed, 9 Jun 2004 06:08:52 -0700\r\nTo: samuraihistory@yahoogroups.com\r\nX-Mailer: Apple Mail (2.618)\r\nX-eGroups-Remote-IP: 65.172.230.120\r\nX-eGroups-From: Tom Helm &lt;toryu@...&gt;\r\nFrom: Tom Helm &lt;junkmail@...&gt;\r\nSubject: Re: [samuraihistory] STUPID ME!\r\nX-Yahoo-Group-Post: member; u=134498325\r\nX-Yahoo-Profile: soshuju\r\n\r\nThe poem is untitled...\n-t\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 266887116,
+            "authorName": "thenight12_4",
+            "from": "&quot;thenight12_4&quot; &lt;thenight12_4@...&gt;",
+            "profile": "thenight12_4",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "koneshwa",
+            "postDate": "1152647633",
+            "msgId": 8943,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU5MHZraCtwanBuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8942,
+            "nextInTime": 8944,
+            "topicId": 8943,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "to make a good katana is it beter to make it 99% iron and 1% carbon or what coz am searchin in the net and i didnt find any good answer for that que.",
+            "messageBody": "<div id=\"ygrps-yiv-1606132879\">to make a good katana is it beter to make it 99% iron and 1% carbon or <br/>\nwhat coz am searchin in the net and i didnt find any good answer for <br/>\nthat que.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8931,
+    "nextTopicId": 7370
+}

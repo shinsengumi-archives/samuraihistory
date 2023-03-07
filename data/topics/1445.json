@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 114499721,
+            "authorName": "Robert Anderson &lt;av98us@yahoo.com&gt;",
+            "from": "&quot;Robert Anderson &lt;av98us@...&gt;&quot; &lt;av98us@...&gt;",
+            "profile": "av98us",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese History in Chinese",
+            "postDate": "1044692060",
+            "msgId": 1445,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIyMmU4cytodGNnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1444,
+            "nextInTime": 1446,
+            "topicId": 1445,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi! I was wondering if anyone knew where I could find Japanese history books in Chinese.  I am especially looking for a good history of the samurai, as well as",
+            "messageBody": "<div id=\"ygrps-yiv-1331212537\">Hi!<br/>\n   I was wondering if anyone knew where I could find Japanese <br/>\nhistory books in Chinese.  I am especially looking for a good <br/>\nhistory of the samurai, as well as versions of &quot;The 47 Ronin&quot;, &quot;The <br/>\nTale of Genji&quot; and books on Musashi Miyamoto.  I would also be <br/>\ninterested in any books on Japanese folk tales (onis, kappas, etc.)<br/>\n                        Thanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1425,
+    "nextTopicId": 1437
+}

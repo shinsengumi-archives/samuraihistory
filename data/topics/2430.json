@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 165409812,
+            "authorName": "Mmupton1@cs.com",
+            "from": "Mmupton1@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "(no subject)",
+            "postDate": "1068835608",
+            "msgId": 2430,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI3LjM5MDBjNDQ2LjJjZTY3ZDE4QGNzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2429,
+            "nextInTime": 2431,
+            "topicId": 2430,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Go to google.com, go to the search, and type in hagakure when the search is done go to the second or third choice down and you should have some basic stuff",
+            "messageBody": "<div id=\"ygrps-yiv-1800755720\">Go to google.com, go to the search, and type in &quot;hagakure&quot; when the search is <br/>\ndone go to the second or third choice down and you should have some basic <br/>\nstuff on the way of the samurai, if you read the first chapter. I really dont <br/>\nknow any other sites. but hopefully you will get some info. here.<br/>\n<br/>\n                                                              Mmupton1<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2425,
+    "nextTopicId": 2428
+}

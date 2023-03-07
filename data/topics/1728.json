@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 141829278,
+            "authorName": "Deon de Jongh",
+            "from": "Deon de Jongh &lt;deondejonghsa@...&gt;",
+            "profile": "deondejonghsa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Just Published...",
+            "postDate": "1054173016",
+            "msgId": 1783,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwNTI5MDE1MDE2LjM2MzgucW1haWxAd2ViMjE1MDUubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PDAwNTIwMWMzMTY5OCQ3M2UxNmZlMCRmMGM1ZmVhOUBzaWdudXA+"
+            },
+            "prevInTopic": 1728,
+            "nextInTopic": 0,
+            "prevInTime": 1782,
+            "nextInTime": 1784,
+            "topicId": 1728,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Fellow Samurai Devotees I have just published these two books, please feel free to browse the book contents online via the two links Best Regards & Care",
+            "messageBody": "<div id=\"ygrps-yiv-822126262\">Dear Fellow Samurai Devotees<br/>\n <br/>\nI have just published these two books, please feel free to browse the book contents online via the two links<br/>\n<br/>\nBest Regards & Care in Budo<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.iuniverse.com/bookstore/book_detail.asp?isbn=0-595-27283-5\">http://www.iuniverse.com/bookstore/book_detail.asp?isbn=0-595-27283-5</a><br/>\n <br/>\nand<br/>\n <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.iuniverse.com/bookstore/book_detail.asp?isbn=0-595-27978-3\">http://www.iuniverse.com/bookstore/book_detail.asp?isbn=0-595-27978-3</a><br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFree online calendar with sync to Outlook(TM).<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 48448737,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SOURCE URL FOR SAMURAI MARTIAL ARTS",
+            "postDate": "1052532249",
+            "msgId": 1728,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNTIwMWMzMTY5OCQ3M2UxNmZlMCRmMGM1ZmVhOUBzaWdudXA+",
+                "referencesHeader": "PDIwMDMwNTEwMTEzODQyMC5TTTAwMjI4QGhvc3QyLm5leC5uZXQuYXU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1783,
+            "prevInTime": 1727,
+            "nextInTime": 1729,
+            "topicId": 1728,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear Fellow Samurai Devotees, A friend has just sent me a url with much material on the samurai: http://koryu.com/index.html The opening text goes: A Koryu",
+            "messageBody": "<div id=\"ygrps-yiv-456866302\">Dear Fellow Samurai Devotees,<br/>\n<br/>\nA friend has just sent me a url with much material on the samurai:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://koryu.com/index.html\">http://koryu.com/index.html</a><br/>\n<br/>\nThe opening text goes:<br/>\n<br/>\nA Koryu Primer<br/>\nJust what are the koryu bujutsu? Authentic classical Japanese martial traditions<br/>\nare quite rare in the West, and there&#39;s not a whole lot of reliable information<br/>\nin English. If you&#39;re curious, this introduction will help you get started with<br/>\narticles and resources on the martial arts of the Japanese samurai. We&#39;ve also<br/>\nincluded a recommended reading list and some guides to help you distinguish the<br/>\nreal from the wannabes (many of these books can be purchased through our link to<br/>\nBarnes & Noble).<br/>\n<br/>\nI&#39;m sure many of you are well aware of this resource, but it is new to me and I<br/>\npost it whilst it is fresh at my fingertips for those who don&#39;t know of it.<br/>\n<br/>\nBest regards,<br/>\n<br/>\nBarry Thomas<br/>\n(Melbourne, Australia)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1776,
+    "nextTopicId": 1796
+}

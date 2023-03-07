@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Another blog post - Shingen and Kenshin&#39;s personal combat",
+            "postDate": "1221457363",
+            "msgId": 9785,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdha3NraitmMDEyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9784,
+            "nextInTime": 9786,
+            "topicId": 9785,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I cobbled together another blog post based on some old translations and a couple of books I had lying around, this time on Takeda Shingen and Uesugi Kenshin s",
+            "messageBody": "<div id=\"ygrps-yiv-910642998\">I cobbled together another blog post based on some old translations<br/>\nand a couple of books I had lying around, this time on Takeda Shingen<br/>\nand Uesugi Kenshin&#39;s supposed hand to hand combat at the 4th battle of<br/>\nKawanakajima.  Did it happen?<br/>\n<br/>\nThe blog post:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://shogun-yashiki.blogspot.com/2008/09/shadowboxing-kagemusha-or-real-deal.html\">http://shogun-yashiki.blogspot.com/2008/09/shadowboxing-kagemusha-or-real-deal.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9778,
+    "nextTopicId": 9775
+}

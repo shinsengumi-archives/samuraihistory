@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 185404712,
+            "authorName": "donvu992001",
+            "from": "&quot;donvu992001&quot; &lt;donvu99@...&gt;",
+            "profile": "donvu992001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "samurai honor in society",
+            "postDate": "1084061694",
+            "msgId": 4344,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM3anQ1dSs4Y2E2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4343,
+            "nextInTime": 4345,
+            "topicId": 4344,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "im doing some research and have to verify and assess the following statement if, a samurai s position in the privileged class of society was well deserved as",
+            "messageBody": "<div id=\"ygrps-yiv-634716199\">im doing some research and have to verify and assess the following <br/>\nstatement if, a samurai&#39;s position in the privileged class of <br/>\nsociety was well deserved as he was the protector of the lands and <br/>\npeople. <br/>\n <br/>\nI need some help , so can u please show me some sites or give me a <br/>\ncertain sort of idea.<br/>\n <br/>\nthanx</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4337,
+    "nextTopicId": 4342
+}

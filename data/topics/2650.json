@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 133723923,
+            "authorName": "rubujou",
+            "from": "&quot;rubujou&quot; &lt;rubujou@...&gt;",
+            "profile": "rubujou",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Need to find a certain Samurai",
+            "postDate": "1070670534",
+            "msgId": 2650,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxcjdzNitubTVhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2649,
+            "nextInTime": 2651,
+            "topicId": 2650,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Group. I m new here, just for the purpose of some light research. Could anyone help me find a Samurai by the following description: - Lived before 1750 -",
+            "messageBody": "<div id=\"ygrps-yiv-1802243921\">Hi Group. I&#39;m new here, just for the purpose of some light research. <br/>\n<br/>\nCould anyone help me find a Samurai by the following description: <br/>\n<br/>\n  - Lived before 1750<br/>\n  - Was the major hero / contributor to the DEFENSE of a particular <br/>\n    village / household etc. <br/>\n  - Basically, if he disappeared just before a certain time, a lot of <br/>\n    people would be in trouble without him. <br/>\n<br/>\nIf you are aware of this certain Samurai who saved the village / <br/>\nhousehold, and feel like educating me, any information you wish to <br/>\nprovide would be very helpful. Terminology, names, place, times, etc. <br/>\nwould all be helpful as well. However, I realize that I am asking for <br/>\none of probably a thousand needles in a haystack, so if you just <br/>\nprovide a Samurai&#39;s name, that would be a huge help all by itself. <br/>\n<br/>\nThank you very much. <br/>\n<br/>\nMickey</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2635,
+    "nextTopicId": 2631
+}

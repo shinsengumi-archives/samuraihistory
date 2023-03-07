@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives store discount sale",
+            "postDate": "1116455817",
+            "msgId": 7133,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ2Z2cyOStodjZzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7132,
+            "nextInTime": 7134,
+            "topicId": 7133,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is a discount sale at the Samurai Archives site: http://www.cafepress.com/samuraiarchives $10 off orders over $30, use coupon code GRDAD05. Sales starts",
+            "messageBody": "<div id=\"ygrps-yiv-2059716710\">There is a discount sale at the Samurai Archives site:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a><br/>\n<br/>\n<br/>\n$10 off orders over $30, use coupon code GRDAD05. <br/>\n<br/>\nSales starts May 17 and ends June 14, 2005. <br/>\n<br/>\nEnjoy!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7043,
+    "nextTopicId": 7134
+}

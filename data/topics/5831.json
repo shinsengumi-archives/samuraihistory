@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] jingasa",
+            "postDate": "1099097207",
+            "msgId": 5832,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxODJFNDc3LjUwODA1MDBAaW5kaWFuYS5lZHU+",
+                "inReplyToHeader": "PGNsdWpvaSs5MGNlQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNsdWpvaSs5MGNlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5831,
+            "nextInTopic": 0,
+            "prevInTime": 5831,
+            "nextInTime": 5837,
+            "topicId": 5831,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... It s fairly simple, really. One (or more) layers of really heavy paper were laid down over a form and lacquered to within an inch of their lives. I ve seen",
+            "messageBody": "<div id=\"ygrps-yiv-1087894440\">wayne docimo wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; can someone explain to me the process and materials used to make a <br/>\n&gt; paper mache helmet?<br/>\n&gt; Ive heard these types of helmets were made from a variety of <br/>\n&gt; materials including a paper mache type of material which seems to be <br/>\n&gt; the norm. i have several which seem to be made in this manner<br/>\n<br/>\n </span></blockquote>It&#39;s fairly simple, really. One (or more) layers of really heavy paper were laid <br/>\ndown over a form and lacquered to within an inch of their lives. I&#39;ve seen some <br/>\nreally impressive modern jingasa made in that way where the &quot;core&quot; is just a <br/>\nsingle layer of what amounts to posterboard glued into shape (e.g., either a <br/>\nsingle piece that&#39;s rolled into a cone and secured with glue or staples [!], or <br/>\nseveral pie-wedge shapes likewise attached, and then lacquered with eight or ten <br/>\nlayers of lacquer. These things end up about 1/4&quot; thick or more, and are hard as <br/>\na rock.<br/>\n<br/>\nTony<br/>\n<br/>\n<br/>\n<br/>\n-- <br/>\n<br/>\nAnthony J. Bryant<br/>\nWebsite: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com\">http://www.sengokudaimyo.com</a><br/>\n<br/>\nEffingham&#39;s Heraldic Avatars (...and stuff):<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengokudaimyo.com/avatarbiz.html\">http://www.sengokudaimyo.com/avatarbiz.html</a><br/>\n<br/>\nGrand Cross, Order of the Laurel:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/laurelorder\">http://www.cafepress.com/laurelorder</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 197795373,
+            "authorName": "wayne docimo",
+            "from": "&quot;wayne docimo&quot; &lt;kellylindawd@...&gt;",
+            "profile": "kellylindawd",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "jingasa",
+            "postDate": "1099092562",
+            "msgId": 5831,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsdWpvaSs5MGNlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5832,
+            "prevInTime": 5830,
+            "nextInTime": 5832,
+            "topicId": 5831,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "can someone explain to me the process and materials used to make a paper mache helmet? Ive heard these types of helmets were made from a variety of materials",
+            "messageBody": "<div id=\"ygrps-yiv-1458395993\">can someone explain to me the process and materials used to make a <br/>\npaper mache helmet?<br/>\nIve heard these types of helmets were made from a variety of <br/>\nmaterials including a paper mache type of material which seems to be <br/>\nthe norm. i have several which seem to be made in this manner<br/>\n<br/>\n<br/>\nthank you<br/>\n<br/>\nwayne</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5795,
+    "nextTopicId": 5837
+}

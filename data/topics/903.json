@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 68548757,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;kitsuno@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Fiction",
+            "postDate": "1023856506",
+            "msgId": 903,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFlNmoxcStjbWxiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 902,
+            "nextInTime": 904,
+            "topicId": 903,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just found this in my webmaster inbox: Mythical Medieval Japan never seemed so attractive as in this breezy epic... a rousingly muscular piece of romantic",
+            "messageBody": "<div id=\"ygrps-yiv-85419071\">Just found this in my &#39;webmaster&#39; inbox:<br/>\n<br/>\n&quot;Mythical Medieval Japan never seemed so attractive as in this breezy <br/>\nepic... a rousingly muscular piece of romantic adventure, replete with <br/>\nshadowy assassins, fluttering battle flags, and doomed love.&quot; <br/>\n                   --Kirkus Reviews<br/>\n<br/>\n<br/>\n   Greetings from Penguin Putnam, <br/>\n<br/>\n   We at Riverhead Books and Penguin Putnam are proud to announce the <br/>\npublication of Lian Hearn&#39;s Across the Nightingale Floor on August <br/>\n26th.<br/>\n<br/>\n   This critically acclaimed first book of The Otori Trilogy is a <br/>\nfantasy novel set in ancient Japan.  Lian Hearn is a pseudonym.  She <br/>\nstudied at Oxford University and has had a lifelong interest in <br/>\nJapanese culture and history.<br/>\n<br/>\n   Hearn&#39;s exhilarating epic is alive with sorcery, sword fights, <br/>\nsamurai, rival clans and martial arts as well as the passion of first <br/>\nlove.  It appeals to a wide variety of readers and has been <br/>\nenthusiastically received worldwide, with publishing rights sold in 25 <br/>\nforeign markets and film rights optioned to Kathleen Kennedy and Frank <br/>\nMarshall for Universal.  <br/>\n<br/>\n   We invite you to read about this book and to share it with your <br/>\nreadership. We plan to launch a website at www.theotori.com that will <br/>\ninclude information about the book and its characters.&quot;</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 900,
+    "nextTopicId": 904
+}

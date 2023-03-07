@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "Mbn_RLL-MLqU4671riubSHum37NqaKaUwVR7JRcfox1qDe7-Hi3PFqqoajLyDjPZOIWaOs8J_ym7fg7kHS01UC2FzpYWJP1-XGpb6fixCw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives Site",
+            "postDate": "997482883",
+            "msgId": 291,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlsMW5pMys2Y3ZlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 290,
+            "nextInTime": 292,
+            "topicId": 291,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Due to inexplicable events beyond comprehension, all traces of the Samurai Archives Japanese History Page have been erased from the Free server it was stored",
+            "messageBody": "<div id=\"ygrps-yiv-214709791\">Due to inexplicable events beyond comprehension, all traces of the <br/>\nSamurai Archives Japanese History Page have been erased from <br/>\nthe &#39;Free&#39; server it was stored on - apparently by the company that <br/>\nruns the server itself - possibly a crash or some other unfortunate <br/>\nevent. . . Fortunately copies of all of the HTML pages are safe, <br/>\nhowever only 70% or so of the images were saved . . . It may be a <br/>\nwhile before we can find space and upload to another free server <br/>\nsomewhere else, however if anyone has any info on a good free server <br/>\nwith over 50MB of space, feel free to email off list: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kitsuno@...\">kitsuno@...</a><br/>\nAnyone who wants to look at the smoking remains feel free:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.hn.org/samurai-archives/\">http://www.hn.org/samurai-archives/</a><br/>\n<br/>\nthx</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 290,
+    "nextTopicId": 292
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Cesar Orunoco",
+            "from": "&quot;Cesar Orunoco&quot; &lt;Big_Cat_The_Cool@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "wtOzQx6W_Ex0cbdVFKFTFXM8PkazuJqiGkxZNhsnui7b_Es_B4DWVBYhkHQYz93vRYx57PKxpGIsUP3aUXmpkZdDbDDTmudCjLJU3Pbum3CHFmQCZQ",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] new to group",
+            "postDate": "991314343",
+            "msgId": 193,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEYyMzhuemk5NUhmcVI3N2JpZUwwMDAwYWVjY0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 190,
+            "nextInTopic": 0,
+            "prevInTime": 192,
+            "nextInTime": 194,
+            "topicId": 190,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Everyone into Ryukyu history: How much did Medieval Ryukyu s martial tradition and that of Japan proper have in common? On the Wako s: what were their",
+            "messageBody": "<div id=\"ygrps-yiv-274011556\">Everyone into Ryukyu history: How much did Medieval Ryukyu&#39;s martial <br/>\ntradition and that of Japan proper have in common?<br/>\n<br/>\nOn the &quot;Wako&quot;s: what were their colonies like on the Asian continent? Which <br/>\nis the farthest colonie? the largest? or the most inland?<br/>\n_________________________________________________________________<br/>\nGet your FREE download of MSN Explorer at <a rel=\"nofollow\" target=\"_blank\" href=\"http://explorer.msn.com\">http://explorer.msn.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "bte4123@aol.com",
+            "from": "bte4123@...",
+            "replyTo": "LIST",
+            "senderId": "T03zxQhzstcbJunuRpweVZ_yeVkFaE2wzqPw-r5CfSEOxyeFOXPUdFXrdE5Z_lVkIuOS2uVk",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new to group",
+            "postDate": "991197133",
+            "msgId": 190,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM2LjE2NDFhYmMxLjI4NDVkMWNkQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 193,
+            "prevInTime": 189,
+            "nextInTime": 191,
+            "topicId": 190,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all, I m new to the group.  I have an interest in feudal Japan and would love to learn more about it.  Hope to use this group as a learning tool.  Take",
+            "messageBody": "<div id=\"ygrps-yiv-1760792366\">Hello all,<br/>\n<br/>\n  I&#39;m new to the group.  I have an interest in feudal Japan and would love to <br/>\nlearn more about it.  Hope to use this group as a learning tool.  Take care. <br/>\n<br/>\nBrian<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 179,
+    "nextTopicId": 194
+}

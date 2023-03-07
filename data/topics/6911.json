@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 97900362,
+            "authorName": "Ben Stevens",
+            "from": "&quot;Ben Stevens&quot; &lt;naked_brewer@...&gt;",
+            "profile": "naked_brewer",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai knights?",
+            "postDate": "1112671091",
+            "msgId": 6911,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQydDAxais4MjlpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6910,
+            "nextInTime": 6912,
+            "topicId": 6911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all! I am new on this list and was wondering if there are any Knights from the West Kingdom on this list that have Japanese personas. Thank you for your",
+            "messageBody": "<div id=\"ygrps-yiv-1876425434\">Hello all!<br/>\nI am new on this list and was wondering if there are any Knights from the West <br/>\nKingdom on this list that have Japanese personas.<br/>\nThank you for your time.<br/>\nLord Gunnar</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6882,
+    "nextTopicId": 6926
+}

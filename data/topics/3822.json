@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Ninja gone?",
+            "postDate": "1076771128",
+            "msgId": 3822,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwMkUzOTM4LjcwMTA3MDRAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDEwNzY3NTA4NDEuNTY4LjU2OTUzLm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDEwNzY3NTA4NDEuNTY4LjU2OTUzLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3821,
+            "nextInTime": 3823,
+            "topicId": 3822,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... What do you mean? That the genuine Ninja Dojo and Training Camp is a fraud? Where will all of our wannabe ninjas go for study ;) Jim",
+            "messageBody": "<div id=\"ygrps-yiv-1865892466\"><blockquote><span title=\"ireply\">&gt;   From: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:golfmandan@...\">golfmandan@...</a><br/>\n&gt;<br/>\n&gt;The problem with #4 is first that ninja didn&#39;t wear black pajamas, and second, the Meiji court couldn&#39;t have summoned them for the mission, b/c ninjas hadn&#39;t even really been around for 200 years. Other than that, there wasn&#39;t much of a problem. (chuckles).<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>What do you mean? That the genuine Ninja Dojo and Training Camp is a <br/>\nfraud? Where will all of our wannabe ninjas go for study ;)<br/>\n<br/>\nJim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3821,
+    "nextTopicId": 3824
+}

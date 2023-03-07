@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 52747132,
+            "authorName": "Anthony",
+            "from": "&quot;Anthony&quot; &lt;trianglemaster@...&gt;",
+            "profile": "trianglemaster",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "takezaki suenaga",
+            "postDate": "1094608451",
+            "msgId": 5467,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNobG9vMysxNmlzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5466,
+            "nextInTime": 5468,
+            "topicId": 5467,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "if anyone has any information and pictures of takezaki suenaga, it would be greatly appreciated.  also if anyone knows if it is even possible to get a picture",
+            "messageBody": "<div id=\"ygrps-yiv-1274559155\">if anyone has any information and pictures of takezaki suenaga, it <br/>\nwould be greatly appreciated.  also if anyone knows if it is even <br/>\npossible to get a picture replica of anything done by ebine shundo, <br/>\nplease let me know.  i am looking for a poster/painting of a samurai <br/>\nfor my living room.  thanks <br/>\ntrianglemaster</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5465,
+    "nextTopicId": 5063
+}

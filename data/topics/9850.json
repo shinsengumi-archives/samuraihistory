@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 374959528,
+            "authorName": "michael lamb",
+            "from": "michael lamb &lt;mjonlamb@...&gt;",
+            "profile": "meijinmike",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "smaurai history",
+            "postDate": "1234721016",
+            "msgId": 9850,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDJiOTcxYTc3MDkwMjE1MTAwM2o3MWNmZjZmYXQzNjQzYTNhYmRjZmFmZmI1QG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9849,
+            "nextInTime": 9851,
+            "topicId": 9850,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Perhaps along these lines, if a more specific time frame is decided upon, then would it be a good idea to have a map of ancient Japan ? I can t seem to find a",
+            "messageBody": "<div id=\"ygrps-yiv-80403509\">Perhaps along these lines, if a more specific time frame is decided upon,<br/>\nthen would it be a good idea to have a map of ancient Japan ? I can&#39;t seem<br/>\nto find a real good one from any time before the Meiji restoration.<br/>\nIf there is an English language map, I&#39;d love to have the link or file.<br/>\n<br/>\nMike<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9848,
+    "nextTopicId": 9851
+}

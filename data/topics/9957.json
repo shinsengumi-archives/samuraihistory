@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Ayashi no Ceres anime art book - on Ebay",
+            "postDate": "1250049413",
+            "msgId": 9957,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg1dGVpNStnN2xyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9956,
+            "nextInTime": 9958,
+            "topicId": 9957,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve put up another book on ebay that people here might be interested in.  A full-color book of artwork from the anime/manga Ayashi no Ceres by Watase Yuu.",
+            "messageBody": "<div id=\"ygrps-yiv-1496583968\">I&#39;ve put up another book on ebay that people here might be interested in.  A full-color book of artwork from the anime/manga &quot;Ayashi no Ceres&quot; by Watase Yuu.  It&#39;s a very nice high end art book, 120 pages, and fairly large at approximately 8 inches by 11.5 inches:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=190328023632\">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=190328023632</a><br/>\n<br/>\nThanks for looking, and thanks for your support of the Samurai Archives!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9954,
+    "nextTopicId": 9958
+}

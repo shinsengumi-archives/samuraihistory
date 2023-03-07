@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 41927015,
+            "authorName": "dogtessa2001",
+            "from": "&quot;dogtessa2001&quot; &lt;pettigrewsurfair@...&gt;",
+            "profile": "dogtessa2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "iron sword guards",
+            "postDate": "1029426379",
+            "msgId": 1095,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFqZ2ljYitvMG51QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1094,
+            "nextInTime": 1096,
+            "topicId": 1095,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "G Day, trying to send attchment but can t seem to go with Yahoo? I have 2 sword Guards i would like to learn about, can any one give me a address. were my Att.",
+            "messageBody": "<div id=\"ygrps-yiv-228243698\">G&#39;Day, trying to send attchment but can&#39;t seem to go with Yahoo? I <br/>\nhave 2 sword Guards i would like to learn about, can any one give me <br/>\na address. were my Att. will fly so i may send photo? Cheers joseph <br/>\nat <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:pettigrewsurfair@...\">pettigrewsurfair@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1094,
+    "nextTopicId": 1088
+}

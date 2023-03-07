@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re:Apology for asking dumb one!",
+            "postDate": "1092264877",
+            "msgId": 5155,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODExMjI1NDM3Ljc5NzMzLnFtYWlsQHdlYjQxMzExLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNmZHVnZitpMHFqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5153,
+            "nextInTopic": 0,
+            "prevInTime": 5154,
+            "nextInTime": 5156,
+            "topicId": 5153,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Not a dumb question, but it had JUST been discussed. It was like a scene out of some teen movie: Board: Hara Kiri and Seppuku are different. Here s",
+            "messageBody": "<div id=\"ygrps-yiv-1185486078\">--- keiman0 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:KeimanZero@...\">KeimanZero@...</a>&gt; wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Gomen for asking about the differences between<br/>\n&gt; seppuku and h-k. I <br/>\n&gt; went to Samurai-Archives.com and searched there. I<br/>\n&gt; found out the <br/>\n&gt; answer. But you guys and gals already know it eh?<br/>\n&gt; Arigato for your <br/>\n&gt; time. See ya soon-K&K<br/>\n<br/>\n </span></blockquote>Not a dumb question, but it had JUST been discussed.<br/>\nIt was like a scene out of some teen movie:<br/>\n<br/>\nBoard:<br/>\n&quot;Hara Kiri and Seppuku are different. Here&#39;s why:...&quot;<br/>\n<br/>\nYou:<br/>\n&quot;Hey, are hara-kiri and seppuku different? how?&quot;<br/>\n<br/>\n99% of questions aren&#39;t dumb--if you don&#39;t know, how<br/>\nare you going to find out if you don&#39;t ask? But next<br/>\ntime, please just go to the message list in the Yahoo<br/>\ngroup and read what&#39;s been posted, so we don&#39;t repeat<br/>\nthe same messages 3 times. <br/>\n<br/>\n<br/>\nThanks,<br/>\n<br/>\nThe assistant management<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 131547598,
+            "authorName": "keiman0",
+            "from": "&quot;keiman0&quot; &lt;KeimanZero@...&gt;",
+            "profile": "keiman0",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:Apology for asking dumb one!",
+            "postDate": "1092255055",
+            "msgId": 5153,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmZHVnZitpMHFqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5155,
+            "prevInTime": 5152,
+            "nextInTime": 5154,
+            "topicId": 5153,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gomen for asking about the differences between seppuku and h-k. I went to Samurai-Archives.com and searched there. I found out the answer. But you guys and",
+            "messageBody": "<div id=\"ygrps-yiv-1169125613\">Gomen for asking about the differences between seppuku and h-k. I <br/>\nwent to Samurai-Archives.com and searched there. I found out the <br/>\nanswer. But you guys and gals already know it eh? Arigato for your <br/>\ntime. See ya soon-K&K</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4983,
+    "nextTopicId": 4948
+}

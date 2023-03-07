@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "Oeaom4kkCV8ClX7meGNh0l3gpQ8GVFbWaCJOKMCZkRFcczromrZEwB3kYuCONm9ukV1ZT-QH_AJ7pB7arC040_ZirqCshPC5iMt2",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092784378",
+    "msgId": 5290,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODE3MjMxMjU4Ljc5NjAxLnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PDBiZlRQREF0dWdJQkZ3NVhAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+"
+    },
+    "prevInTopic": 5285,
+    "nextInTopic": 5292,
+    "prevInTime": 5289,
+    "nextInTime": 5291,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "... it ... That s odd. Turnpike is your email program? I m not familiar with it. This works with yahoo, hotmail, Outlook...and everything else I ve ever used. ",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 19703 invoked from network); 17 Aug 2004 23:12:59 -0000\r\nReceived: from unknown (66.218.66.217)\n  by m24.grp.scd.yahoo.com with QMQP; 17 Aug 2004 23:12:59 -0000\r\nReceived: from unknown (HELO web41315.mail.yahoo.com) (66.218.93.64)\n  by mta2.grp.scd.yahoo.com with SMTP; 17 Aug 2004 23:12:59 -0000\r\nMessage-ID: &lt;20040817231258.79601.qmail@...&gt;\r\nReceived: from [155.6.244.5] by web41315.mail.yahoo.com via HTTP; Tue, 17 Aug 2004 16:12:58 PDT\r\nDate: Tue, 17 Aug 2004 16:12:58 -0700 (PDT)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;0bfTPDAtugIBFw5X@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.64\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Dean Wayland &lt;dean@...&gt;\nwrote:\n\n &gt; Okay, I tried this, it just highlighted the text,\nit\n&gt; didn&#39;t present me\n&gt; with a menu. I then tried pasting Jay&#39;s email with\n&gt; its sample text in to\n&gt; Outlook Express just in case it was an issue with\n&gt; Turnpike, again no\n&gt; joy, however...\n\nThat&#39;s odd. Turnpike is your email program? I&#39;m not\nfamiliar with it. This works with yahoo, hotmail,\nOutlook...and everything else I&#39;ve ever used. \n \n&gt; I noticed that when Turnpike displayed Jay&#39;s\n&gt; message, it offered me the\n&gt; option of selecting a different mode of &quot;Viewer&quot;.\n&gt; The default option was\n&gt; Internet Exploder, so off I went, and hey presto, a\n&gt; little line of\n&gt; hiragana. I assume Jay that&#39;s what you actually sent\n&gt; me?\n\nOkay, sounds like it worked. I don&#39;t remember what Jay\nsent, though.\n\nI then had to undo it as some very\n&gt; strange things happened\n&gt; to all my other programs. For example on the address\n&gt; bar of &quot;My\n&gt; Documents&quot;, the back slashes were replaced with the\n&gt; symbol for yen! Of\n&gt; course this could be perfectly normal, but being a\n&gt; bit twitchy where\n&gt; computing is concerned, I went in to reverse gear.\n\nNo, this is what you want. When that happens, just\nchange the encoding back to &quot;western european&quot; and it\nwill switch back. As to why no little sidebar menu\npopped up, it may depend on &quot;where&quot; you are clicking.\nDon&#39;t click on text you are typing--and make sure it&#39;s\na RIGHT click--I may have said left click, not\nthinking. Now that I actually look at the mouse, it&#39;s\na right click. \n\n&gt; Anyway, everything is now back to what passes for\n&gt; normal around here,\n&gt; and with a stroke of a key I can read kana. Jay or\n&gt; Nate, could you send\n&gt; me some kanji so I can confirm that the system can\n&gt; in fact cope.\n\nI&#39;ll try when I get home--much to my chagrin, I can\nread but can&#39;t type fonts yet on my work computer\nhere, and last night my home connection went down, so\nwe&#39;ll see. I should get the disk for the fonts (I&#39;m on\na Win 2000 comp--cheap govt--and can&#39;t download it)\nnext week. \n\n&gt; H&#39;mm, now what about writing in Japanese..?\n&gt; Arghhh....:-)\n\nGo back to the control panel; go to regional options,\nand then Input Locales. Click &quot;Change&quot;, then it will\ntake you to Text Services. Click &quot;Add&quot; and highlight\nJapanese, then it should come up with a language bar\nyou can switch back and forth. \n\n\n\t\t\n__________________________________\nDo you Yahoo!?\nNew and Improved Yahoo! Mail - Send 10MB messages!\nhttp://promotions.yahoo.com/new_mail \n\n"
+}

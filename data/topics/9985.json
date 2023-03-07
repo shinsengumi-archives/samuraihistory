@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 60310270,
+            "authorName": "greatpowers",
+            "from": "&quot;greatpowers&quot; &lt;greatpowers@...&gt;",
+            "profile": "greatpowers",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Odawara History Made Simple",
+            "postDate": "1253326506",
+            "msgId": 9985,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGg5MWVyYSthZnR0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9984,
+            "nextInTime": 9986,
+            "topicId": 9985,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://greatpowers1.googlepages.com/odawaralivinghome10",
+            "messageBody": "<div id=\"ygrps-yiv-797474787\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://greatpowers1.googlepages.com/odawaralivinghome10\">http://greatpowers1.googlepages.com/odawaralivinghome10</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9961,
+    "nextTopicId": 9993
+}

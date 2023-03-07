@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63979286,
+            "authorName": "dogtessa2001",
+            "from": "&quot;dogtessa2001&quot; &lt;dogtessa2001@...&gt;",
+            "profile": "dogtessa2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Good site to learn about wepons of the samurai",
+            "postDate": "1024868893",
+            "msgId": 904,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFmNWZtdCtpbjcxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 903,
+            "nextInTime": 905,
+            "topicId": 904,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Cheers Joseph",
+            "messageBody": "<div id=\"ygrps-yiv-2054065607\">Cheers Joseph</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 903,
+    "nextTopicId": 911
+}

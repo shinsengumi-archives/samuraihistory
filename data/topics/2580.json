@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 166323817,
+            "authorName": "Brian Sneden",
+            "from": "Brian Sneden &lt;gokon2003@...&gt;",
+            "profile": "gokon2003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Question and help!",
+            "postDate": "1070245256",
+            "msgId": 2609,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjAxMDIyMDU2LjIxOTA2LnFtYWlsQHdlYjYwNjA1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGJxOTVkcytrM2VrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2580,
+            "nextInTopic": 0,
+            "prevInTime": 2608,
+            "nextInTime": 2610,
+            "topicId": 2580,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "reed shonen jump next yere ... Do you Yahoo!? Protect your identity with Yahoo! Mail AddressGuard [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-2144379460\">reed shonen jump next yere<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nProtect your identity with Yahoo! Mail AddressGuard<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 154102022,
+            "authorName": "Brandon Nichols",
+            "from": "&quot;Brandon Nichols&quot; &lt;cloud88_69@...&gt;",
+            "profile": "cloud88_69",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Question and help!",
+            "postDate": "1070078204",
+            "msgId": 2580,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxOTVkcytrM2VrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2609,
+            "prevInTime": 2579,
+            "nextInTime": 2581,
+            "topicId": 2580,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yeah i was wondering if you have ever seen the show rurouni kenshin and i was wondering if you can find me any information about the person he was based on",
+            "messageBody": "<div id=\"ygrps-yiv-1493023577\">yeah i was wondering if you have ever seen the show &quot;rurouni <br/>\nkenshin&quot; and i was wondering if you can find me any information <br/>\nabout the person he was based on and any info on saito hajime the <br/>\nguy kenshin was modled after is Kawakami Genzai. so please</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2608,
+    "nextTopicId": 2615
+}

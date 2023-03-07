@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 43901450,
+            "authorName": "S. Lyle Parker",
+            "from": "&quot;S. Lyle Parker&quot; &lt;rntihg@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Getting Journal Articles",
+            "postDate": "1014619472",
+            "msgId": 611,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PExBVzItRjM3ZUF4dk9nNlNZNlgwMDAwN2I3YUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 610,
+            "nextInTime": 612,
+            "topicId": 611,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, There is an online repository of academic journals called JSTOR (forget what the acronym means), and if your local state college library has a ",
+            "messageBody": "<div id=\"ygrps-yiv-539101837\">Dear All,<br/>\n<br/>\nThere is an online &quot;repository&quot; of academic journals called JSTOR (forget <br/>\nwhat the acronym means), and if your local state college library has a <br/>\nsubscription then you can search through the asian (or other) studies <br/>\njournals for articles and print them out for free.  Of course, this would <br/>\nhave to be done from one of the libraries computers...<br/>\n<br/>\nCheers,<br/>\n<br/>\nShannon<br/>\n<br/>\n��������<br/>\n���������V����������<br/>\n�����������g��<br/>\n�v���m�������B<br/>\n<br/>\n�[�[���c����<br/>\n<br/>\n<br/>\n_________________________________________________________________<br/>\nSend and receive Hotmail on your mobile device: <a rel=\"nofollow\" target=\"_blank\" href=\"http://mobile.msn.com\">http://mobile.msn.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 557,
+    "nextTopicId": 582
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: can you help me?",
+            "postDate": "1173395349",
+            "msgId": 9412,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzcTUybCtvdjZzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVzcGY0dityNnB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9411,
+            "nextInTopic": 0,
+            "prevInTime": 9411,
+            "nextInTime": 9413,
+            "topicId": 9411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... The first question, well, without more info, you ve just described probably between 5-15% of every samurai ever born. For the rest, take a look at",
+            "messageBody": "<div id=\"ygrps-yiv-267041029\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;samurai_honor13&quot;<br/>\n&lt;samurai_honor13@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; hello everyone. I was wondering if you guys could help me find a <br/>\n&gt; certain samurai? I remember reading aout him but cannot remember his <br/>\n&gt; name. From what I remember he was 13 when he first became a samurai <br/>\n&gt; and he had a form of yoshi in his name somewhere. If you could ell me <br/>\n&gt; his name or even give me some information on him I would appreciate it <br/>\n&gt; very much! Also I would like some really good information on the <br/>\n&gt; Minomoto familly evolving around Yoshitsune Minomoto,as well as <br/>\n&gt; something about Taira no Shigemori and temoe Gozen. Thank you!<br/>\n&gt;<br/>\n<br/>\n<br/>\n </span></blockquote>The first question, well, without more info, you&#39;ve just described<br/>\nprobably between 5-15% of every samurai ever born. For the rest, take<br/>\na look at www.samurai-archives.com</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 293564945,
+            "authorName": "samurai_honor13",
+            "from": "&quot;samurai_honor13&quot; &lt;samurai_honor13@...&gt;",
+            "profile": "samurai_honor13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "can you help me?",
+            "postDate": "1173372895",
+            "msgId": 9411,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzcGY0dityNnB0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9412,
+            "prevInTime": 9410,
+            "nextInTime": 9412,
+            "topicId": 9411,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello everyone. I was wondering if you guys could help me find a certain samurai? I remember reading aout him but cannot remember his name. From what I",
+            "messageBody": "<div id=\"ygrps-yiv-503031234\">hello everyone. I was wondering if you guys could help me find a <br/>\ncertain samurai? I remember reading aout him but cannot remember his <br/>\nname. From what I remember he was 13 when he first became a samurai <br/>\nand he had a form of yoshi in his name somewhere. If you could ell me <br/>\nhis name or even give me some information on him I would appreciate it <br/>\nvery much! Also I would like some really good information on the <br/>\nMinomoto familly evolving around Yoshitsune Minomoto,as well as <br/>\nsomething about Taira no Shigemori and temoe Gozen. Thank you!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9405,
+    "nextTopicId": 9413
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] the needle watcher",
+            "postDate": "1111464815",
+            "msgId": 6835,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMzIyMDQxMzM1LjU0ODU0LnFtYWlsQHdlYjQxMzA1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "NjY2Nw=="
+            },
+            "prevInTopic": 6833,
+            "nextInTopic": 0,
+            "prevInTime": 6834,
+            "nextInTime": 6836,
+            "topicId": 6833,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, I ve read it--an enjoyable read. However, I wouldn t list it as a biography . It s historical fiction--you couldn t have dialogue in a biography of ",
+            "messageBody": "<div id=\"ygrps-yiv-447727775\">Yes, I&#39;ve read it--an enjoyable read. However, I<br/>\nwouldn&#39;t list it as a &quot;biography&quot;. It&#39;s historical<br/>\nfiction--you couldn&#39;t have dialogue in a biography of<br/>\nsomeone who&#39;s been dead for 400 years. I&#39;d pick it up,<br/>\nif it interests you. It&#39;s more enjoyable than Samurai<br/>\nWilliam, in my opinion. <br/>\n<br/>\nNate<br/>\n<br/>\n<br/>\n--- billymalone_pi &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Jimmy_Culo@...\">Jimmy_Culo@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; hello. I am wondering if anyone has read The Needle<br/>\n&gt; Watcher by <br/>\n&gt; R.Blaker?  its a biography of William Adams/Miura<br/>\n&gt; Anjin but im <br/>\n&gt; unsure whether its worth getting.<br/>\n&gt; anyone know about it? cheers<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n\t\t<br/>\n </span></blockquote>__________________________________ <br/>\nDo you Yahoo!? <br/>\nYahoo! Small Business - Try our new resources site!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://smallbusiness.yahoo.com/resources/\">http://smallbusiness.yahoo.com/resources/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 216903881,
+            "authorName": "billymalone_pi",
+            "from": "&quot;billymalone_pi&quot; &lt;Jimmy_Culo@...&gt;",
+            "profile": "billymalone_pi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "the needle watcher",
+            "postDate": "1111419147",
+            "msgId": 6833,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxbXBlYis1azI3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6835,
+            "prevInTime": 6832,
+            "nextInTime": 6834,
+            "topicId": 6833,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello. I am wondering if anyone has read The Needle Watcher by R.Blaker?  its a biography of William Adams/Miura Anjin but im unsure whether its worth getting.",
+            "messageBody": "<div id=\"ygrps-yiv-824158081\">hello. I am wondering if anyone has read The Needle Watcher by <br/>\nR.Blaker?  its a biography of William Adams/Miura Anjin but im <br/>\nunsure whether its worth getting.<br/>\nanyone know about it? cheers</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6832,
+    "nextTopicId": 6837
+}

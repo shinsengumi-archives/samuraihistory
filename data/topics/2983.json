@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: 7th Cav and swords-----Garryowens?",
+            "postDate": "1072604717",
+            "msgId": 2983,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFlNi4xNjUzMjU2MS4yZDIwMDAyZEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2982,
+            "nextInTime": 2984,
+            "topicId": 2983,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "How unusual that two of my ancestors,  Martin Brennan and John Ryan, both served in the Seventh under Custer,  and I have a painting of mine in the Armory of",
+            "messageBody": "<div id=\"ygrps-yiv-2116500734\">How unusual that two of my ancestors,  Martin Brennan and John Ryan, both <br/>\nserved in the Seventh under Custer,  and I have a painting of mine in the Armory <br/>\nof the other Garryowens,  New York&#39;s  Fighting 69th.  The Navahos do not <br/>\nbelieve in coincidences.  &quot;Garryowen Jack&quot;  Murphy;  the nickname being given me <br/>\nthis year by the 69th&#39;s historian Sgt.  Vic Olney.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2963,
+    "nextTopicId": 2986
+}

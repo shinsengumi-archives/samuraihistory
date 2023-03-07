@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 154423207,
+            "authorName": "Michael Lorimer",
+            "from": "Michael Lorimer &lt;mijalo_jp@...&gt;",
+            "profile": "mijalo_jp",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New book on the Sengokujidai",
+            "postDate": "1225110710",
+            "msgId": 9818,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDU3MjM5Mi4zMjQzOC5xbUB3ZWIyMzMwNy5tYWlsLmlyZC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9817,
+            "nextInTime": 9819,
+            "topicId": 9818,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To all those interested; http://www.olympiapublishers.com/product_info.php?cPath=22&products_id=76 http://www.newasiabooks.org/index.php?q=node/8058",
+            "messageBody": "<div id=\"ygrps-yiv-575724479\">To all those interested;<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.olympiapublishers.com/product_info.php?cPath=22&products_id=76\">http://www.olympiapublishers.com/product_info.php?cPath=22&products_id=76</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.newasiabooks.org/index.php?q=node/8058\">http://www.newasiabooks.org/index.php?q=node/8058</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9805,
+    "nextTopicId": 9737
+}

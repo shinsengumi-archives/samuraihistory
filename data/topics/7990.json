@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 150733417,
+            "authorName": "Robert Corella",
+            "from": "&quot;Robert Corella&quot; &lt;bcorella@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 1300",
+            "postDate": "1132019619",
+            "msgId": 8002,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWM1ZTk4NyQ2OGZkZDZkMCQxN2ZkNjg0NEBERDAwTjIxMT4=",
+                "referencesHeader": "PDIwMDUxMTA5LjE4MjcyMy4xMDgwLjEuaGF5YWthd2FAanVuby5jb20+"
+            },
+            "prevInTopic": 7990,
+            "nextInTopic": 0,
+            "prevInTime": 8001,
+            "nextInTime": 8003,
+            "topicId": 7990,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Everyone! We have been having trouble with our server (an India out source) so we had to change to a local (US) server for our web site. Our new URL is:",
+            "messageBody": "<div id=\"ygrps-yiv-989708649\">Hi Everyone!<br/>\n<br/>\nWe have been having trouble with our server (an India out source) so we had to change to a local (US) server for our web site.<br/>\n<br/>\nOur new URL is: kenshindojo.net<br/>\n<br/>\nI am sorry if you tried to reach us but couldn&#39;t.<br/>\n<br/>\nRobert Corella<br/>\nAraki Ryu Iaido<br/>\nPhoenix, Arizona<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 36624425,
+            "authorName": "Sharon Hayakawa",
+            "from": "Sharon Hayakawa &lt;hayakawa@...&gt;",
+            "profile": "shuri_hayakawa",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 1300",
+            "postDate": "1131582443",
+            "msgId": 7990,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUxMTA5LjE4MjcyMy4xMDgwLjEuaGF5YWthd2FAanVuby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8002,
+            "prevInTime": 7989,
+            "nextInTime": 7991,
+            "topicId": 7990,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There s a new update on my Sensei s web site, which is how I found this group, by the way. I am thinking you might all find it interesting, so I m just going",
+            "messageBody": "<div id=\"ygrps-yiv-1373496182\">There&#39;s a new update on my Sensei&#39;s web site, which is how I found this<br/>\ngroup, by the way. I am thinking you might all find it interesting, so<br/>\nI&#39;m just going to post the link. Definitely try the link she has on there<br/>\n(his wife does the web site) for Kumano. It&#39;s great. <br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.tenshinichiryu.com/founder.htm\">http://www.tenshinichiryu.com/founder.htm</a><br/>\n<br/>\nsincerely,<br/>\nSharon Hayakawa<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7999,
+    "nextTopicId": 8003
+}

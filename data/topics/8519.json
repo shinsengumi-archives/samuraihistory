@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 247914591,
+            "authorName": "the_jigglin_penguin",
+            "from": "&quot;the_jigglin_penguin&quot; &lt;the_jigglin_penguin@...&gt;",
+            "profile": "the_jigglin_penguin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Shishido Baiken",
+            "postDate": "1141660766",
+            "msgId": 8519,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR1aG04dStldHE0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8518,
+            "nextInTime": 8520,
+            "topicId": 8519,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I want more info about him i read all about his duel with Myamoto Musashi but want to know more.",
+            "messageBody": "<div id=\"ygrps-yiv-963995138\">I want more info about him i read all about his duel with Myamoto<br/>\nMusashi but want to know more.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8517,
+    "nextTopicId": 8518
+}

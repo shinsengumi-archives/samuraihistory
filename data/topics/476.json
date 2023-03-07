@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1616087,
+            "authorName": "rob broom",
+            "from": "rob broom &lt;rob@...&gt;",
+            "profile": "robbroomuk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "castles",
+            "postDate": "1010844346",
+            "msgId": 476,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU4aXlZc0U2S0VROEV3Sm5Ad2FybWFzdGVyLmRlbW9uLmNvLnVrPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 475,
+            "nextInTime": 477,
+            "topicId": 476,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Took a quick look at the web site below and it really looks great. Kind regards Rob Message: 3 Date: Sun, 6 Jan 2002 08:22:46 -0800 (PST) From: erik baker",
+            "messageBody": "<div id=\"ygrps-yiv-1385167822\">Took a quick look at the web site below and it really looks great.<br/>\n<br/>\nKind regards<br/>\n<br/>\nRob<br/>\n<br/>\nMessage: 3<br/>\n   Date: Sun, 6 Jan 2002 08:22:46 -0800 (PST)<br/>\n   From: erik baker &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:musashieb@...\">musashieb@...</a>&gt;<br/>\nSubject: Re: samurai booklets<br/>\n<br/>\n<br/>\n <br/>\n  rob broom &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:rob@...\">rob@...</a>&gt; wrote: <br/>\nIn regards to the Fortifications/castles.  The samurai sourcebook has<br/>\nsome good basic stuff as well as someone mentioned earlier the book<br/>\nSamurai Warfare both by stphen turnbull.<br/>\n<br/>\nIf you want an ok online source check:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.obershawonline.com/castle/index.html\">http://www.obershawonline.com/castle/index.html</a><br/>\n<br/>\nIt has some good info and pics.<br/>\n<br/>\nMusashi<br/>\n-- <br/>\nrob broom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 468,
+    "nextTopicId": 481
+}

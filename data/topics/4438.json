@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 63938881,
+            "authorName": "Luis-Gabriel Leal",
+            "from": "&quot;Luis-Gabriel Leal&quot; &lt;nwojapanthug@...&gt;",
+            "profile": "nwojapanthug",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "god i love this group",
+            "postDate": "1086276217",
+            "msgId": 4438,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5bmZwcCs3OG5oQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4437,
+            "nextInTime": 4439,
+            "topicId": 4438,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am so glad I found this group. I m learning new things with every message. When I was in Army ROTC at St. John s University, I studied japanese military",
+            "messageBody": "<div id=\"ygrps-yiv-1363472373\">I am so glad I found this group. I&#39;m learning new things with every <br/>\nmessage. When I was in Army ROTC at St. John&#39;s University, I studied <br/>\njapanese military history and it was a godsend. Something about it <br/>\nseemed much more appealing than other military campaigns, I dont know <br/>\nwhat. Thanks for letting me join this group<br/>\n<br/>\nGabriel</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4424,
+    "nextTopicId": 4439
+}

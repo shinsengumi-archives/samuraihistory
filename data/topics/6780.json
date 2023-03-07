@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 214802153,
+            "authorName": "Haynes, A (Angus)",
+            "from": "&quot;Haynes, A (Angus)&quot; &lt;angus.haynes@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai vs Bushi",
+            "postDate": "1109896434",
+            "msgId": 6780,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFGREJEOEU4RTBGODRENDU4Q0JDRkQzMTFFRThFQjQ4RTI0RDE0QHJhYm9iYW5rLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6779,
+            "nextInTime": 6781,
+            "topicId": 6780,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Which term was most commonly used by the people of that time to describe the warrior class in the 16th century forward, bushi or samurai? Were they essentially",
+            "messageBody": "<div id=\"ygrps-yiv-1345571875\">Which term was most commonly used by the people of that time to describe<br/>\nthe warrior class in the 16th century forward, bushi or samurai? Were<br/>\nthey essentially interchangable? Why has samurai become the most<br/>\ncommonly used term these days, when most of the history books I have use<br/>\nthe term bushi, and you&#39;d think with all the nonsense out there about<br/>\nbushido that bushi would be the one people would be most familiar with?<br/>\nDoes samurai simply sound &quot;cooler&quot; and more Japanese?<br/>\n<br/>\nThanks, <br/>\nAngus<br/>\n<br/>\n_____________________________________________________________<br/>\n<br/>\nThis email, including any attachments, may be confidential or privileged, and is sent for the personal attention of the intended recipient.  If you have received this email in error, please delete it immediately .  The views expressed are not necessarily those of the Rabobank Group.  The Group is not liable for the effects of any virus which may be contained in this email.<br/>\n_____________________________________________________________<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6687,
+    "nextTopicId": 6782
+}

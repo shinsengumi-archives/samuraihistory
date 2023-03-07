@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 179655450,
+            "authorName": "edyhiphop",
+            "from": "&quot;edyhiphop&quot; &lt;edyhiphop@...&gt;",
+            "profile": "edyhiphop",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Resources in the Sengoku Period",
+            "postDate": "1079438278",
+            "msgId": 3905,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzNnE0NitsdHVzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3904,
+            "nextInTime": 3906,
+            "topicId": 3905,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tell me something.How did they extract resources from the underground?????And what resources did they find?????How could they produce steel to make all those",
+            "messageBody": "<div id=\"ygrps-yiv-1229585301\">Tell me something.How did they extract resources from the <br/>\nunderground?????And what resources did they find?????How could they <br/>\nproduce steel to make all those powerful katanas??????<br/>\n<br/>\nEdy<br/>\n<br/>\nP.S.:It&#39;s me,Edy.I&#39;m back!!!Someone destroyed my edynature so I had <br/>\nto create a new account!!!!!Edy</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3904,
+    "nextTopicId": 3915
+}

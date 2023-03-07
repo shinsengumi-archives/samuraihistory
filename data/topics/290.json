@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "3jzXAnlCze7L-BvmkiBbC1-6XT9eu1YkN1kmNMYAioZCaTkXP9DBBrm8_f5VQNtApqlOp-7U85JcLQpOyoGchNYc9G_Y4MbiHlkeHTSKeJ3VRYwY",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kinnosuke Yorozuya",
+            "postDate": "996851344",
+            "msgId": 290,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxMWM0ZCRiM2U1NjdhMCQyNjYwNDJjM0BkZWZhdWx0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 289,
+            "nextInTime": 291,
+            "topicId": 290,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have wrote again on this list asking for informations on Kinnosuke Yorozuya (Nakamura), a great Japanese samurai actor. Does anyone know where I could find",
+            "messageBody": "<div id=\"ygrps-yiv-596054189\">I have wrote again on this list asking for informations on Kinnosuke<br/>\nYorozuya (Nakamura), a great Japanese samurai actor.<br/>\nDoes anyone know where I could find something about him?<br/>\n<br/>\nAmphipolis<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.crosswinds.net/~musashi1584/\">http://www.crosswinds.net/~musashi1584/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 289,
+    "nextTopicId": 291
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 96188094,
+            "authorName": "Elle Laughlin",
+            "from": "Elle Laughlin &lt;elle.laughlin@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: Welcome to samuraihistory",
+            "postDate": "1041969520",
+            "msgId": 1356,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDZEMEY1RTE2MjEwRkQ0MTE4ODY1MDAwMEQxMUNENkJEMEM3NEYyNDhAdHJvdWJhZG91ci5jcy50b3JvbnRvLmVkdT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1355,
+            "nextInTime": 1357,
+            "topicId": 1356,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone tell me anything about this piece?  What does it say on the bottom? Sincerely, Elle Laughlin [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-76157474\">Can anyone tell me anything about this piece?  What does it say on the<br/>\nbottom?  <br/>\n<br/>\n<br/>\nSincerely,<br/>\nElle Laughlin<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1350,
+    "nextTopicId": 1349
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 156538833,
+            "authorName": "Michael Peters",
+            "from": "&quot;Michael Peters&quot; &lt;shdwstel@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [samuraihistory] Hello! New to the Group.",
+            "postDate": "1076679386",
+            "msgId": 3801,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTctRjQxazVxQUVsQW5nODgwMDAwZmU2MUBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3800,
+            "nextInTime": 3802,
+            "topicId": 3801,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello Amy! I too am lurking. Too little to contribute at this point. Where are you practicing Kyuudo and in which Ryu? I plan to purchase a nice Take-yumi once",
+            "messageBody": "<div id=\"ygrps-yiv-31675247\">Hello Amy!<br/>\n<br/>\n  I too am lurking. Too little to contribute at this point. Where are you <br/>\npracticing Kyuudo and in which Ryu? I plan to purchase a nice Take-yumi once <br/>\nI am ready to make the jump from a 20 kilo to a 23 (and of course after I <br/>\nsave up the money).<br/>\n<br/>\nM.J.Peters<br/>\n<br/>\n_________________________________________________________________<br/>\nSTOP MORE SPAM with the new MSN 8 and get 2 months FREE* <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://join.msn.com/?page=features/junkmail\">http://join.msn.com/?page=features/junkmail</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3584,
+    "nextTopicId": 3802
+}

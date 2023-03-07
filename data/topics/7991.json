@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 156538833,
+            "authorName": "Michael Peters",
+            "from": "&quot;Michael Peters&quot; &lt;shdwstel@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "RE: [samuraihistory] Re: Oh the world has lost another great man...",
+            "postDate": "1131678124",
+            "msgId": 7994,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTI0LUYxMzJBNkU4MzlCNjNCMTMzNjcyQTRFQzk1OTBAcGh4LmdibD4=",
+                "inReplyToHeader": "PDM4MC0yMjAwNTExNDEwNDU1NTU3NDJATTJXMDM0Lm1haWwyd2ViLmNvbT4="
+            },
+            "prevInTopic": 7991,
+            "nextInTopic": 0,
+            "prevInTime": 7993,
+            "nextInTime": 7995,
+            "topicId": 7991,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Tom, Thank you for relaying the sad news. Although I have great respect for Sasama-sensei (and four of his books), I was not fortunate enough to have met him",
+            "messageBody": "<div id=\"ygrps-yiv-622566722\">Tom,<br/>\n<br/>\n  Thank you for relaying the sad news. Although I have great respect for <br/>\nSasama-sensei (and four of his books), I was not fortunate enough to have <br/>\nmet him personally. I had hoped for an opportunity at Soma next year. His <br/>\ncontributions to field of japanese armouring are enormous. He will be <br/>\ngreatly missed.<br/>\n<br/>\n  I will contact you off list.<br/>\n<br/>\nM J Peters<br/>\n<br/>\n_________________________________________________________________<br/>\nFREE pop-up blocking with the new MSN Toolbar - get it now! <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://toolbar.msn.click-url.com/go/onm00200415ave/direct/01/\">http://toolbar.msn.click-url.com/go/onm00200415ave/direct/01/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "toryu@toryu-mon.com",
+            "from": "&quot;toryu@...&quot; &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Oh the world has lost another great man...",
+            "postDate": "1131598555",
+            "msgId": 7991,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM4MC0yMjAwNTExNDEwNDU1NTU3NDJATTJXMDM0Lm1haWwyd2ViLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7994,
+            "prevInTime": 7990,
+            "nextInTime": 7993,
+            "topicId": 7991,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all- apologies for cross posting, I have learned that Sasama Yoshihiko Sensei of the Nihon Katchu Bugu Rekishi Kenkyu-kai has passed away. I am sorry I",
+            "messageBody": "<div id=\"ygrps-yiv-1072510495\">Dear all-<br/>\napologies for cross posting,<br/>\n<br/>\nI have learned that Sasama Yoshihiko Sensei of the Nihon Katchu Bugu<br/>\nRekishi Kenkyu-kai has passed away. I am sorry I cannot report the details<br/>\nof his passing but know that his funeral was held on the 7th of November in<br/>\nJapan.<br/>\n<br/>\nHe was truly a gentlemen and truly of the old school. A tireless<br/>\nresearcher, talented artist, prolific writer and a teacher of inexhaustible<br/>\nknowledge, patience and generosity. Thanks to him the very world we love to<br/>\ninhabit, the true world of the samurai warrior, his swords and armour have<br/>\nbeen kept alive for us and generations to come. He is gone and he will be<br/>\nmissed, but his writings remain as testament to the great, grand and good<br/>\nman that he was.<br/>\n<br/>\nI shall post more, should I get the details, anyone wishing to send<br/>\ncondolence (via snail mail) feel free to contact me OFF LIST.<br/>\n<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\nwww.ncjsc.org <br/>\n<br/>\n--------------------------------------------------------------------<br/>\nmail2web - Check your email from the web at<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://mail2web.com/\">http://mail2web.com/</a> .</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7983,
+    "nextTopicId": 7998
+}

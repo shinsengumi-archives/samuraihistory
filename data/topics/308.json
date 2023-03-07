@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "fifthchamber@aol.com",
+            "from": "fifthchamber@...",
+            "replyTo": "LIST",
+            "senderId": "1XDSk6jViu1cq32JqhzeyoW4TtQ4I7FYO9kSzThFKVG391ftcJApTQ-Ec4GI50PKv2cJHueVOLOyEiI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Miyamoto Musashi website",
+            "postDate": "999422755",
+            "msgId": 309,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE2OC4yYjMwZGIuMjhjMzU1MjNAYW9sLmNvbT4="
+            },
+            "prevInTopic": 308,
+            "nextInTopic": 0,
+            "prevInTime": 308,
+            "nextInTime": 310,
+            "topicId": 308,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is a link to a good historical Musashi site through the Usagi Yojimbo website at http//www.usagiyojimbo.com The site has a descent amount of factual info",
+            "messageBody": "<div id=\"ygrps-yiv-827622021\">There is a link to a good historical Musashi site through the Usagi Yojimbo <br/>\nwebsite at http//www.usagiyojimbo.com<br/>\n The site has a descent amount of factual info on him, as well as <br/>\nchronologies and lists of his fights i think..<br/>\n I have&#39;nt found others except work on Hyoho Niten Ichi Ryu (his sword <br/>\nschool) through various martial arts sites..Try www.koryu.com for the most <br/>\ninformative searches for Miyamoto Musashi.<br/>\n Abayo.<br/>\nBen Sharples</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "_nnx1slKHPm4-StZ41Cthj59Ptejm7dqfA9Mjm9qEvoSyhG-fm4g58N6Iy-h4G12sPtGZvNUIdwjB3mJAVEbO4yiHJTshX4H9FnartDPfw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Miyamoto Musashi website",
+            "postDate": "999387533",
+            "msgId": 308,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDltcnJpZCtxZGFuQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 309,
+            "prevInTime": 307,
+            "nextInTime": 309,
+            "topicId": 308,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A while back someone emailed me a link to a good history page on Miyamoto Musashi, which I lost almost immediately after taking a look - anyone have any links",
+            "messageBody": "<div id=\"ygrps-yiv-1196983955\">A while back someone emailed me a link to a good history page on <br/>\nMiyamoto Musashi, which I lost almost immediately after taking a <br/>\nlook - anyone have any links to Musashi out there...?<br/>\n<br/>\n<br/>\nc.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 307,
+    "nextTopicId": 294
+}

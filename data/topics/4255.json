@@ -1,0 +1,69 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] about the extiiton of the samurai",
+            "postDate": "1082343385",
+            "msgId": 4267,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI1RDY5RDg2LTkxQUQtMTFEOC05N0RELTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDEzNzkuMjAwLjE3LjE5Ny4zNC4xMDgyMTQzMDQ5LnNxdWlycmVsQHBvcG1haWw1LnBvcC5jb20uYnI+",
+                "referencesHeader": "PDEwODIxMTY0OTMuMTMzMC45NTQ0Ny5tMTJAeWFob29ncm91cHMuY29tPiA8MTM3OS4yMDAuMTcuMTk3LjM0LjEwODIxNDMwNDkuc3F1aXJyZWxAcG9wbWFpbDUucG9wLmNvbS5icj4="
+            },
+            "prevInTopic": 4255,
+            "nextInTopic": 0,
+            "prevInTime": 4266,
+            "nextInTime": 4268,
+            "topicId": 4255,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Thiago- Are we talking existance or extinction? Samurai really existed, many of the tales are just tales but many are true.The samurai as a political class",
+            "messageBody": "<div id=\"ygrps-yiv-1561210467\"><blockquote><span title=\"ireply\">&gt;  Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt;  Samurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n&gt;  ---<br/>\n<br/>\n </span></blockquote>Thiago-<br/>\n\tAre we talking existance or extinction? Samurai really existed, many <br/>\nof the tales are just tales but many are true.The samurai as a <br/>\npolitical class were abolished but they are not &quot;extinct.&quot; There was <br/>\nquite a lot of discussion on this subject not long ago right here on <br/>\nthis list. A lot of the influential families are still around but the <br/>\npower now resides elsewhere. The traditions and costume may yet be seen <br/>\ntoday but no one is living the life of a samurai...I am sure you have <br/>\nheard all this before.The archive, linked above, is a really great <br/>\nplace to get info, and don&#39;t forget the gear!<br/>\n-t<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 144706582,
+            "authorName": "Thiago",
+            "from": "&quot;Thiago&quot; &lt;thiagozanotti@...&gt;",
+            "profile": "thiagozanotti",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "about the extiiton of the samurai",
+            "postDate": "1082143049",
+            "msgId": 4255,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEzNzkuMjAwLjE3LjE5Ny4zNC4xMDgyMTQzMDQ5LnNxdWlycmVsQHBvcG1haWw1LnBvcC5jb20uYnI+",
+                "inReplyToHeader": "PDEwODIxMTY0OTMuMTMzMC45NTQ0Ny5tMTJAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwODIxMTY0OTMuMTMzMC45NTQ0Ny5tMTJAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4267,
+            "prevInTime": 4254,
+            "nextInTime": 4256,
+            "topicId": 4255,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I would to know if posibly i little more about the extition of the samurai. did it really happened? where the most influent family gone to? And what",
+            "messageBody": "<div id=\"ygrps-yiv-601507927\">Hello,<br/>\nI would to know if posibly i little more about the extition of the samurai.<br/>\ndid it really happened? where the most influent family gone to? And what have<br/>\noccured with the traditions and costumes?<br/>\n<br/>\nThanks<br/>\nThiago</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4256,
+    "nextTopicId": 4162
+}

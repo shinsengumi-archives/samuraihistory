@@ -1,0 +1,29 @@
+{
+    "userId": 74358841,
+    "authorName": "jiri",
+    "from": "&quot;jiri&quot; &lt;ttch@...&gt;",
+    "profile": "luxdax",
+    "replyTo": "LIST",
+    "senderId": "D-EvAkP-VJ54hYaHUOBzd2tEZWHcSlnJ2jzE2SG1Ltnje6JO6vje0MPatvb8rh5Md_ENr3RKrkONCQSsL2zO",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "kubi kiri",
+    "postDate": "1309091576",
+    "msgId": 10324,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PGl1Nzh0bythNWRnQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 10325,
+    "prevInTime": 10323,
+    "nextInTime": 10325,
+    "topicId": 10324,
+    "numMessagesInTopic": 7,
+    "msgSnippet": "Are there any sources for the samurai as headhunters? In a book ot Thurnbull there are a few information about the head-viewing ceremony but not much.",
+    "rawEmail": "Return-Path: &lt;ttch@...&gt;\r\nReceived: (qmail 68913 invoked from network); 26 Jun 2011 20:18:32 -0000\r\nReceived: from unknown (66.196.94.105)\n  by m14.grp.re1.yahoo.com with QMQP; 26 Jun 2011 20:18:32 -0000\r\nReceived: from unknown (HELO n37b.bullet.mail.sp1.yahoo.com) (66.163.168.151)\n  by mta1.grp.re1.yahoo.com with SMTP; 26 Jun 2011 20:18:32 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1309119511; bh=/gaRzuDZYfMiurnMG0qI0Zs3p9QNqHAE6O1meWzlqpU=; h=Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:Date:To:Message-ID:User-Agent:MIME-Version:Content-Type:Content-Transfer-Encoding:X-Mailer:X-Yahoo-Newman-Property:X-Originating-IP:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:X-YGroups-SubInfo:Sender:X-eGroups-Approved-By:X-eGroups-Auth; b=HuEEYisZBIkMO2h6FIp7XS7JIeE2iwN6eKAzqIgUtL1n35pFYchRru5SucC7SPTYCbHXodi7g4okz/MaR/fSwNN98pgBJDWWA880U8M6WWeUA8RDsy/T9MnX/l4/DRvE\r\nReceived: from [69.147.65.171] by n37.bullet.mail.sp1.yahoo.com with NNFMP; 26 Jun 2011 20:18:31 -0000\r\nReceived: from [98.137.34.32] by t13.bullet.mail.sp1.yahoo.com with NNFMP; 26 Jun 2011 20:18:31 -0000\r\nX-Sender: ttch@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 10709 invoked from network); 26 Jun 2011 12:32:57 -0000\r\nX-Received: from unknown (66.196.94.107)\n  by m16.grp.re1.yahoo.com with QMQP; 26 Jun 2011 12:32:57 -0000\r\nX-Received: from unknown (HELO n44d.bullet.mail.sp1.yahoo.com) (66.163.169.158)\n  by mta3.grp.re1.yahoo.com with SMTP; 26 Jun 2011 12:32:57 -0000\r\nX-Received: from [69.147.65.151] by n44.bullet.mail.sp1.yahoo.com with NNFMP; 26 Jun 2011 12:32:56 -0000\r\nX-Received: from [98.137.34.119] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 26 Jun 2011 12:32:56 -0000\r\nDate: Sun, 26 Jun 2011 12:32:56 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nMessage-ID: &lt;iu78to+a5dg@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=&quot;ISO-8859-1&quot;\r\nContent-Transfer-Encoding: quoted-printable\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-system\r\nFrom: &quot;jiri&quot; &lt;ttch@...&gt;\r\nSubject: kubi kiri\r\nX-Yahoo-Group-Post: member; u=74358841; y=snwsltEKNpTkGIhToQnpqPjii0-n0IX3UrgKTgB_jyav\r\nX-Yahoo-Profile: luxdax\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via web; 26 Jun 2011 20:18:30 -0000\r\n\r\nAre there any sources for the samurai as headhunters? In a book ot Thurnbul=\r\nl there are a few information about the head-viewing ceremony but not much.=\r\n\n\n\n"
+}

@@ -1,0 +1,68 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "erik baker",
+            "from": "erik baker &lt;musashieb@...&gt;",
+            "profile": "musashieb",
+            "replyTo": "LIST",
+            "senderId": "ItN34s4mQdfmQq-B_8RT5QFuxMSnH4g667ddDKBLmBIXKRokZyaBqdPW-ga5mumR0cj9TzmNEXScQ3OZsJndln5kJW5OFj4",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] hakama...Fudoza?",
+            "postDate": "1006873070",
+            "msgId": 376,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDExMTI3MTQ1NzUwLjM1NjE0LnFtYWlsQHdlYjEwMzAxLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDEyMS43Y2IxNzIzLjI5MzRlNzdmQGFvbC5jb20+"
+            },
+            "prevInTopic": 374,
+            "nextInTopic": 0,
+            "prevInTime": 375,
+            "nextInTime": 377,
+            "topicId": 374,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, This is what my whole reply regarding funny superstitions in the arts was about.  thanks abunch. ... __________________________________________________ ",
+            "messageBody": "<div id=\"ygrps-yiv-2007701475\">Hello,<br/>\n<br/>\nThis is what my whole reply regarding funny<br/>\nsuperstitions in the arts was about.  thanks abunch.<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:fifthchamber@...\">fifthchamber@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hello..<br/>\n&gt;  Regarding the information on the &#39;secret Ninja<br/>\n&gt; seating pattern&#39; that was described here earlier I<br/>\n&gt; am unsure of what &#39;pose&#39; the author is referring to<br/>\n&gt; here..<br/>\n&gt;  &quot;the legs crossed at the shins and knees almost<br/>\n&gt; resting on the ankles&quot;<br/>\n&gt;  The closest that I could make the pattern out to be<br/>\n&gt; was the Fudoza (immovable seat) used by modern and<br/>\n&gt; ancient Japanese as an easy and comfortable way to<br/>\n&gt; sit..<br/>\n&gt;  If it is this pattern then the &#39;secret&#39; of it is to<br/>\n&gt; sit on the left ankle with the right foot drawn up<br/>\n&gt; to the left shin..When wearing Hakama then pose can<br/>\n&gt; look as though both feet are tucked under but in my<br/>\n&gt; Ryu-Ha there is no &#39;secret&#39; to this..Indeed it was<br/>\n&gt; fairly common knowledge to the Samurai and Daimyo<br/>\n&gt; that used it as a quick moving seating position..NOT<br/>\n&gt; a secret though.<br/>\n&gt;  If wrong then the secret remains but this should be<br/>\n&gt; obvious to anyone with eyes..<br/>\n&gt;  Abayo..<br/>\n&gt;  Ben.<br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nYahoo! GeoCities - quick and easy web site hosting, just $8.95/month.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://geocities.yahoo.com/ps/info1\">http://geocities.yahoo.com/ps/info1</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "fifthchamber@aol.com",
+            "from": "fifthchamber@...",
+            "profile": "fifthchamber",
+            "replyTo": "LIST",
+            "senderId": "L72taqovVZdRlqQtx-lG1SJxrJTnShtyequcv7LXKgFPCMR1E17hOFLeb6jZIySvfH-hpk1-H62b5mk",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] hakama...Fudoza?",
+            "postDate": "1006865791",
+            "msgId": 374,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEyMS43Y2IxNzIzLjI5MzRlNzdmQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 376,
+            "prevInTime": 373,
+            "nextInTime": 375,
+            "topicId": 374,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello.. Regarding the information on the secret Ninja seating pattern that was described here earlier I am unsure of what pose the author is referring to",
+            "messageBody": "<div id=\"ygrps-yiv-2124046286\">Hello..<br/>\n Regarding the information on the &#39;secret Ninja seating pattern&#39; that was described here earlier I am unsure of what &#39;pose&#39; the author is referring to here..<br/>\n &quot;the legs crossed at the shins and knees almost resting on the ankles&quot;<br/>\n The closest that I could make the pattern out to be was the Fudoza (immovable seat) used by modern and ancient Japanese as an easy and comfortable way to sit..<br/>\n If it is this pattern then the &#39;secret&#39; of it is to sit on the left ankle with the right foot drawn up to the left shin..When wearing Hakama then pose can look as though both feet are tucked under but in my Ryu-Ha there is no &#39;secret&#39; to this..Indeed it was fairly common knowledge to the Samurai and Daimyo that used it as a quick moving seating position..NOT a secret though.<br/>\n If wrong then the secret remains but this should be obvious to anyone with eyes..<br/>\n Abayo..<br/>\n Ben.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 364,
+    "nextTopicId": 381
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Dgaijin@aol.com",
+            "from": "Dgaijin@...",
+            "replyTo": "LIST",
+            "senderId": "_hJ5_4K_5roTLvxmoDOSMz-mfwqrto2NiAsuDzaGhKOEymSweHVulwkR5dabLTshdX-Wk0W-",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Nippon Culture mailing list",
+            "postDate": "972687689",
+            "msgId": 11,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFlLmM3YTg3NmQuMjcyYjYzNDlAYW9sLmNvbT4="
+            },
+            "prevInTopic": 10,
+            "nextInTopic": 0,
+            "prevInTime": 10,
+            "nextInTime": 12,
+            "topicId": 10,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "very interesting...thanks for sharing it with the group",
+            "messageBody": "<div id=\"ygrps-yiv-1333002234\">very interesting...thanks for sharing it with the group</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Tom",
+            "from": "&quot;Tom &quot; &lt;tom.davidson@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "6Iwl2qs5_zSrdu31uvJDIcDYNMGb7BIxjda6tr81jxMn7tjINCiCgpDzidBQybowFQL45LKFjWDwmPelCwrHu5rWie-KT_olrqTr",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Nippon Culture mailing list",
+            "postDate": "972638466",
+            "msgId": 10,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDh0YmhlMitsdm5lQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 11,
+            "prevInTime": 9,
+            "nextInTime": 11,
+            "topicId": 10,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Extract from the history section of the Nippon Culture mailing list: http://www.yk.rim.or.jp/~planet/index.html There was a song of a pack-horse driver saying,",
+            "messageBody": "<div id=\"ygrps-yiv-1465687223\">Extract from the history section of the Nippon Culture mailing list:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.yk.rim.or.jp/~planet/index.html\">http://www.yk.rim.or.jp/~planet/index.html</a><br/>\n<br/>\nThere was a song of a pack-horse driver saying, <br/>\n&quot;Difficult against one&#39;s wishes to cross the Ooi River, <br/>\nwhile possible to go over the Hakone mountains on horseback.&quot;<br/>\n   <br/>\n&quot;Hakone hachiri wa uma demo kosu ga,<br/>\nKosu ni kosarenu Ooi-gawa.&quot;<br/>\n  <br/>\nIn the Edo period, it was permitted to travel rather freely around the country except passing through the <br/>\ncheckpoint of Hakone and crossing the Ooi River.<br/>\n <br/>\nIn those days, &quot;Iri-teppou&quot; and &quot;De-onna&quot; were especially marked by the Edo shogunate. &quot;Iri-teppo&quot; (In-guns?) <br/>\nare guns which were brought into Edo from the western countries such as Satsuma-han or Choushu-han. &quot;De-<br/>\nonna&quot; (Out-women ?) are such women as the ladies of daimyo or their maidservants who went out of Edo to <br/>\nthe western countries hidding confidentials away. The ladied of daimyo were compelled to stay in Edo as a kind <br/>\nof hostages. The Edo shogunate was very nervous of the tendency of the western counries and paid close <br/>\nattention to taking guns for rebelling against it into Edo and to leaking out secret information of the shogunate <br/>\nthrough forge women travellers of the western daimyo.<br/>\n  <br/>\nThe Ooi River waited for those travellers who successfully passed through the checkpoint of Hakone.<br/>\n<br/>\nThe shogunate intentionally didn&#39;t construct any bridge across the Ooi River in order to prevent the western <br/>\narmies from advancing into Edo. The melting snow on the Mt. Fuji or heavy rains sometimes caused a sudden <br/>\nrise in the River. At that time, travellers inevitably put up at inns in Mishima (in Shizuoka prefecture at present) <br/>\nalong the River.<br/>\n<br/>\nIn those days, as a post town, very prosperous was Mishima where there were many &quot;geisha&quot; who came from <br/>\nEdo or other districts.&quot;<br/>\n<br/>\nFor your delectation - Tom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9,
+    "nextTopicId": 22
+}

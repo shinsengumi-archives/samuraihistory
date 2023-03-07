@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese woodblock prints",
+            "postDate": "1095119582",
+            "msgId": 5520,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpNWJzdSs4NGttQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5519,
+            "nextInTime": 5521,
+            "topicId": 5520,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everyone, there is a new discussion group for Japanese woodblock prints and other antique fine arts at http://groups.yahoo.com/group/ukiyo_e/ Some well",
+            "messageBody": "<div id=\"ygrps-yiv-1817721104\">Hello everyone, there is a new discussion group for Japanese <br/>\nwoodblock prints and other antique fine arts at<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/ukiyo_e/\">http://groups.yahoo.com/group/ukiyo_e/</a><br/>\n<br/>\nSome well known experts participating. Please drop by and have a look.<br/>\n<br/>\nRegards, Matthew</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5516,
+    "nextTopicId": 5523
+}

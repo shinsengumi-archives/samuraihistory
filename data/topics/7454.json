@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives Store Sale",
+            "postDate": "1123725697",
+            "msgId": 7454,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkZWJpMStkcGN1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7453,
+            "nextInTime": 7455,
+            "topicId": 7454,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Here is the next sale at the Samurai Archives store: http://www.cafepress.com/samuraiarchives Savings: $5 off orders over $50 Coupon code: B2SALE Dates:",
+            "messageBody": "<div id=\"ygrps-yiv-1235949563\">Here is the next sale at the Samurai Archives store:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a><br/>\nSavings: $5 off orders over $50<br/>\nCoupon code: B2SALE<br/>\nDates: 8/16/2005 - 9/6/2005<br/>\n<br/>\nEnjoy!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7394,
+    "nextTopicId": 7455
+}

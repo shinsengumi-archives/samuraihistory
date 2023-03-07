@@ -1,0 +1,29 @@
+{
+    "userId": 0,
+    "authorName": "Christopher West",
+    "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "BGWnzJtGck6st7-hGtQpQ7MYs6KBKbuFM399OAZUCvyisXaq280tdSg1JAPzVB7-9U_bwmcQ9eEV2SfcNfBjYEp5e5XHt8GI_Ol46zC_eA",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: new temporary home of the &#39;samurai archives&#39;",
+    "postDate": "998502128",
+    "msgId": 299,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDltMHF0ZytocjZwQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDlsa2tlbStxbXFvQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 298,
+    "nextInTopic": 301,
+    "prevInTime": 298,
+    "nextInTime": 300,
+    "topicId": 295,
+    "numMessagesInTopic": 6,
+    "msgSnippet": "I have it set up so http://www.samurai-archives.com redirects to the new server, so you can get there via samurai-archives.com.  still in the process of",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_1); 22 Aug 2001 17:52:31 -0000\r\nReceived: (qmail 20058 invoked from network); 22 Aug 2001 17:42:17 -0000\r\nReceived: from unknown (10.1.10.26)\n  by l7.egroups.com with QMQP; 22 Aug 2001 17:42:17 -0000\r\nReceived: from unknown (HELO n16.groups.yahoo.com) (10.1.1.34)\n  by mta1 with SMTP; 22 Aug 2001 17:42:16 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.97] by mo.egroups.com with NNFMP; 22 Aug 2001 17:42:10 -0000\r\nDate: Wed, 22 Aug 2001 17:42:08 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Re: new temporary home of the &#39;samurai archives&#39;\r\nMessage-ID: &lt;9m0qtg+hr6p@...&gt;\r\nIn-Reply-To: &lt;9lkkem+qmqo@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 189\r\nX-Mailer: eGroups Message Poster\r\nFrom: &quot;Christopher West&quot; &lt;kitsuno@...&gt;\r\n\r\nI have it set up so http://www.samurai-archives.com redirects to the \nnew server, so you can get there via samurai-archives.com.  still in \nthe process of uploading the remaining pics.\n\nc.\n\n\n"
+}

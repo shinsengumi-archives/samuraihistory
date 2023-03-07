@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 4776667,
+            "authorName": "Saitoh Hajime",
+            "from": "&quot;Saitoh Hajime&quot; &lt;the_sam_99@...&gt;",
+            "profile": "miburo_saitoh",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Greetings to all!",
+            "postDate": "1060889174",
+            "msgId": 2045,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJoZ25vbStucHFzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2044,
+            "nextInTime": 2046,
+            "topicId": 2045,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hiya, my name s Sam and, as you must suspect, I love japanese history, specially the samurai. I am currently writing a story set in the last years of the 16th",
+            "messageBody": "<div id=\"ygrps-yiv-769484595\">Hiya, my name&#39;s Sam and, as you must suspect, I love japanese <br/>\nhistory, specially the samurai. I am currently writing a story set in <br/>\nthe last years of the 16th century (a little bit before Tokugawa took <br/>\npower), obviously I need to do research to not mess up too much. In <br/>\nthis story I have used the names of Himura, Shimizu, and Iwamura, all <br/>\nas powerful clans. The fact is I don&#39;t know about the real history of <br/>\nthese clans, just used the names and made up some of their history <br/>\nfor the purposes of the story - which is fantasy-based. Then again, <br/>\nif I can find out about their history, much better!<br/>\n<br/>\nWell, that&#39;s all for now, any specific inquiries that I might have <br/>\nI&#39;ll let ya guys know. Thanks!<br/>\n<br/>\nThe Wolf of Mibu</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2044,
+    "nextTopicId": 2026
+}

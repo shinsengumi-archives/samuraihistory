@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 95166925,
+            "authorName": "nagamorigenji",
+            "from": "&quot;nagamorigenji&quot; &lt;sirsableknight@...&gt;",
+            "profile": "nagamorigenji",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The New Guy!",
+            "postDate": "1026302991",
+            "msgId": 936,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFnaDg2Zit1dDNhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 935,
+            "nextInTime": 937,
+            "topicId": 936,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, How are you? I had stumbled upon your page as I was looking about some pages. So I joined. I really enjoy the history of The Samurai. I have many books",
+            "messageBody": "<div id=\"ygrps-yiv-520498532\">Hello,<br/>\nHow are you? I had stumbled upon your page as I was looking about <br/>\nsome pages. So I joined. I really enjoy the history of The Samurai. <br/>\nI have many books on the subject. I have a few contacts who are <br/>\nauthors. I am also involved in a historiacl re-enactment group. A <br/>\nsmall group of us potray&#39;s a Japanese Shiro. We have great fun with <br/>\nit. Again I just wanted to say hello and I llok forward to talking <br/>\nto you all more!<br/>\n<br/>\nNagamori</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 930,
+    "nextTopicId": 931
+}

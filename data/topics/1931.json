@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 152499046,
+            "authorName": "moshpit_central",
+            "from": "&quot;moshpit_central&quot; &lt;gibberingfool@...&gt;",
+            "profile": "moshpit_central",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "history",
+            "postDate": "1057156552",
+            "msgId": 1931,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJkdXFrOCtobWxjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1930,
+            "nextInTime": 1932,
+            "topicId": 1931,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Im a student doing A levels, and for coursework I can choose any issue or period of history from the last 1000 years provided there is some controversy over a",
+            "messageBody": "<div id=\"ygrps-yiv-836848347\">Im a student doing A levels, and for coursework I can choose any <br/>\nissue or period of history from the last 1000 years provided there <br/>\nis some controversy over a specific issue.  Id quite like to do it <br/>\non something from japanese history, but am a complete newcomer.  <br/>\nCould anyone recommend any single incident/series of events that <br/>\nwould be good or practical to research?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1929,
+    "nextTopicId": 1933
+}

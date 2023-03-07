@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 128739069,
+            "authorName": "midorinotoradesu",
+            "from": "&quot;midorinotoradesu&quot; &lt;bkirkham@...&gt;",
+            "profile": "midorinotoradesu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kabuto Picture",
+            "postDate": "1079248159",
+            "msgId": 3904,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMzMTBlditiZ250QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3903,
+            "nextInTime": 3905,
+            "topicId": 3904,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Someone on the newsgroup had suggested that I draw a kabuto with a black background with sakura pedals falling.  I have completed the request and it can be",
+            "messageBody": "<div id=\"ygrps-yiv-1960686163\">Someone on the newsgroup had suggested that I draw a kabuto with a <br/>\nblack background with sakura pedals falling.  I have completed the <br/>\nrequest and it can be found in the Samurai Artwork folder on the <br/>\nPhoto page.<br/>\nTell me what you think.  You may use it as a desktop or screensaver <br/>\nfor your own PC but it is protected by copyright law.  So, if you&#39;d <br/>\nlike to use it for some other purpose, please get my permission <br/>\nfirst.  Contact me at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:bkirkham@...\">bkirkham@...</a>.<br/>\n<br/>\nHere&#39;s the link directly to the pic:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.groups.yahoo.com/group/samuraihistory/vwp?.dir=/\">http://photos.groups.yahoo.com/group/samuraihistory/vwp?.dir=/</a><br/>\nSamurai+Artwork&.dnm=Sakura+Kabuto.jpg&.src=gr&.view=t&.hires=t<br/>\n<br/>\nThanks.<br/>\nBrandon</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3892,
+    "nextTopicId": 3905
+}

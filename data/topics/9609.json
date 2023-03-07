@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159617023,
+            "authorName": "paperfan444",
+            "from": "&quot;paperfan444&quot; &lt;starsstripesjrw@...&gt;",
+            "profile": "paperfan444",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Osprey Publishing",
+            "postDate": "1185850528",
+            "msgId": 9609,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY4bThiMCtjcG5lQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9608,
+            "nextInTime": 9610,
+            "topicId": 9609,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m not sure if any of you are aware, but there is a company called Osprey Publishing that specializes in military history books.  I am currently attempting to",
+            "messageBody": "<div id=\"ygrps-yiv-1683379998\">I&#39;m not sure if any of you are aware, but there is a company called Osprey Publishing that <br/>\nspecializes in military history books.  I am currently attempting to persuade them to issue <br/>\nsome books on the Battle of Ueno since I have hardly been able to find any books on the <br/>\nbattle in English.  If you have an interest in seeing an English-language book written about <br/>\nthem, please send them an email.  You can get their conact info at <br/>\nwww.ospreypublishing.com.  Just a few minutes of your time and we might be able to <br/>\npersuade them to make a valuable contribution to military history students.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9606,
+    "nextTopicId": 9611
+}

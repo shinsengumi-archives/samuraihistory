@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "C.W.",
+            "from": "&quot;C.W.&quot; &lt;kitsuno@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "senderId": "HxtgJlq64I-laZFSFo4C7eGmeZ8ewJMBJHUUfxcGV4haKfJ0W14EprsESAS08kKjpJ0nFPFcLEkolG1PB83NIMZmiQ",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Help for the Samurai Archives...!",
+            "postDate": "1006237660",
+            "msgId": 351,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDl0Y3Q0cytwYzYyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 350,
+            "nextInTime": 352,
+            "topicId": 351,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "During the server crash at the samurai archives site we apparently lost 5 .jpg s of clan genealogies - the Ukita clan, the Takeda clan, the Hosokawa clan and",
+            "messageBody": "<div id=\"ygrps-yiv-1508988177\">During the server crash at the samurai archives site we apparently <br/>\nlost 5 .jpg&#39;s of clan genealogies - the Ukita clan, the Takeda clan, <br/>\nthe Hosokawa clan and the Chosokabe clan (the remaining clans can be <br/>\nfound here <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/clanindex.html\">http://www.samurai-archives.com/clanindex.html</a> to jog your <br/>\nmemory) - we are hoping (!!!) that someone may have downloaded and <br/>\ncopied them to thier computer - if so, we would be extremely grateful <br/>\nif you could let us know, and get copies of them to us ASAP!  feel <br/>\nfree to email the list or email us directly at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kitsuno@...\">kitsuno@...</a><br/>\n<br/>\nMany thanks in advance for any assistance!<br/>\n<br/>\nC. West and F.W. Seal</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 349,
+    "nextTopicId": 350
+}

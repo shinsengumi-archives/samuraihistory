@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 47559881,
+            "authorName": "Joe Pascual",
+            "from": "&quot;Joe Pascual&quot; &lt;arsenal@...&gt;",
+            "profile": "joesuniluis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Pendraken Miniatures 10mm Samurai",
+            "postDate": "1008797645",
+            "msgId": 462,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDUwMWMxODhkNCRlOGY2ODk4MCQ5OGQ3NjNkNUBKb2VQYXNjdWFsPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 461,
+            "nextInTime": 463,
+            "topicId": 462,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, the url is as follows: http://www.pendraken.co.uk/ There are some scans adjoined to this reply. Regards, Joe [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-1184528437\">Hello, the url is as follows:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.pendraken.co.uk/\">http://www.pendraken.co.uk/</a><br/>\n<br/>\nThere are some scans adjoined to this reply.<br/>\n<br/>\nRegards,<br/>\n<br/>\n<br/>\nJoe<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 458,
+    "nextTopicId": 460
+}

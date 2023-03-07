@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japan Ex",
+            "postDate": "1183109966",
+            "msgId": 9599,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTAwMWM3YmEzMSQ4NjhiN2EwMCQ0MDk3ZTE1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9598,
+            "nextInTime": 9600,
+            "topicId": 9599,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All This may be of interest to you. On 21st July at the Excel Centre in London s Docklands, there will be a Japan exposition. My understanding is that it",
+            "messageBody": "<div id=\"ygrps-yiv-1500258268\">Dear All<br/>\nThis may be of interest to you. On 21st July at the Excel Centre in London&#39;s Docklands, there will be a Japan exposition. My understanding is that it will cater for all things Japanese, including modern and cultural. Certainly there is Manga, Anime etc and I will be manning a stand for To-ken Society of GB. This will feature swords and armour, mostly from my own collection so if you come, please say hello.<br/>\nDetails may be found on www.To-ken.com in the Members section.<br/>\nRegards<br/>\nClive sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9596,
+    "nextTopicId": 9598
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William letham",
+            "from": "&quot;William letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] three-hundredth anniversary of &#39;Chushingura&#39;",
+            "postDate": "1042035216",
+            "msgId": 1359,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWEwMWMyYjcyMCQyMzYxMjI0MCQ1YTIwMTZkYkBmbXY+",
+                "referencesHeader": "PGF2ZDZiMytvdDVsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1349,
+            "nextInTopic": 0,
+            "prevInTime": 1358,
+            "nextInTime": 1360,
+            "topicId": 1349,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That was quite interesting. I taped the new Chushingura miniseries from TV Tokyo and hope to watch it soon ( as soon as I get through some of the other ",
+            "messageBody": "<div id=\"ygrps-yiv-5295676\">That was quite interesting. I taped the new Chushingura miniseries from TV<br/>\nTokyo and hope to watch it soon ( as soon as I get through some of the other<br/>\nshogatsu jidai geki).<br/>\n<br/>\nIts also interesting to note that this year 2003 will be the 150th<br/>\nanniversary of Kurofune, Perrys opening of Japan. NHK just did a 2 hour<br/>\ndocumentary on the subject. I am curious to see if there will be any other<br/>\nevents books movies perhaps to commemorate this part of history. Has anybody<br/>\nheard anything?</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 117006241,
+            "authorName": "Kitsuno &lt;cewest@samurai-archives.com&gt;",
+            "from": "&quot;Kitsuno &lt;cewest@...&gt;&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "three-hundredth anniversary of &#39;Chushingura&#39;",
+            "postDate": "1041898659",
+            "msgId": 1349,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGF2ZDZiMytvdDVsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1359,
+            "prevInTime": 1348,
+            "nextInTime": 1350,
+            "topicId": 1349,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.fpcj.jp/e/shiryo/jb/0249.html",
+            "messageBody": "<div id=\"ygrps-yiv-1471799322\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.fpcj.jp/e/shiryo/jb/0249.html\">http://www.fpcj.jp/e/shiryo/jb/0249.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1356,
+    "nextTopicId": 1338
+}

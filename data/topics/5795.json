@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 153027787,
+            "authorName": "zevlord",
+            "from": "&quot;zevlord&quot; &lt;LordZev@...&gt;",
+            "profile": "zevlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: New Photos",
+            "postDate": "1098920934",
+            "msgId": 5826,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNscGM1NitubzFqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGNsOWZsdCtxaWo5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5795,
+            "nextInTopic": 0,
+            "prevInTime": 5825,
+            "nextInTime": 5827,
+            "topicId": 5795,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Bump! Does no one like my Wakizashi!  :(",
+            "messageBody": "<div id=\"ygrps-yiv-1498335661\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;zevlord&quot; &lt;LordZev@h...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; Hi All,<br/>\n&gt; \tHave posted some photos of a Wakizashi that I have received <br/>\n&gt; recently. It&#39;s in the Wakizashi album, please feel free to have a <br/>\n&gt; look and let me know what you think.<br/>\n<br/>\n </span></blockquote>Bump!<br/>\n<br/>\nDoes no one like my Wakizashi!  :(</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 153027787,
+            "authorName": "zevlord",
+            "from": "&quot;zevlord&quot; &lt;LordZev@...&gt;",
+            "profile": "zevlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "New Photos",
+            "postDate": "1098400253",
+            "msgId": 5795,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNsOWZsdCtxaWo5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5826,
+            "prevInTime": 5794,
+            "nextInTime": 5796,
+            "topicId": 5795,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, Have posted some photos of a Wakizashi that I have received recently. It s in the Wakizashi album, please feel free to have a look and let me know what",
+            "messageBody": "<div id=\"ygrps-yiv-44109757\">Hi All,<br/>\n\tHave posted some photos of a Wakizashi that I have received <br/>\nrecently. It&#39;s in the Wakizashi album, please feel free to have a <br/>\nlook and let me know what you think.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5817,
+    "nextTopicId": 5831
+}

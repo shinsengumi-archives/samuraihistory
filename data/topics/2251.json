@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 97033060,
+            "authorName": "the_real_sixstringsamurai",
+            "from": "&quot;the_real_sixstringsamurai&quot; &lt;the_real_sixstringsamurai@...&gt;",
+            "profile": "the_real_sixstringsamurai",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "I have added...",
+            "postDate": "1063634235",
+            "msgId": 2251,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJrNGdmcit1cTkxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2250,
+            "nextInTime": 2252,
+            "topicId": 2251,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have just added a new photo album with andalso added to pictures. One of them is Oda Nobunaga and the other is Takada Shingen. - The_real_sixstringsamurai",
+            "messageBody": "<div id=\"ygrps-yiv-2011502226\">I have just added a new photo album with andalso added to pictures. <br/>\nOne of them is Oda Nobunaga and the other is Takada Shingen.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n- The_real_sixstringsamurai</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2241,
+    "nextTopicId": 2223
+}

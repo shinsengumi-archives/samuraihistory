@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Tsuruya (Saiki) Castle pics",
+            "postDate": "1091366357",
+            "msgId": 4959,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODAxMTMxOS5pNzFESklKVzAyNTY4NEBtcy1zbXRwLTAxLWVyaTAub2hpb3JkYy5yci5jb20+",
+                "inReplyToHeader": "PGNlaTZvZys3anV1QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNlaTZvZys3anV1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4951,
+            "nextInTopic": 0,
+            "prevInTime": 4958,
+            "nextInTime": 4960,
+            "topicId": 4951,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Very nice! Thanks for doing this. -- Jay Kelly oyakata@OdaNobunaga.com",
+            "messageBody": "<div id=\"ygrps-yiv-529090789\">On Sun, 01 Aug 2004 07:40:00 -0000, Kitsunoさん wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;I have uploaded a folder of pictures of Saiki castle built around <br/>\n<br/>\n&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.groups.yahoo.com/group/samuraihistory/lst\">http://photos.groups.yahoo.com/group/samuraihistory/lst</a><br/>\n<br/>\n&gt;look for the Tsuruya (saiki) castle folder.<br/>\n<br/>\n </span></blockquote>Very nice! Thanks for doing this.<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tsuruya (Saiki) Castle pics",
+            "postDate": "1091346000",
+            "msgId": 4951,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNlaTZvZys3anV1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4959,
+            "prevInTime": 4950,
+            "nextInTime": 4952,
+            "topicId": 4951,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have uploaded a folder of pictures of Saiki castle built around 1607 by Mori Takamasa, as well as the shrine at the base of the mountain the castle sits on",
+            "messageBody": "<div id=\"ygrps-yiv-1540267548\">I have uploaded a folder of pictures of Saiki castle built around <br/>\n1607 by Mori Takamasa, as well as the shrine at the base of the <br/>\nmountain the castle sits on in the &#39;photos&#39; section of the Samurai <br/>\nHistory group:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.groups.yahoo.com/group/samuraihistory/lst\">http://photos.groups.yahoo.com/group/samuraihistory/lst</a><br/>\n<br/>\nlook for the Tsuruya (saiki) castle folder.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4937,
+    "nextTopicId": 4964
+}

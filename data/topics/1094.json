@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] mon",
+            "postDate": "1029465585",
+            "msgId": 1094,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNENUM2NUYwLjc0OTI4NjlDQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PGFmb2E2Yit1aWkwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1093,
+            "nextInTime": 1095,
+            "topicId": 1094,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.netpersons.co.jp/kamon/index.html Here s a mon site for all you researchers...T",
+            "messageBody": "<div id=\"ygrps-yiv-2108794283\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.netpersons.co.jp/kamon/index.html\">http://www.netpersons.co.jp/kamon/index.html</a><br/>\n<br/>\nHere&#39;s a mon site for all you researchers...T</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1036,
+    "nextTopicId": 1095
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 233776393,
+            "authorName": "paddles_07",
+            "from": "&quot;paddles_07&quot; &lt;paddles7@...&gt;",
+            "profile": "paddles_07",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "samurai frequently asked questions",
+            "postDate": "1124012968",
+            "msgId": 7468,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkbjQzOCtpa2tyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7467,
+            "nextInTime": 7469,
+            "topicId": 7468,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I am currently doing a project on Samurai and need to list some frequently asked questions can anyone help me Cheers Paddles_07",
+            "messageBody": "<div id=\"ygrps-yiv-757741962\">Hi, I am currently doing a project on Samurai and need to list some <br/>\nfrequently asked questions can anyone help me<br/>\n<br/>\nCheers<br/>\nPaddles_07</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7458,
+    "nextTopicId": 7457
+}

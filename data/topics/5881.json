@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives Updates",
+            "postDate": "1124303360",
+            "msgId": 7489,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkdnZtMCs5MDIzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5881,
+            "nextInTopic": 0,
+            "prevInTime": 7488,
+            "nextInTime": 7490,
+            "topicId": 5881,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Recent updates: Fiction stories ... Why do we ride the sea of death? http://www.samurai-archives.com/sod.html Under the yoka hazakura (Chapter two has been",
+            "messageBody": "<div id=\"ygrps-yiv-1064735246\">Recent updates:<br/>\n<br/>\nFiction stories<br/>\n---------------<br/>\n<br/>\n&quot;Why do we ride the sea of death?&quot;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sod.html\">http://www.samurai-archives.com/sod.html</a><br/>\n<br/>\n&quot;Under the yoka hazakura&quot; (Chapter two has been added)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/yok.html\">http://www.samurai-archives.com/yok.html</a><br/>\n<br/>\nHistory Article<br/>\n---------------<br/>\n<br/>\n&quot;Cultural Diffusion and its Effects on Japan&quot;<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/cde.html\">http://www.samurai-archives.com/cde.html</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives Updates",
+            "postDate": "1099613603",
+            "msgId": 5881,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNtZWdqMytxMm1zQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7489,
+            "prevInTime": 5880,
+            "nextInTime": 5882,
+            "topicId": 5881,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Keep an eye on the Samurai Archives homepage, there are a bunch of updates going on between right now and the next few days, incorporating more Japanese",
+            "messageBody": "<div id=\"ygrps-yiv-655696948\">Keep an eye on the Samurai Archives homepage, there are a bunch of <br/>\nupdates going on between right now and the next few days, <br/>\nincorporating more Japanese sources and updated information into a <br/>\nlot of the biographies on the site, and a new section in the works <br/>\nfocusing on some of the more famous clans of the sengoku period.  <br/>\nThe first update, Date Masamune, has gone up, and will be followed <br/>\nby numerous others.<br/>\n<br/>\nThanks!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7466,
+    "nextTopicId": 7490
+}

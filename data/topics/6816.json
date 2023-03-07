@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Samurai Fiction 2005 Entrance Extension",
+            "postDate": "1111121836",
+            "msgId": 6830,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxZG4zYyszdnRwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGQwcmg4ZCttMnMxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6816,
+            "nextInTopic": 0,
+            "prevInTime": 6829,
+            "nextInTime": 6831,
+            "topicId": 6816,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The prize for the Samurai Fiction contest is currently $60. Deadline for Entrance fees is 3/28/05. http://www.samurai-archives.com/writcon.html",
+            "messageBody": "<div id=\"ygrps-yiv-918772686\">The prize for the Samurai Fiction contest is currently $60.  <br/>\nDeadline for Entrance fees is 3/28/05.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon.html\">http://www.samurai-archives.com/writcon.html</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Fiction 2005 Entrance Extension",
+            "postDate": "1110526029",
+            "msgId": 6816,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwcmg4ZCttMnMxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6830,
+            "prevInTime": 6815,
+            "nextInTime": 6817,
+            "topicId": 6816,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Due to popular request, the deadline for registering for the Samurai Fiction contest 2005 has been extended to March 28th.   Details here: ",
+            "messageBody": "<div id=\"ygrps-yiv-1998432100\">Due to popular request, the deadline for registering for the Samurai <br/>\nFiction contest 2005 has been extended to March 28th.   Details here:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon.html\">http://www.samurai-archives.com/writcon.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6825,
+    "nextTopicId": 6832
+}

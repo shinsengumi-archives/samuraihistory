@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Poem",
+            "postDate": "1137136223",
+            "msgId": 8180,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDc5REI1RkU2LUNDRUYtNDExRS04QThELTYwQkQzOTEyQjgxMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGRxMzZxdithMmQ0QGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRxMzZxdithMmQ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8175,
+            "nextInTopic": 0,
+            "prevInTime": 8179,
+            "nextInTime": 8181,
+            "topicId": 8175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Jiggles- Not likely there is a poem out there that is the origin of this phrase, rather it was a popular saying that may have made its way into more than one",
+            "messageBody": "<div id=\"ygrps-yiv-1989254930\">Jiggles-<br/>\n\tNot likely there is a poem out there that is the origin of this  <br/>\nphrase, rather it was a popular saying that may have made its way  <br/>\ninto more than one poem...<br/>\n-t<br/>\nand it was simply &quot;the flowers of Edo&quot; meaning the many fires.<br/>\n<blockquote><span title=\"qreply\"> On Jan 11, 2006, at 7:05 AM, the_jigglin_penguin wrote:<br/>\n<br/>\n&gt; I heard that there was a poem that went like &quot;The flowers in Edo are<br/>\n&gt; blooming&quot; which ment the the city of Edo was on fire. Is there a<br/>\n&gt; website that can tell me more about this poem or can any of you?<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; ---<br/>\n&gt; Join the 2006 Samurai Fiction contest:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a><br/>\n&gt;<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; Samurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n&gt; ---<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; SPONSORED LINKS<br/>\n&gt; Samurai\tJapan\tJapan airline<br/>\n&gt;<br/>\n&gt; YAHOO! GROUPS LINKS<br/>\n&gt;<br/>\n&gt;  Visit your group &quot;samuraihistory&quot; on the web.<br/>\n&gt;<br/>\n&gt;  To unsubscribe from this group, send an email to:<br/>\n&gt;  <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt;  Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.<br/>\n&gt;<br/>\n&gt;<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 247914591,
+            "authorName": "the_jigglin_penguin",
+            "from": "&quot;the_jigglin_penguin&quot; &lt;the_jigglin_penguin@...&gt;",
+            "profile": "the_jigglin_penguin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Poem",
+            "postDate": "1136991903",
+            "msgId": 8175,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRxMzZxdithMmQ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8180,
+            "prevInTime": 8174,
+            "nextInTime": 8176,
+            "topicId": 8175,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I heard that there was a poem that went like The flowers in Edo are blooming which ment the the city of Edo was on fire. Is there a website that can tell me",
+            "messageBody": "<div id=\"ygrps-yiv-885279265\">I heard that there was a poem that went like &quot;The flowers in Edo are<br/>\nblooming&quot; which ment the the city of Edo was on fire. Is there a<br/>\nwebsite that can tell me more about this poem or can any of you?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8172,
+    "nextTopicId": 8176
+}

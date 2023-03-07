@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] STUPID ME!",
+            "postDate": "1086786532",
+            "msgId": 4532,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI3RTkyNDE4LUJBMTYtMTFEOC05NUNELTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 4531,
+            "nextInTopic": 0,
+            "prevInTime": 4531,
+            "nextInTime": 4533,
+            "topicId": 4529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The poem is untitled... -t",
+            "messageBody": "<div id=\"ygrps-yiv-1766402984\">The poem is untitled...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 181581475,
+            "authorName": "Oyakata",
+            "from": "Oyakata &lt;oyakata@...&gt;",
+            "profile": "jckelly108",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] joukisen",
+            "postDate": "1086776802",
+            "msgId": 4531,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "inReplyToHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg==",
+                "referencesHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 4529,
+            "nextInTopic": 4532,
+            "prevInTime": 4530,
+            "nextInTime": 4532,
+            "topicId": 4529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "On Wed, 9 Jun 2004 01:22:12 -0700 (PDT), Daniele Frison\u001b$B$5$s\u001b(B wrote in message  ... I m not aware that",
+            "messageBody": "<div id=\"ygrps-yiv-1765732624\">On Wed, 9 Jun 2004 01:22:12 -0700 (PDT), Daniele Frisonさん wrote in message &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:20040609082212.63710.qmail@...\">20040609082212.63710.qmail@...</a>&gt;<br/>\n<blockquote><span title=\"ireply\"> &gt;I found the kanji in the poem..sorry!<br/>\n&gt;But the first question remains: is it the title &quot;joukisen&quot;?<br/>\n<br/>\n </span></blockquote>I&#39;m not aware that it has an official title - after all it&#39;s not <br/>\nreally clear who wrote it. I&#39;ve never seen it referred to by a <br/>\ntitle. It might have a title, but I just don&#39;t know it.<br/>\n<br/>\nI called the jpeg file and the html file joukisen, just because I <br/>\nhad to name them something. :)<br/>\n<br/>\nSorry I couldn&#39;t be more help.<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n--<br/>\nJay Kelly<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:oyakata@...\">oyakata@...</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 82748889,
+            "authorName": "Daniele Frison",
+            "from": "Daniele Frison &lt;eriel666@...&gt;",
+            "profile": "eriel666",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "STUPID ME!",
+            "postDate": "1086769332",
+            "msgId": 4529,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjA5MDgyMjEyLjYzNzEwLnFtYWlsQHdlYjIwODEwLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4531,
+            "prevInTime": 4528,
+            "nextInTime": 4530,
+            "topicId": 4529,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I found the kanji in the poem..sorry! But the first question remains: is it the title joukisen ? Thanks. Daniele ... Do you Yahoo!? Friends.  Fun. Try the",
+            "messageBody": "<div id=\"ygrps-yiv-1481903946\">I found the kanji in the poem..sorry!<br/>\nBut the first question remains: is it the title &quot;joukisen&quot;?<br/>\nThanks.<br/>\nDaniele<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nFriends.  Fun. Try the all-new Yahoo! Messenger<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4498,
+    "nextTopicId": 4533
+}

@@ -1,0 +1,125 @@
+[
+    {
+        "groupId": 2247946,
+        "albumId": 1980928357,
+        "photoId": 1114383044,
+        "photoName": "Last Samurai Screen 2",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "kitsuno",
+        "modificationDate": 1114709611,
+        "creationDate": 1114709611,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 1,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/nSiDkx7te9D1Y6xFKFzF/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2249,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/nSiDkx7te9D1Y6xFKFzF/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 20916,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/nSiDkx7te9D1Y6xFKFzF/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 20916,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 1980928357,
+        "photoId": 1951948394,
+        "photoName": "Last Samurai Screen",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "kitsuno",
+        "modificationDate": 1114709619,
+        "creationDate": 1114709619,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 2,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/WOP0CJntc9Qi9naseo6H/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2434,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/WOP0CJntc9Qi9naseo6H/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 29135,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/WOP0CJntc9Qi9naseo6H/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 29135,
+                "photoType": "hr"
+            }
+        ]
+    },
+    {
+        "groupId": 2247946,
+        "albumId": 1980928357,
+        "photoId": 147873892,
+        "photoName": "Last Samurai Screen 3",
+        "photoFilename": "n/a",
+        "fileType": "image/jpeg",
+        "isCreator": false,
+        "creatorNickname": "kitsuno",
+        "modificationDate": 1114709634,
+        "creationDate": 1114709634,
+        "position": 0,
+        "commentCount": 0,
+        "ordinal": 3,
+        "source": "WEB",
+        "albumType": "NORMAL",
+        "description": "",
+        "photoInfo": [
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/tn/ctYdwiHtftZ9sFXNWMk-/name/n_a",
+                "height": 72,
+                "width": 96,
+                "size": 2372,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/sn/ctYdwiHtftZ9sFXNWMk-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 23496,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "https://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/hr/ctYdwiHtftZ9sFXNWMk-/name/n_a",
+                "height": 300,
+                "width": 400,
+                "size": 23496,
+                "photoType": "hr"
+            }
+        ]
+    }
+]

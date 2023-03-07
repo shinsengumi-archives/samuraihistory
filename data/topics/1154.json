@@ -1,0 +1,64 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 88707847,
+            "authorName": "westce@WellsFargo.COM",
+            "from": "westce@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [samuraihistory] Translators",
+            "postDate": "1032887678",
+            "msgId": 1156,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQwRTcyRTkxMTYzMUQ1MTE4Rjg3MDAwOEM3MTY0MjI5MDIyQTBEMDFAWENFTS1PUlBEWC0wOT4="
+            },
+            "prevInTopic": 1154,
+            "nextInTopic": 0,
+            "prevInTime": 1155,
+            "nextInTime": 1157,
+            "topicId": 1154,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "www.jdictionary.com is a good place to start. ... From: Jonathan Ball [mailto:wellman1989@yahoo.com] Sent: Tuesday, September 24, 2002 9:03 AM To:",
+            "messageBody": "<div id=\"ygrps-yiv-1525317963\">www.jdictionary.com is a good place to start.<br/>\n<br/>\n-----Original Message-----<br/>\nFrom: Jonathan Ball [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:wellman1989@...\">wellman1989@...</a>]<br/>\nSent: Tuesday, September 24, 2002 9:03 AM<br/>\nTo: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\nSubject: [samuraihistory] Translators<br/>\n<br/>\n<br/>\nI would like to know were I could find some free<br/>\ntranslations.  You know the kind, where you type in a<br/>\nword and it shows you the translations.  If anybody<br/>\nknows of a site E-mail me.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 125308634,
+            "authorName": "Jonathan Ball",
+            "from": "Jonathan Ball &lt;wellman1989@...&gt;",
+            "profile": "wellman1989",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Translators",
+            "postDate": "1032883379",
+            "msgId": 1154,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIwOTI0MTYwMjU5LjUxNTU3LnFtYWlsQHdlYjQwNDA1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1156,
+            "prevInTime": 1153,
+            "nextInTime": 1155,
+            "topicId": 1154,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like to know were I could find some free translations.  You know the kind, where you type in a word and it shows you the translations.  If anybody ",
+            "messageBody": "<div id=\"ygrps-yiv-16462884\">I would like to know were I could find some free<br/>\ntranslations.  You know the kind, where you type in a<br/>\nword and it shows you the translations.  If anybody<br/>\nknows of a site E-mail me.<br/>\n<br/>\n__________________________________________________<br/>\nDo you Yahoo!?<br/>\nNew DSL Internet Access from SBC & Yahoo!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://sbc.yahoo.com\">http://sbc.yahoo.com</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1143,
+    "nextTopicId": 1159
+}

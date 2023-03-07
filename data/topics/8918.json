@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Fiction 2007 - more info",
+            "postDate": "1151587302",
+            "msgId": 8918,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU4MGs1Nis3b292QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8917,
+            "nextInTime": 8919,
+            "topicId": 8918,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A little more info for the third annual Samurai Fiction contest - I am still working out the new rules, although there won t be a tremendous amount of",
+            "messageBody": "<div id=\"ygrps-yiv-145596458\">A little more info for the third annual &quot;Samurai Fiction&quot; contest - I <br/>\nam still working out the new rules, although there won&#39;t be a <br/>\ntremendous amount of changes from last year.  <br/>\n<br/>\nOne new development:<br/>\n<br/>\nFor every 5 entries, I will add $50 to the total winnings. So, the <br/>\nmore entries, the much higher the potential winnings.  And don&#39;t <br/>\nforget, the sooner you sign up, the less you will have to pay for the <br/>\nentrance fee.<br/>\n<br/>\nWhen I finish the website for the new contest, I&#39;ll post it here.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8905,
+    "nextTopicId": 8919
+}

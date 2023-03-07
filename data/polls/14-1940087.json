@@ -1,0 +1,103 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1940087,
+    "listId": 2247946,
+    "dateCreated": 1124313315,
+    "userIdCreated": 145759856,
+    "dateEnd": 1133517540,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "I would enter the Samurai Fiction 2006 contest if the \nentrance fee is no more than (Like last year, the winner \nwill receive the money minus 5% to cover the PayPal fees, so \nthe bigger the fee, the bigger the potential payoff)",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14231584,
+            "selectionText": "$5",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231585,
+            "selectionText": "$6",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231586,
+            "selectionText": "$8",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231587,
+            "selectionText": "$10",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 14231587,
+                    "surveyId": 1940087,
+                    "userId": 134498325,
+                    "guid": "4VSHFJOK6YORMB73Z6XO4T7HLI",
+                    "nickname": "soshuju",
+                    "email": "junkmail@toryu-mon.com"
+                },
+                {
+                    "selectionId": 14231587,
+                    "surveyId": 1940087,
+                    "userId": 101560437,
+                    "email": "takayama_hara@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14231588,
+            "selectionText": "$12",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231589,
+            "selectionText": "$15",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231590,
+            "selectionText": "$20",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 14231591,
+            "selectionText": "$25",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 14231591,
+                    "surveyId": 1940087,
+                    "userId": 78149821,
+                    "guid": "3WQGBBDQGSVSQPLTX7KZABQKII",
+                    "nickname": "thebigz_or",
+                    "email": "thebigz_or@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 4,
+    "previousSurveyId": 1940096,
+    "nextSurveyId": 1940081
+}

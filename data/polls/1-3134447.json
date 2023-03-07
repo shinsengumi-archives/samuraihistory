@@ -1,0 +1,36 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "gbcld",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 3134447,
+    "listId": 2247946,
+    "dateCreated": 1362421451,
+    "userIdCreated": 473211766,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "PLAYERS IN KOREA HOE MANY TOLLED THE FRIASAEUIY sHAIE?forn",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 21954287,
+            "selectionText": "SAKDITJGU",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 21954288,
+            "selectionText": "akxorutid",
+            "selections": 0,
+            "voted": false
+        }
+    ],
+    "voteCount": 0,
+    "previousSurveyId": 0,
+    "nextSurveyId": 3064636
+}

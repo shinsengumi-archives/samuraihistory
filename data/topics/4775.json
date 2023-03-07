@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45929,
+            "authorName": "teak_ig",
+            "from": "&quot;teak_ig&quot; &lt;zrayaan@...&gt;",
+            "profile": "teak_ig",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "bibliography",
+            "postDate": "1089165528",
+            "msgId": 4775,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNjZmxjbys4ZjcxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4774,
+            "nextInTime": 4776,
+            "topicId": 4775,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello again, gang; Still poking around the archives, I keep seeing reference to different dictionaries and resources. Is there a compiled list on anyone s",
+            "messageBody": "<div id=\"ygrps-yiv-39866524\">Hello again, gang;<br/>\n<br/>\nStill poking around the archives, I keep seeing reference to <br/>\ndifferent dictionaries and resources. Is there a compiled list on <br/>\nanyone&#39;s site?<br/>\n<br/>\n-z</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4764,
+    "nextTopicId": 4752
+}

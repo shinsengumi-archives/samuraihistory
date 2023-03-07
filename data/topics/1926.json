@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 534062,
+            "authorName": "Amphipolis",
+            "from": "&quot;Amphipolis&quot; &lt;xgl1972@...&gt;",
+            "profile": "amphipolis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "musashi new link",
+            "postDate": "1057066446",
+            "msgId": 1926,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJkczJrZSs5cWhzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1925,
+            "nextInTime": 1927,
+            "topicId": 1926,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The MIYAMOTO MUSASHI SITE, has been moved to: http://musashi1584.netfirms.com friendly, amphipolis",
+            "messageBody": "<div id=\"ygrps-yiv-1786640527\">The MIYAMOTO MUSASHI SITE, has been moved to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://musashi1584.netfirms.com\">http://musashi1584.netfirms.com</a><br/>\n<br/>\nfriendly,<br/>\namphipolis</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1920,
+    "nextTopicId": 1929
+}

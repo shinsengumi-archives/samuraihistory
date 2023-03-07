@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 121285179,
+            "authorName": "Carlo Tacchini",
+            "from": "&quot;Carlo Tacchini&quot; &lt;TSUBAME1@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "R: [samuraihistory] photos",
+            "postDate": "1060943047",
+            "msgId": 2051,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PCF+IVVFTkVSa1ZDTURrQUFRQUNBQUFBQUFBQUFBQUFBQUFBQUJnQUFBQUFBQUFBK0ZGOWh6WDNCMEs2Qkt1bzJtVHMzc0tBQUFBUUFBQUFVMkUvVExWNDVFeWFwTFNNYzlDQy9nRUFBQUFBQHRpbi5pdD4=",
+                "inReplyToHeader": "PGJoaGtidCtmOHNrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2050,
+            "nextInTopic": 0,
+            "prevInTime": 2050,
+            "nextInTime": 2052,
+            "topicId": 2050,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Go here : http://www.forzespeciali.it/indexg.html You ll be able to buy the T-shirt. ... Da: steve [mailto:graphicsguy5291@yahoo.com] Inviato: venerdì 15",
+            "messageBody": "<div id=\"ygrps-yiv-1571058717\">Go here :<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.forzespeciali.it/indexg.html\">http://www.forzespeciali.it/indexg.html</a><br/>\n<br/>\nYou&#39;ll be able to buy the T-shirt.<br/>\n<br/>\n-----Messaggio originale-----<br/>\nDa: steve [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:graphicsguy5291@...\">graphicsguy5291@...</a>] <br/>\nInviato: venerdì 15 agosto 2003 5.34<br/>\nA: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\nOggetto: [samuraihistory] photos<br/>\n<br/>\nHi:<br/>\n<br/>\nI hope someone here can help me. I am looking for photos of WW II <br/>\nKamikaze pilots wearing the Kamikaze headband. Can anyone help me?<br/>\n<br/>\n<br/>\n<br/>\n<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n---<br/>\nTo unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n <br/>\n<br/>\nYour use of Yahoo! Groups is subject to<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 143621987,
+            "authorName": "steve",
+            "from": "&quot;steve&quot; &lt;graphicsguy5291@...&gt;",
+            "profile": "graphicsguy5291",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "photos",
+            "postDate": "1060918461",
+            "msgId": 2050,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJoaGtidCtmOHNrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2051,
+            "prevInTime": 2049,
+            "nextInTime": 2051,
+            "topicId": 2050,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi: I hope someone here can help me. I am looking for photos of WW II Kamikaze pilots wearing the Kamikaze headband. Can anyone help me?",
+            "messageBody": "<div id=\"ygrps-yiv-1633870919\">Hi:<br/>\n<br/>\nI hope someone here can help me. I am looking for photos of WW II <br/>\nKamikaze pilots wearing the Kamikaze headband. Can anyone help me?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2026,
+    "nextTopicId": 2006
+}

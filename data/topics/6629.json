@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 1935355,
+            "authorName": "burker1@aol.com",
+            "from": "burker1@...",
+            "profile": "burker94509",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fwd: Japanese Invasion of Korea",
+            "postDate": "1107119011",
+            "msgId": 6629,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE5MS4zN2RkMTE2Yy4yZjJlYTVhM0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6628,
+            "nextInTime": 6630,
+            "topicId": 6629,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Guys, In case anyone is interested, I have added another reference to my bibliography on the Japanese Invasion of Korea.  It is: “Shogun’s March to Peking,",
+            "messageBody": "<div id=\"ygrps-yiv-1544428731\">Guys,<br/>\n<br/>\n    In case anyone is interested, I have added another reference to my <br/>\nbibliography on the Japanese Invasion of Korea.  It is:<br/>\n<br/>\n    “Shogun’s March to Peking, 1592-58 (sic)”, by Joseph Miranda, Strategy & <br/>\nTactics, #223, pp 40-53.<br/>\n<br/>\n    p 42 shows a picture of Chong Pal (Korean Officer) at the Battle of Pusan.<br/>\n    p 52 shows the defense of Tadaejin by Koreans armed with swords, spears, <br/>\nand tridents.<br/>\n<br/>\n    I will update the list I posted in the group&#39;s files.<br/>\n<br/>\nBob Burke<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6617,
+    "nextTopicId": 6624
+}

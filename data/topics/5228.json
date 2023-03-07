@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 130998285,
+            "authorName": "Mark Arsenault",
+            "from": "Mark Arsenault &lt;taisho@...&gt;",
+            "profile": "goldrushg",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ninja films / TV shows",
+            "postDate": "1092514085",
+            "msgId": 5228,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDYuMS4xLjEuMi4yMDA0MDgxNDEzMDM0OC4wNjEzYmQ3MEBtYWlsLnNlbmdva3UuY29tPg==",
+                "inReplyToHeader": "PDEwOTI0OTg1NDAuNDMwLjQ5MTQ2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+",
+                "referencesHeader": "PDEwOTI0OTg1NDAuNDMwLjQ5MTQ2Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5227,
+            "nextInTime": 5229,
+            "topicId": 5228,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "On 08:49 AM 8/14/04, samuraihistory@yahoogroups.com said... ... There are a few good ninja movies and programs, IMO. Here are some of my favorites (not all",
+            "messageBody": "<div id=\"ygrps-yiv-264009545\">On 08:49 AM 8/14/04, <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a> said...<br/>\n<blockquote><span title=\"ireply\"> &gt;...I have seen precisely one &quot;Ninja&quot; film - some Sho Kosugi silliness that <br/>\n&gt;turned up on late-night TV a few years back<br/>\n<br/>\n </span></blockquote>   There are a few good ninja movies and programs, IMO. Here are some of my <br/>\nfavorites (not all entirely historical, but &quot;good&quot; in terms of <br/>\nentertainment; some funny, some action-packed, some &quot;period dramas&quot;):<br/>\n<br/>\n   Hattori Hanzo - Kage no Gundan (Seasons I through IV), starring &quot;Sonny&quot; <br/>\nChiba<br/>\n<br/>\n   Shinobi no Mono - Series of B&W films about a ninja who goes rogue and <br/>\nwages a war on Nobunaga.<br/>\n<br/>\n   The Owls&#39; Castle, a drama focusing on the rivalry of two childhood <br/>\nfriends who must work against each other - one for the ninja ryu and one <br/>\nfor Nobunaga, IIRC.<br/>\n<br/>\n   Red Shadow - Slapstick anochronistic ninja romp with some wacky bits, <br/>\nbut fun (IMO)<br/>\n<br/>\n<br/>\n    Mark Arsenault<br/>\n    Sengoku List Taisho<br/>\n    ----------------------------------------------<br/>\n    <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.sengoku.com\">http://www.sengoku.com</a> - The official site of the Sengoku RPG!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5160,
+    "nextTopicId": 5231
+}

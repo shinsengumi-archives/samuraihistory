@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 534062,
+            "authorName": "amphipolis",
+            "from": "&quot;amphipolis&quot; &lt;xgl1972@...&gt;",
+            "profile": "amphipolis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new updates",
+            "postDate": "1017175309",
+            "msgId": 676,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMmMwMWMxZDUwNiRhYzY2NzM4MCQ0MjYwNDJjM0BMb2NhbEhvc3Q+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 675,
+            "nextInTime": 677,
+            "topicId": 676,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "New updates for MUSASHI PAGE (click on Bios) http://www.crosswinds.net/~musashi1584/ amphipolis",
+            "messageBody": "<div id=\"ygrps-yiv-1780183864\">New updates for MUSASHI PAGE (click on Bios)<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.crosswinds.net/~musashi1584/\">http://www.crosswinds.net/~musashi1584/</a><br/>\n<br/>\namphipolis</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 674,
+    "nextTopicId": 672
+}

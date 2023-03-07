@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] history",
+            "postDate": "1057197954",
+            "msgId": 1933,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNGMDM4RjgwLjFGNjYzOTdDQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PGJkdXFrOCtobWxjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1932,
+            "nextInTime": 1934,
+            "topicId": 1933,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... With all due respect, without knowing your interests or resources, that s an impossible question. Tony",
+            "messageBody": "<div id=\"ygrps-yiv-437468742\">moshpit_central wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Im a student doing A levels, and for coursework I can choose any<br/>\n&gt; issue or period of history from the last 1000 years provided there<br/>\n&gt; is some controversy over a specific issue.  Id quite like to do it<br/>\n&gt; on something from japanese history, but am a complete newcomer.<br/>\n&gt; Could anyone recommend any single incident/series of events that<br/>\n&gt; would be good or practical to research?<br/>\n<br/>\n </span></blockquote>With all due respect, without knowing your interests or resources, that&#39;s an<br/>\nimpossible question.<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1931,
+    "nextTopicId": 1942
+}

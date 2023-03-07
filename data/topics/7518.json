@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Events",
+            "postDate": "1124959844",
+            "msgId": 7518,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWQwMWM1YTk1MiQ0M2Q2ZjMyMCQxNzQ1MmY1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7517,
+            "nextInTime": 7519,
+            "topicId": 7518,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear all I have been informed of a couple of sword related events in the near future in Europe. There is an exhibition at Pragye on 6th September, details are",
+            "messageBody": "<div id=\"ygrps-yiv-1333092621\">Dear all<br/>\nI have been informed of a couple of sword related events in the near future in Europe. There is an exhibition at Pragye on 6th September, details are at http//www.nihonto.manga.cz and a synposium in Stockholm which will include tatara construction, swordmaking and polishing. These will be demonstated by Mr Matsuda (swordsmith) Mr Yoshida (polisher and Mr Kajiwara (blacksmith). There will also be lectures and comparisons with Viking swords.I will post a detailed schedule of these latter events on www.to-ken.com withinn the next couple of days.<br/>\nRegards<br/>\nClive Sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7513,
+    "nextTopicId": 7525
+}

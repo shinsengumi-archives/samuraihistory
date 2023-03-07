@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 198505976,
+            "authorName": "pimpswizzle6",
+            "from": "&quot;pimpswizzle6&quot; &lt;pimpswizzle6@...&gt;",
+            "profile": "pimpswizzle6",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kojiro: creator of the Tsubame-gaeshi",
+            "postDate": "1095159686",
+            "msgId": 5538,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNpNmoyNitkaGFiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5537,
+            "nextInTime": 5539,
+            "topicId": 5538,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have recently heard of the swordsmen Sasaki Kojiro. I have also heard of his technique Tsubame-gaeshi which is supposed to be so fast that could birds from",
+            "messageBody": "<div id=\"ygrps-yiv-2127788326\">I have recently heard of the swordsmen Sasaki Kojiro. I have also <br/>\nheard of his technique &#39;Tsubame-gaeshi&#39; which is supposed to be so <br/>\nfast that could birds from mid- flight!Is this true(or even <br/>\npossible)? I am also looking up information on his life. Any <br/>\ninformation will be greatly appreciated.Thank you!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5523,
+    "nextTopicId": 5519
+}

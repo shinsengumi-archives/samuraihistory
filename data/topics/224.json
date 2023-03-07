@@ -1,0 +1,274 @@
+{
+    "totalMsgInTopic": 9,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "hPsy8M7PjJVvJbqJEgRNypTp0p3gCEjI2CmunZZgkEIQQyKjyuyLM7_xnN8qW2HkXProf4Td1FsEg_UruABdc87PKTHMEkRI_OVwTACGlh-L",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995509992",
+            "msgId": 244,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNTY0NkU4LjdFM0I0OUYxQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDIwMDEwNzE0MTc1ODUwLjI3MzM4LnFtYWlsQHdlYjEwMzA0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 243,
+            "nextInTopic": 0,
+            "prevInTime": 243,
+            "nextInTime": 245,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... It s usually written with the same kanji (damn those Japanese writers). The Mononobe, however, was the specific kabane used by the -- well, Mononobe clan",
+            "messageBody": "<div id=\"ygrps-yiv-1961322995\">erik baker wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Sorry for the misunderstanding.  When I said kyba no<br/>\n&gt; michi I meant the occupation not the person.  I was<br/>\n&gt; just using it as an example.<br/>\n&gt;<br/>\n&gt; Just as a question.  Is the word mononofu related to<br/>\n&gt; the word mononobe that is used in the nihon shoki or<br/>\n&gt; are they just similar by coincidence.<br/>\n<br/>\n </span></blockquote>It&#39;s usually written with the same kanji (damn those Japanese writers).<br/>\n<br/>\nThe Mononobe, however, was the specific kabane used by the -- well, Mononobe<br/>\n&quot;clan&quot; -- the military &quot;clan.&quot;<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "0b4iwD_OCyHROMn290Syl8_T2xJBria0f2R_ndzKcpPwtYiDomiQcRvECQVm3wGHJZtV9KJwBviRt3SkZOr_UbT6engmnGCgETUXmzjY9XOY",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995509753",
+            "msgId": 243,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNTY0NUY5LkQwRDU4RDFBQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDRBMjU2QThBLjAwN0YwOTFGLjAwQG5vdGVzLnBkZXAucGFjZHVuLmNvbT4="
+            },
+            "prevInTopic": 234,
+            "nextInTopic": 244,
+            "prevInTime": 242,
+            "nextInTime": 244,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Not as such, but mosa means something like fierce person. Tony",
+            "messageBody": "<div id=\"ygrps-yiv-1686975931\"><a rel=\"nofollow\" target=\"_blank\" href=\"mailto:snicholas@...\">snicholas@...</a> wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; From Anthony Byrant:<br/>\n&gt; &gt;The earliest terms for warriors, dating from the records of the seventh<br/>\n&gt; &gt;century and later, were &quot;tsuwamono&quot; or &quot;mononofu&quot;, or occasionally &quot;mosa.&quot;<br/>\n&gt;<br/>\n&gt; Does either of these translate to &quot;strongman/strongmen&quot;?<br/>\n<br/>\n </span></blockquote>Not as such, but &quot;mosa&quot; means something like &quot;fierce person.&quot;<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "snicholas@pdep.pacdun.com",
+            "from": "&lt;snicholas@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "JQQX2VHlSZjME5ruUj_zrmynlAZYQOp4-AcyhQIyc6Uj4N5WKBEme0Su3E29U2Q-PNjnWVoBj3hIjUPAlr38o_ne",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995238452",
+            "msgId": 234,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDRBMjU2QThBLjAwN0YwOTFGLjAwQG5vdGVzLnBkZXAucGFjZHVuLmNvbT4="
+            },
+            "prevInTopic": 233,
+            "nextInTopic": 243,
+            "prevInTime": 233,
+            "nextInTime": 235,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Does either of these translate to strongman/strongmen ? Scott Nicholas",
+            "messageBody": "<div id=\"ygrps-yiv-503125054\">From Anthony Byrant:<br/>\n<blockquote><span title=\"ireply\"> &gt;The earliest terms for warriors, dating from the records of the seventh<br/>\n&gt;century and later, were &quot;tsuwamono&quot; or &quot;mononofu&quot;, or occasionally &quot;mosa.&quot;<br/>\n<br/>\n </span></blockquote>Does either of these translate to &quot;strongman/strongmen&quot;?<br/>\n<br/>\nScott Nicholas</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "erik baker",
+            "from": "erik baker &lt;musashieb@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "wV8BV91cSAkrZ0x-7VHCpKjJkeLP-IQKUsUdfnvZHX2-nxNmoAZBDCyrwix5mtlKNPYoUlQecWOOaccCNdxb1oTUzJqaELY",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995133530",
+            "msgId": 232,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDEwNzE0MTc1ODUwLjI3MzM4LnFtYWlsQHdlYjEwMzA0Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDNCNEY4M0I4LjJCOUYyQzExQGluZGlhbmEuZWR1Pg=="
+            },
+            "prevInTopic": 230,
+            "nextInTopic": 233,
+            "prevInTime": 231,
+            "nextInTime": 233,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry for the misunderstanding.  When I said kyba no michi I meant the occupation not the person.  I was just using it as an example. Just as a question.  Is",
+            "messageBody": "<div id=\"ygrps-yiv-1850955395\">Sorry for the misunderstanding.  When I said kyba no<br/>\nmichi I meant the occupation not the person.  I was<br/>\njust using it as an example.  <br/>\n<br/>\nJust as a question.  Is the word mononofu related to<br/>\nthe word mononobe that is used in the nihon shoki or<br/>\nare they just similar by coincidence.<br/>\n<br/>\nMusashi<br/>\n--- &quot;Anthony J. Bryant&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ajbryant@...\">ajbryant@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; erik baker wrote:<br/>\n&gt; <br/>\n&gt; &gt; Hello,<br/>\n&gt; &gt;<br/>\n&gt; &gt; Ihope that I can be of some help to you with a<br/>\n&gt; little<br/>\n&gt; &gt; info.<br/>\n&gt; &gt;<br/>\n&gt; &gt; Originally the warriors of ancient Japan went by<br/>\n&gt; many<br/>\n&gt; &gt; different names as they became a military elite<br/>\n&gt; &gt; serving a more ancient and august leadership(the<br/>\n&gt; &gt; emperor).  These elite warriors where called many<br/>\n&gt; &gt; different things in many different records.  The<br/>\n&gt; terms<br/>\n&gt; &gt; that we start to see arrising the most out of<br/>\n&gt; these<br/>\n&gt; &gt; recors is &quot;bushi&quot; and &quot;Kyuba no Michi&quot;.  These two<br/>\n&gt; &gt; terms as far as I know are the main precursors to<br/>\n&gt; the<br/>\n&gt; &gt; famed &quot;Samurai&quot; and &quot;bushido&quot;.  While there are<br/>\n&gt; many<br/>\n&gt; &gt; terms used to describe ancient warriors of Japan<br/>\n&gt; these<br/>\n&gt; &gt; appear to be the most common.  Samrai does come<br/>\n&gt; from<br/>\n&gt; &gt; the meaning &quot;to serve&quot; and sybolized this idea<br/>\n&gt; &gt; throughout the history of Japan.<br/>\n&gt; &gt;<br/>\n&gt; <br/>\n&gt; Not quite.<br/>\n&gt; <br/>\n&gt; The earliest terms for warriors, dating from the<br/>\n&gt; records of the seventh<br/>\n&gt; century and later, were &quot;tsuwamono&quot; or &quot;mononofu&quot;,<br/>\n&gt; or occasionally &quot;mosa.&quot;<br/>\n&gt; <br/>\n&gt; Bushi and samurai are of later development.<br/>\n&gt; <br/>\n&gt; Kyuba no michi, BTW, does not refer to the person,<br/>\n&gt; but to the occupation; it<br/>\n&gt; is &quot;the WAY of the bow and horse.&quot;<br/>\n&gt; <br/>\n&gt; Tony<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nGet personalized email addresses from Yahoo! Mail<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://personal.mail.yahoo.com/\">http://personal.mail.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "TOM HELM",
+            "from": "TOM HELM &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "aGkk-hAb2wUvYPIYP411sYvo3K8fndM5occ0h35COB5KP8ILvo2nS4N-nVR0tv6PZYwX4ACNJTFcZ5OZcRsNYTAS-RU",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995127413",
+            "msgId": 233,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNTA3MDc2LkQ0OTFGQURAZnNpbmV0Lm9yLmpwPg==",
+                "referencesHeader": "PDIwMDEwNzE0MTc1ODUwLjI3MzM4LnFtYWlsQHdlYjEwMzA0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 232,
+            "nextInTopic": 234,
+            "prevInTime": 232,
+            "nextInTime": 234,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I think the writer is telling us that the term is an anachronism (not in use at that time) and not that the men and their culture were not serving as it",
+            "messageBody": "<div id=\"ygrps-yiv-2031701045\">I think the writer is telling us that the term is an anachronism (not in use<br/>\nat that time) and not that the men and their culture were not &quot;serving&quot; as<br/>\nit were.<br/>\n<br/>\n    Tom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "Sp8oPLS2n8kI-BYIPoKYUrA5BZaXk5S-Qs6aqEilNqa-jqJivpLS8CSjZo9Rg3dNSnfnVG1zEjFYEctIClRTyM5H4JnF0mcGMj4uIdSLcRq8",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995066808",
+            "msgId": 230,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNEY4M0I4LjJCOUYyQzExQGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDIwMDEwNzEzMjIxOTIyLjM2NDEucW1haWxAd2ViMTAzMDMubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 229,
+            "nextInTopic": 232,
+            "prevInTime": 229,
+            "nextInTime": 231,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Not quite. The earliest terms for warriors, dating from the records of the seventh century and later, were tsuwamono or mononofu , or occasionally",
+            "messageBody": "<div id=\"ygrps-yiv-972812490\">erik baker wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Hello,<br/>\n&gt;<br/>\n&gt; Ihope that I can be of some help to you with a little<br/>\n&gt; info.<br/>\n&gt;<br/>\n&gt; Originally the warriors of ancient Japan went by many<br/>\n&gt; different names as they became a military elite<br/>\n&gt; serving a more ancient and august leadership(the<br/>\n&gt; emperor).  These elite warriors where called many<br/>\n&gt; different things in many different records.  The terms<br/>\n&gt; that we start to see arrising the most out of these<br/>\n&gt; recors is &quot;bushi&quot; and &quot;Kyuba no Michi&quot;.  These two<br/>\n&gt; terms as far as I know are the main precursors to the<br/>\n&gt; famed &quot;Samurai&quot; and &quot;bushido&quot;.  While there are many<br/>\n&gt; terms used to describe ancient warriors of Japan these<br/>\n&gt; appear to be the most common.  Samrai does come from<br/>\n&gt; the meaning &quot;to serve&quot; and sybolized this idea<br/>\n&gt; throughout the history of Japan.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Not quite.<br/>\n<br/>\nThe earliest terms for warriors, dating from the records of the seventh<br/>\ncentury and later, were &quot;tsuwamono&quot; or &quot;mononofu&quot;, or occasionally &quot;mosa.&quot;<br/>\n<br/>\nBushi and samurai are of later development.<br/>\n<br/>\nKyuba no michi, BTW, does not refer to the person, but to the occupation; it<br/>\nis &quot;the WAY of the bow and horse.&quot;<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "erik baker",
+            "from": "erik baker &lt;musashieb@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "a_scGNc9imgRXmyu0g9G1pwVfm13rhZ2deo2ywBRkAkLpVGqNvcjHtyV2jtVCOBsQSthQ61PiNpYTcg9uuT3hSZCIkAMlWI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995062762",
+            "msgId": 229,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDEwNzEzMjIxOTIyLjM2NDEucW1haWxAd2ViMTAzMDMubWFpbC55YWhvby5jb20+",
+                "inReplyToHeader": "PGY4LmNhNzQ2MjguMjg4MDViZWFAYW9sLmNvbT4="
+            },
+            "prevInTopic": 227,
+            "nextInTopic": 230,
+            "prevInTime": 228,
+            "nextInTime": 230,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, Ihope that I can be of some help to you with a little info. Originally the warriors of ancient Japan went by many different names as they became a",
+            "messageBody": "<div id=\"ygrps-yiv-105416628\">Hello,<br/>\n<br/>\nIhope that I can be of some help to you with a little<br/>\ninfo.  <br/>\n<br/>\nOriginally the warriors of ancient Japan went by many<br/>\ndifferent names as they became a military elite<br/>\nserving a more ancient and august leadership(the<br/>\nemperor).  These elite warriors where called many<br/>\ndifferent things in many different records.  The terms<br/>\nthat we start to see arrising the most out of these<br/>\nrecors is &quot;bushi&quot; and &quot;Kyuba no Michi&quot;.  These two<br/>\nterms as far as I know are the main precursors to the<br/>\nfamed &quot;Samurai&quot; and &quot;bushido&quot;.  While there are many<br/>\nterms used to describe ancient warriors of Japan these<br/>\nappear to be the most common.  Samrai does come from<br/>\nthe meaning &quot;to serve&quot; and sybolized this idea<br/>\nthroughout the history of Japan.<br/>\n<br/>\nHumble words<br/>\n<br/>\nMusashi<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:fifthchamber@...\">fifthchamber@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; &#39;Samurai&#39; as a title comes from the verb &#39;Saburau&#39;<br/>\n&gt; (to serve) so presumably <br/>\n&gt; the point being made is that these men were moving<br/>\n&gt; up in control rather than <br/>\n&gt; being simply &#39;attendants&#39; to the nobility at the<br/>\n&gt; time. Although I am <br/>\n&gt; certainly not sure about this...Perhaps &#39;Samurai&#39;<br/>\n&gt; should be applied to the <br/>\n&gt; warriors of the Muromachi era onwards as their role<br/>\n&gt; here was clearly defined <br/>\n&gt; as being &#39;Vassal&#39; members of various clans, thus<br/>\n&gt; &#39;serving&#39; rather than <br/>\n&gt; &#39;uprising&#39; to control...But the point is uncertain.<br/>\n&gt; For me anyway! Sorry that <br/>\n&gt; I could not be more help!<br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nGet personalized email addresses from Yahoo! Mail<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://personal.mail.yahoo.com/\">http://personal.mail.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "fifthchamber@aol.com",
+            "from": "fifthchamber@...",
+            "replyTo": "LIST",
+            "senderId": "NBaPkrsA6sw8OzK5x6jgyH0kmqWS8MlPAvr6_Zv1PbqxOnbtl7-fjcNdPy68dVkmliVQMNzQ4BZWKgM",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] &quot;Anachronistic&quot; Samurai?",
+            "postDate": "995033578",
+            "msgId": 227,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY4LmNhNzQ2MjguMjg4MDViZWFAYW9sLmNvbT4="
+            },
+            "prevInTopic": 224,
+            "nextInTopic": 229,
+            "prevInTime": 226,
+            "nextInTime": 228,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Samurai as a title comes from the verb Saburau (to serve) so presumably the point being made is that these men were moving up in control rather than being",
+            "messageBody": "<div id=\"ygrps-yiv-1866461483\">&#39;Samurai&#39; as a title comes from the verb &#39;Saburau&#39; (to serve) so presumably <br/>\nthe point being made is that these men were moving up in control rather than <br/>\nbeing simply &#39;attendants&#39; to the nobility at the time. Although I am <br/>\ncertainly not sure about this...Perhaps &#39;Samurai&#39; should be applied to the <br/>\nwarriors of the Muromachi era onwards as their role here was clearly defined <br/>\nas being &#39;Vassal&#39; members of various clans, thus &#39;serving&#39; rather than <br/>\n&#39;uprising&#39; to control...But the point is uncertain. For me anyway! Sorry that <br/>\nI could not be more help!</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "snicholas@pdep.pacdun.com",
+            "from": "snicholas@...",
+            "replyTo": "LIST",
+            "senderId": "DESibvpkEfIGKCuQg5Db-kYoqjEwGAXZvxeRNRI1_orUGtCFYj9inKwSuGJHb2iHnIq0e6vzUmlE7PTPudTt2w",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "&quot;Anachronistic&quot; Samurai?",
+            "postDate": "994906611",
+            "msgId": 224,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlpajNsait2MWg1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 227,
+            "prevInTime": 223,
+            "nextInTime": 225,
+            "topicId": 224,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I read Helen McCullough s translation of the Tale of the Heike (Genji War 1180-1185) and in the introductory notes, she claims the title samurai is",
+            "messageBody": "<div id=\"ygrps-yiv-855566736\">I read Helen McCullough&#39;s translation of the &quot;Tale of the Heike&quot; <br/>\n(Genji War 1180-1185) and in the introductory notes, she claims the <br/>\ntitle &quot;samurai&quot; is &quot;anachronistic&quot; for this period. Japanese <br/>\nliterature uses another word for these warriors; sabuto(sp?)<br/>\n<br/>\nCan anyone explain to me why &quot;samurai&quot; is out of date for the late <br/>\ntwelve century? Its got me puzzled.<br/>\n<br/>\nThanks,<br/>\n<br/>\nScott Nicholas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 239,
+    "nextTopicId": 240
+}

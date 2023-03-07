@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Scholarship in Italian on Japanese History",
+            "postDate": "1110988486",
+            "msgId": 6826,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNkNjBhYjZlOTQ1ZWJmNjVmZjE3ZDQ4YjQwNmQ3ZTJhQGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6825,
+            "nextInTime": 6827,
+            "topicId": 6826,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am trying to find out what is the status of contemporary scholarship about Japanese history in Italy. If there is any Italian in this list (I guess there are",
+            "messageBody": "<div id=\"ygrps-yiv-1667968261\">I am trying to find out what is the status of contemporary scholarship <br/>\nabout Japanese history in Italy. If there is any Italian in this list <br/>\n(I guess there are two or three) would you please update me?<br/>\nI am basically done with my MA in Japanese history, and I would like to <br/>\ntry to publish something in my native language (even thou I haven&#39;t <br/>\nbeen living in Italy for more than 15 years...)<br/>\nPerhaps, since this discussion might be non-interesting for most <br/>\nsubscribers, it is better if you write to me in private (in Italian is <br/>\nok).<br/>\nThanks, ciao<br/>\nCepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6821,
+    "nextTopicId": 6825
+}

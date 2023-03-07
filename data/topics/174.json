@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "amphipolis@yahoo.com",
+            "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "vtNqpUKJBJ-r2nF85OOgKGbYEENkLzeg6Mr88uin2avsFP1Gz_Rqe0FNr_EYN97JpEioKyg94jRFlsskTlg1Ek1q-KYrGgwbpwF5EDrK4i6mL14d",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Kinnosuke Yorozuya Nakamura",
+            "postDate": "987973829",
+            "msgId": 174,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTUwMWMwY2I3MCRhZDAyZWU0MCQwNzZiNDJjM0BkZWZhdWx0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 173,
+            "nextInTime": 175,
+            "topicId": 174,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For many years know, I m searching for a bio of the great samurai actor Kinnosuke Yorozuya. He died in 1996 and he had 6 dan in kendo. He is known for his",
+            "messageBody": "<div id=\"ygrps-yiv-613692686\">For many years know, I&#39;m searching for a bio of the great samurai actor<br/>\nKinnosuke Yorozuya. He died in 1996 and he had 6 dan in kendo.<br/>\nHe is known for his excellent acting as Musashi in many films.<br/>\nCan you help me to find a bio of him???<br/>\n<br/>\nAmphipolis<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.crosswinds.net/~hakser/\">http://www.crosswinds.net/~hakser/</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.crosswinds.net/~musashi1584/\">http://www.crosswinds.net/~musashi1584/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 169,
+    "nextTopicId": 168
+}

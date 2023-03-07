@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Moses",
+            "from": "Moses &lt;mosesohx@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "F5KBwKkOrs69us-nHvsIcLAElVzMnY6cy5I9AXYtTUns0s6nLAg97gCc7ATYv6B5luuGPZOjwNvupsMhPbJVdFbv-LHs9HPH",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hey...",
+            "postDate": "994735662",
+            "msgId": 219,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNEE3NjJFLjVCN0RCQ0VCQGJlbGxhdGxhbnRpYy5uZXQ+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 218,
+            "nextInTime": 220,
+            "topicId": 219,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Has anyone hear read Rashomon?  I picked it up today off an indirect hint.  Let me  know what you thought. Moses -- Of all that is written I love only what a",
+            "messageBody": "<div id=\"ygrps-yiv-198617455\">Has anyone hear read Rashomon?  I picked it up today off an indirect<br/>\nhint.  Let me  know what you thought.<br/>\n<br/>\nMoses<br/>\n<br/>\n--<br/>\n&quot;Of all that is written I love only what a man has written<br/>\nwith his blood.  Write with the blood, and you will<br/>\nexperience that blood is spirit.&quot;---Friedrich Nietzsche<br/>\n<br/>\n&quot;ATTENTION: KEEP YOUR EYE ON THE DETAILS.&quot;---Unknown<br/>\n<br/>\n&quot;It is spiritless to think that you cannot attain to that which<br/>\nyou have seen and heard the masters attain.  The masters are men.<br/>\nYou are also a man.  If you think that you will be inferior in doing<br/>\nsomething, you will be on that road very soon.&quot;---Yamamoto Tsunetomo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 217,
+    "nextTopicId": 239
+}

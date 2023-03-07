@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 232440797,
+            "authorName": "Anthony Bryant",
+            "from": "Anthony Bryant &lt;anthony_bryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] &quot;Grouply&quot; spam",
+            "postDate": "1232711728",
+            "msgId": 9845,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM1MDI3Mjg4LUE2OTMtNEFFQS1CNDZGLTlDMDc3RDVEMzk5QkBjb3gubmV0Pg==",
+                "inReplyToHeader": "PGdsYnAxZisxMGRiMEBlR3JvdXBzLmNvbT4=",
+                "referencesHeader": "PGdsYnAxZisxMGRiMEBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 9844,
+            "nextInTopic": 0,
+            "prevInTime": 9844,
+            "nextInTime": 9846,
+            "topicId": 9844,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Thank you. Tony",
+            "messageBody": "<div id=\"ygrps-yiv-1240705490\">On Jan 23, 2009, at 1:45 AM, Kitsuno wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; FYI anyone sending &quot;grouply&quot; invites to this group will be immediately<br/>\n&gt; banned without mercy. I&#39;ll let the numerous ones that have come to<br/>\n&gt; this group up to this point slide.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Thank you.<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "&quot;Grouply&quot; spam",
+            "postDate": "1232693103",
+            "msgId": 9844,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGdsYnAxZisxMGRiMEBlR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9845,
+            "prevInTime": 9843,
+            "nextInTime": 9845,
+            "topicId": 9844,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "FYI anyone sending grouply invites to this group will be immediately banned without mercy.  I ll let the numerous ones that have come to this group up to",
+            "messageBody": "<div id=\"ygrps-yiv-315242238\">FYI anyone sending &quot;grouply&quot; invites to this group will be immediately<br/>\nbanned without mercy.  I&#39;ll let the numerous ones that have come to<br/>\nthis group up to this point slide.<br/>\n<br/>\nYou have been warned.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9819,
+    "nextTopicId": 9846
+}

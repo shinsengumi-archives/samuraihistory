@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott19NY",
+            "from": "&quot;Scott19NY&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Heaven under Earth",
+            "postDate": "1027534012",
+            "msgId": 975,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFobXFicyszODF2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 974,
+            "nextInTime": 976,
+            "topicId": 975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have seen that movie.  At least I think it is the same one.  I have seen it advertised as Heaven and Earth.  The movie is at least loosely based on the",
+            "messageBody": "<div id=\"ygrps-yiv-89330385\">I have seen that movie.  At least I think it is the same one.  I have <br/>\nseen it advertised as Heaven and Earth.  The movie is at least <br/>\nloosely based on the rivaly between Takeda Shingen and Uesugi <br/>\nKenshin.  The charater of Kagetora is ,of course, Uesugi.  As to how <br/>\nmuch of the movie is real about the battle, and other things I am not <br/>\nsure.  But Kagetora&#39;s banner is the same as Uesugi&#39;s, and is a <br/>\nreligious fanatic... just like Uesugi was.  Takeda and Uesugi fought <br/>\nseveral  battles against eachother, but grew to respect eachother a <br/>\ngreat deal.  Another good samurai movie is Taboo.  However, it does <br/>\nnot take place durring the Sengoku Jidai.  Rather it takes place <br/>\ndurring the Tokugawa period involving the Shinzen Gumi.  1860 <br/>\nsomething to be as exact as I can off the top of my head.  Which <br/>\nmakes it at the tail end of the Tokugawa period.  Akira Kurasawa <br/>\nmovies are really good if you want to see movies set in the Sengoku <br/>\nJidai.  I dont know of any other though, and wouldlike to find out as <br/>\nwell.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 320,
+    "nextTopicId": 986
+}

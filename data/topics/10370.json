@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 501618398,
+            "authorName": "Andra Chopper",
+            "from": "&quot;Andra Chopper&quot; &lt;pippo_07@...&gt;",
+            "profile": "pippo_07@y7mail.com",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Onin War",
+            "postDate": "1318267596",
+            "msgId": 10370,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGo2djlzYytsOHNmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10369,
+            "nextInTime": 10371,
+            "topicId": 10370,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello all.. I m Andra from Yogyakarta. I have been write my last exam about Onin War, and now I need some help. I need a book about Onin War. May all of you",
+            "messageBody": "<div id=\"ygrps-yiv-2074149720\">hello all.. I&#39;m Andra from Yogyakarta. I have been write my last exam about Onin War, and now I need some help. I need a book about Onin War. May all of you give some help for me? thanks a lot..</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 750,
+    "nextTopicId": 10376
+}

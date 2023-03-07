@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SA Update: Bio of Hojo Soun",
+            "postDate": "1092227241",
+            "msgId": 5146,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNmZDNiOStuZmNoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5145,
+            "nextInTime": 5147,
+            "topicId": 5146,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have added further information to the biography of Hojo Soun, and will likely add more as my research continues: http://www.samurai-archives.com/soun.html",
+            "messageBody": "<div id=\"ygrps-yiv-1356715294\">I have added further information to the biography of Hojo Soun, and <br/>\nwill likely add more as my research continues:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/soun.html\">http://www.samurai-archives.com/soun.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5139,
+    "nextTopicId": 4983
+}

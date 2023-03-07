@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 239006595,
+            "authorName": "pawan bhardwaj",
+            "from": "&quot;pawan bhardwaj&quot; &lt;birdypawan@...&gt;",
+            "profile": "birdypawan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "help me i am new",
+            "postDate": "1136190943",
+            "msgId": 8164,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRwYW9rditwODcwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8163,
+            "nextInTime": 8165,
+            "topicId": 8164,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello everybody, i am new to this group and i am really interested to know about the subject. no, i am not doing a study or any research. i am just very",
+            "messageBody": "<div id=\"ygrps-yiv-47436197\">hello everybody,<br/>\n i am new to this group and i am really interested to know about the <br/>\nsubject.<br/>\nno, i am not doing a study or any research. i am just very fasinated <br/>\nby the concept of SAMURAI.<br/>\nwhere should i start to begin with????????????????</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8145,
+    "nextTopicId": 8165
+}

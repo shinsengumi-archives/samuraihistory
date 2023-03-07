@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 168905062,
+            "authorName": "Rami Efal",
+            "from": "&quot;Rami Efal&quot; &lt;rami_efal@...&gt;",
+            "profile": "rami_efal",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sankin-kodai",
+            "postDate": "1093592746",
+            "msgId": 5435,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTMtREFWMTZWTUx6UUlIbGQwMDAxZWM2MUBob3RtYWlsLmNvbT4=",
+                "referencesHeader": "PGNnMTZqaStiOGJjQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5434,
+            "nextInTime": 5436,
+            "topicId": 5435,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all! I have read in several places about the Sankin-kodai law that was established at the beginning of the Tokugawa shugonate. Hadn t the family members",
+            "messageBody": "<div id=\"ygrps-yiv-500157505\">Hi all!<br/>\n<br/>\nI have read in several places about the Sankin-kodai law that was established at the beginning of the Tokugawa shugonate.<br/>\n<br/>\nHadn&#39;t the family members EVER left Edo back to their provinces / Did they spend their entire lives there?<br/>\nWas the Daimyo able to choose whom to deliver to Edo, or were entire families transferred?<br/>\nWho would rule the province during the time the Daimyo visited Edo?<br/>\nHow long did the Daimyo have to stay in Edo? How often (most commonly indicated time period I found is every other year)<br/>\n<br/>\nThanks,<br/>\nRami<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5434,
+    "nextTopicId": 5436
+}

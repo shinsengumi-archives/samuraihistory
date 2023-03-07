@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 212254526,
+            "authorName": "Patrick",
+            "from": "&quot;Patrick&quot; &lt;bikerboy_20042000@...&gt;",
+            "profile": "bikerboy_20042000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "I would like to introduce myselfe",
+            "postDate": "1111544477",
+            "msgId": 6837,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQxcWpxdCtlOHU0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6836,
+            "nextInTime": 6838,
+            "topicId": 6837,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "My name is Patrick and I just want to say that im truly glad that i found a group on samurai history because i have studied the samurai from age 7 till now, I",
+            "messageBody": "<div id=\"ygrps-yiv-722439364\">My name is Patrick and I just want to say that im truly glad that i <br/>\nfound a group on samurai history because i have studied the samurai <br/>\nfrom age 7 till now, I just havn&#39;t been able to discuss my intrest <br/>\nwith anyone who understands. So i just want to say thanks for making <br/>\nme feel welcome. Also, gongrads on the way you kept this group <br/>\norginized, im very impressed.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6833,
+    "nextTopicId": 6838
+}

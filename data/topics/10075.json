@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 97045101,
+            "authorName": "xmicha3lx@hotmail.com",
+            "from": "xmicha3lx@...",
+            "profile": "merkur_190",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Sengoku-jidai winter campaigning",
+            "postDate": "1262483158",
+            "msgId": 10075,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGhob3NzbStrcXZxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10074,
+            "nextInTime": 10076,
+            "topicId": 10075,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In pre-2oth century times in the West, it was common for armies to go into winter quarters in late Fall and then begin the next campaign season around April or",
+            "messageBody": "<div id=\"ygrps-yiv-1481630679\">In pre-2oth century times in the West, it was common for armies to go<br/>\ninto winter quarters<br/>\nin late Fall and then begin the next campaign season around April or so.<br/>\nThis was<br/>\nescpecially followed in Classical warfare.  Did the Japanese follow this<br/>\nsame practice?? And if so, to what extent, and what were the protocols??<br/>\nI know about the Osaka winter<br/>\ncampaign (1614-15), but I beleive that was somewhat of a rarity.<br/>\n<br/>\nMichael C.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10074,
+    "nextTopicId": 10039
+}

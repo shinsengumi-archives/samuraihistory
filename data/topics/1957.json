@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Musha",
+            "postDate": "1057321881",
+            "msgId": 1957,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJlM3MycCtxYXAzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1956,
+            "nextInTime": 1958,
+            "topicId": 1957,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Musha is another word for a warrior.  Another example of its use is in the term Musha Shugyo.  Which I see most commonly translated as Warrior Pilgramage .",
+            "messageBody": "<div id=\"ygrps-yiv-209983283\">Musha is another word for a warrior.  Another example of its use is <br/>\nin the term Musha Shugyo.  Which I see most commonly translated <br/>\nas &quot;Warrior Pilgramage&quot;.  It is when a warrior travels all over the <br/>\nplace training with different teachers and/or challenging other <br/>\nwarriors to duels to improve their skills.  It was very common <br/>\n(Compared to earlier times, although it did happen before)in the <br/>\nTokugawa period when samurai had little else to, and the ones that <br/>\ntook their training seriously saw the extended peace as an <br/>\nenivronment in which to travel and perfect their skills.  Actually <br/>\nthere are some martial artists that still do this today, although <br/>\nvery rare (and trains with different teachers, but the challenge part <br/>\nhas died off for obvious reasons).</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1955,
+    "nextTopicId": 1932
+}

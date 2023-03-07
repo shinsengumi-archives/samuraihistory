@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 137100397,
+            "authorName": "russcat9",
+            "from": "&quot;russcat9&quot; &lt;snowcat9@...&gt;",
+            "profile": "russcat9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shimazu Sources",
+            "postDate": "1105544121",
+            "msgId": 6521,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzM2czcCt2bmdoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6520,
+            "nextInTime": 6522,
+            "topicId": 6521,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone recommend any quality books/sources on the Shimazu Clan? Cheers Paul",
+            "messageBody": "<div id=\"ygrps-yiv-1997919089\">Can anyone recommend any quality books/sources on the Shimazu Clan?<br/>\n<br/>\nCheers<br/>\nPaul</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6497,
+    "nextTopicId": 6527
+}

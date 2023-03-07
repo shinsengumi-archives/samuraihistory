@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "bnswpcrMoOlSUh66F-ETM13q05PskMxl053qqrKaEZJKzyO-jKIeDz70VL97b6fmYm53pOfpSCvLPSw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese Date Converter",
+            "postDate": "969911004",
+            "msgId": 3,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhxbzlzcys5cDhtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2,
+            "nextInTime": 4,
+            "topicId": 3,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Version 1.01 of the Japanese Date Converter is finally complete and available for download in the Downloads section of the Samurai Archives Japanese History",
+            "messageBody": "<div id=\"ygrps-yiv-2121794466\">Version 1.01 of the Japanese Date Converter is finally complete and <br/>\navailable for download in the Downloads section of the Samurai <br/>\nArchives Japanese History page <br/>\n(www.techjapanese.com/samurai/downloads.html). This updated version <br/>\nwill convert the Japanese Era names and numbers to the &#39;western&#39; year <br/>\nequivalents as well as the &#39;western&#39; year to the Japanese era name <br/>\nand number equivalents. It isn&#39;t case sensitive, and long &#39;O&#39; and &#39;U&#39; <br/>\nsounds can be written as either &#39;o&#39; and &#39;ou&#39; or &#39;u&#39; and &#39;uu&#39; <br/>\nrespectively. The Japanese &#39;N&#39; can also be written as &#39;m&#39; where such <br/>\na substitution would be logically possible. Apostrophe&#39;s can be <br/>\nomitted after the &quot;N&quot; or left in. Either way. <br/>\nThis version also corrected a few minor mistakes that came up in the <br/>\noriginal. Let me know if there are any problems with, or mistakes in <br/>\nthis version. <br/>\nCEWest</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2,
+    "nextTopicId": 4
+}

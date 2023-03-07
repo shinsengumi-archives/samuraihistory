@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Christopher West",
+            "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "6_2svXVSerk6DimCw7Fmnk5zEwTcInveobsbQD2AVxL5faQHlCzd_JZ2QiC3sVXTiadOl20C1qdy3ghxZadHLtCLnI-1Uu0uGrOiupmNPTE",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "SAMURAI ARCHIVES: further updates",
+            "postDate": "980664695",
+            "msgId": 79,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk1MGZobitpZWVqQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 78,
+            "nextInTime": 80,
+            "topicId": 79,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "As far as i can tell, all the links are now good on the Samurai Archives site - please email me at kitsuno@mailcity.com if you come across any broken links.",
+            "messageBody": "<div id=\"ygrps-yiv-1561739300\">As far as i can tell, all the links are now good on the Samurai <br/>\nArchives site - please email me at <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:kitsuno@...\">kitsuno@...</a> if you come <br/>\nacross any broken links.  All of the &#39;downloads&#39; should now be <br/>\navailable, including the &#39;samurai desktop wallpapers&#39;.<br/>\n<br/>\n<br/>\nC.E.West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 69,
+    "nextTopicId": 61
+}

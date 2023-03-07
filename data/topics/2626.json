@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re   TURNBULL ALERT----resp ProfMurf: -------.resp",
+            "postDate": "1070523023",
+            "msgId": 2626,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDguNDE0M2UzZDcuMmQwMDNjOGZAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2625,
+            "nextInTime": 2627,
+            "topicId": 2626,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "That is the title, and beg to differ , for a book to be of repute-----220 odd pages is thin. [Non-text portions of this message have been removed]",
+            "messageBody": "<div id=\"ygrps-yiv-1849855135\">That is the title, and beg to differ , for a book to be of repute-----220 odd <br/>\npages is thin.<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2591,
+    "nextTopicId": 2628
+}

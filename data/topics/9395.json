@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 181107361,
+            "authorName": "Jason Adams",
+            "from": "&quot;Jason Adams&quot; &lt;banditt_adams@...&gt;",
+            "profile": "banditt_adams",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "new member hello",
+            "postDate": "1173073505",
+            "msgId": 9395,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzZ2FwMStrbXQ3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9394,
+            "nextInTime": 9396,
+            "topicId": 9395,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello and thank you for the opportunity to study here. I am interested in learning about the Sanda family of Shinano province, circa: 1500s to early 1600s. I",
+            "messageBody": "<div id=\"ygrps-yiv-260048023\">Hello and thank you for the opportunity to study here.<br/>\n<br/>\nI am interested in learning about the Sanda family of Shinano<br/>\nprovince, circa: 1500s to early 1600s.<br/>\n<br/>\nI have scoured the Samurai Archives site with great joy.  Are there<br/>\nany books or other referrence someone might point me to as well?  I<br/>\ncannot read Japanese, only english.<br/>\n<br/>\nthank you very kindly,<br/>\n-Jason</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9346,
+    "nextTopicId": 8642
+}

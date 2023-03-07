@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 168704349,
+            "authorName": "Michael Baker",
+            "from": "Michael Baker &lt;maikeru_art@...&gt;",
+            "profile": "maikeru_art",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] YET ANOTHER WEBSITE??",
+            "postDate": "1206709511",
+            "msgId": 9713,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDg2NDM2MC40MjgyNy5xbUB3ZWI2MjAwOS5tYWlsLnJlMS55YWhvby5jb20+",
+                "inReplyToHeader": "PDAwY2QwMWM4OTAwMiQ0Yzc1YzRlMCQwNDAwYThjMEBCQVJSWT4="
+            },
+            "prevInTopic": 9712,
+            "nextInTopic": 0,
+            "prevInTime": 9712,
+            "nextInTime": 9714,
+            "topicId": 9712,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "He says he has a PHD from Harvard on his College department website. I would like to think he didnt rip anything off, if he did the plagarism page on his site",
+            "messageBody": "<div id=\"ygrps-yiv-2008140989\">He says he has a PHD from Harvard on his College department website. I would like to think he didnt rip anything off, if he did the plagarism page on his site would be ironic.<br/>\n   <br/>\n   <br/>\n  Maikeru<br/>\n<br/>\nBarry Thomas &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:warlord@...\">warlord@...</a>&gt; wrote:<br/>\n          Dear All,<br/>\n<br/>\nWhilst looking for one thing another often pops up in its place!!! This site seems a little (...put in your chosen word...) and I hope the content isn&#39;t pinched from anywhere:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://brian.hoffert.faculty.noctrl.edu/TEACHING/Samurai.html\">http://brian.hoffert.faculty.noctrl.edu/TEACHING/Samurai.html</a><br/>\n<br/>\nRegards,<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n                           <br/>\n<br/>\n       <br/>\n---------------------------------<br/>\nBe a better friend, newshound, and know-it-all with Yahoo! Mobile.  Try it now.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190889224,
+            "authorName": "Barry Thomas",
+            "from": "&quot;Barry Thomas&quot; &lt;warlord@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "3"
+            },
+            "subject": "YET ANOTHER WEBSITE??",
+            "postDate": "1206619288",
+            "msgId": 9712,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwY2QwMWM4OTAwMiQ0Yzc1YzRlMCQwNDAwYThjMEBCQVJSWT4=",
+                "referencesHeader": "PGZzOHNvNCs5cWt0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9713,
+            "prevInTime": 9711,
+            "nextInTime": 9713,
+            "topicId": 9712,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear All, Whilst looking for one thing another often pops up in its place!!!  This site seems a little (...put in your chosen word...) and I hope the content",
+            "messageBody": "<div id=\"ygrps-yiv-1192963034\">Dear All,<br/>\n<br/>\nWhilst looking for one thing another often pops up in its place!!!  This site seems a little (...put in your chosen word...) and I hope the content isn&#39;t pinched from anywhere:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://brian.hoffert.faculty.noctrl.edu/TEACHING/Samurai.html\">http://brian.hoffert.faculty.noctrl.edu/TEACHING/Samurai.html</a><br/>\n<br/>\nRegards,<br/>\nBarry Thomas.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9708,
+    "nextTopicId": 9714
+}

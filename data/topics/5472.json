@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] katas",
+            "postDate": "1094622078",
+            "msgId": 5473,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEI1MTAzNTdBLTAxNTktMTFEOS04OTMzLTAwMEE5NURGQUFFMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGNobTA4dStwazRyQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNobTA4dStwazRyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 5472,
+            "nextInTopic": 0,
+            "prevInTime": 5472,
+            "nextInTime": 5474,
+            "topicId": 5472,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For years I thought Canada a wasteland. Imagine my surprise when I discovered it is the center of the sword art universe! http://www.uoguelph.ca/~iaido/ ... ",
+            "messageBody": "<div id=\"ygrps-yiv-1626176576\">For years I thought Canada a wasteland. Imagine my surprise when I <br/>\ndiscovered it is the center of the sword art universe!<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.uoguelph.ca/~iaido/\">http://www.uoguelph.ca/~iaido/</a><br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Sep 7, 2004, at 9:02 PM, lonnierooks wrote:<br/>\n<br/>\n&gt; I am looking to learn katas for the katana the problem is i live in<br/>\n&gt;  Canada and no were near a center that would have such training i do<br/>\n&gt;  have a kata that my karate master made up but it is not traditional<br/>\n&gt;  only practiced in our club so if anyone knows a good book or video or<br/>\n&gt;  web site please tell me<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; ---<br/>\n&gt;  Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt;  Samurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n&gt;  ---<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Sponsor<br/>\n&gt;<br/>\n&gt; ADVERTISEMENT<br/>\n&gt; &lt;lrec_companion_043004.gif&gt;<br/>\n&gt; &lt;l.gif&gt;<br/>\n&gt;<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt;<br/>\n&gt; \t� \tTo visit your group on the web, go to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n&gt; �<br/>\n&gt; \t� \t To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt; �<br/>\n&gt; \t� \t Your use of Yahoo! Groups is subject to the Yahoo! Terms of <br/>\n&gt; Service.<br/>\n&gt;<br/>\n&gt;  <br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 196769384,
+            "authorName": "lonnierooks",
+            "from": "&quot;lonnierooks&quot; &lt;lonnierooks@...&gt;",
+            "profile": "lonnierooks",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "katas",
+            "postDate": "1094616158",
+            "msgId": 5472,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNobTA4dStwazRyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5473,
+            "prevInTime": 5471,
+            "nextInTime": 5473,
+            "topicId": 5472,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am looking to learn katas for the katana the problem is i live in Canada and no were near a center that would have such training i do have a kata that my",
+            "messageBody": "<div id=\"ygrps-yiv-1800769362\">I am looking to learn katas for the katana the problem is i live in <br/>\nCanada and no were near a center that would have such training i do <br/>\nhave a kata that my karate master made up but it is not traditional <br/>\nonly practiced in our club so if anyone knows a good book or video or <br/>\nweb site please tell me</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5063,
+    "nextTopicId": 5479
+}

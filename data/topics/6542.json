@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 84397749,
+            "authorName": "peerless56@aol.com",
+            "from": "peerless56@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Article: The ancient art of falconry takes a perch a...",
+            "postDate": "1105896692",
+            "msgId": 6542,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDkuM2I5Y2VjZDguMmYxYmZlZjRAYW9sLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6541,
+            "nextInTime": 6543,
+            "topicId": 6542,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am new to this newsletter  and I am enjoying it very much. I find the data and discussions very  informative. I was wondering if the exhibit that currently",
+            "messageBody": "<div id=\"ygrps-yiv-2073460606\">I am new to this newsletter  and I am enjoying it very much. I find the data <br/>\nand discussions very  informative. I was wondering if the exhibit that <br/>\ncurrently on display in Boston  will be making its way to New York any time in the <br/>\nnear future? Any information  is greatly appreciated.<br/>\n <br/>\n <br/>\nMike<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6493,
+    "nextTopicId": 6501
+}

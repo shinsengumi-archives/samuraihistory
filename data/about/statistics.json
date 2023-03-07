@@ -1,0 +1,63 @@
+{
+    "numOfMembers": 2411,
+    "dateCreated": 969046598,
+    "name": "samuraihistory",
+    "membersVis": "MODERATORS",
+    "groupVis": "ALL",
+    "messagesVis": "SUBSCRIBERS",
+    "filesVis": "LIMITED",
+    "linksVis": "LIMITED",
+    "calendarVis": "LIMITED",
+    "databaseVis": "NOBODY",
+    "pollsVis": "SUBSCRIBERS",
+    "photosVis": "LIMITED",
+    "replyTo": "LIST",
+    "summary": "Japanese Samurai History",
+    "categoryId": 1600020536,
+    "categoryPath": "/Entertainment & Arts/Humanities/History/",
+    "categoryName": "History",
+    "attachments": "ATTACHMENTS_DISABLED",
+    "restricted": "OPEN",
+    "groupHomePage": {
+        "groupId": 2247946,
+        "photoInfo": [
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/homepage/name/479241.jpg?type=sn",
+                "height": 120,
+                "width": 120,
+                "size": 0,
+                "photoType": "sn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/homepage/name/479241.jpg?type=tn",
+                "height": 96,
+                "width": 96,
+                "size": 0,
+                "photoType": "tn"
+            },
+            {
+                "displayURL": "http://xa.yimg.com/kq/groups/xZAWjlnueNXY6GXY/homepage/name/479241.jpg?type=hr",
+                "height": 120,
+                "width": 120,
+                "size": 0,
+                "photoType": "hr"
+            }
+        ]
+    },
+    "groupCoverPhoto": {
+        "groupId": 2247946,
+        "hasCoverImage": false,
+        "photoInfo": [
+            {
+                "displayURL": "http://l.yimg.com/ru/defcovers/1600016068/cat.jpg",
+                "height": 0,
+                "width": 0,
+                "size": 0,
+                "photoType": "or"
+            }
+        ]
+    },
+    "emailDomain": "yahoogroups.com",
+    "adult": false,
+    "bucketId": "GB0"
+}

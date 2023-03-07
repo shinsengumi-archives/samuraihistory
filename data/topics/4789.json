@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 201251068,
+            "authorName": "mitayas",
+            "from": "&quot;mitayas&quot; &lt;mitayas@...&gt;",
+            "profile": "mitayas",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "new member",
+            "postDate": "1167578921",
+            "msgId": 9254,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVuOGt2OSttcXV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4789,
+            "nextInTopic": 0,
+            "prevInTime": 9253,
+            "nextInTime": 9255,
+            "topicId": 4789,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi, i m new member here. actually my knowledge of samurai is very limited to what I ve seen in anime and Kurosawa Akira s films. but we re planning to make",
+            "messageBody": "<div id=\"ygrps-yiv-2000833630\">hi, i&#39;m new member here. actually my knowledge of samurai is very<br/>\nlimited to what I&#39;ve seen in anime and Kurosawa Akira&#39;s films. but<br/>\nwe&#39;re planning to make story-RPG (forum) based on samurai/ninja life.<br/>\nand I think it&#39;s better to put some basic informations as guide. <br/>\n<br/>\nI guess I&#39;d better go around at samurai-archive first before asking<br/>\nhere (while the answer is already there) :D<br/>\nHappy new year!<br/>\n<br/>\n<br/>\nDhei.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 176843132,
+            "authorName": "Corey J Hudson",
+            "from": "&quot;Corey J Hudson&quot; &lt;pvtbooney@...&gt;",
+            "profile": "pvtbooney",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "new member",
+            "postDate": "1089337612",
+            "msgId": 4789,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNja3RlYys3OWdhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9254,
+            "prevInTime": 4788,
+            "nextInTime": 4790,
+            "topicId": 4789,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello all, I am new to the group and hope to learn alot and be able to imput my knowledge as much as possible. I am currently envolved in a living history",
+            "messageBody": "<div id=\"ygrps-yiv-2065931745\">Hello all,<br/>\n I am new to the group and hope to learn alot and be able to imput my <br/>\nknowledge as much as possible. I am currently envolved in a living <br/>\nhistory group whear we leard all about the samurai and their way of <br/>\nlife. thank you and hope to hear from everyone.<br/>\n<br/>\nHonda Toshitugu <br/>\nYamato Daimyo<br/>\nR.I.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9249,
+    "nextTopicId": 9258
+}

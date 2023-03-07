@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 55398024,
+            "authorName": "J",
+            "from": "&quot;J&quot; &lt;jbprivate@...&gt;",
+            "profile": "jbprivate",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Shoni no Kagesuke",
+            "postDate": "1062108721",
+            "msgId": 2165,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJpbHVuaCtvdHQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2164,
+            "nextInTime": 2166,
+            "topicId": 2165,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone provide any basic information on Shoni no Kagesuke? I m trying to find enough information to write a 2-3 paragragh description to be used in a",
+            "messageBody": "<div id=\"ygrps-yiv-1015640956\">Can anyone provide any basic information on Shoni no Kagesuke? I&#39;m <br/>\ntrying to find enough information to write a 2-3 paragragh <br/>\ndescription to be used in a computer game.  <br/>\n<br/>\nThank you</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2150,
+    "nextTopicId": 2179
+}

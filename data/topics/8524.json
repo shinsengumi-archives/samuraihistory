@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 247914591,
+            "authorName": "the_jigglin_penguin",
+            "from": "&quot;the_jigglin_penguin&quot; &lt;the_jigglin_penguin@...&gt;",
+            "profile": "the_jigglin_penguin",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "kusarigama",
+            "postDate": "1141916658",
+            "msgId": 8524,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR1cGc1aSs0MThsQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8523,
+            "nextInTime": 8525,
+            "topicId": 8524,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like info on a master of this weapon.I have looked for info on Shishido Baiken and found none exept the fight with myamoto musashi. Need info please.",
+            "messageBody": "<div id=\"ygrps-yiv-1468245520\">I would like info on a master of this weapon.I have looked for info on<br/>\nShishido Baiken and found none exept the fight with myamoto musashi.<br/>\nNeed info please.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8521,
+    "nextTopicId": 8525
+}

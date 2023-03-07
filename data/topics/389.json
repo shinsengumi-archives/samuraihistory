@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "5eQW6bWtqrQ3rsWosIv7Cq-uDlNrcYZ7y7_N6lp9xw87GvvMg5skrQ6MyeE7RsCrFR8Kzukz1V44o4Wg89DThMlmmCUG",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1007072920",
+            "msgId": 389,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWMxNzkyNSQzNWFiZmZlMCQ0MjA0ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 388,
+            "nextInTime": 390,
+            "topicId": 389,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone tell me how grand was a castle in the time of the old samurai. I.E. How many rooms & kitchens? Also, how many acres was the average for a Lord",
+            "messageBody": "<div id=\"ygrps-yiv-1841062511\">Can anyone tell me how grand was a castle in the time of the &quot;old&quot; samurai. I.E. How many rooms & kitchens? Also, how many acres was the average for a Lord other than the Shogun? I do appreciate a factual answer. Please excuse any improper terminology, I am fairley new @ bushido. <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 382,
+    "nextTopicId": 390
+}

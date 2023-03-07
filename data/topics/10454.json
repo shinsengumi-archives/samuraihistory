@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "And the winner is...",
+            "postDate": "1359773164",
+            "msgId": 10454,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGtlaHVsYys4aDdtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10453,
+            "nextInTime": 10455,
+            "topicId": 10454,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "And the winner of the 2012 Samurai Fiction contest is - Tsujigiri, by Scott Thomas Patrick. All the stories will be posted by mid-February.",
+            "messageBody": "<div id=\"ygrps-yiv-1985593200\">And the winner of the 2012 Samurai Fiction contest is - Tsujigiri, by Scott Thomas Patrick. All the stories will be posted by mid-February.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10453,
+    "nextTopicId": 10455
+}

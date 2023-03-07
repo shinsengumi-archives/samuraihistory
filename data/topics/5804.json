@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 26763043,
+            "authorName": "Paul Martin",
+            "from": "&quot;Paul Martin&quot; &lt;pmartin6@...&gt;",
+            "profile": "jin_gai_guy",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Websites",
+            "postDate": "1098506260",
+            "msgId": 5804,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEJBWTEwLUY4NmJkVkpXckdXNkUwMDAwN2U3MEBob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5803,
+            "nextInTime": 5805,
+            "topicId": 5804,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Gentlemen, & Ladies There are some interesting sites appearing recently, rather than type them all, I ll just direct you to my links page ",
+            "messageBody": "<div id=\"ygrps-yiv-205958994\">Gentlemen, & Ladies<br/>\n<br/>\nThere are some interesting sites appearing recently, rather than type them <br/>\nall, I&#39;ll just direct you to my links page<br/>\n<br/>\nwww.traditionaloshigata.com/links<br/>\n<br/>\nall the best<br/>\n<br/>\nPaul</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5785,
+    "nextTopicId": 5798
+}

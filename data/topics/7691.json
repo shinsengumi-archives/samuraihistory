@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 6183419,
+            "authorName": "André Guelmann",
+            "from": "=?ISO-8859-1?Q?Andr=E9_Guelmann?= &lt;andre@...&gt;",
+            "profile": "andre_guelmann",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] reserch on warriors and thier hierarchy",
+            "postDate": "1127247693",
+            "msgId": 7693,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYwMDA0Yzk1MDUwOTIwMTMyMTE5MzJlZDE2QG1haWwuZ21haWwuY29tPg==",
+                "inReplyToHeader": "PGRncGF1cytvZWxzQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRncGF1cytvZWxzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 7691,
+            "nextInTopic": 0,
+            "prevInTime": 7692,
+            "nextInTime": 7694,
+            "topicId": 7691,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I wil try to find some links for you...and I will definitely want to see the finished work!!! ... -- André Guelmann andre@guelmann.com",
+            "messageBody": "<div id=\"ygrps-yiv-22658482\">I wil try to find some links for you...and I will definitely want to<br/>\nsee the finished work!!!<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On 9/20/05, smirnov_niki &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:smirnov_niki@...\">smirnov_niki@...</a>&gt; wrote:<br/>\n&gt; hello<br/>\n&gt; my name is Nikolas Smirnov, I am a student from Israel, third year in<br/>\n&gt; the hebrew universite of jerusalem.<br/>\n&gt; And I wondered if someone can help me?<br/>\n&gt; I am making a reserch on the way warriors symbolized their victories<br/>\n&gt; in battles, And the way that the hierarchy was established and<br/>\n&gt; symbolized in ancient civilizations based on the warrior&#39;s talent<br/>\n&gt; or&#92;and ability in combat- marks, ranks, symbols ... .<br/>\n&gt; I am interested to find out how in the samurai culture it appears.<br/>\n&gt; <br/>\n&gt; actually, what I&#39;m asking for is guidance , please help me by sending<br/>\n&gt; me some links or info you have, on the topic, I will really appreciate<br/>\n&gt; your help.<br/>\n&gt; <br/>\n&gt; thanks ,<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:smirnov_niki@...\">smirnov_niki@...</a><br/>\n&gt; Nikolas Smirnov<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; ---<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; Samurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n&gt; ---<br/>\n&gt; Yahoo! Groups Links<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n-- <br/>\nAndré Guelmann<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:andre@...\">andre@...</a> </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 198046127,
+            "authorName": "smirnov_niki",
+            "from": "&quot;smirnov_niki&quot; &lt;smirnov_niki@...&gt;",
+            "profile": "smirnov_niki",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "reserch on warriors and thier hierarchy",
+            "postDate": "1127231260",
+            "msgId": 7691,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRncGF1cytvZWxzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 7693,
+            "prevInTime": 7690,
+            "nextInTime": 7692,
+            "topicId": 7691,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello my name is Nikolas Smirnov, I am a student from Israel, third year in the hebrew universite of jerusalem. And I wondered if someone can help me? I am",
+            "messageBody": "<div id=\"ygrps-yiv-453755075\">hello<br/>\nmy name is Nikolas Smirnov, I am a student from Israel, third year in <br/>\nthe hebrew universite of jerusalem.<br/>\nAnd I wondered if someone can help me?<br/>\nI am making a reserch on the way warriors symbolized their victories <br/>\nin battles, And the way that the hierarchy was established and <br/>\nsymbolized in ancient civilizations based on the warrior&#39;s talent <br/>\nor&#92;and ability in combat- marks, ranks, symbols ... .<br/>\nI am interested to find out how in the samurai culture it appears.<br/>\n <br/>\nactually, what I&#39;m asking for is guidance , please help me by sending <br/>\nme some links or info you have, on the topic, I will really appreciate <br/>\nyour help.<br/>\n <br/>\nthanks ,<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:smirnov_niki@...\">smirnov_niki@...</a> <br/>\nNikolas Smirnov</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7680,
+    "nextTopicId": 220
+}

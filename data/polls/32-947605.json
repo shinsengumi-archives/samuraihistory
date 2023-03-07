@@ -1,0 +1,98 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "squrpio_prince",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 947605,
+    "listId": 2247946,
+    "dateCreated": 1027478106,
+    "userIdCreated": 119500921,
+    "dateEnd": 1034751540,
+    "sendToId": "GROUP",
+    "resultsId": "DETAIL",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Why did Oda Nobunaga employ the young \nKinoshita Tokichiro( Hideyoshi \nToyotomi)?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 7312266,
+            "selectionText": "Because he felt pity for Kinoshita.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 7312267,
+            "selectionText": "Because he knew that Kinoshita would become a great man.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 7312268,
+            "selectionText": "Because Nobunaga needed as many able bodied men as possible.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 7312269,
+            "selectionText": "Nobunaga needed a new sandle bearer.",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 7312269,
+                    "surveyId": 947605,
+                    "userId": 38990540,
+                    "guid": "THPFX4PHZAR2YGL6SZHLMWHSGU",
+                    "nickname": "bungotakadasword",
+                    "email": "MuramasaIII@aol.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 7312270,
+            "selectionText": "Nobunaga saw that this boy was intellidgant and witty and needed someone with his capability for learning.",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 7312270,
+                    "surveyId": 947605,
+                    "userId": 119500921,
+                    "guid": "OXHRV7MRRPYMRZN4G4TQQGKCOM",
+                    "nickname": "squrpio_prince",
+                    "email": "squrpio_prince@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 7312271,
+            "selectionText": "Nobunaga saw passion in the boys eyes.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 7312272,
+            "selectionText": "Kinoshita told Nobunaga that he would give his life for his lord at any time.",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 7312273,
+            "selectionText": "Nobunaga had shown interest in the boys character and ambition",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 4,
+    "previousSurveyId": 948036,
+    "nextSurveyId": 909296
+}

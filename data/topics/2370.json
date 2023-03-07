@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134392577,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Historians",
+            "postDate": "1067322483",
+            "msgId": 2370,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEUyNjQzNzE5LTA5MEYtMTFEOC04RkIyLTAwMDM5Mzk2MkY5OEBlYXJ0aGxpbmsubmV0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2369,
+            "nextInTime": 2371,
+            "topicId": 2370,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Thanks a lot for your different opinions on Turnbull. Since we re touching the topic, may I ask you who are your favorite pre-modern Japan historians? My Top 3",
+            "messageBody": "<div id=\"ygrps-yiv-1230912653\">Thanks a lot for your different opinions on Turnbull. Since we&#39;re <br/>\ntouching the topic, may I ask you who are your favorite pre-modern <br/>\nJapan historians?<br/>\n<br/>\nMy Top 3 is:<br/>\n- Paul Varley<br/>\n- Donald Keene<br/>\n- Ivan Morris<br/>\n<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2323,
+    "nextTopicId": 2372
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 101553917,
+            "authorName": "Shinsei &lt;sinseism@yahoo.com&gt;",
+            "from": "&quot;Shinsei &lt;sinseism@...&gt;&quot; &lt;sinseism@...&gt;",
+            "profile": "sinseism",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "the latest issue of Rekishi-Gunzo",
+            "postDate": "1040567568",
+            "msgId": 1317,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGF1NGllZys5ZWIzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1316,
+            "nextInTime": 1318,
+            "topicId": 1317,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello group! I ve just purchased the special issue of Rekishi Gunzo series,`Zusetsu Sengoku Kattyuu Syu`(Visual Colection Armours and Helmets` . It s really",
+            "messageBody": "<div id=\"ygrps-yiv-886286671\">Hello group!<br/>\nI&#39;ve just purchased the special issue of Rekishi Gunzo <br/>\nseries,`Zusetsu Sengoku Kattyuu Syu`(Visual Colection Armours and <br/>\nHelmets` .<br/>\nIt&#39;s really great,full of beautiful yoroi,kabuto,jinbaori,gunbai and <br/>\nmore.I have never seen any book that includes more pics of armours <br/>\nthan this.All pages are full-coloured.<br/>\n<br/>\nIt costs 2100yen(not including tax).</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1316,
+    "nextTopicId": 1318
+}

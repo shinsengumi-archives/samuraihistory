@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 68548757,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;kitsuno@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Rashomon",
+            "postDate": "1016780663",
+            "msgId": 674,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE3ZWwxbit0OXE2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 673,
+            "nextInTime": 675,
+            "topicId": 674,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A remastered Rashomon is finally coming out on DVD - with a running commentary track by the guy who did the comentary for the 7 Samurai (I assume) - the",
+            "messageBody": "<div id=\"ygrps-yiv-2038005638\">A remastered &#39;Rashomon&#39; is finally coming out on DVD - with a running <br/>\ncommentary track by the guy who did the comentary for the 7 Samurai (I <br/>\n assume) - the commentary for 7 samurai was the best I&#39;ve seen aside <br/>\nfrom &#39;Das Boot&#39;.  It is part of the &#39;criterion collection&#39;, and they <br/>\ndid such a good job with 7 samurai, I already have my order in for <br/>\nRashomon. (as opposed to the DVD &#39;Ran&#39;, which was an utter <br/>\nabomination)  Rashomon will be released on 3-26 - you can check it out <br/>\nat dvdplanet.com.  You&#39;ll have to do a search to find it - it doesn&#39;t <br/>\nput the location of the page in my browser&#39;s address bar to post here.<br/>\n<br/>\nLooks like it will have Japanese/subtitled or a dubb track. Never seen <br/>\nit dubbed.  I assume it will be horrible, but interesting to watch at <br/>\nleast once.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 671,
+    "nextTopicId": 676
+}

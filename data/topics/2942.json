@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "ReArmor: armpit Re:From Leprechaun Jack Murphy. En Garde Tony!!",
+            "postDate": "1071908631",
+            "msgId": 2942,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE4OS4yMmRkYzMzYS4yZDE1NjExN0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2941,
+            "nextInTime": 2943,
+            "topicId": 2942,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2925,
+    "nextTopicId": 2939
+}

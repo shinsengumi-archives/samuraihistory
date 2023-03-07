@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134151555,
+            "authorName": "nightline9",
+            "from": "&quot;nightline9&quot; &lt;nightline9@...&gt;",
+            "profile": "nightline9",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Was there a specific martial art?",
+            "postDate": "1070228824",
+            "msgId": 2608,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxZG9nbytrcnNiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2607,
+            "nextInTime": 2609,
+            "topicId": 2608,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am just starting to research and learn about the Samurai.  Is/was there a specific martial art or sword fighting form that they used? Thanks. John Jacobson ",
+            "messageBody": "<div id=\"ygrps-yiv-1672630796\">I am just starting to research and learn about the Samurai.  Is/was <br/>\nthere a specific martial art or sword fighting form that they used?<br/>\n<br/>\nThanks.<br/>\n<br/>\nJohn Jacobson<br/>\nValencia, CA</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2601,
+    "nextTopicId": 2580
+}

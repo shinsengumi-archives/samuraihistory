@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "mFWfG5U1HD1bRvumd3kUT7KtEs07by4_mLoqsR3r91MX6yYnOM8JvVe5qncQq4DI1GcePQeNA546eUNQklyEcRUuzyOTpF5mimyie1B_5BGw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 54",
+            "postDate": "985494802",
+            "msgId": 149,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNBQkQ3NTEyLkVFOUQyMDc3QGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PDUuMC4yLjEuMC4yMDAxMDMyMzE2MjgxOC4wMGEwNDljMEBwb3Auc29uaWN3YXZlLm5ldD4="
+            },
+            "prevInTopic": 147,
+            "nextInTopic": 0,
+            "prevInTime": 148,
+            "nextInTime": 150,
+            "topicId": 147,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Where abouts in Indiana are you? Tony",
+            "messageBody": "<div id=\"ygrps-yiv-1173970860\">cheri wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; hi my name is cheri. i&#39;m from indiana. i love ancient japanese history.<br/>\n&gt; especially around the tokugawa period! i try to find anything i can on<br/>\n&gt; samurai and ninja.<br/>\n&gt;<br/>\n&gt; nice to meet everyone!<br/>\n<br/>\n </span></blockquote>Where abouts in Indiana are you?<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "cheri",
+            "from": "cheri &lt;idleslov@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "XSsFbkerW1XdvI6AZAOgAywtJBdoq0F48KeC5GoP_IhTDv7A_UIOrhCmmgcjf861EVgIJMBIlbDBv9EtdObxlgP9p5OI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 54",
+            "postDate": "985383025",
+            "msgId": 147,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDUuMC4yLjEuMC4yMDAxMDMyMzE2MjgxOC4wMGEwNDljMEBwb3Auc29uaWN3YXZlLm5ldD4=",
+                "inReplyToHeader": "PDk4NTMzODc2My4yMjcuNTQ0MTUubDEwQHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 149,
+            "prevInTime": 146,
+            "nextInTime": 148,
+            "topicId": 147,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hi my name is cheri. i m from indiana. i love ancient japanese history. especially around the tokugawa period! i try to find anything i can on samurai and",
+            "messageBody": "<div id=\"ygrps-yiv-477119016\">hi my name is cheri. i&#39;m from indiana. i love ancient japanese history. <br/>\nespecially around the tokugawa period! i try to find anything i can on <br/>\nsamurai and ninja.<br/>\n<br/>\nnice to meet everyone!<br/>\n<br/>\ncheri<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 143,
+    "nextTopicId": 159
+}

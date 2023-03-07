@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 621/ Old Samurai",
+            "postDate": "1066721467",
+            "msgId": 2350,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM1LjNlZDhlMmI3LjJjYzYzYWJiQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2349,
+            "nextInTime": 2351,
+            "topicId": 2350,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Old samurai were aged to perfection like good sake,  then shaken not stirred like a good martini!  Prof Murphy [Non-text portions of this message have been",
+            "messageBody": "<div id=\"ygrps-yiv-229646403\">Old samurai were aged to perfection like good sake,  then shaken not stirred <br/>\nlike a good martini!  Prof Murphy<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2349,
+    "nextTopicId": 2323
+}

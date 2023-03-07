@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] NHK Taiga Dramas",
+            "postDate": "1012834421",
+            "msgId": 545,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDNUVBMDc1LjdDMjVBMjFCQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDAwMTAwMWMxYWNkNCRkMWY1OGZhMCQwNDNhZmVhOUB1Y3IyPg=="
+            },
+            "prevInTopic": 543,
+            "nextInTopic": 0,
+            "prevInTime": 544,
+            "nextInTime": 546,
+            "topicId": 543,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "If Tokyo Video is still operating in SF you ll find most if not all the Taiga on video for rental. You might also ask Onishi-san at Japan Video, he might point",
+            "messageBody": "<div id=\"ygrps-yiv-784155454\">If Tokyo Video is still operating in SF you&#39;ll find most if not all the Taiga<br/>\non video for rental.<br/>\n    You might also ask Onishi-san at Japan Video, he might point you in the<br/>\nright direction.<br/>\nTom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 815408,
+            "authorName": "Mieu d&#39;Iscalio Sedai",
+            "from": "&quot;Mieu d&#39;Iscalio Sedai&quot; &lt;mieu@...&gt;",
+            "profile": "mieusedai",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "NHK Taiga Dramas",
+            "postDate": "1012755858",
+            "msgId": 543,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMTAwMWMxYWNkNCRkMWY1OGZhMCQwNDNhZmVhOUB1Y3IyPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 545,
+            "prevInTime": 542,
+            "nextInTime": 544,
+            "topicId": 543,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello! My name is Sally, and I m very interested in feudal Japan. I m not studying it in college, though I sometimes wish I was, because I find Japanese",
+            "messageBody": "<div id=\"ygrps-yiv-1366050586\">Hello! My name is Sally, and I&#39;m very interested in feudal Japan. I&#39;m not<br/>\nstudying it in college, though I sometimes wish I was, because I find<br/>\nJapanese culture and history fascinating. I guess you could say that at this<br/>\npoint, my interest is more on the level of a hobby. I doubt my knowledge is<br/>\nanywhere near as expansive as most of the people on this list. But I do know<br/>\nmore about feudal Japan (especially Sengoku period) than the average person<br/>\nin the U.S.<br/>\n<br/>\nAnyway, this is my first post here, and I feel bad because I&#39;m not sure if<br/>\nit&#39;s totally on topic. As you probably know, the newest taiga drama &quot;Toshiie<br/>\nand Matsu&quot; is starting pretty soon. Well, at least here in the Bay Area, it<br/>\nstarts next week. ^_^ I&#39;m not going to ask about the historical accuracy of<br/>\nthe taiga dramas, at least not yet! I&#39;m sure all sorts of debates have and<br/>\nwill come up about such accuracy. After all, they *are* dramas, so they&#39;re<br/>\ngoing to be written in such a way to grasp the emotions of those who are<br/>\nwatching. (I admit it, I bawled at the end of &quot;Hojo Tokimune&quot;. Ah well.<br/>\nEmotional me. ^_^) But the good thing about the dramas, I think, is that<br/>\nthey generate a great deal of interest in Japanese history... as it did for<br/>\nme when I first laid eyes on &quot;Nobunaga, King of Zipangu&quot; and other such<br/>\nshows.<br/>\n<br/>\nWhew, I like to ramble, don&#39;t I? Actually, what I really want to know is if<br/>\nanyone has, or can point me to, a list of all the taiga dramas NHK has<br/>\nproduced. I&#39;ve been searching for one everywhere and haven&#39;t been able to<br/>\nfind it. It doesn&#39;t help that my knowledge of Japanese language is not very<br/>\nbroad. Ah well. If anyone can help me (or if you want to comment on<br/>\nsomething I&#39;ve said) it would be much appreciated!<br/>\n<br/>\nSally</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 117,
+    "nextTopicId": 502
+}

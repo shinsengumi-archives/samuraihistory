@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "out of office reply",
+            "postDate": "1072451984",
+            "msgId": 2975,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEVGNzc4NDg3LTM3QjYtMTFEOC1CMjhGLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2974,
+            "nextInTime": 2976,
+            "topicId": 2975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Happy Holidays to all! I ll be off-line for a week or so, will try to check the lists remotely, if anybody needs me, be patient and I ll type at you after the",
+            "messageBody": "<div id=\"ygrps-yiv-285452634\">Happy Holidays to all!<br/>\n\tI&#39;ll be off-line for a week or so, will try to check the lists <br/>\nremotely, if anybody needs me, be patient and I&#39;ll type at you after <br/>\nthe holidays...<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2974,
+    "nextTopicId": 2956
+}

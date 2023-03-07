@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] One more question",
+            "postDate": "1088601076",
+            "msgId": 4706,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEY4M0FENTlELUNBOTYtMTFEOC05QUE5LTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGNidGhjMCszc3MzQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGNidGhjMCszc3MzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4705,
+            "nextInTopic": 0,
+            "prevInTime": 4705,
+            "nextInTime": 4707,
+            "topicId": 4703,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Zev et al- Nihon-to is simply Japanese Sword. Like Bourbon a certain recipe must be used to qualify for the term; Tamahagane as base material, forge folded",
+            "messageBody": "<div id=\"ygrps-yiv-1823922298\">On Jun 29, 2004, at 9:59 PM, zevlord wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Would anybody be able to tell me the meaning of &quot;Nihonto&quot;?<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Zev et al-<br/>\n\tNihon-to is simply Japanese Sword. Like Bourbon a certain recipe must <br/>\nbe used to qualify for the term; Tamahagane as base material, forge <br/>\nfolded (in Japan), differential heat treatment using clay as <br/>\nrefractory...<br/>\n\tNot really used to describe a particular shape but sometimes used when <br/>\npointing out the difference between say straight bladed Chinese swords <br/>\n(Choku-to) and curved Japanese blades (wan-to). If one wants to be <br/>\nspecific about shape though wan-to or any of dozens of other terms <br/>\nwould be used.<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] One more question",
+            "postDate": "1088574938",
+            "msgId": 4705,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjMwMDU1NTM4LjY0NzczLnFtYWlsQHdlYjQxMzAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNidGhjMCszc3MzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4703,
+            "nextInTopic": 4706,
+            "prevInTime": 4704,
+            "nextInTime": 4706,
+            "topicId": 4703,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Nihon-to (“ú–{“) means Japanese sword . Nihon (“ú–{j= Japan and to @(“j= sword. @As far as I know, it s used to describe",
+            "messageBody": "<div id=\"ygrps-yiv-1909170392\">--- zevlord &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:LordZev@...\">LordZev@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Would anybody be able to tell me the meaning of<br/>\n&gt; &quot;Nihonto&quot;?<br/>\n&gt; <br/>\n&gt; In this content &quot;Japanese Sword - Nihonto&quot;? Is this<br/>\n&gt; some kind of <br/>\n&gt; design or shape of a sword or is this the Sword<br/>\n&gt; smiths Name? Sorry, <br/>\n&gt; am a bit clueless. Any help would be great!<br/>\n<br/>\n </span></blockquote>&quot;Nihon-to&quot; (���{��) means &quot;Japanese sword&quot;. &quot;Nihon&quot;<br/>\n(���{�j= Japan and &quot;to&quot;�@(���j= sword. �@As far as I<br/>\nknow, it&#39;s used to describe all Japanese swords, be<br/>\nthey katana, wakizashi, tachi, or no-dachi. <br/>\n<br/>\n<br/>\n\t\t<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nNew and Improved Yahoo! Mail - Send 10MB messages!<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://promotions.yahoo.com/new_mail\">http://promotions.yahoo.com/new_mail</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 153027787,
+            "authorName": "zevlord",
+            "from": "&quot;zevlord&quot; &lt;LordZev@...&gt;",
+            "profile": "zevlord",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "One more question",
+            "postDate": "1088571584",
+            "msgId": 4703,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNidGhjMCszc3MzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4705,
+            "prevInTime": 4702,
+            "nextInTime": 4704,
+            "topicId": 4703,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Would anybody be able to tell me the meaning of Nihonto ? In this content Japanese Sword - Nihonto ? Is this some kind of design or shape of a sword or is",
+            "messageBody": "<div id=\"ygrps-yiv-1079022245\">Would anybody be able to tell me the meaning of &quot;Nihonto&quot;?<br/>\n<br/>\nIn this content &quot;Japanese Sword - Nihonto&quot;? Is this some kind of <br/>\ndesign or shape of a sword or is this the Sword smiths Name? Sorry, <br/>\nam a bit clueless. Any help would be great!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4691,
+    "nextTopicId": 4694
+}

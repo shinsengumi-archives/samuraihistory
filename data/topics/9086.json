@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 160314779,
+            "authorName": "Steven Matsheshu",
+            "from": "&quot;Steven Matsheshu&quot; &lt;steven_matsheshu@...&gt;",
+            "profile": "steven_matsheshu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Mizuno and Fujii",
+            "postDate": "1160321313",
+            "msgId": 9086,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVnYjVmMSs2c2EwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9085,
+            "nextInTime": 9087,
+            "topicId": 9086,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can someone clear this passage up for me ? なお， ��三`ｺ氏の消`ｧについてですが，私の mる限り江戸時`繧ﾜで身`繧ﾛ ",
+            "messageBody": "<div id=\"ygrps-yiv-1790836693\">Can someone clear this passage up for me ?<br/>\n<br/>\n È¨C&quot;õ&#39;O`ºÌÁ`§ÉÂ¢ÄÅ·ªCÌ&#39;méÀè]Ë`ãÜÅg`ãðÛ<br/>\nÁÄ¢½ÌÍC&quot;õãR&quot;ËmÅ Á½n&quot;E]ò¼&quot;ËmÅ Á½n&quot;­ç¢Å<br/>\nµå¤B<br/>\n¬Ìãp¬Í&quot;¡äÆÌÔÉà¤¯½àÌÅCÆeÌ`·É ½éí¯ÅÍ <br/>\nèÜ¹ñB¬Æ&quot;¡äªoïÁ½ÌÍC¬ªÑúÌ¬HÉñHµCe¬<br/>\nÌ¢bÉÈÁÄ¢½Æ«Å·B<br/>\n<br/>\n<br/>\n Thank you. The lines I really want to know clearly are the last two <br/>\nsentences.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9069,
+    "nextTopicId": 9083
+}

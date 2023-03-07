@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 244256767,
+            "authorName": "sfenella",
+            "from": "&quot;sfenella&quot; &lt;shannon_fenella@...&gt;",
+            "profile": "sfenella",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "helo",
+            "postDate": "1131465819",
+            "msgId": 7982,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRrcWk4ciszODJxQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7981,
+            "nextInTime": 7983,
+            "topicId": 7982,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "helo I m new on this site, and I just want to ask some questions. I m very interested in the samurai, but I don t know a lot of them, and I hope this site will",
+            "messageBody": "<div id=\"ygrps-yiv-1466483694\">helo I&#39;m new on this site, and I just want to ask some questions. I&#39;m <br/>\nvery interested in the samurai, but I don&#39;t know a lot of them, and I <br/>\nhope this site will help to learn more of the samurai<br/>\n<br/>\nhow old were the cildren whenn the lesson in the samurai art started?<br/>\nwhat does the art of samurai contain? I know they where learning the <br/>\nthee ceremonie..and fighting....<br/>\ndoes all samurais use a katana to fight?<br/>\ndoes all samurais fight?<br/>\n<br/>\nsory my english isn&#39;t that good....but I hope you will nderstan and <br/>\nanwsher my questions....<br/>\n<br/>\nbye</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7961,
+    "nextTopicId": 7985
+}

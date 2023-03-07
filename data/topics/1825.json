@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andjoysmith",
+            "from": "&quot;andjoysmith&quot; &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Family crests and the Shinsen-gumi",
+            "postDate": "1054821879",
+            "msgId": 1825,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJibmlsbitvYmM1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1824,
+            "nextInTime": 1826,
+            "topicId": 1825,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "",
+            "messageBody": "",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1824,
+    "nextTopicId": 1826
+}

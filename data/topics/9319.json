@@ -1,0 +1,94 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 295757521,
+            "authorName": "wildchicyane",
+            "from": "&quot;wildchicyane&quot; &lt;wildchicyane@...&gt;",
+            "profile": "wildchicyane",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: Hello!",
+            "postDate": "1169756036",
+            "msgId": 9324,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwYjMyNCtpaGdsQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDM1NDE4My44Nzk0Ni5xbUB3ZWI1ODkwNi5tYWlsLnJlMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 9320,
+            "nextInTopic": 0,
+            "prevInTime": 9323,
+            "nextInTime": 9325,
+            "topicId": 9319,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "yes there is.just go and search Otori Clan in google.",
+            "messageBody": "<div id=\"ygrps-yiv-1221672046\">yes there is.just go and search Otori Clan in google.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 121492,
+            "authorName": "nohit@aol.com",
+            "from": "nohit@...",
+            "profile": "ninaboal21044",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: [samuraihistory] Hello!",
+            "postDate": "1169506116",
+            "msgId": 9320,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGM5Ni43NmE2ZjQ0LjMyZTY5OTQ0QGFvbC5jb20+"
+            },
+            "prevInTopic": 9319,
+            "nextInTopic": 9324,
+            "prevInTime": 9319,
+            "nextInTime": 9321,
+            "topicId": 9319,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In a message dated 1/22/2007 3:32:36 PM Eastern Standard Time, andre_kuntz@yahoo.com writes: hello,  i m a newcomer of this groups. first of all, i would like",
+            "messageBody": "<div id=\"ygrps-yiv-627334357\">In a message dated 1/22/2007 3:32:36 PM Eastern Standard Time,  <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:andre_kuntz@...\">andre_kuntz@...</a> writes:<br/>\n<br/>\nhello,  i&#39;m a newcomer of this groups.<br/>\nfirst of all, i would like to say sorry  since my mother language is not <br/>\nenglish, so that my english would be far from  perfect.<br/>\n<br/>\nI know samurai archives webs from a novel written by Lian  Hearn. It tells a <br/>\nstory about Otori Clan. Was there really a clan called  Otori? It also tells <br/>\nabout people with extraordinary skills (such as  duplicating himself, jump as <br/>\nhigh as 10 metres an so on) called the tribe. Is  that true? or it&#39;s just the <br/>\nauthor&#39;s imagination?<br/>\n<br/>\nwell, i guess that&#39;s  all for this moment. thank you!<br/>\n<br/>\n<br/>\n<br/>\nI&#39;ve read a few of these books. They are pure fiction and are meant to be.  <br/>\nThe author wrote about &quot;the Three Islands&quot; rather than &quot;Japan.&quot; I&#39;ve found them <br/>\n enjoyable. But never, ever think that they were intended to history. The <br/>\nseries  is fantasy, fiction.<br/>\n <br/>\nNina aka Wave Tossed<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 291815623,
+            "authorName": "andre sugiarto",
+            "from": "andre sugiarto &lt;andre_kuntz@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello!",
+            "postDate": "1169462586",
+            "msgId": 9319,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM1NDE4My44Nzk0Ni5xbUB3ZWI1ODkwNi5tYWlsLnJlMS55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9320,
+            "prevInTime": 9318,
+            "nextInTime": 9320,
+            "topicId": 9319,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello, i m a newcomer of this groups. first of all, i would like to say sorry since my mother language is not english, so that my english would be far from",
+            "messageBody": "<div id=\"ygrps-yiv-685453432\">hello, i&#39;m a newcomer of this groups.<br/>\n  first of all, i would like to say sorry since my mother language is not english, so that my english would be far from perfect.<br/>\n   <br/>\n  I know samurai archives webs from a novel written by Lian Hearn. It tells a story about Otori Clan. Was there really a clan called Otori? It also tells about people with extraordinary skills (such as duplicating himself, jump as high as 10 metres an so on) called the tribe. Is that true? or it&#39;s just the author&#39;s imagination?<br/>\n   <br/>\n  well, i guess that&#39;s all for this moment. thank you!<br/>\n   <br/>\n   <br/>\n   <br/>\n   <br/>\n<br/>\n <br/>\n---------------------------------<br/>\nEveryone is raving about the all-new Yahoo! Mail beta.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9311,
+    "nextTopicId": 9325
+}

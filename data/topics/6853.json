@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 10613559,
+            "authorName": "Sensei J. Richard Kirkham B.Sc",
+            "from": "&quot;Sensei J. Richard Kirkham B.Sc&quot; &lt;tutor2000@...&gt;",
+            "profile": "tutor2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Yahoo ambush",
+            "postDate": "1111908752",
+            "msgId": 6863,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDUwMzI3MDczMjMzLjcwMjAucW1haWxAd2ViMzA0MDUubWFpbC5tdWQueWFob28uY29tPg==",
+                "inReplyToHeader": "NjY2Nw=="
+            },
+            "prevInTopic": 6853,
+            "nextInTopic": 0,
+            "prevInTime": 6862,
+            "nextInTime": 6864,
+            "topicId": 6853,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Ya before i got inot my own groups I just thought someone had customized theirs Rick UPDATED! Bringing The Martial Artists Out From Within Martial Arts",
+            "messageBody": "<div id=\"ygrps-yiv-995757642\">--- Kitsuno &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samurai-listowner@...\">samurai-listowner@...</a>&gt;<br/>\nwrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; <br/>\n&gt; Yahoo decided to screw with the entire Yahoo groups<br/>\n&gt; format, and <br/>\n&gt; personaly I hate it, but we have to live with it, so<br/>\n&gt; let&#39;s all try to <br/>\n&gt; get used to it.  *grumble grumble*<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Your moderator,<br/>\n&gt; <br/>\n&gt; KITSUNO<br/>\n<br/>\n </span></blockquote>Ya before i got inot my own groups I just thought<br/>\nsomeone had customized theirs<br/>\n<br/>\nRick<br/>\nUPDATED! Bringing The Martial Artists Out From Within <br/>\nMartial Arts Drills for All Situations and Training<br/>\nEnvironments<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://MartialArtsDrillsEbook.8m.com\">http://MartialArtsDrillsEbook.8m.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Yahoo ambush",
+            "postDate": "1111808166",
+            "msgId": 6853,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyMmxiNitvM3IwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6863,
+            "prevInTime": 6852,
+            "nextInTime": 6854,
+            "topicId": 6853,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yahoo decided to screw with the entire Yahoo groups format, and personaly I hate it, but we have to live with it, so let s all try to get used to it.  *grumble",
+            "messageBody": "<div id=\"ygrps-yiv-670731122\">Yahoo decided to screw with the entire Yahoo groups format, and <br/>\npersonaly I hate it, but we have to live with it, so let&#39;s all try to <br/>\nget used to it.  *grumble grumble*<br/>\n<br/>\n<br/>\nYour moderator,<br/>\n<br/>\nKITSUNO</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6843,
+    "nextTopicId": 6865
+}

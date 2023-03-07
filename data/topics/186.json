@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "lady_lethal",
+            "from": "&quot;lady_lethal&quot; &lt;ladylethal@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "o3hrHhdfRULVe6COM8zN2gDIadAJs9bZsokBx2-T_tT8PjnsonqAUq_vZcx3fMCO_1qpEGSHJmQLLLoLzsUBbKcuO_RFZH1hXbkLwkOmcvc",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [[samuraihistory] Samurai Armor?]",
+            "postDate": "990392836",
+            "msgId": 186,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwN2IwMWMwZTE3MCRlMGFkMTQ4MCQwOGZmZmZjOEB1b2wuY29tLmJyPg==",
+                "referencesHeader": "PDIwMDEwNDA5MTkyMjE2LjE0ODE4LnFtYWlsQG53MTc3Lm5ldGFkZHJlc3MudXNhLm5ldD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 185,
+            "nextInTime": 187,
+            "topicId": 186,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello guys! I wanted to say Thank You very much for all the support! Im running against the time and because of this I coudnt write before, im so sorry! But I",
+            "messageBody": "<div id=\"ygrps-yiv-1749459078\">Hello guys!<br/>\n<br/>\nI wanted to say Thank You very much for all the support!<br/>\nIm running against the time and because of this I coudnt write before, im so<br/>\nsorry!<br/>\nBut I received all the sugestions and find some good material!<br/>\nWhen I have some news Ill let you know! Wish me luck. :-D<br/>\n<br/>\n[]&#39;s<br/>\nyuri<br/>\n<br/>\nps; im reading the emails list in background  :-)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 178,
+    "nextTopicId": 191
+}

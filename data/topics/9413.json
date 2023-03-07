@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 241704902,
+            "authorName": "mcready777",
+            "from": "&quot;mcready777&quot; &lt;mcready777@...&gt;",
+            "profile": "mcready777",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "thieves",
+            "postDate": "1173401754",
+            "msgId": 9413,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzcWJhcStlZzZ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9412,
+            "nextInTime": 9414,
+            "topicId": 9413,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "wre there any thieves guilds or organizations that existed in anceint japan?",
+            "messageBody": "<div id=\"ygrps-yiv-978881792\">wre there any thieves guilds or organizations that existed in anceint<br/>\njapan?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9411,
+    "nextTopicId": 9401
+}

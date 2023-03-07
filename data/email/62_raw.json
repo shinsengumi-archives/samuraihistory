@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "kitsuno@teleport.com",
+    "from": "kitsuno@...",
+    "replyTo": "LIST",
+    "senderId": "SVBmlmbPzSSl-JIEupmuNSUg3OSmulrxdoPc7xPNZqfQodNY0kMlr90g_as47qLJR1_c-8_sNU3uy5g",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Samurai Archives WEB ADDRESS UPDATE",
+    "postDate": "980383962",
+    "msgId": 62,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDk0bnRjcStkamRzQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 61,
+    "nextInTime": 63,
+    "topicId": 62,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "The server for the samurai archives has been changed, and is currently being hosted at:  http://samurai.bigsitecity.com (www.techjapanese.com/samurai is no",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nX-Sender: kitsuno@...\r\nX-Apparently-To: samuraihistory@egroups.com\r\nReceived: (EGP: mail-7_0_1_2); 25 Jan 2001 00:55:35 -0000\r\nReceived: (qmail 49757 invoked from network); 25 Jan 2001 00:53:36 -0000\r\nReceived: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 25 Jan 2001 00:53:36 -0000\r\nReceived: from unknown (HELO mk.egroups.com) (10.1.1.30) by mta2 with SMTP; 25 Jan 2001 00:53:35 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.123] by mk.egroups.com with NNFMP; 25 Jan 2001 00:53:32 -0000\r\nDate: Thu, 25 Jan 2001 00:52:42 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: Samurai Archives WEB ADDRESS UPDATE\r\nMessage-ID: &lt;94ntcq+djds@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 424\r\nX-Mailer: eGroups Message Poster\r\nFrom: kitsuno@...\r\n\r\nThe server for the &#39;samurai archives&#39; has been changed, and is \ncurrently being hosted at:  http://samurai.bigsitecity.com  \n(www.techjapanese.com/samurai is no longer valid) there are some \nbroken links now due to this move, including some in the downloads \nsection, so please bear with us, and please update your bookmarks \naccordingly.  We should *hopefully* have the situation back to normal \nwithin the week.\n\nC.E.West\n\n\n"
+}

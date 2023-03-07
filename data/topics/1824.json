@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 109033547,
+            "authorName": "andjoysmith",
+            "from": "&quot;andjoysmith&quot; &lt;andjoysmith@...&gt;",
+            "profile": "andjoysmith",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Family Crests and the Shinsen-gumi",
+            "postDate": "1054822260",
+            "msgId": 1824,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJibmoxaytpcm43QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1823,
+            "nextInTime": 1825,
+            "topicId": 1824,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I was wondering about the different family crests, I thought the family crests to what family you re from. I also want some information on the Shinsen-gumi,",
+            "messageBody": "<div id=\"ygrps-yiv-498969265\">I was wondering about the different family crests, I thought the<br/>\nfamily crests to what family you&#39;re from. I also want some information<br/>\non the Shinsen-gumi, I&#39;m trying to write a short biography of Saitou<br/>\nHajime and I&#39;m at a dead end, please help me.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1819,
+    "nextTopicId": 1825
+}

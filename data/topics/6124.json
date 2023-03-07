@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 193920748,
+            "authorName": "mark kd",
+            "from": "mark kd &lt;depos42300@...&gt;",
+            "profile": "depos42300",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Clan in New York?",
+            "postDate": "1102207127",
+            "msgId": 6124,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMjA1MDAzODQ3LjIwODc3LnFtYWlsQHdlYjUxNDA0Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6123,
+            "nextInTime": 6125,
+            "topicId": 6124,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello, i was wondering if anyone knows if there are any samurai clans in the SCA that are around NEW YORK STATE? Meaning,... is there a clan that specifically",
+            "messageBody": "<div id=\"ygrps-yiv-1005002043\">hello,<br/>\n  i was wondering if anyone knows if there are any samurai clans in the SCA that are around NEW YORK STATE? Meaning,... is there a clan that specifically focuses on wearing samurai armour to the SCA events??? If so, please let me know. I&#39;ve checked the SCA website and couldn&#39;t find any. Thank you. <br/>\n                             mark<br/>\n <br/>\nP.S. I take kendo. Will that be helpful in fighting in these events?? I&#39;ve never been to one but have heard a lot of awesome things about them. Thanks again. <br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\n Meet the all-new My Yahoo! � Try it today! <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6123,
+    "nextTopicId": 6091
+}

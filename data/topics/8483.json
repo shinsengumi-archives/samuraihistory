@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 102344422,
+            "authorName": "Randy Schadel",
+            "from": "&quot;Randy Schadel&quot; &lt;ayamechiba@...&gt;",
+            "profile": "kurotatsunoshi",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: Sengoku Wargaming",
+            "postDate": "1141068759",
+            "msgId": 8486,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR0dms0bitudDNpQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGR0dGV1ZithdDZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8483,
+            "nextInTopic": 0,
+            "prevInTime": 8485,
+            "nextInTime": 8487,
+            "topicId": 8483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Wasn t there a Yahoo group dedicated to Sengoku Jidai wargames? The AsianWar Yahoo group has a heavy focus on Sengoku gaming, along with other Japanese eras.",
+            "messageBody": "<div id=\"ygrps-yiv-499892284\">&quot;Wasn&#39;t there a Yahoo group dedicated to Sengoku Jidai wargames?&quot;<br/>\n <br/>\nThe AsianWar Yahoo group has a heavy focus on Sengoku gaming, along with other Japanese eras. It also covers Chinese, Korean, etc, warfare. It&#39;s an excellent resource and replaced the Gekokujo group after it was taken over by spammers.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 95095562,
+            "authorName": "Nuno Pereira",
+            "from": "&quot;Nuno Pereira&quot; &lt;kingscarbine@...&gt;",
+            "profile": "kingscarbine",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Sengoku Wargaming",
+            "postDate": "1140997903",
+            "msgId": 8483,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGR0dGV1ZithdDZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8486,
+            "prevInTime": 8482,
+            "nextInTime": 8484,
+            "topicId": 8483,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, Wasn t there a Yahoo group dedicated to Sengoku Jidai wargames?",
+            "messageBody": "<div id=\"ygrps-yiv-258613211\">Hello,<br/>\n<br/>\nWasn&#39;t there a Yahoo group dedicated to Sengoku Jidai wargames?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8458,
+    "nextTopicId": 8335
+}

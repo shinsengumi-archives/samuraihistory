@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "erik baker",
+            "from": "erik baker &lt;musashieb@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "bzL5SsdtXHBn8azleUWd__a4YoTP-tuvHuMvdNwnZ_akz1KjibJ7cg-ICtHuJDS96dVTAUvoZU55WRXgj3n7zV3kVHNXcjo",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Traditional japan",
+            "postDate": "995683533",
+            "msgId": 254,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDEwNzIxMDI0NTMzLjkzOTEzLnFtYWlsQHdlYjEwMzA0Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDlqOW5laCtxNTV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 253,
+            "nextInTopic": 0,
+            "prevInTime": 253,
+            "nextInTime": 255,
+            "topicId": 253,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, Samurai Archives has maps of old Japan.  These show daimyo listing and ownership plus various other thngs. Musashi www.samurai.bigcity.com/ ... ",
+            "messageBody": "<div id=\"ygrps-yiv-1761307863\">Hello,<br/>\n<br/>\nSamurai Archives has maps of old Japan.  These show<br/>\ndaimyo listing and ownership plus various other thngs.<br/>\n<br/>\nMusashi<br/>\n<br/>\nwww.samurai.bigcity.com/<br/>\n<br/>\n<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:akodo_mushashi@...\">akodo_mushashi@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hi, I&#39;m reading with interest all te messages post<br/>\n&gt; in this list, it&#39;s <br/>\n&gt; very interesting, I&#39;ve two question to ask for:<br/>\n&gt; <br/>\n&gt; 1.- Do someone knows whre can I find in the net maps<br/>\n&gt; of old Japan (s. <br/>\n&gt; XII - s.XVI)?.<br/>\n&gt; <br/>\n&gt; 2.- And maps of some castles of Japan?.<br/>\n&gt; <br/>\n&gt; Thanks for all.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nMake international calls for as low as $.04/minute with Yahoo! Messenger<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://phonecard.yahoo.com/\">http://phonecard.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 0,
+            "authorName": "akodo_mushashi@hotmail.com",
+            "from": "akodo_mushashi@...",
+            "replyTo": "LIST",
+            "senderId": "tos8fec69GO1vEqwswZsc3gg9kSzTz6Hr-4h4nXcqFgkDU24vIn8XfFGUOxHpwGRbzhsKTrNgrWyOV0GyeRx2VM",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Traditional japan",
+            "postDate": "995647761",
+            "msgId": 253,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlqOW5laCtxNTV2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 254,
+            "prevInTime": 252,
+            "nextInTime": 254,
+            "topicId": 253,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, I m reading with interest all te messages post in this list, it s very interesting, I ve two question to ask for: 1.- Do someone knows whre can I find in",
+            "messageBody": "<div id=\"ygrps-yiv-2059420937\">Hi, I&#39;m reading with interest all te messages post in this list, it&#39;s <br/>\nvery interesting, I&#39;ve two question to ask for:<br/>\n<br/>\n1.- Do someone knows whre can I find in the net maps of old Japan (s. <br/>\nXII - s.XVI)?.<br/>\n<br/>\n2.- And maps of some castles of Japan?.<br/>\n<br/>\nThanks for all.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 249,
+    "nextTopicId": 255
+}

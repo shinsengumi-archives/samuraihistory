@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai Archives Summer Sale",
+            "postDate": "1119594271",
+            "msgId": 7255,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ5Zzh1dis2anByQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7254,
+            "nextInTime": 7256,
+            "topicId": 7255,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone interested, a summer sale at the Samurai Archives store: LOL Summer Sale Enjoy the LOL Summer Sale! The sale will end 7/14/05. Coupon code: LOLSAV",
+            "messageBody": "<div id=\"ygrps-yiv-598345615\">For anyone interested, a summer sale at the Samurai Archives store:<br/>\n<br/>\n&#39;LOL&#39; Summer Sale<br/>\nEnjoy the LOL Summer Sale! The sale will end 7/14/05. <br/>\nCoupon code: LOLSAV<br/>\n$3 off all apparel<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafepress.com/samuraiarchives\">http://www.cafepress.com/samuraiarchives</a><br/>\n<br/>\n(Don&#39;t ask me where they got the name)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7251,
+    "nextTopicId": 7246
+}

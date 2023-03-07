@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 95934988,
+            "authorName": "clan_ironbeard",
+            "from": "&quot;clan_ironbeard&quot; &lt;JasonBury@...&gt;",
+            "profile": "clan_ironbeard",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Greetings all",
+            "postDate": "1016523998",
+            "msgId": 671,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGE3NnFjdSt2MGRkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 670,
+            "nextInTime": 672,
+            "topicId": 671,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there, I am a new member of the list.....i have been a passionate student of Japanese history since i was about 7...i remember the class was doing Japan and",
+            "messageBody": "<div id=\"ygrps-yiv-939441124\">Hi there,<br/>\n<br/>\nI am a new member of the list.....i have been a passionate student of <br/>\nJapanese history since i was about 7...i remember the class was doing <br/>\nJapan and my job was an assignment on the Shogun and samurai...i was <br/>\nhooked....i am now a high school history teacher myself......in <br/>\nparticular my favourite era is Sengoku Jidai and my personal hero is <br/>\nUesegi Kenshin.....i am currently building the armies for 4th <br/>\nKawanakajima in miniature and would love to see an osprey campaign <br/>\nbook on this battle.......great to fnd this list and hopefully i can <br/>\ncontribute to our discusion.......<br/>\n<br/>\ncheers<br/>\nJason</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 616,
+    "nextTopicId": 674
+}

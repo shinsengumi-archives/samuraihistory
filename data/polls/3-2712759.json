@@ -1,0 +1,35 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2712759,
+    "listId": 2247946,
+    "dateCreated": 1212078907,
+    "userIdCreated": 131547598,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "Do you believe that a triple rotating barrel flintlock pistol like Yuya Shiina effected as a bounty hunter on Samurai Deeper Kyo in 1604 Japan would have existed for real and if so would she have been in violation of Shogunate Japanese Law to carry and use one? Why?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 19403231,
+            "selectionText": "Yes",
+            "selections": 0,
+            "voted": false
+        },
+        {
+            "selectionId": 19403232,
+            "selectionText": "No",
+            "selections": 0,
+            "voted": false
+        }
+    ],
+    "voteCount": 0,
+    "previousSurveyId": 3064636,
+    "nextSurveyId": 2260866
+}

@@ -1,0 +1,31 @@
+{
+    "userId": 150584227,
+    "authorName": "Dean Wayland",
+    "from": "Dean Wayland &lt;dean@...&gt;",
+    "profile": "deanwayland",
+    "replyTo": "LIST",
+    "senderId": "OGDihMXpGI1LpsAgEejdg3AEoz7BMcSb_FXe0ogV855aI0CXlHf26ifEcorDf1U4BFZPr7n7TtR3cd_99oHQMd-dS2qAYzxfBKCk9LAmMyDnnkEqUw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092750253",
+    "msgId": 5285,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDBiZlRQREF0dWdJQkZ3NVhAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+",
+        "inReplyToHeader": "PDIwMDQwODE2MjMwNzUzLjExOTg3LnFtYWlsQHdlYjQxMzE0Lm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PFRuZ2F3QUFRSk1JQkZ3ZjJAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+IDwyMDA0MDgxNjIzMDc1My4xMTk4Ny5xbWFpbEB3ZWI0MTMxNC5tYWlsLnlhaG9vLmNvbT4="
+    },
+    "prevInTopic": 5270,
+    "nextInTopic": 5290,
+    "prevInTime": 5284,
+    "nextInTime": 5286,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "Hi Nate, ... Okay, I tried this, it just highlighted the text, it didn t present me with a menu. I then tried pasting Jay s email with its sample text in to ",
+    "rawEmail": "Return-Path: &lt;dean@...&gt;\r\nReceived: (qmail 48411 invoked by uid 7800); 17 Aug 2004 22:51:33 -0000\r\nX-Sender: dean@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 62341 invoked from network); 17 Aug 2004 14:56:25 -0000\r\nReceived: from unknown (66.218.66.166)\n  by m13.grp.scd.yahoo.com with QMQP; 17 Aug 2004 14:56:25 -0000\r\nReceived: from unknown (HELO anchor-post-37.mail.demon.net) (194.217.242.86)\n  by mta5.grp.scd.yahoo.com with SMTP; 17 Aug 2004 14:56:25 -0000\r\nReceived: from thefightschool.demon.co.uk ([194.222.233.237])\n\tby anchor-post-37.mail.demon.net with smtp (Exim 3.35 #1)\n\tid 1Bx5Mg-000EoB-0b\n\tfor samuraihistory@yahoogroups.com; Tue, 17 Aug 2004 14:55:06 +0000\r\nMessage-ID: &lt;0bfTPDAtugIBFw5X@...&gt;\r\nDate: Tue, 17 Aug 2004 14:44:13 +0100\r\nTo: samuraihistory@yahoogroups.com\r\nReferences: &lt;TngawAAQJMIBFwf2@...&gt;\n &lt;20040816230753.11987.qmail@...&gt;\r\nIn-Reply-To: &lt;20040816230753.11987.qmail@...&gt;\r\nMIME-Version: 1.0\r\nX-Mailer: Turnpike Integrated Version 4.02aS &lt;SQ+NZAXQu0wxAHC4HsD4nxHjIB&gt;\r\nX-eGroups-Remote-IP: 194.217.242.86\r\nFrom: Dean Wayland &lt;dean@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=150584227\r\nX-Yahoo-Profile: deanwayland\r\nX-eGroups-Approved-By: ltdomer98 &lt;ltdomer98@...&gt; via email; 17 Aug 2004 22:51:33 -0000\r\n\r\nHi Nate,\n\nYou wrote:\n&gt;    Okay, if you&#39;ve got Windows XP, try this: \n&gt;\n&gt;    When viewing the email with Japanese in it, left click\n&gt;    and go to &quot;Encoding&quot; on the menu that pops up. \n\nOkay, I tried this, it just highlighted the text, it didn&#39;t present me\nwith a menu. I then tried pasting Jay&#39;s email with its sample text in to\nOutlook Express just in case it was an issue with Turnpike, again no\njoy, however...\n\nI noticed that when Turnpike displayed Jay&#39;s message, it offered me the\noption of selecting a different mode of &quot;Viewer&quot;. The default option was\nInternet Exploder, so off I went, and hey presto, a little line of\nhiragana. I assume Jay that&#39;s what you actually sent me?\n\nNate continued:\n&gt;    If they aren&#39;t on the &quot;more&quot; window, then you&#39;ll have\n&gt;    to go to your control panel. \n\nAs the above solution is not totally ideal, I decided to go wandering\nthrough the Control Panel, where I found Regional and Language options.\nI attempted to set it up for Japanese. The files were already on my hard\ndrive (requested when I bought the machine), so I went into Advanced and\ndid the deed. I then had to undo it as some very strange things happened\nto all my other programs. For example on the address bar of &quot;My\nDocuments&quot;, the back slashes were replaced with the symbol for yen! Of\ncourse this could be perfectly normal, but being a bit twitchy where\ncomputing is concerned, I went in to reverse gear.\n\nAnyway, everything is now back to what passes for normal around here,\nand with a stroke of a key I can read kana. Jay or Nate, could you send\nme some kanji so I can confirm that the system can in fact cope.\n\nH&#39;mm, now what about writing in Japanese..? Arghhh....:-)\n\nCheers for all the help.\n\nYours\n\nDean\n\n\n\n"
+}

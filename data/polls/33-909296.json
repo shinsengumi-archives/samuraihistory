@@ -1,0 +1,54 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 909296,
+    "listId": 2247946,
+    "dateCreated": 1020195652,
+    "userIdCreated": 68548757,
+    "dateEnd": 1030777140,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "WHEN_CLOSED",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "How much of a factor were Nobunaga&#39;s \nuse of guns at Nagashino in Katsuyori&#39;s \ndefeat?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 7009074,
+            "selectionText": "Guns were the deciding factor in Katsuyori&#39;s defeat",
+            "selections": 9,
+            "responses": [
+                {
+                    "selectionId": 7009074,
+                    "surveyId": 909296,
+                    "userId": 100984285,
+                    "guid": "VX5UTUPA5L73YGZLSI7UKQ3ZAQ",
+                    "nickname": "tokugawa_iyeyasu_sama",
+                    "email": "tokugawa_iyeyasu_sama@yahoo.com"
+                },
+                {
+                    "selectionId": 7009074,
+                    "surveyId": 909296,
+                    "userId": 119500921,
+                    "guid": "OXHRV7MRRPYMRZN4G4TQQGKCOM",
+                    "nickname": "squrpio_prince",
+                    "email": "squrpio_prince@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 7009075,
+            "selectionText": "Katsuyori would have lost regardless of Nobunaga&#39;s use of guns",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 11,
+    "previousSurveyId": 947605,
+    "nextSurveyId": 900315
+}

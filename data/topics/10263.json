@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 441567385,
+            "authorName": "Francois BOUTRY",
+            "from": "Francois BOUTRY &lt;BOUTRYFRANCOIS@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "re: [samuraihistory] Hi all, im newone here",
+            "postDate": "1290371186",
+            "msgId": 10264,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDI2MzEyOTkwLjEyMjUzMC4xMjkwMzMzOTM1NjkzLkphdmFNYWlsLnd3d0B3d2luZjFmMjY+",
+                "inReplyToHeader": "PGljOGFwbitsczdtQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGljOGFwbitsczdtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 10263,
+            "nextInTopic": 0,
+            "prevInTime": 10263,
+            "nextInTime": 10265,
+            "topicId": 10263,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "1. Nobunaga was wounded and committed suicide at the Honnoji temple of Kyoto on 21st june 1582 after a fight against Akechi Mitsuhide s troups. The temple was",
+            "messageBody": "<div id=\"ygrps-yiv-1435157946\">1. Nobunaga was wounded and committed suicide at the Honnoji temple of Kyoto on 21st june 1582 after a fight against Akechi Mitsuhide&#39;s troups. The temple was burned during the fight.<br/>\n2.The reasons why Takeda Shingen pushed out his father Nobutora are not fully explained but it is believed that it was a combination of personal ambition, bearing in mind the relationship between father and son was not too good, and the growing insatisfaction of some major vassals who resented the high-handed manner of Nobutora in his direction of the clan.<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Message du 20/11/10 21:42<br/>\n&gt; De : &quot;gaemonmoon&quot; <br/>\n&gt; A : <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\n&gt; Copie à : <br/>\n&gt; Objet : [samuraihistory] Hi all, im newone here<br/>\n&gt; <br/>\n&gt; &gt; 1. did u&#39;ll know how nobunaga death, & is there any prove or evidence about that temple incident? his death or burning body?<br/>\n&gt; <br/>\n&gt; 2. why shingen takeda &quot;kick away&quot; his father from his chair as damiyo?<br/>\n&gt; political motive or else? since we&#39;ll know that his father & himself (shingen) is a have a great leadership<br/>\n&gt; <br/>\n&gt; thanks all<br/>\n&gt; <br/>\n&gt; pride & respect<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n </span></blockquote>[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 470502391,
+            "authorName": "gaemonmoon",
+            "from": "&quot;gaemonmoon&quot; &lt;gaemonmoon@...&gt;",
+            "profile": "gaemonmoon",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hi all, im newone here",
+            "postDate": "1290251895",
+            "msgId": 10263,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGljOGFwbitsczdtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 10264,
+            "prevInTime": 10262,
+            "nextInTime": 10264,
+            "topicId": 10263,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "1. did u ll know how nobunaga death, & is there any prove or evidence about that temple incident? his death or burning body? 2. why shingen takeda kick away",
+            "messageBody": "<div id=\"ygrps-yiv-1499578305\">1. did u&#39;ll know how nobunaga death, & is there any prove or evidence about that temple incident? his death or burning body?<br/>\n<br/>\n2. why shingen takeda &quot;kick away&quot; his father from his chair as damiyo?<br/>\npolitical motive or else? since we&#39;ll know that his father & himself (shingen) is a have a great leadership<br/>\n<br/>\nthanks all<br/>\n<br/>\npride & respect</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10247,
+    "nextTopicId": 10266
+}

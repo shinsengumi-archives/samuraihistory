@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 82597425,
+            "authorName": "CRAZ",
+            "from": "CRAZ &lt;crazoftheages@...&gt;",
+            "profile": "crazoftheages",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Topknot",
+            "postDate": "1071955346",
+            "msgId": 2948,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMxMjIwMjEyMjI2LjI5ODIxLnFtYWlsQHdlYjQwMDExLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDEwZC4yZTA2Njg5MS4yZDE1NGI0ZEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 2939,
+            "nextInTopic": 0,
+            "prevInTime": 2947,
+            "nextInTime": 2949,
+            "topicId": 2939,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No offense taken, I was just trying to be a little bit more specific on the hairstyle since it seemed like there was some question as to which one i was",
+            "messageBody": "<div id=\"ygrps-yiv-1805024276\">No offense taken, I was just trying to be a little bit<br/>\nmore specific on the hairstyle since it seemed like<br/>\nthere was some question as to which one i was speaking<br/>\nof.<br/>\n<br/>\nSo does anyone have an answer?  I seriously tried<br/>\nputting my hair up like that and every time I did it<br/>\njust fell all over the place.  No I need to put gobs<br/>\nof baby oil in it or what?<br/>\n<br/>\n--- <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Eponymous13@...\">Eponymous13@...</a> wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; Hey.<br/>\n&gt;        I wasn&#39;t trying to be offensive, but the<br/>\n&gt; other post gave me a chuckle, <br/>\n&gt; and it was something that I personally had been<br/>\n&gt; wondering about for a while <br/>\n&gt; anyway.  The &quot;department... &c.&quot; was in reference to<br/>\n&gt; my own question, not <br/>\n&gt; yours.  Sorry for the misunderstanding and for<br/>\n&gt; offending you if I did.  Please <br/>\n&gt; accept my humble apologies.<br/>\n&gt; <br/>\n&gt; Tim<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been<br/>\n&gt; removed]<br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nNew Yahoo! Photos - easier uploading and sharing.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://photos.yahoo.com/\">http://photos.yahoo.com/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 128395055,
+            "authorName": "Eponymous13@aol.com",
+            "from": "Eponymous13@...",
+            "profile": "holydemon13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Topknot",
+            "postDate": "1071903053",
+            "msgId": 2939,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDEwZC4yZTA2Njg5MS4yZDE1NGI0ZEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2948,
+            "prevInTime": 2938,
+            "nextInTime": 2940,
+            "topicId": 2939,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey. I wasn t trying to be offensive, but the other post gave me a chuckle, and it was something that I personally had been wondering about for a while anyway.",
+            "messageBody": "<div id=\"ygrps-yiv-385858175\">Hey.<br/>\n       I wasn&#39;t trying to be offensive, but the other post gave me a chuckle, <br/>\nand it was something that I personally had been wondering about for a while <br/>\nanyway.  The &quot;department... &c.&quot; was in reference to my own question, not <br/>\nyours.  Sorry for the misunderstanding and for offending you if I did.  Please <br/>\naccept my humble apologies.<br/>\n<br/>\nTim<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2942,
+    "nextTopicId": 2949
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117288373,
+            "authorName": "real_fatty",
+            "from": "&quot;real_fatty&quot; &lt;real_fatty@...&gt;",
+            "profile": "real_fatty",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Saigo Takamori and Seikanron",
+            "postDate": "1114095651",
+            "msgId": 6961,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQ0OGY3Myt0dThkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6960,
+            "nextInTime": 6962,
+            "topicId": 6961,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all. I m going on writing my graduation thesis on Saigou Takamori and the Seikanron. Now I m translating some of Saigou s letters from the Saigou Takamori ",
+            "messageBody": "<div id=\"ygrps-yiv-1062240721\">Hi all.<br/>\nI&#39;m going on writing my graduation thesis on Saigou Takamori and the<br/>\nSeikanron. <br/>\nNow I&#39;m translating some of Saigou&#39;s letters from the Saigou Takamori<br/>\nZenshuu, dated from 1873/7/29 to 1876/10/8, the crucial point in the<br/>\n&quot;Occupy Korea debate&quot;.<br/>\nDo you know any essay (better if online) on this argument?<br/>\nThank you.<br/>\n<br/>\nDomenico</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6960,
+    "nextTopicId": 6962
+}

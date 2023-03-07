@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Recent Updates",
+            "postDate": "1153293319",
+            "msgId": 8975,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU5a202Nyttb3ZwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8974,
+            "nextInTime": 8976,
+            "topicId": 8975,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "New edit of Gaki , winner of the 2006 Samurai Fiction writing contest: http://www.samurai-archives.com/samfic4.html Modernization and the Decline of the",
+            "messageBody": "<div id=\"ygrps-yiv-1234484059\">New edit of &quot;Gaki&quot;, winner of the 2006 Samurai Fiction writing contest:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/samfic4.html\">http://www.samurai-archives.com/samfic4.html</a><br/>\n<br/>\n&quot;Modernization and the Decline of the Samurai&quot;, by N. Moscardi:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/mds.html\">http://www.samurai-archives.com/mds.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8974,
+    "nextTopicId": 8982
+}

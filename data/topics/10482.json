@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 558842114,
+            "authorName": "",
+            "from": "cewest75@...",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "2014 Samurai Fiction Contest results",
+            "postDate": "1425153527",
+            "msgId": 10482,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PG1jdDZsbisxMGRrcGlzQFlhaG9vR3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10481,
+            "nextInTime": 10483,
+            "topicId": 10482,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The winner of the 2014 Samurai Fiction Contest is: The Nagasaki Incident by Jesse Workman http://www.samurai-archives.com/sfic14a.html",
+            "messageBody": "<div id=\"ygrps-yiv-1706257380\"><span class=\"ygrps-yiv-1706257380postbody\">The winner of the 2014 Samurai Fiction Contest is:\n<br>\n\n<br>\n<span style=\"font-weight:bold;\">The Nagasaki Incident</span> by Jesse Workman\n<br>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/sfic14a.html\">http://www.samurai-archives.com/sfic14a.html</a>\n<br>\n\n<br>\nAll the rest can be found here:\n<br>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/guestart.html\">http://www.samurai-archives.com/guestart.html</a><p> &nbsp;</p></span><p><span><br class=\"ygrps-yiv-1706257380yui-cursor\"></span></p></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10476,
+    "nextTopicId": 10483
+}

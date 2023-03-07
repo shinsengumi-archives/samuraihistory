@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 1172",
+            "postDate": "1118027508",
+            "msgId": 7220,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyQTNCRUY0LjgwNDA0MDFAY29tY2FzdC5uZXQ+",
+                "inReplyToHeader": "PDExMTc5OTYxNzYuNTk3LjE3ODEubTE3QHlhaG9vZ3JvdXBzLmNvbT4=",
+                "referencesHeader": "PDExMTc5OTYxNzYuNTk3LjE3ODEubTE3QHlhaG9vZ3JvdXBzLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7219,
+            "nextInTime": 7221,
+            "topicId": 7220,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Which is like TOTALLY sweet! Silly ninja discussions have a few good things come out of them! Jim Eckman",
+            "messageBody": "<div id=\"ygrps-yiv-1683717306\"><blockquote><span title=\"ireply\">&gt;&gt;<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/ultmods.html\">http://www.samurai-archives.com/ultmods.html</a><br/>\n&gt;&gt;    <br/>\n&gt;&gt;<br/>\n&gt;<br/>\n&gt;LMAO!!!!!!!!!!!!!!!!<br/>\n&gt;<br/>\n&gt;YES! I&#39;m armed with Sawaguchi Yasuko!!!!<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Which is like TOTALLY sweet!<br/>\n<br/>\nSilly ninja discussions have a few good things come out of them!<br/>\n<br/>\nJim Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7217,
+    "nextTopicId": 7221
+}

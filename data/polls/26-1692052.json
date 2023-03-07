@@ -1,0 +1,106 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1692052,
+    "listId": 2247946,
+    "dateCreated": 1110056879,
+    "userIdCreated": 145759856,
+    "dateEnd": 1111935540,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Would you be more likely to enter the \nSamurai Fiction contest if the \nregistration deadline was moved out 2 \nmore weeks to the end of March?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12557256,
+            "selectionText": "Yes",
+            "selections": 6,
+            "responses": [
+                {
+                    "selectionId": 12557256,
+                    "surveyId": 1692052,
+                    "userId": 61281048,
+                    "guid": "BAS5WGO3HZQBCGOCD7Q747F2OE",
+                    "nickname": "ltdomer98",
+                    "email": "ltdomer98@yahoo.com"
+                },
+                {
+                    "selectionId": 12557256,
+                    "surveyId": 1692052,
+                    "userId": 62491063,
+                    "guid": "5HFAOFACTGR6S76G5VJW3PQ5AQ",
+                    "nickname": "klancesegall",
+                    "email": "klancesegall@yahoo.com"
+                },
+                {
+                    "selectionId": 12557256,
+                    "surveyId": 1692052,
+                    "userId": 216903881,
+                    "nickname": "billymalone_pi",
+                    "email": "Jimmy_Culo@hotmail.com"
+                },
+                {
+                    "selectionId": 12557256,
+                    "surveyId": 1692052,
+                    "userId": 52024423,
+                    "email": "Rammutta2000@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12557257,
+            "selectionText": "No",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 12557257,
+                    "surveyId": 1692052,
+                    "userId": 129164387,
+                    "nickname": "gilliru",
+                    "email": "gillian@gillianrubinstein.com"
+                },
+                {
+                    "selectionId": 12557257,
+                    "surveyId": 1692052,
+                    "userId": 212254526,
+                    "nickname": "bikerboy_20042000",
+                    "email": "bikerboy_20042000@yahoo.com"
+                },
+                {
+                    "selectionId": 12557257,
+                    "surveyId": 1692052,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12557258,
+            "selectionText": "I&#39;ve already registered",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 12557258,
+                    "surveyId": 1692052,
+                    "userId": 214272372,
+                    "guid": "WFCU3YP63PJ5XSH36IM3ONNKSU",
+                    "nickname": "g3mneye",
+                    "email": "grfkboyz@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 10,
+    "previousSurveyId": 1714500,
+    "nextSurveyId": 1536945
+}

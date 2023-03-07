@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 172181724,
+            "authorName": "James Holley",
+            "from": "James Holley &lt;jsh028007@...&gt;",
+            "profile": "jsh028007",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "last samurai",
+            "postDate": "1076769302",
+            "msgId": 3821,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMjE0MTQzNTAyLjM3MTQ1LnFtYWlsQHdlYjIwNzI1Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PDEwNzY3NTA4NDEuNTY4LjU2OTUzLm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3820,
+            "nextInTime": 3822,
+            "topicId": 3821,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi All, I just started reading a book entitled The Last Samurai about Saigo Takamori, the leader of the Satsuma rebellion. I m only 30 pages or so into it",
+            "messageBody": "<div id=\"ygrps-yiv-1115106764\">Hi All,<br/>\nI just started reading a book entitled &quot;The Last<br/>\nSamurai&quot; about Saigo Takamori, the leader of the<br/>\nSatsuma rebellion. I&#39;m only 30 pages or so into it but<br/>\nit seems like Watanabe&#39;s character could be loosely<br/>\nbased on him.<br/>\nAny thoughts?<br/>\n<br/>\nSteve<br/>\n<br/>\n__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Finance: Get your refund fast by filing online.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://taxes.yahoo.com/filing.html\">http://taxes.yahoo.com/filing.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3803,
+    "nextTopicId": 3822
+}

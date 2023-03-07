@@ -1,0 +1,38 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 159917758,
+            "authorName": "James Eckman",
+            "from": "James Eckman &lt;ronin_engineer@...&gt;",
+            "profile": "lost90804",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "We are all Daimyo",
+            "postDate": "1095730422",
+            "msgId": 5572,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQxNEY4NEY2LjIwOTAxQGNvbWNhc3QubmV0Pg==",
+                "inReplyToHeader": "PDEwOTU3MDQ0ODYuMzEzNy4xNjcwMS5tMTJAeWFob29ncm91cHMuY29tPg==",
+                "referencesHeader": "PDEwOTU3MDQ0ODYuMzEzNy4xNjcwMS5tMTJAeWFob29ncm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5571,
+            "nextInTime": 5573,
+            "topicId": 5572,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Rice costs about $3.50 a koku in bulk! (50 cents a bushel) If you make $35K a year, you make 10,000 koku. Scale as appropriate to your salary ;) Jim one room",
+            "messageBody": "<div id=\"ygrps-yiv-696883095\">Rice costs about $3.50 a koku in bulk! (50 cents a bushel) If you make <br/>\n$35K a year, you make 10,000 koku. Scale as appropriate to your salary ;)<br/>\n<br/>\nJim &quot;one room mansion daimyo&quot; Eckman</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5563,
+    "nextTopicId": 5570
+}

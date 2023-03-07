@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 96789622,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;thomas@...&gt;",
+            "profile": "thomas5403",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Hi!",
+            "postDate": "1037271524",
+            "msgId": 1228,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFxdnZsNCs4NTBrQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PDIwMDIxMTEzMTMxMDA2Ljc5ODc4LnFtYWlsQHdlYjEzMTE1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 1220,
+            "nextInTopic": 0,
+            "prevInTime": 1227,
+            "nextInTime": 1229,
+            "topicId": 1220,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a dog-eared old paperback Japanese Inn by Oliver Staler about the Mochizuke family, starting with a sixteenth century samurai in the service of the",
+            "messageBody": "<div id=\"ygrps-yiv-1280093472\">I have a dog-eared old paperback &quot;Japanese Inn&quot; by Oliver <br/>\nStaler about the Mochizuke family, starting with a sixteenth <br/>\ncentury samurai in the service of the Takeda who has his <br/>\n&#39;castle&#39; (a salt-store? there&#39;s no garrison) burnt down by <br/>\nTokugawa Ieyasu (I think) and is reduced to inn-keeping.<br/>\n<br/>\nInteresting because it refers to Will Adams, and that he and <br/>\nTokugawa Ieyasu spent many a pleasant afternoon talking <br/>\nin the garden.<br/>\n<br/>\nTom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 83369860,
+            "authorName": "Edwin Angulo",
+            "from": "Edwin Angulo &lt;mayalan@...&gt;",
+            "profile": "mayalan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hi!",
+            "postDate": "1037193006",
+            "msgId": 1220,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIxMTEzMTMxMDA2Ljc5ODc4LnFtYWlsQHdlYjEzMTE1Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1228,
+            "prevInTime": 1219,
+            "nextInTime": 1221,
+            "topicId": 1220,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Got a question: in 1600 Ieyasu met Mr Adams and his cargo of gunpowder and ammunitions; what happened to Mr Adams after Sekigahara and the establishment of the",
+            "messageBody": "<div id=\"ygrps-yiv-1354278308\">Got a question: in 1600 Ieyasu met Mr Adams and his cargo of gunpowder and ammunitions; what happened to Mr Adams after Sekigahara and the establishment of the tokugawa shogunate?<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nU2 on LAUNCH - Exclusive medley & videos from Greatest Hits CD<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1227,
+    "nextTopicId": 1219
+}

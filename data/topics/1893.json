@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 120699816,
+            "authorName": "William&Mikiko Letham",
+            "from": "&quot;William&Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "profile": "samuraiwm",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Ushiwakamura",
+            "postDate": "1055862056",
+            "msgId": 1895,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMjAwMWMzMzRlMSQ0MWQyYjYwMCQ3NzIwMTZkYkBGTTEyNjAyNjc0Mj4=",
+                "referencesHeader": "PExhdzEyLUY1MHFrRElQdERyMFkwMDAwMjM4M0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 1893,
+            "nextInTopic": 0,
+            "prevInTime": 1894,
+            "nextInTime": 1896,
+            "topicId": 1893,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "In English the best source would be Yoshitsune by Helen Craig McCullough. This is her translation of  the Gikeiki. The introduction also details variant",
+            "messageBody": "<div id=\"ygrps-yiv-1214092543\">In English the best source would be &#39;Yoshitsune&#39; by Helen Craig McCullough.<br/>\nThis is her translation of  the Gikeiki. The introduction also details<br/>\nvariant depictions of the famous battle on the bridge.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 111953928,
+            "authorName": "Diego Fernández",
+            "from": "=?iso-8859-1?B?RGllZ28gRmVybuFuZGV6?= &lt;dieseb10@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Ushiwakamura",
+            "postDate": "1055815686",
+            "msgId": 1893,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PExhdzEyLUY1MHFrRElQdERyMFkwMDAwMjM4M0Bob3RtYWlsLmNvbT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1895,
+            "prevInTime": 1892,
+            "nextInTime": 1894,
+            "topicId": 1893,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hey where i can find info about Ushiwakamura(Yoshitsune Minamoto) and the fight with the monk Benkei in the bridge of Gojou... ",
+            "messageBody": "<div id=\"ygrps-yiv-111457890\">Hey where i can find info about Ushiwakamura(Yoshitsune Minamoto) and the <br/>\nfight with the monk Benkei in the bridge of Gojou...<br/>\n<br/>\n_________________________________________________________________<br/>\nCharla con tus amigos en línea mediante MSN Messenger: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://messenger.yupimsn.com/\">http://messenger.yupimsn.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1879,
+    "nextTopicId": 1899
+}

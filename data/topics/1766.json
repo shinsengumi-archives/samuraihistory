@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 121285179,
+            "authorName": "Carlo Tacchini",
+            "from": "&quot;Carlo Tacchini&quot; &lt;TSUBAME1@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "R: [samuraihistory] Iaido 10-dan",
+            "postDate": "1053968606",
+            "msgId": 1773,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PCF+IVVFTkVSa1ZDTURrQUFRQUNBQUFBQUFBQUFBQUFBQUFBQUJnQUFBQUFBQUFBK0ZGOWh6WDNCMEs2Qkt1bzJtVHMzc0tBQUFBUUFBQUFXRVZjRWllQVgwU1hnMGx6WG9naGZnRUFBQUFBQHRpbi5pdD4=",
+                "inReplyToHeader": "PGEwNTIxMDYwYWJhZjZjNDc3YzZlZkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 1766,
+            "nextInTopic": 0,
+            "prevInTime": 1772,
+            "nextInTime": 1774,
+            "topicId": 1766,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would be there, but I m italian.... ... Da: tom helm [mailto:junkmail@toryu-mon.com] Inviato: domenica 25 maggio 2003 21.09 A: samuraihistory@yahoogroups.com",
+            "messageBody": "<div id=\"ygrps-yiv-1232208612\">I would be there, but I&#39;m italian....<br/>\n<br/>\n-----Messaggio originale-----<br/>\nDa: tom helm [mailto:<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:junkmail@...\">junkmail@...</a>] <br/>\nInviato: domenica 25 maggio 2003 21.09<br/>\nA: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a><br/>\nOggetto: [samuraihistory] Iaido 10-dan<br/>\n<br/>\nwww.iaido.org<br/>\n<br/>\nAnyone interested in Japanese Swordsmanship is welcome,<br/>\n\tIf you are on or near the west coast of America we invite you <br/>\nto join us. Esaka Senseis&#39; visit is the first of what we hope will be <br/>\nmany to the San Francisco Bay Area. If you have any questions feel <br/>\nfree to email me off-list or contact Andrej thru the website.<br/>\nyour friend in the way,<br/>\nTom<br/>\n<br/>\n<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n---<br/>\nTo unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n<br/>\n <br/>\n<br/>\nYour use of Yahoo! Groups is subject to<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Iaido 10-dan",
+            "postDate": "1053889751",
+            "msgId": 1766,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwYWJhZjZjNDc3YzZlZkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1773,
+            "prevInTime": 1765,
+            "nextInTime": 1767,
+            "topicId": 1766,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "www.iaido.org Anyone interested in Japanese Swordsmanship is welcome, If you are on or near the west coast of America we invite you to join us. Esaka Senseis",
+            "messageBody": "<div id=\"ygrps-yiv-1085590037\">www.iaido.org<br/>\n<br/>\nAnyone interested in Japanese Swordsmanship is welcome,<br/>\n\tIf you are on or near the west coast of America we invite you <br/>\nto join us. Esaka Senseis&#39; visit is the first of what we hope will be <br/>\nmany to the San Francisco Bay Area. If you have any questions feel <br/>\nfree to email me off-list or contact Andrej thru the website.<br/>\nyour friend in the way,<br/>\nTom</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1765,
+    "nextTopicId": 1768
+}

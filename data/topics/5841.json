@@ -1,0 +1,64 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 166981532,
+            "authorName": "luke berryman",
+            "from": "luke berryman &lt;luke_berryman@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Takuya Sawada",
+            "postDate": "1099318517",
+            "msgId": 5855,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQxMTAxMTQxNTE3LjMzMzkwLnFtYWlsQHdlYjI1MDA1Lm1haWwudWtsLnlhaG9vLmNvbT4=",
+                "inReplyToHeader": "PDE1OC40Mjg3ZDIwOC4yZWI2NzE3N0Bjcy5jb20+"
+            },
+            "prevInTopic": 5841,
+            "nextInTopic": 0,
+            "prevInTime": 5854,
+            "nextInTime": 5856,
+            "topicId": 5841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Nothing will beat the traditional Samurai Hakama. Sayanora Mmupton1@cs.com wrote: Hi everyone. I dont write much, but I do some observation. n e ways I was ",
+            "messageBody": "<div id=\"ygrps-yiv-1418695546\">Nothing will beat the traditional Samurai Hakama.<br/>\nSayanora<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:Mmupton1@...\">Mmupton1@...</a> wrote:<br/>\n<br/>\nHi everyone. I dont write much, but I do some observation. n e ways I was <br/>\nlooking for hakama on the Internet and I came upon a designer named takuya <br/>\nsawada. I have never seen anything like his clothes except in anime. there pretty <br/>\ncool. His clothes are modern variations to old ones. but they are super bitchin.<br/>\n<br/>\n-MattyBoi<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\nSamurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n--- <br/>\nYahoo! Groups Links<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\n ALL-NEW Yahoo! Messenger - all new features - even more fun!  <br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 165409812,
+            "authorName": "Mmupton1@cs.com",
+            "from": "Mmupton1@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Takuya Sawada",
+            "postDate": "1099241335",
+            "msgId": 5841,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDE1OC40Mjg3ZDIwOC4yZWI2NzE3N0Bjcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 5855,
+            "prevInTime": 5838,
+            "nextInTime": 5842,
+            "topicId": 5841,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi everyone. I dont write much, but I do some observation. n e ways I was looking for hakama on the Internet and I came upon a designer named takuya sawada. I",
+            "messageBody": "<div id=\"ygrps-yiv-1234123162\">Hi everyone. I dont write much, but I do some observation. n e ways I was <br/>\nlooking for hakama on the Internet and I came upon a designer named takuya <br/>\nsawada. I have never seen anything like his clothes except in anime. there pretty <br/>\ncool. His clothes are modern variations to old ones. but they are super bitchin.<br/>\n<br/>\n-MattyBoi<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5851,
+    "nextTopicId": 5856
+}

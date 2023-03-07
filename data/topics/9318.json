@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "SamuraiWiki - approved editors",
+            "postDate": "1169426615",
+            "msgId": 9318,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwMTFibis1dGZzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9317,
+            "nextInTime": 9319,
+            "topicId": 9318,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The SamuraiWiki (http://wiki.samurai-archives.com) is now locked from editing by new members. It goes without saying that you don t need to sign up to READ",
+            "messageBody": "<div id=\"ygrps-yiv-1177156917\">The SamuraiWiki (http://wiki.samurai-archives.com) is now locked from<br/>\nediting by new members. It goes without saying that you don&#39;t need to<br/>\nsign up to READ everything on the site.<br/>\n<br/>\nIf you wish to become an approved editor, please join the SamuraiWiki<br/>\nEditor&#39;s Group: http://groups.yahoo.com/group/samuraiwiki/<br/>\n<br/>\nPost your interest in becoming an editor, what your<br/>\ninterests/specialties are in regards to Japanese history, what &quot;areas&quot;<br/>\nof the SamuraiWiki you&#39;d like to work in, and if applicable, feel<br/>\nfreet to mention any &quot;qualifications&quot;.  If approved, you will gain the<br/>\nability to edit any unlocked articles, and to create new articles.<br/>\n<br/>\nThese members are already Approved Editors:<br/>\n<br/>\nhttp://wiki.samurai-archives.com/index.php?title=SamuraiWiki:Approved_Editors<br/>\n<br/>\nWe look forward to your help!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9308,
+    "nextTopicId": 9321
+}

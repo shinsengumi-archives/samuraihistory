@@ -1,0 +1,29 @@
+{
+    "userId": 36450143,
+    "authorName": "Cearb@aol.com",
+    "from": "Cearb@...",
+    "profile": "omajinchan",
+    "replyTo": "LIST",
+    "senderId": "JTBT6USZlxXSYcLReAG64-cYi0IVis-ZRC0txm-eCmlcgiS7kuQ2XZFrFl8WoO_vcucZ9Q",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "12"
+    },
+    "subject": "Aftermath of the Onin War",
+    "postDate": "1280441061",
+    "msgId": 10216,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": true,
+    "headers": {
+        "messageIdInHeader": "PDhDQ0ZEODEyMjI3QkZBOC0xRTY0LTFERURAd2VibWFpbC1tMDk2LnN5c29wcy5hb2wuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 10217,
+    "prevInTime": 10215,
+    "nextInTime": 10217,
+    "topicId": 10216,
+    "numMessagesInTopic": 4,
+    "msgSnippet": "Hi All-- Does anyone know (or can anyone point me to a good source) what specific buildings were destroyed in Kyoto during the Onin war?  What was the city",
+    "rawEmail": "Return-Path: &lt;Cearb@...&gt;\r\nReceived: (qmail 41816 invoked from network); 30 Jul 2010 05:34:40 -0000\r\nReceived: from unknown (98.137.34.44)\n  by m4.grp.sp2.yahoo.com with QMQP; 30 Jul 2010 05:34:40 -0000\r\nReceived: from unknown (HELO n4-vm6.bullet.mail.sp2.yahoo.com) (67.195.135.100)\n  by mta1.grp.sp2.yahoo.com with SMTP; 30 Jul 2010 05:34:40 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=lima; t=1280468079; bh=an7X7XF8YYZDg6HT2Xh+M3Of8yM6ZOqY5hh7dbqipeI=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:To:Date:X-MB-Message-Source:X-AOL-IP:X-MB-Message-Type:MIME-Version:X-Mailer:X-Received:Message-Id:X-Spam-Flag:X-AOL-SENDER:X-Originating-IP:X-eGroups-Msg-Info:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:Sender:X-Yahoo-Newman-Property:X-eGroups-Approved-By:X-eGroups-Auth; b=GyOuPCTbEDjEy21P/ps8M+PK4/d0rbNacVVZBUGF2AonbfAXgeW7bfU7aB8mj1l2DEFfG3dhwpA+rAQ9oTvl6AeP4lVZcDfJKaMC9KPTMFfEEwQzc3R84DezgQteL43p\r\nReceived: from [67.195.134.239] by n4.bullet.mail.sp2.yahoo.com with NNFMP; 30 Jul 2010 05:34:39 -0000\r\nReceived: from [69.147.65.151] by t4.bullet.mail.sp2.yahoo.com with NNFMP; 30 Jul 2010 05:34:39 -0000\r\nReceived: from [98.137.34.73] by t5.bullet.mail.sp1.yahoo.com with NNFMP; 30 Jul 2010 05:34:39 -0000\r\nX-Sender: Cearb@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 39749 invoked from network); 29 Jul 2010 22:04:37 -0000\r\nX-Received: from unknown (98.137.34.46)\n  by m13.grp.re1.yahoo.com with QMQP; 29 Jul 2010 22:04:37 -0000\r\nX-Received: from unknown (HELO imr-mb02.mx.aol.com) (64.12.207.163)\n  by mta3.grp.sp2.yahoo.com with SMTP; 29 Jul 2010 22:04:36 -0000\r\nX-Received: from imo-ma01.mx.aol.com (imo-ma01.mx.aol.com [64.12.78.136])\n\tby imr-mb02.mx.aol.com (8.14.1/8.14.1) with ESMTP id o6TM4UXh000436\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Thu, 29 Jul 2010 18:04:30 -0400\r\nX-Received: from Cearb@...\n\tby imo-ma01.mx.aol.com  (mail_out_v42.9.) id r.d22.56e92b03 (43833)\n\t for &lt;samuraihistory@yahoogroups.com&gt;; Thu, 29 Jul 2010 18:04:26 -0400 (EDT)\r\nX-Received: from smtprly-dc03.mx.aol.com (smtprly-dc03.mx.aol.com [205.188.170.3]) by cia-dc02.mx.aol.com (v129.4) with ESMTP id MAILCIADC026-d3bf4c51fae531c; Thu, 29 Jul 2010 18:04:25 -0400\r\nX-Received: from webmail-m096 (webmail-m096.sim.aol.com [64.12.101.42]) by smtprly-dc03.mx.aol.com (v129.4) with ESMTP id MAILSMTPRLYDC037-d3bf4c51fae531c; Thu, 29 Jul 2010 18:04:21 -0400\r\nTo: samuraihistory@yahoogroups.com\r\nDate: Thu, 29 Jul 2010 18:04:21 -0400\r\nX-MB-Message-Source: WebUI\r\nX-AOL-IP: 174.22.182.56\r\nX-MB-Message-Type: User\r\nMIME-Version: 1.0\r\nX-Mailer: AOL Webmail 32360-STANDARD\r\nX-Received: from 174.22.182.56 by webmail-m096.sysops.aol.com (64.12.101.42) with HTTP (WebMailUI); Thu, 29 Jul 2010 18:04:21 -0400\r\nMessage-Id: &lt;8CCFD812227BFA8-1E64-1DED@...&gt;\r\nX-Spam-Flag:NO\r\nX-AOL-SENDER: Cearb@...\r\nX-eGroups-Msg-Info: 1:12:0:0:0\r\nFrom: Cearb@...\r\nSubject: Aftermath of the Onin War\r\nX-Yahoo-Group-Post: member; u=36450143; y=JVrzTIGrUvd_UMM7kR9TpcJvPBRnx5SNPvOViketJQueCu3JAQ\r\nX-Yahoo-Profile: omajinchan\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nX-Yahoo-Newman-Property: groups-system\r\nX-eGroups-Approved-By: kitsuno &lt;samurai-listowner@...&gt; via web; 30 Jul 2010 05:34:38 -0000\r\n\r\n\nHi All--\n\nDoes anyone know (or can anyone point me to a good source) what specific buildings were destroyed in Kyoto during the Onin war?  What was the city like in the immediate aftermath?\n\nThanks!\n\n--R. Michael Burns\n\n\n\n\n\n[Non-text portions of this message have been removed]\n\n\n"
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 160314779,
+            "authorName": "Steven Matsheshu",
+            "from": "Steven Matsheshu &lt;steven_matsheshu@...&gt;",
+            "profile": "steven_matsheshu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Fujii Kogen&#39;s Castle",
+            "postDate": "1180661463",
+            "msgId": 9584,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ3MjM4My41MzMwMi5xbUB3ZWI0MzE0Mi5tYWlsLnNwMS55YWhvby5jb20+",
+                "inReplyToHeader": "PGYzbmY4Nys4YnJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9582,
+            "nextInTopic": 0,
+            "prevInTime": 9583,
+            "nextInTime": 9585,
+            "topicId": 9582,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I found an old link which was asking how to pronounce the castle  for Fujii Kogen. The castle is called Shoreizan . This is the actual way to pronounce its",
+            "messageBody": "<div id=\"ygrps-yiv-1724710290\">I found an old link which was asking how to pronounce<br/>\nthe castle  for Fujii Kogen.<br/>\n<br/>\n  The castle is called &quot;Shoreizan&quot;. This is the actual<br/>\nway to pronounce its name. <br/>\n<br/>\n <br/>\n Also, if interested, I have one picture of it.<br/>\n<br/>\n  I don&#39;t know if anyone cares about that anymore, but<br/>\nI figured I&#39;d answer that question anyway.<br/>\n<br/>\n<br/>\n       <br/>\n____________________________________________________________________________________<br/>\nBoardwalk for $500? In 2007? Ha! Play Monopoly Here and Now (it&#39;s updated for today&#39;s economy) at Yahoo! Games.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://get.games.yahoo.com/proddesc?gamekey=monopolyherenow\">http://get.games.yahoo.com/proddesc?gamekey=monopolyherenow</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "SamuraiWiki Benchmark",
+            "postDate": "1180647495",
+            "msgId": 9582,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGYzbmY4Nys4YnJ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9584,
+            "prevInTime": 9581,
+            "nextInTime": 9583,
+            "topicId": 9582,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Samuraiwiki has just reached 1,500 articles on various aspects of Japanese history: http://wiki.samurai-archives.com/index.php?title=Main_Page Here are",
+            "messageBody": "<div id=\"ygrps-yiv-1547838314\">The Samuraiwiki has just reached 1,500 articles on various aspects of<br/>\nJapanese history:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://wiki.samurai-archives.com/index.php?title=Main_Page\">http://wiki.samurai-archives.com/index.php?title=Main_Page</a><br/>\n<br/>\nHere are some of the current top categories:<br/>\n<br/>\nSamurai &#8206;(712 articles)<br/>\nSengoku Period &#8206;(631 articles)<br/>\nEdo Period &#8206;(180 articles)<br/>\nBakumatsu &#8206;(168 articles)<br/>\nClans &#8206;(143 articles)<br/>\nTimeline &#8206;(127 articles)<br/>\nShinsengumi &#8206;(117 articles)<br/>\nBujutsu &#8206;(101 articles)<br/>\nShinsengumi Members &#8206;(86 articles)<br/>\nSengoku Period Timeline &#8206;(78 articles)<br/>\nBattles &#8206;(70 articles)<br/>\nProvinces &#8206;(69 articles)<br/>\n<br/>\nTake a look.  And anyone interested in writing articles should join<br/>\nthe wiki users group.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9580,
+    "nextTopicId": 9581
+}

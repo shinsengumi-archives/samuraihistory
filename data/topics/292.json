@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kagemaru",
+            "from": "&quot;kagemaru&quot; &lt;kagemaru@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "WZ4EiHubavuD7gmKOTVuZodH_z-7II_Tij2g3D1ya3equk7t8EN6KbsvH1NRbu1_353iifcwBT37cqJrXJ_N3T6mL2m6VTw",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "FW: The Knowing...",
+            "postDate": "997509272",
+            "msgId": 292,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxNjIwMWMxMjIyYSQzYjhhYWY4MCQwMWY1ODY5ZkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 291,
+            "nextInTime": 293,
+            "topicId": 292,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Dear List Members, A forward, courtesy of The Reluctant Messenger . Kagemaru. ================================ The knowing is not the thoughts The knowing is",
+            "messageBody": "<div id=\"ygrps-yiv-1878333106\">Dear List Members,<br/>\n                             A forward, courtesy of &#39;The Reluctant<br/>\nMessenger&#39;.<br/>\n<br/>\nKagemaru.<br/>\n<br/>\n================================<br/>\nThe knowing is not the thoughts<br/>\nThe knowing is not the feelings<br/>\nThe knowing is not the body<br/>\nThe knowing is not the mind<br/>\n<br/>\nThe knowing is found beyond the thoughts<br/>\nThe knowing is found without the feelings<br/>\nThe knowing continues when the body does not<br/>\nThe knowing trancends the mind<br/>\n<br/>\nThe knowing is found within<br/>\nThe knowing is sometimes forgotten<br/>\nThe knowing is never gone<br/>\nThe knowing is for you to find<br/>\n<br/>\nThe knowing is who you are<br/>\nThe knowing is where you have been<br/>\nThe knowing is where you are going<br/>\nThe knowing is knowing you know<br/>\n=================================</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 291,
+    "nextTopicId": 293
+}

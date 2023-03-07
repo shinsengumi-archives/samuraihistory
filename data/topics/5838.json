@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 45511697,
+            "authorName": "Clive Sinclaire",
+            "from": "&quot;Clive Sinclaire&quot; &lt;CSinclaire@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Sword Exhibition",
+            "postDate": "1099173700",
+            "msgId": 5838,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGEwMWM0YmVjYyQyZDA0OWY2MCRmZGM0ZTE1MEB2M2Y2YzU+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5837,
+            "nextInTime": 5841,
+            "topicId": 5838,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ladies and Gentlemen For your information, we have reproduced the introductory leaflet of the British Museum s Cutting Edge - Japanese swords at the BM",
+            "messageBody": "<div id=\"ygrps-yiv-2043383474\">Ladies and Gentlemen<br/>\nFor your information, we have reproduced the introductory leaflet of the British Museum&#39;s &quot;Cutting Edge - Japanese swords at the BM&quot; exhibition on our website which is www.to-ken.com under Members Area. I would urge those interested in the subject to visit.<br/>\nRegards <br/>\nClive Sinclaire<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5837,
+    "nextTopicId": 5813
+}

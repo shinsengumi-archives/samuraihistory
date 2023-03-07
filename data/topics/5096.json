@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 192504069,
+            "authorName": "Hecson Manaligod",
+            "from": "Hecson Manaligod &lt;samurai_dokoro@...&gt;",
+            "profile": "samurai_dokoro",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "takezaki suenaga and his mongol invasion scroll",
+            "postDate": "1091860958",
+            "msgId": 5096,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwODA3MDY0MjM4LjU4Mzc5LnFtYWlsQHdlYjU0MDA5Lm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 5095,
+            "nextInTime": 5097,
+            "topicId": 5096,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "was it really true that, as the scroll depicts, takezaki suenaga(the samurai who commissioned the scroll as an offering to his family shrine) had his horse",
+            "messageBody": "<div id=\"ygrps-yiv-1404237300\">was it really true that, as the scroll depicts, takezaki suenaga(the samurai who commissioned the scroll as an offering to his family shrine) had his horse shot under him while leading a charge against the mongol troops on the beach? or perhaps his horse was just stunned by the fireball missiles the invaders hurled against suenaga?<br/>\n <br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nNew and Improved Yahoo! Mail - Send 10MB messages!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 5064,
+    "nextTopicId": 5094
+}

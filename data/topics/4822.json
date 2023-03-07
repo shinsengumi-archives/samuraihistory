@@ -1,0 +1,34 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 129164387,
+            "authorName": "Gillian Rubinstein",
+            "from": "Gillian Rubinstein &lt;gillian@...&gt;",
+            "profile": "gilliru",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re:carrier pigeons",
+            "postDate": "1089763003",
+            "msgId": 4822,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {},
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4821,
+            "nextInTime": 4823,
+            "topicId": 4822,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... some Japanese friends at the weekend and they said they thought these pigeons were used in the sengoku period. Does anyone on the board have confirmation",
+            "messageBody": "<div id=\"ygrps-yiv-708448504\"><blockquote><span title=\"ireply\">&gt; I was talking about the use of carrier pigeons in times of war with <br/>\n </span></blockquote>some Japanese friends at the weekend and they said they thought <br/>\nthese pigeons were used in the sengoku period. Does anyone on the <br/>\nboard have confirmation of this or a historical reference? (A google <br/>\nsearch shows they were used by the ancient Egyptians and in WW1, but <br/>\nnot much information on the intervening period.)<br/>\n<br/>\nThanks,<br/>\n<br/>\nGillian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4777,
+    "nextTopicId": 4437
+}

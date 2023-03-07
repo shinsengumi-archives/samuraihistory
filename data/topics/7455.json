@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 101560437,
+            "authorName": "Michael",
+            "from": "&quot;Michael&quot; &lt;takayama_hara@...&gt;",
+            "profile": "takayama_hara",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Watanabe Moritsuna (1542-1620)",
+            "postDate": "1123778022",
+            "msgId": 7455,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRkZnVsNitxYmI4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7454,
+            "nextInTime": 7456,
+            "topicId": 7455,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know where I would go to look for information (credible historical information) on Watanabe Moritsuna (1542-1620). Thank you, Michael",
+            "messageBody": "<div id=\"ygrps-yiv-1660755405\">Does anyone know where I would go to look for information (credible <br/>\nhistorical information) on Watanabe Moritsuna (1542-1620).<br/>\n<br/>\nThank you,<br/>\n<br/>\nMichael</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7454,
+    "nextTopicId": 7451
+}

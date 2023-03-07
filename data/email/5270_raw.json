@@ -1,0 +1,30 @@
+{
+    "userId": 61281048,
+    "authorName": "Nate Ledbetter",
+    "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+    "profile": "ltdomer98",
+    "replyTo": "LIST",
+    "senderId": "1Z-g-z1tm8oKA5AouzjhWtf8PCXRwxIG-qrwNpdXNW-BYAor3922NaQV6KKO-gMhIPPNSverxspZecW8JnurFOP3Ae2ygUg8akUU",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092697673",
+    "msgId": 5270,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODE2MjMwNzUzLjExOTg3LnFtYWlsQHdlYjQxMzE0Lm1haWwueWFob28uY29tPg==",
+        "inReplyToHeader": "PFRuZ2F3QUFRSk1JQkZ3ZjJAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+"
+    },
+    "prevInTopic": 5264,
+    "nextInTopic": 5285,
+    "prevInTime": 5269,
+    "nextInTime": 5271,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "... Okay, if you ve got Windows XP, try this: When viewing the email with Japanese in it, left click and go to Encoding on the menu that pops up. Click on",
+    "rawEmail": "Return-Path: &lt;ltdomer98@...&gt;\r\nX-Sender: ltdomer98@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 77372 invoked from network); 16 Aug 2004 23:07:53 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m23.grp.scd.yahoo.com with QMQP; 16 Aug 2004 23:07:53 -0000\r\nReceived: from unknown (HELO web41314.mail.yahoo.com) (66.218.93.63)\n  by mta6.grp.scd.yahoo.com with SMTP; 16 Aug 2004 23:07:53 -0000\r\nMessage-ID: &lt;20040816230753.11987.qmail@...&gt;\r\nReceived: from [155.6.244.5] by web41314.mail.yahoo.com via HTTP; Mon, 16 Aug 2004 16:07:53 PDT\r\nDate: Mon, 16 Aug 2004 16:07:53 -0700 (PDT)\r\nTo: samuraihistory@yahoogroups.com\r\nIn-Reply-To: &lt;TngawAAQJMIBFwf2@...&gt;\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=us-ascii\r\nX-eGroups-Remote-IP: 66.218.93.63\r\nFrom: Nate Ledbetter &lt;ltdomer98@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=61281048\r\nX-Yahoo-Profile: ltdomer98\r\n\r\n\n--- Dean Wayland &lt;dean@...&gt;\nwrote:\n\n&gt; Dear Jay,\n&gt; \n&gt; Firstly, I haven&#39;t had time to contact my ISP or\n&gt; check out the link you\n&gt; gave, but here&#39;s the answers to your questions:\n&gt; \n&gt; &gt;    1. What operating system are you using? That\n&gt; is, Windows 2000, \n&gt; &gt;    Windows \n&gt; &gt;    98, Windows XP, etc.\n&gt; \n&gt; Windows XP Pro\n&gt; \n\nOkay, if you&#39;ve got Windows XP, try this: \n\nWhen viewing the email with Japanese in it, left click\n\nand go to &quot;Encoding&quot; on the menu that pops up. Click\non it, and see if anything that says Japanese is on\nthere...&quot;Japanese(AutoSelect)&quot;, &quot;Japanese(ShiftJIS)&quot;,\nor &quot;Japanese(EUC)&quot;. These are all encoding systems\nthat read the characters on your screen. Switching to\nthem generally does not affect most English text. Half\nthe time I forget which encoding I&#39;m in. \n\nIf they aren&#39;t there, click &quot;more&quot;. See if they are\nthere. If they are, click one--preferably Japanese\n(AutoSelect). \n\nIf they aren&#39;t on the &quot;more&quot; window, then you&#39;ll have\nto go to your control panel. \n\nAs I&#39;m currently on a Win 2000 machine at work, I\ncan&#39;t help further for now--when I get home to my XP\nmachine, I&#39;ll hunt down what exactly you are supposed\nto do there. But if you&#39;re running XP, it&#39;s already on\nyour machine to READ Japanese--you may or may not have\nto load something to get to write Japanese, but you\nshould be able to download that--alternately, it&#39;s on\nyour windows startup disk. \n\n&gt; \n&gt; P.S. just as I was attempting to post the above, my\n&gt; package through this\n&gt; message up:\n&gt; \n&gt; &quot;The message you are posting contains characters\n&gt; which are not included\n&gt; in the MIME character set being used (ISO 8859-1)&quot;\n&gt; \n&gt; Curiously when I tried to look this up via the Help\n&gt; function, there was\n&gt; no entry:-( And so no immediately obvious (well to\n&gt; me at least) way of\n&gt; changing it.\n&gt; \n&gt; \n&gt; \n\n\n\n\t\t\n__________________________________\nDo you Yahoo!?\nYahoo! Mail - 50x more storage than other providers!\nhttp://promotions.yahoo.com/new_mail\n\n"
+}

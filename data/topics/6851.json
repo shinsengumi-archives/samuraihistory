@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 219054323,
+            "authorName": "nahless",
+            "from": "&quot;nahless&quot; &lt;mr.ripley@...&gt;",
+            "profile": "nahless",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hi All",
+            "postDate": "1111755124",
+            "msgId": 6851,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyMTFoaytwMnZ1QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6850,
+            "nextInTime": 6852,
+            "topicId": 6851,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "My nickname is Nahless, 28 yrs. old, and I m from the Netherlands. I m very interested in Japanese (samurai) history and culture; specifically the Sengoku era.",
+            "messageBody": "<div id=\"ygrps-yiv-1907073775\">My nickname is Nahless, 28 yrs. old, and I&#39;m from the Netherlands. <br/>\nI&#39;m very interested in Japanese (samurai) history and culture; <br/>\nspecifically the Sengoku era. I&#39;m hoping to find some people here <br/>\nwho share my interests (looks like the right place!) since i&#39;ve <br/>\ndriven my girlfriend nuts with my &#39;samurai talk&#39;. To start off with <br/>\na question: I&#39;ve read Mitsuo Kure&#39;s &#39;Samurai&#39; (Tuttle books) and he <br/>\nwrites on page 174 (near the top of the page) that Takeda Shingen&#39;s <br/>\nadult name (zokumyô) was Nobuharu. I was under the impression that <br/>\nhis zokumyô was harunobu (as it is stated on samurai-archives).<br/>\nStrange error of Mitsuo Kure or am I wrong?<br/>\n<br/>\nNahless</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6850,
+    "nextTopicId": 6843
+}

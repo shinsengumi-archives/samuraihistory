@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "anubis6784@hotmail.com",
+    "from": "anubis6784@...",
+    "replyTo": "LIST",
+    "senderId": "2saxU7Tyb1YGUxoS5nb_DQcrsZ7F1mYQKEXi0_ZsVlgsZzZ7-etNUgJvYnD-TxA10shlyQB0mNtHxLgRew",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Poll up",
+    "postDate": "980287229",
+    "msgId": 59,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDk0a3V0dCtoaDdvQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 76,
+    "prevInTime": 58,
+    "nextInTime": 60,
+    "topicId": 59,
+    "numMessagesInTopic": 2,
+    "msgSnippet": "I posted a poll on your favorite sengoku family but no one has answered it, I would like to know your opinions so please take the poll.",
+    "rawEmail": "Return-Path: &lt;anubis6784@...&gt;\r\nReceived: (qmail 26612 invoked from network); 25 Jan 2001 00:46:19 -0000\r\nReceived: from unknown (10.1.10.27) by l9.egroups.com with QMQP; 25 Jan 2001 00:46:19 -0000\r\nReceived: from unknown (HELO b05.egroups.com) (10.1.2.184) by mta2 with SMTP; 25 Jan 2001 00:46:18 -0000\r\nX-eGroups-Return: anubis6784@...\r\nReceived: from [10.1.10.110] by b05.egroups.com with NNFMP; 25 Jan 2001 00:46:16 -0000\r\nX-eGroups-Approved-By: kitsuno@... via web; 25 Jan 2001 00:44:45 -0000\r\nX-Sender: anubis6784@...\r\nX-Apparently-To: samuraihistory@egroups.com\r\nReceived: (EGP: mail-7_0_1_2); 23 Jan 2001 22:30:14 -0000\r\nReceived: (qmail 63777 invoked from network); 23 Jan 2001 22:00:33 -0000\r\nReceived: from unknown (10.1.10.27) by l10.egroups.com with QMQP; 23 Jan 2001 22:00:33 -0000\r\nReceived: from unknown (HELO hh.egroups.com) (10.1.10.40) by mta2 with SMTP; 23 Jan 2001 22:00:33 -0000\r\nX-eGroups-Return: anubis6784@...\r\nReceived: from [10.1.10.107] by hh.egroups.com with NNFMP; 23 Jan 2001 22:00:30 -0000\r\nDate: Tue, 23 Jan 2001 22:00:29 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: Poll up\r\nMessage-ID: &lt;94kutt+hh7o@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 138\r\nX-Mailer: eGroups Message Poster\r\nFrom: anubis6784@...\r\n\r\nI posted a poll on your favorite sengoku family but no one has \nanswered it, I would like to know your opinions so please take the \npoll.\n\n\n\n"
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 126049995,
+            "authorName": "jonathan lee",
+            "from": "=?iso-8859-1?q?jonathan=20lee?= &lt;shinobij@...&gt;",
+            "profile": "shinobij",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "habo",
+            "postDate": "1045946760",
+            "msgId": 1519,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwMjIyMjA0NjAwLjEzMTI2LnFtYWlsQHdlYjQwNzAyLm1haWwueWFob28uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1518,
+            "nextInTime": 1520,
+            "topicId": 1519,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello everyone! I m new to this group and fairly ignorant when it comes to the subject of samurai, but what i kow i find facinating and i m dying (not",
+            "messageBody": "<div id=\"ygrps-yiv-1922559750\">hello everyone!<br/>\n<br/>\nI&#39;m new to this group and fairly ignorant when it comes to the subject of samurai, but what i kow i find facinating and i&#39;m dying (not literally) to know more. Therefore i would appreciate it if ayone could recommend any websites books etc.<br/>\n<br/>\nThanks!<br/>\n<br/>\nJonny<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nWith Yahoo! Mail you can get a bigger mailbox -- choose a size that fits your needs<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1517,
+    "nextTopicId": 1523
+}

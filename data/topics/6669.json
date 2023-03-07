@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Feudalism in Japan?",
+            "postDate": "1107951471",
+            "msgId": 6671,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGN1Y3YxZis3a2FqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGY3YTMyNjcwMmE2MmYwYzY5MjY5MDM3MzM4MmI5Mzc1QGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 6669,
+            "nextInTopic": 0,
+            "prevInTime": 6670,
+            "nextInTime": 6672,
+            "topicId": 6669,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Cepo - Was this not because feudalism found its structure in the late Sengoku - and that structure was the Edojidai - or rather Takugawanism ? Until then",
+            "messageBody": "<div id=\"ygrps-yiv-1986351440\">Hi Cepo - <br/>\n<br/>\nWas this not because feudalism found its structure in the late <br/>\nSengoku - and that structure was the Edojidai - or rather <br/>\n&#39;Takugawanism&#39;? Until then we see a constant striving towards <br/>\nthat &#39;ideal&#39; interruptd by the incursions of one&#39;s neighbours, but it <br/>\nwas there.<br/>\n<br/>\nTokugawa feudalism was not a product of Ieyasu, it was an <br/>\nincipient feudalism instituted on a national scale; both Hideyoshi <br/>\nand Nobunaga were working towards that end with themselves <br/>\nat the top of the tree - and every daimyo instituted and <br/>\nmaintained a feudal regime as much as he was able.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Feudalism in Japan?",
+            "postDate": "1107949032",
+            "msgId": 6669,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY3YTMyNjcwMmE2MmYwYzY5MjY5MDM3MzM4MmI5Mzc1QGRvbmtleWlzbGFuZC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6671,
+            "prevInTime": 6668,
+            "nextInTime": 6670,
+            "topicId": 6669,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Technically, feudalism implies a series of vertical relationships, where one is connected ONLY with the ones directly above and below. Thus, I believe in Japan",
+            "messageBody": "<div id=\"ygrps-yiv-803449581\">Technically, feudalism implies a series of vertical relationships, <br/>\nwhere one is connected ONLY with the ones directly above and below. <br/>\nThus, I believe in Japan we can talk about feudalism perhaps only in <br/>\nthe Tokugawa era. The whole Kamakura-Muromachi period was in fact a <br/>\ncontinuous attempt from every part to &quot;cut the middle man.&quot;<br/>\n<br/>\nThe ***idealized*** structure should have been something like: <br/>\nemperor/court - shogun - daimyo - kokujin - dosô - peasants. As a <br/>\nmatter of fact, each party tried to do whatever possible for its own <br/>\nconvenience.<br/>\n<br/>\nConsidering the convulsion of the period, and the fact that there is no <br/>\naccepted theory on KK-MM institutional history, I would stay away from <br/>\nit. Tokugawa period seems much more approachable, because of the <br/>\nConfucian ideology layer, and the police-state that managed more or <br/>\nless to control people at least fro two centuries.<br/>\n<br/>\ncepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6655,
+    "nextTopicId": 6650
+}

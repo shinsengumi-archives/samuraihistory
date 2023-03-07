@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 166870616,
+            "authorName": "Cesare Polenghi",
+            "from": "Cesare Polenghi &lt;cepo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The &quot;I am a Samurai !!&quot; chaps",
+            "postDate": "1070844789",
+            "msgId": 2700,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEU0NDg5QjE0LTI5MTgtMTFEOC1CMTU1LTAwMDM5Mzk2MkY5OEBkb25rZXlpc2xhbmQuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2699,
+            "nextInTime": 2701,
+            "topicId": 2700,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "No, I am not, don t worry! But looks like there are a lot of them around... If you look at the board about the Last Samurai in www.imdb.com, there is a big ",
+            "messageBody": "<div id=\"ygrps-yiv-1048699607\">No, I am not, don&#39;t worry!<br/>\nBut looks like there are a lot of them around... If you look at the <br/>\nboard about &#39;the Last Samurai&#39; in www.imdb.com, there is a big <br/>\ndiscussion going on, with at least 5 people calling themselves <br/>\n&quot;samurai&quot; (for various reasons), and a lot more mocking them.<br/>\nNow, I have lived in Kyoto for 6 years (and I will be back in a few <br/>\nyears), and I am personally quite annoyed by the &quot;I-am-a-samurai&quot; guys <br/>\n(or &quot;I-am-a-Zen-monk,&quot; etc.), especially gaijins. And believe me, there <br/>\nare a lot of them in Japan. And after Tom Cruise&#39;s movie, expect <br/>\nmore...<br/>\nHowever, my opinion is that everybody is entitled to his/her own <br/>\nfantasies. As far as these &quot;samurai&quot; do not go around cutting people <br/>\nfor real, I believe we should tolerate them. We all have our own <br/>\ndreams, and we hate others shattering them, don&#39;t we?<br/>\nThe only alternative would be to be &quot;NORMAL.&quot; Now, there we would <br/>\nreally have a problem...<br/>\nBye!<br/>\ncepo, honolulu</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2698,
+    "nextTopicId": 2703
+}

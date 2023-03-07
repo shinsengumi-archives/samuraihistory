@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 442110365,
+            "authorName": "Daniel Seo",
+            "from": "Daniel Seo &lt;DigimonDaniel0907@...&gt;",
+            "profile": "digimondaniel0907",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "suprise!!!!!!!!!",
+            "postDate": "1272304789",
+            "msgId": 10178,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PHkyeDdmNWQ5NDI1MTAwNDI2MTA1OXZkMGQ4NzdlMXRiMDgzM2IyMjZkOGNhMDhiQG1haWwuZ21haWwuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10177,
+            "nextInTime": 10179,
+            "topicId": 10178,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "i showed teacher that i ve finished my research project, and he said i  got A in social studies!!!!!!!!!!!!!!!!!!!! what a luck!!! [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-636562237\">i showed teacher that i&#39;ve finished my research project, and he said i  got<br/>\nA in social studies!!!!!!!!!!!!!!!!!!!!<br/>\nwhat a luck!!!<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10167,
+    "nextTopicId": 10179
+}

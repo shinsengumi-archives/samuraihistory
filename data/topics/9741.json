@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "4th Annual Samurai Fiction Contest - 2008",
+            "postDate": "1209870715",
+            "msgId": 9741,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGZ2ajlocit0dHM5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9740,
+            "nextInTime": 9742,
+            "topicId": 9741,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "At long last, the 4th annual Samurai Fiction contest has kicked off. This year there is NO FEE to join, and anyone can enter. Please check here for details: ",
+            "messageBody": "<div id=\"ygrps-yiv-671431884\">At long last, the 4th annual Samurai Fiction contest has kicked off.<br/>\nThis year there is NO FEE to join, and anyone can enter.<br/>\n<br/>\nPlease check here for details:<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/writcon2.html\">http://www.samurai-archives.com/writcon2.html</a><br/>\n<br/>\nDeadline for fiction submission: 7/15/2008<br/>\nJudging starts: 7/20/2008<br/>\nJudging ends: 8/01/2008 or until necessary<br/>\nWinner to be announced after judging.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9729,
+    "nextTopicId": 9747
+}

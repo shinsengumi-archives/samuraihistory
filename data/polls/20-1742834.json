@@ -1,0 +1,68 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "ninja_20049",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1742834,
+    "listId": 2247946,
+    "dateCreated": 1112239570,
+    "userIdCreated": 219301262,
+    "dateEnd": 1113458340,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "what age did Gesshu Soko die at?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12897334,
+            "selectionText": "82",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12897335,
+            "selectionText": "79",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12897336,
+            "selectionText": "63",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12897337,
+            "selectionText": "72",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 12897337,
+                    "surveyId": 1742834,
+                    "userId": 219301262,
+                    "guid": "45DYYWYQLDLASO4O3VJFAGBPRI",
+                    "nickname": "ninja_20049",
+                    "email": "ninja_20049@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12897338,
+            "selectionText": "54",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 1,
+    "previousSurveyId": 1903173,
+    "nextSurveyId": 1742803
+}

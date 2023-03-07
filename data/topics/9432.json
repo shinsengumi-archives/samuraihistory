@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Re: the tales of yoshitsune minomoto",
+            "postDate": "1173770272",
+            "msgId": 9438,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGV0NWo3MCtxamwwQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVzdm04aithaGhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9432,
+            "nextInTopic": 0,
+            "prevInTime": 9437,
+            "nextInTime": 9439,
+            "topicId": 9432,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... I d suggest google.",
+            "messageBody": "<div id=\"ygrps-yiv-264860237\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;samurai_honor13&quot;<br/>\n&lt;samurai_honor13@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; I would like some help. I have heard that there are many interesting<br/>\n&gt; tales involving yoshitsune minomoto but im having a hard time finding<br/>\n&gt; them. if you know some please tell me or sujest somewhere i could look<br/>\n&gt; for them please.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>I&#39;d suggest google.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 293564945,
+            "authorName": "samurai_honor13",
+            "from": "&quot;samurai_honor13&quot; &lt;samurai_honor13@...&gt;",
+            "profile": "samurai_honor13",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "the tales of yoshitsune minomoto",
+            "postDate": "1173576787",
+            "msgId": 9432,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVzdm04aithaGhhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9438,
+            "prevInTime": 9431,
+            "nextInTime": 9433,
+            "topicId": 9432,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I would like some help. I have heard that there are many interesting tales involving yoshitsune minomoto but im having a hard time finding them. if you know",
+            "messageBody": "<div id=\"ygrps-yiv-2106658561\">I would like some help. I have heard that there are many interesting<br/>\ntales involving yoshitsune minomoto but im having a hard time finding<br/>\nthem. if you know some please tell me or sujest somewhere i could look<br/>\nfor them please.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9421,
+    "nextTopicId": 648
+}

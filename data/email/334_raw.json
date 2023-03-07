@@ -1,0 +1,29 @@
+{
+    "userId": 0,
+    "authorName": "tom.davidson@realtime.co.uk",
+    "from": "tom.davidson@...",
+    "replyTo": "LIST",
+    "senderId": "Bb22tbWP-N_y2HsbzxPAC0sQZBqMbapVxw-lzpiApFFdeigsYTfR5nW0qU7C4t1Cixr01_zE3l6u6lwVcHUBdhw_",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: musashi site",
+    "postDate": "1001413138",
+    "msgId": 334,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDlvcGxtaStkZHQwQGVHcm91cHMuY29tPg==",
+        "inReplyToHeader": "PDAwMGIwMWMxNDU0NiQ0ZWRmYzY4MCRiYTYwNDJjM0BMb2NhbEhvc3Q+"
+    },
+    "prevInTopic": 333,
+    "nextInTopic": 335,
+    "prevInTime": 333,
+    "nextInTime": 335,
+    "topicId": 310,
+    "numMessagesInTopic": 4,
+    "msgSnippet": "Yes it appears so. Thomas",
+    "rawEmail": "Return-Path: &lt;tom.davidson@...&gt;\r\nX-Sender: tom.davidson@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2_2); 25 Sep 2001 10:19:02 -0000\r\nReceived: (qmail 27295 invoked from network); 25 Sep 2001 10:19:02 -0000\r\nReceived: from unknown (10.1.10.26)\n  by m8.onelist.org with QMQP; 25 Sep 2001 10:19:02 -0000\r\nReceived: from unknown (HELO n32.groups.yahoo.com) (10.1.2.221)\n  by mta1 with SMTP; 25 Sep 2001 10:19:02 -0000\r\nX-eGroups-Return: tom.davidson@...\r\nReceived: from [10.1.10.133] by hn.egroups.com with NNFMP; 25 Sep 2001 10:19:02 -0000\r\nDate: Tue, 25 Sep 2001 10:18:58 -0000\r\nTo: samuraihistory@yahoogroups.com\r\nSubject: Re: musashi site\r\nMessage-ID: &lt;9oplmi+ddt0@...&gt;\r\nIn-Reply-To: &lt;000b01c14546$4edfc680$ba6042c3@LocalHost&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 28\r\nX-Mailer: eGroups Message Poster\r\nFrom: tom.davidson@...\r\n\r\nYes it appears so.\n\nThomas\n\n\n\n"
+}

@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 165492929,
+            "authorName": "Sheldon",
+            "from": "&quot;Sheldon&quot; &lt;shunt@...&gt;",
+            "profile": "mshunt123",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Digest Number 635",
+            "postDate": "1069012436",
+            "msgId": 2469,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDkwMWMzYWM3YiQ2OTE3ODVkMCQ1ZTczZWY5YkBNQVRSSVg+",
+                "referencesHeader": "PDEwNjg5OTkzMDEuNTU2LjQ2Nzk3Lm0xMkB5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2468,
+            "nextInTime": 2470,
+            "topicId": 2469,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bob Burke wrote: ",
+            "messageBody": "<div id=\"ygrps-yiv-631199136\">Bob Burke wrote:<br/>\n<br/>\n&lt;&lt;All I can say is, if this were my first introduction to this group, I&#39;d<br/>\nprobabaly unsubscribe.&gt;&gt;<br/>\n<br/>\nwell, this was my introduction to the group, i just signed up yesterday.<br/>\nAnyways imho everyones making  big deal of nuthing and if it were explained<br/>\nat first that such comparisons are dificult to make, we may have been able<br/>\nto avoid this whole ordeal.<br/>\n<br/>\nOne interesting point though that i think deserves mention (if some more<br/>\neducated members of the forum are already aware of this then i apologize for<br/>\nstating the obvious) is that as most of us know the word samurai means to<br/>\nserve and is derived from some japanese verb (i am not aware of the<br/>\nspecifics) while the word &quot;knight&quot; comes from the german &quot;knecht&quot; meaning<br/>\nservant. Just one of the many similarites between the european knight and<br/>\ntheir japanese counterparts. I kinda like to think of them as different<br/>\ninterpretations of the same thing.<br/>\n<br/>\nSheldon Laing<br/>\nCape Town<br/>\nSouth Africa</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2467,
+    "nextTopicId": 2435
+}

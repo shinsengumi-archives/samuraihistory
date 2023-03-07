@@ -1,0 +1,31 @@
+{
+    "userId": 181581475,
+    "authorName": "Oyakata",
+    "from": "Oyakata &lt;oyakata@...&gt;",
+    "profile": "jckelly108",
+    "replyTo": "LIST",
+    "senderId": "62ZiXs3JukEnw64ZyfY5H-HgsYK63-dceFJQ9GfrM_0v-_Z8FjClrbM9XMf_TFULSFpDywYN_YiWXuiybo1IZ4zI1bB4eofh",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Help with kanji and kana on my computer",
+    "postDate": "1092575835",
+    "msgId": 5235,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODE1MTMxNy5pN0ZESEVJWjAwMjUyM0Btcy1zbXRwLTA0LWVyaTAub2hpb3JkYy5yci5jb20+",
+        "inReplyToHeader": "PFBvbnRESkF6WHpIQkZ3VTRAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+",
+        "referencesHeader": "PDZGN3dJR0FEaGVIQkZ3QXNAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+CTwyMDA0MDgxNTAwMTIxOS44Njk1NC5xbWFpbEB3ZWI0MTMwMi5tYWlsLnlhaG9vLmNvbT4JPFBvbnRESkF6WHpIQkZ3VTRAdGhlZmlnaHRzY2hvb2wuZGVtb24uY28udWs+"
+    },
+    "prevInTopic": 5234,
+    "nextInTopic": 5238,
+    "prevInTime": 5234,
+    "nextInTime": 5236,
+    "topicId": 5063,
+    "numMessagesInTopic": 37,
+    "msgSnippet": "... Although this is a bit off-topic, I hope that the discussion will be allowed to continue. It might be helpful for lots of people who are interested in",
+    "rawEmail": "Return-Path: &lt;oyakata@...&gt;\r\nX-Sender: oyakata@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 50673 invoked from network); 15 Aug 2004 13:17:17 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m24.grp.scd.yahoo.com with QMQP; 15 Aug 2004 13:17:17 -0000\r\nReceived: from unknown (HELO ms-smtp-04-eri0.ohiordc.rr.com) (65.24.5.138)\n  by mta6.grp.scd.yahoo.com with SMTP; 15 Aug 2004 13:17:17 -0000\r\nReceived: from D2XWF701 (cvg-166-244-175.cinci.rr.com [24.166.244.175])\n\tby ms-smtp-04-eri0.ohiordc.rr.com (8.12.10/8.12.7) with SMTP id i7FDHEIZ002523\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Sun, 15 Aug 2004 09:17:15 -0400 (EDT)\r\nMessage-Id: &lt;200408151317.i7FDHEIZ002523@...&gt;\r\nDate: Sun, 15 Aug 2004 09:17:15 -0400\r\nTo: samuraihistory@yahoogroups.com\r\nOrganization: OdaNobunaga.com\r\nIn-Reply-To: &lt;PontDJAzXzHBFwU4@...&gt;\r\nReferences: &lt;6F7wIGADheHBFwAs@...&gt;\n\t&lt;20040815001219.86954.qmail@...&gt;\n\t&lt;PontDJAzXzHBFwU4@...&gt;\r\nX-Mailer: Datula version 1.51.06 for Windows\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-2022-JP\r\nX-Virus-Scanned: Symantec AntiVirus Scan Engine\r\nX-eGroups-Remote-IP: 65.24.5.138\r\nFrom: Oyakata &lt;oyakata@...&gt;\r\nSubject: Re: [samuraihistory] Help with kanji and kana on my computer\r\nX-Yahoo-Group-Post: member; u=181581475\r\nX-Yahoo-Profile: jckelly108\r\n\r\n\nOn Sun, 15 Aug 2004 11:07:47 +0100, Dean Wayland\u001b$B$5$s\u001b(B wrote:\n&gt;Thanks for your suggestions, sadly however, no joy. Although I am using\n&gt;an ordinary PC, the email package I have on board is a non standard type\n&gt;called &quot;Turnpike&quot; from Demon, my ISP, who I&#39;ll now contact to see if\n&gt;they can sort the problem out.\n\nAlthough this is a bit off-topic, I hope that the discussion will be \nallowed to continue. It might be helpful for lots of people who are \ninterested in studying, or communicating, in Japanese.\n\nFirst, here is a good (general) link to why this happens:\nhttp://dehoog.org/html/mojibake.html\n\nDean, the &quot;meaningless junk&quot; you refer to is called &quot;moji bake&quot;. \nThat&#39;s not bake like &quot;bake a cake&quot;, it&#39;s bah-kay. It&#39;s happening \nbecause either your encoding, or the encoding of the person who \nsent the message (or both) are somehow not correct.\n\nIf you can answer a few questions it would help get you closer to \nyour goal, I think:\n1. What operating system are you using? That is, Windows 2000, Windows \n98, Windows XP, etc.\n2. Can you see Japanese at all on your computer? For instance Japanese \nweb pages? Japanese documents?\n3. Are you able to see any Japanese at all on this mailing list? If \nyou could point to an email that you did see properly it will help.\n4. Here is a test string of Japanese. Does it work? \u001b$B$$$m$O$K$[$X$H$A$j\u001b(B\n\u001b$B$L$k$r\u001b(B\n\nLet&#39;s take it from there!\n\n--\nJay Kelly\noyakata@...\n\n"
+}

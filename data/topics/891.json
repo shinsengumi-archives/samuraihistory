@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 99172556,
+            "authorName": "Angel Antonio Vazquez",
+            "from": "&quot;Angel Antonio Vazquez&quot; &lt;comoda@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1022799724",
+            "msgId": 891,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDIwMWMyMDgyZSQ5MjM0MTVjMCRmNTY2MzI0MkBocHBhdj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 890,
+            "nextInTime": 892,
+            "topicId": 891,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi, my name is Angel. I m new to the group. I need information about Yoshida Chuzeemon, a Samurai under Oishi Kuranosuke, from the famous 47 Retainers (1701). ",
+            "messageBody": "<div id=\"ygrps-yiv-1368642894\">Hi, my name is Angel.<br/>\nI&#39;m new to the group.<br/>\nI need information about Yoshida Chuzeemon, a Samurai under Oishi Kuranosuke, from the famous 47 Retainers (1701).<br/>\nNeed to know where to look, for information in his person, what type of fencing style he was a master, since he was a very skilful swordsman.<br/>\nAlso any information in his sword made by Fujihara Yoshitake.<br/>\n<br/>\nThank you!<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 890,
+    "nextTopicId": 892
+}

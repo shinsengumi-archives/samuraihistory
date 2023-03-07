@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 154423207,
+            "authorName": "Michael Lorimer",
+            "from": "Michael Lorimer &lt;mijalo_jp@...&gt;",
+            "profile": "mijalo_jp",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] clarification needed",
+            "postDate": "1186513345",
+            "msgId": 9612,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDcwNTEzNS41NDgzNy5xbUB3ZWIyMzMwNC5tYWlsLmlyZC55YWhvby5jb20+",
+                "inReplyToHeader": "PGY5MXQxdSttYWRmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9611,
+            "nextInTopic": 0,
+            "prevInTime": 9611,
+            "nextInTime": 9613,
+            "topicId": 9611,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Ishin means Restoration or Revival, thus the Meiji Ishin was what s called in English the Meiji (i.e., imperial) Restoration of 1868. The term Bakumatsu",
+            "messageBody": "<div id=\"ygrps-yiv-1216411941\">&#39;Ishin&#39; means Restoration or Revival, thus the Meiji Ishin was what&#39;s called in English the Meiji (i.e., imperial) Restoration of 1868.<br/>\n  The term Bakumatsu refers to the last decade of the Tokugawa Bakufu.  <br/>\n<br/>\nowdeez &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:owdeez@...\">owdeez@...</a>&gt; wrote:<br/>\n          hello to all members, mine is just a something i <br/>\nneed clarification on. whats the difference between <br/>\nthe ishin & the meiji and the tokugawa & bakumatsu?<br/>\n<br/>\n<br/>\n<br/>\n         <br/>\n<br/>\n       <br/>\n---------------------------------<br/>\n Yahoo! Answers - Get better answers from someone who knows. Tryit now.<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 317843838,
+            "authorName": "owdeez",
+            "from": "&quot;owdeez&quot; &lt;owdeez@...&gt;",
+            "profile": "owdeez",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "clarification needed",
+            "postDate": "1186232190",
+            "msgId": 9611,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGY5MXQxdSttYWRmQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9612,
+            "prevInTime": 9610,
+            "nextInTime": 9612,
+            "topicId": 9611,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello to all members, mine is just a something i need clarification on. whats the difference between the ishin & the meiji and the tokugawa & bakumatsu?",
+            "messageBody": "<div id=\"ygrps-yiv-729303093\">hello to all members, mine is just a something i <br/>\nneed clarification on. whats the difference between <br/>\nthe ishin & the meiji and the tokugawa & bakumatsu?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9609,
+    "nextTopicId": 4461
+}

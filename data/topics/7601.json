@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 197263283,
+            "authorName": "Thomas Davidson",
+            "from": "&quot;Thomas Davidson&quot; &lt;tom.davidson@...&gt;",
+            "profile": "thomas_tessera",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Samurai status - Sengoku",
+            "postDate": "1125675873",
+            "msgId": 7601,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRmOXMxMStxdGllQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7600,
+            "nextInTime": 7602,
+            "topicId": 7601,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Two phrases sum up the Sengoku era: gekokuji — the low overthrow the high jakuniku kyoshoku — the weak become meat; the strong eat. In the wake of the",
+            "messageBody": "<div id=\"ygrps-yiv-1544475985\">Two phrases sum up the Sengoku era:<br/>\n<br/>\ngekokuji  &quot;the low overthrow the high&quot;<br/>\njakuniku kyoshoku  &quot;the weak become meat; the strong eat.&quot;<br/>\n<br/>\nIn the wake of the Onin Wars, everything was up for grabs.<br/>\n<br/>\nI would hazard a guess that anyone who could lay hands on a sword and<br/>\ndefend himself might declare himself samurai, but once order begins to<br/>\nemerge from the chaos, it&#39;s natural that the strong sought the means<br/>\nto make sure that no-one else achieved what they did, to limit by<br/>\nwhatever means the aspirations of those below them.<br/>\n<br/>\nThe promulgation of house codes, etc, all point at this, but they all<br/>\nimply an authority which I would guess was not quite as extensive as<br/>\nthe author would like to think. Thus we have, in retrospect, the idea<br/>\nof strictly delineated class boundaries, but I suggest the actuality<br/>\nwas a lot more fluid.<br/>\n<br/>\nI would also suggest that Hideyoshi&#39;s edicts, for example, was to some<br/>\ndegree inspired by his desire to prevent the emergence of another<br/>\nHideyoshi. On the other hand, Hideyoshi elevated non-samurai to<br/>\nsamurai status, as has been mentioned. Ieyasu did likewise. Who was<br/>\ngoing to stop them?<br/>\n<br/>\nThe one abiding fact seems to me that a samurai&#39;s survival depended on<br/>\nhis ability to sustain and defend himself, and then later, it depended<br/>\nupon the grace and favour of his superiors. Only then did the status<br/>\nbecome seriously fixed.<br/>\n<br/>\nAnother view is that some samurai formed democratic councils with<br/>\nfarmers and artisans, exchanging services for food and goods, and all<br/>\nhaving a say in the affaris of the han. This proto-democracy was<br/>\nquickly stamped out as the larger daimyates subsumed the lower.<br/>\n<br/>\nThomas</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7588,
+    "nextTopicId": 7606
+}

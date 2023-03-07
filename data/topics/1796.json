@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 148785293,
+            "authorName": "Bud Brann",
+            "from": "&quot;Bud Brann&quot; &lt;cebrann@...&gt;",
+            "profile": "cebrann",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Mini Series Shogun",
+            "postDate": "1054487021",
+            "msgId": 1796,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJiZGJsZCtrN2pnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1795,
+            "nextInTime": 1797,
+            "topicId": 1796,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am new to this group so perhaps this topic has been covered already. At the time Shogun first was shown on television, I was studying Japanese language at a",
+            "messageBody": "<div id=\"ygrps-yiv-985917180\">I am new to this group so perhaps this topic has been covered <br/>\nalready. At the time Shogun first was shown on television, I was <br/>\nstudying Japanese language at a Berliotz school. I thought watching <br/>\nthe show would help me with my language studies. I quickly learned <br/>\nthat I did not recognize any of the Japanese words used on the show. <br/>\nSomewhat disappointed, I mentioned it to my instructor, a Japanese <br/>\nwoman. She told me the reason I did not know any words was because <br/>\nthey actually spoke the Japanese language used during that period. <br/>\nThis amazed me. It seems to me that that is going above and beyond <br/>\nnormal efforts to make a show authentic. <br/>\n<br/>\nShortly after this experience on a visit to Japan I actual saw pilots <br/>\nhills. This brought me the realization, like nothing else could have <br/>\ndone, that the show was based upon real events.<br/>\n<br/>\nP.S. Shogun is my all time favorite mini series and I checked it out <br/>\nof the library to watch tonight, again.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1728,
+    "nextTopicId": 1789
+}

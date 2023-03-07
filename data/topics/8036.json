@@ -1,0 +1,97 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 27940151,
+            "authorName": "Barbara Nostrand",
+            "from": "Barbara Nostrand &lt;nostrand@...&gt;",
+            "profile": "drnostrand",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "Re: [samuraihistory] writing",
+            "postDate": "1133481992",
+            "msgId": 8059,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQ2MTM3MTM0OTI2NWI5YzM3NmQzZTYyOWEyYzRlM2U2QGFjbS5vcmc+",
+                "inReplyToHeader": "PGRtODZocytjN3JwQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGRtODZocytjN3JwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8039,
+            "nextInTopic": 0,
+            "prevInTime": 8058,
+            "nextInTime": 8060,
+            "topicId": 8036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi. Lots of people can write Japanese of one sort or another. You should say a bit more about what you are interested in.",
+            "messageBody": "<div id=\"ygrps-yiv-707191747\">Hi.<br/>\n<br/>\nLots of people can write Japanese of one sort or another. You should <br/>\nsay a bit more about what you are interested in.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: writing",
+            "postDate": "1132970490",
+            "msgId": 8039,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtOGZscittZW0zQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGRtODZocytjN3JwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 8036,
+            "nextInTopic": 8059,
+            "prevInTime": 8038,
+            "nextInTime": 8040,
+            "topicId": 8036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... No questions?  You could always try here: http://forums.delphiforums.com/nihongoforum/start",
+            "messageBody": "<div id=\"ygrps-yiv-1044545452\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Sensei Phil Newton&quot; <br/>\n&lt;whitetiger1@b...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Please I am wanting contact some one who can write japanese<br/>\n&gt; Philip Newton Sensei Australian White Tiger<br/>\n&gt; South Australia<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>No questions?  You could always try here: <br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://forums.delphiforums.com/nihongoforum/start\">http://forums.delphiforums.com/nihongoforum/start</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 104444278,
+            "authorName": "Sensei Phil Newton",
+            "from": "&quot;Sensei Phil Newton&quot; &lt;whitetiger1@...&gt;",
+            "profile": "whitetigersensei",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "writing",
+            "postDate": "1132961148",
+            "msgId": 8036,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRtODZocytjN3JwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 8039,
+            "prevInTime": 8035,
+            "nextInTime": 8037,
+            "topicId": 8036,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Please I am wanting contact some one who can write japanese Philip Newton Sensei Australian White Tiger South Australia",
+            "messageBody": "<div id=\"ygrps-yiv-192084715\">Please I am wanting contact some one who can write japanese<br/>\nPhilip Newton Sensei Australian White Tiger<br/>\nSouth Australia</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8009,
+    "nextTopicId": 1040
+}

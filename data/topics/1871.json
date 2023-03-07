@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1055350495",
+            "msgId": 1871,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwN2JiMGQwZWQ5MWRjNkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1870,
+            "nextInTime": 1872,
+            "topicId": 1871,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "http://www.thesun.co.uk/article/0,,2-2003262028,00.html This does not bode well for the collector. I hope they catch him and use him for tameshi-giri... -t ",
+            "messageBody": "<div id=\"ygrps-yiv-400612008\"><a rel=\"nofollow\" target=\"_blank\" href=\"http://www.thesun.co.uk/article/0,,2-2003262028,00.html\">http://www.thesun.co.uk/article/0,,2-2003262028,00.html</a><br/>\n<br/>\nThis does not bode well for the collector. I hope they catch him and <br/>\nuse him for tameshi-giri...<br/>\n-t<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1852,
+    "nextTopicId": 1872
+}

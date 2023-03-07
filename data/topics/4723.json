@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 165409812,
+            "authorName": "Mmupton1@cs.com",
+            "from": "Mmupton1@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Seven Breaths?",
+            "postDate": "1088674004",
+            "msgId": 4723,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFkMy4yNGVlYzliNS4yZTE1MzJkNEBjcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4722,
+            "nextInTime": 4724,
+            "topicId": 4723,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Is it true that Samurai made all there their decisions in seven breaths, or is that just some stuff from the Hagakure? -MattyBoi [Non-text portions of this",
+            "messageBody": "<div id=\"ygrps-yiv-1878647430\">Is it true that Samurai made all there their decisions in seven breaths, or <br/>\nis that just some stuff from the Hagakure?<br/>\n-MattyBoi<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 4694,
+    "nextTopicId": 4734
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "b0MFTwqj0BnMplMtqnXNhGT6MvXKW9FqlGhx_iVjr32n1cOJRC5RV4ZAmKzWrqY8bj-wbksfHoh-zJQ",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Japanese History Book Search",
+            "postDate": "970337302",
+            "msgId": 4,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDhyNWE2bStjMDBlQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3,
+            "nextInTime": 5,
+            "topicId": 4,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am currently on the search for the book Historical and Geographical Dictonary of Japan by Papinot. All the copies i can find are between 100$ and 400$.",
+            "messageBody": "<div id=\"ygrps-yiv-280413599\">I am currently on the search for the book &quot;Historical and <br/>\nGeographical Dictonary of Japan&quot; by Papinot. All the copies i can <br/>\nfind are between 100$ and 400$. Anyone have any leads where a copy <br/>\ncan be picked up for under $50?  I know the newest version was <br/>\npublished in 1988, and should be a LOT cheaper...<br/>\nC.E.West</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3,
+    "nextTopicId": 5
+}

@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 256500464,
+            "authorName": "Rob",
+            "from": "&quot;Rob&quot; &lt;capt_bochan@...&gt;",
+            "profile": "capt_bochan",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hello to all",
+            "postDate": "1138960418",
+            "msgId": 8318,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRydjk3MitzN3NvQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1461,
+            "nextInTopic": 0,
+            "prevInTime": 8317,
+            "nextInTime": 8319,
+            "topicId": 1455,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello to all! I am glad to see a group like this and I hope to have many good conversations with all of you. I am an American living in the beautiful country",
+            "messageBody": "<div id=\"ygrps-yiv-1163098058\">Hello to all! I am glad to see a group like this and I hope to have <br/>\nmany good conversations with all of you. I am an American living in the <br/>\nbeautiful country side of Kanaya Japan. I am a member of several <br/>\nhistorical groups which seek to protect and restore old houses as well <br/>\nas educate young Japanese in the values of thier heritage. I am in no <br/>\nway and expert but if there is any questions on life during the Azuchi <br/>\nmomoyama or Edo periods I would be happy to research them for you. <br/>\nPeriodically I sell small Japanese antiques and frequent many flea <br/>\nmarkets and antique shops so I don`t mind looking for some particular <br/>\nitem for you as long as you`re willing to pay the shipping cost which <br/>\ncan be quite expensive. Anyway again, I`m glad to meet you all.<br/>\n<br/>\nRobert Hirai</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 93509222,
+            "authorName": "Anthony Tan",
+            "from": "=?iso-8859-1?q?Anthony=20Tan?= &lt;walmart_stores@...&gt;",
+            "profile": "walmart_stores",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Hello to all",
+            "postDate": "1045028050",
+            "msgId": 1461,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDMwMjEyMDUzNDEwLjg1ODY5LnFtYWlsQHdlYjQxMzEwLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGIyOWs3bithbXQyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1455,
+            "nextInTopic": 8318,
+            "prevInTime": 1460,
+            "nextInTime": 1462,
+            "topicId": 1455,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Welcome to our network tommy and hope you will enjoy our discussions. More info on samurai history on the way. Best Regards, Member Date Masanobu ... wrote: ",
+            "messageBody": "<div id=\"ygrps-yiv-984340458\">Welcome to our network tommy and hope you will enjoy<br/>\nour discussions. More info on samurai history on the<br/>\nway. <br/>\n<br/>\nBest Regards,<br/>\n<br/>\nMember Date Masanobu<br/>\n<br/>\n --- &quot;Tommy &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:shy128@...\">shy128@...</a>&gt;&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:shy128@...\">shy128@...</a>&gt;<br/>\nwrote: &gt; Just wanted to say hello and express my<br/>\nabsolute joy<br/>\n<blockquote><span title=\"ireply\"> &gt; at having found such a great area to discuss a<br/>\n&gt; passion.<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; ---<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt; <br/>\n&gt;  <br/>\n&gt; <br/>\n&gt; Your use of Yahoo! Groups is subject to<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://docs.yahoo.com/info/terms/\">http://docs.yahoo.com/info/terms/</a> <br/>\n&gt; <br/>\n&gt;  <br/>\n<br/>\n </span></blockquote>__________________________________________________<br/>\nDo You Yahoo!?<br/>\nEverything you&#39;ll ever need on one web page<br/>\nfrom News and Sport to Email and Music Charts<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://uk.my.yahoo.com\">http://uk.my.yahoo.com</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 32600093,
+            "authorName": "Tommy &lt;shy128@yahoo.com&gt;",
+            "from": "&quot;Tommy &lt;shy128@...&gt;&quot; &lt;shy128@...&gt;",
+            "profile": "Shy128",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hello to all",
+            "postDate": "1044927543",
+            "msgId": 1455,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIyOWs3bithbXQyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1461,
+            "prevInTime": 1454,
+            "nextInTime": 1456,
+            "topicId": 1455,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Just wanted to say hello and express my absolute joy at having found such a great area to discuss a passion.",
+            "messageBody": "<div id=\"ygrps-yiv-425556396\">Just wanted to say hello and express my absolute joy at having found such a great area to discuss a passion.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8299,
+    "nextTopicId": 8280
+}

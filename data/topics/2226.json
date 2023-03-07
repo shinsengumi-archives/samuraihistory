@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "How green was my tani...",
+            "postDate": "1063210989",
+            "msgId": 2226,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwM2JiODUwMDA0NWFhMEBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2225,
+            "nextInTime": 2227,
+            "topicId": 2226,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "This showed up on another list; Any Welsh Samurai out there? You might be interested in this if you re anywhere near Cardiff, and apologies if you re not",
+            "messageBody": "<div id=\"ygrps-yiv-949649394\">This showed up on another list; Any Welsh Samurai out there?<br/>\n<br/>\nYou might be interested in this if you&#39;re anywhere near Cardiff, and<br/>\napologies if you&#39;re not (though you may be able to get to see the film<br/>\nsome other way if you contact the director):<br/>\n<br/>\nSamurai Monogatari, a 22-minute film made by a Welsh film-maker, will be<br/>\nshown at Chapter Arts Centre in Cardiff on Saturday 13th 1.30pm. It&#39;s the<br/>\nfirst Samurai film ever made in Wales.<br/>\n<br/>\nThe film is in Japanese with English subtitles, and features six Japanese<br/>\nactors who work and study in Cardiff.<br/>\n<br/>\nTickets are free but by invitation only. If you&#39;d like a ticket, contact<br/>\nthe director Gareth Evans at &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:jpreview_contact@...\">jpreview_contact@...</a>&gt;.<br/>\n<br/>\nRegards,<br/>\n<br/>\nDaniele<br/>\n--<br/>\nApple Juice Ltd                                 www.apple-juice.co.uk<br/>\nChapter Arts Centre<br/>\nMarket Road<br/>\nCardiff CF5 1QE                                         029 2019 0140<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2210,
+    "nextTopicId": 2222
+}

@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 162426711,
+            "authorName": "murphymurphyjohn@aol.com",
+            "from": "murphymurphyjohn@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Tom Helm  Re:From Leprechaun Jack Murphy: Romans vs Samurai Redux-..",
+            "postDate": "1071824951",
+            "msgId": 2922,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFkMS4xNjU2ZTZhZi4yZDE0MWEzN0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2921,
+            "nextInTime": 2923,
+            "topicId": 2922,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "A word of explanation.  My study of armor in Japan begins in the Muromachi Period, so I am relatively unaware of details of armor in preceding eras. As to why",
+            "messageBody": "<div id=\"ygrps-yiv-395626803\">A word of explanation.  My study of armor in Japan begins in the Muromachi <br/>\nPeriod, so I am relatively unaware of details of armor in preceding eras. As to <br/>\nwhy arm protection was phased out,  as Japan arguably entered its most violent <br/>\nera,  is a question whose answer would be difficult indeed.  My SO is  a whiz <br/>\non Japan,  I believe she lived there, so I might ask her sometime.  As <br/>\nalways,  great pleasure in talking to you,  Tom.  Jack<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2910,
+    "nextTopicId": 2909
+}

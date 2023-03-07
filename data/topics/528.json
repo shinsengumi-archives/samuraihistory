@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 55234638,
+            "authorName": "shogun2k2002",
+            "from": "&quot;shogun2k2002&quot; &lt;irishman_2k@...&gt;",
+            "profile": "shogun2k2002",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saito Dosan",
+            "postDate": "1012262256",
+            "msgId": 528,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEzNG9oZytkaG9jQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 527,
+            "nextInTime": 529,
+            "topicId": 528,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "To whom it may concern, Hello. I am looking for general information about a daimyo by the name of Saito Dosan. Any general information would help. I also am ",
+            "messageBody": "<div id=\"ygrps-yiv-1643546224\">To whom it may concern,<br/>\n<br/>\nHello. I am looking for general information about a daimyo by the <br/>\nname of Saito Dosan. Any general information would help. I also am <br/>\nhoping to find out more about his relationship with Oda Nobunaga.<br/>\n<br/>\nDoomo arigatoo gozaimasu.<br/>\n<br/>\nJeff M.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 527,
+    "nextTopicId": 531
+}

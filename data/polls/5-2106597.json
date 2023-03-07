@@ -1,0 +1,159 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "nvncnt_lee",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 2106597,
+    "listId": 2247946,
+    "dateCreated": 1137434682,
+    "userIdCreated": 243610439,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "ENABLED",
+    "isCreator": false,
+    "surveyText": "History wrote the famous duel of Miyamoto Musashi and Muso Gonnosuke. Some said Musashi died undefeated. But some said he was defeated by Gonnosuke using only a jo(4 ft wood staff). Who do you think would have won the duel?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 15365137,
+            "selectionText": "Miyamoto Musashi and his twin swords",
+            "selections": 14,
+            "responses": [
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 200291839,
+                    "guid": "BNZL7QH3SBZNSDO3E5W5BZNWVM",
+                    "nickname": "mainaddiction",
+                    "email": "mainaddiction@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 257405796,
+                    "guid": "H7C26Q7EBTZAUJ2DLEETO37S6I",
+                    "nickname": "seki_nakagawa",
+                    "email": "sekinakagawa@aol.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 256500464,
+                    "guid": "RTZEH346B64I76L5RGZEB7LZNE",
+                    "nickname": "capt_bochan",
+                    "email": "capt_bochan@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 99403491,
+                    "guid": "HHWH2OGT7YDDGTO6EPY7MBYXVI",
+                    "nickname": "proplayer34",
+                    "email": "proplayer34@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 253207887,
+                    "guid": "EDS6KDU2KKD45MGAHKMTOJIBKQ",
+                    "nickname": "rednaxela05",
+                    "email": "rednaxela05@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 219543951,
+                    "nickname": "battousai62284",
+                    "email": "battousai62284@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 263034577,
+                    "guid": "2VAWY7OD5FIQJV4IRIW44EQNI4",
+                    "nickname": "slavezereo13",
+                    "email": "slavezereo13@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 284127152,
+                    "guid": "SZY4GPZWKDX7D2EB4VDRLKXUJY",
+                    "nickname": "jonnozinko",
+                    "email": "jonholmes7@bigpond.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 266887116,
+                    "guid": "HM55TXYLZWYKF3CLDFROJYCAOA",
+                    "nickname": "thenight12_4",
+                    "email": "thenight12_4@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 247914591,
+                    "guid": "R426RRAVCEBAHV4YMGCOGWRVPQ",
+                    "nickname": "the_jigglin_penguin",
+                    "email": "the_jigglin_penguin@yahoo.com"
+                },
+                {
+                    "selectionId": 15365137,
+                    "surveyId": 2106597,
+                    "userId": 435223253,
+                    "guid": "I277CYSK42O2EEWBJUTH55C45E",
+                    "nickname": "putrasetiadinugraha",
+                    "email": "putrasetiadinugraha@yahoo.co.id"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 15365138,
+            "selectionText": "Muso Gonnosuke and his Jo(4 ft wood staff)",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 15365138,
+                    "surveyId": 2106597,
+                    "userId": 255930893,
+                    "guid": "JKLS2WPPJTZKGHFMVKRJ4P7UEE",
+                    "nickname": "rodsloan",
+                    "email": "rodsloan@gmail.com"
+                },
+                {
+                    "selectionId": 15365138,
+                    "surveyId": 2106597,
+                    "userId": 243610439,
+                    "guid": "EQEIVVSXDX6LNYY7LWBIRFDBDY",
+                    "nickname": "nvncnt_lee",
+                    "email": "nvncnt_lee@yahoo.com"
+                },
+                {
+                    "selectionId": 15365138,
+                    "surveyId": 2106597,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 15365138,
+                    "surveyId": 2106597,
+                    "userId": 286728807,
+                    "guid": "GPDAIKWBMZHH3C46HEZ4JWVSHQ",
+                    "nickname": "brentbovee2",
+                    "email": "brentbovee2@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 18,
+    "previousSurveyId": 2260866,
+    "nextSurveyId": 2084054
+}

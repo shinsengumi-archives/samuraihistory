@@ -1,0 +1,76 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "bikerboy_20042000",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1725140,
+    "listId": 2247946,
+    "dateCreated": 1111465961,
+    "userIdCreated": 212254526,
+    "dateEnd": 1120197540,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "who was best at sword fighting?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12777142,
+            "selectionText": "ninja",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12777143,
+            "selectionText": "samurai",
+            "selections": 7,
+            "responses": [
+                {
+                    "selectionId": 12777143,
+                    "surveyId": 1725140,
+                    "userId": 212254526,
+                    "nickname": "bikerboy_20042000",
+                    "email": "bikerboy_20042000@yahoo.com"
+                },
+                {
+                    "selectionId": 12777143,
+                    "surveyId": 1725140,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                },
+                {
+                    "selectionId": 12777143,
+                    "surveyId": 1725140,
+                    "userId": 220161532,
+                    "nickname": "obeso9",
+                    "email": "rsesma@sierranevada.edu"
+                },
+                {
+                    "selectionId": 12777143,
+                    "surveyId": 1725140,
+                    "userId": 219301262,
+                    "guid": "45DYYWYQLDLASO4O3VJFAGBPRI",
+                    "nickname": "ninja_20049",
+                    "email": "ninja_20049@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12777144,
+            "selectionText": "shogun",
+            "selections": 2,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 9,
+    "previousSurveyId": 1734176,
+    "nextSurveyId": 1716986
+}

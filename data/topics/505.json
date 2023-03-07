@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 64587109,
+            "authorName": "spacesquad@zipmail.com.br",
+            "from": "spacesquad@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: help me !",
+            "postDate": "1011933759",
+            "msgId": 505,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDNEYwNzA1MDAwMDkyQkZAd3d3LnppcG1haWwuY29tLmJyPg==",
+                "inReplyToHeader": "IDwxMDExNzQ1MTA5LjIxMi43MTkzNi5tM0B5YWhvb2dyb3Vwcy5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 504,
+            "nextInTime": 506,
+            "topicId": 505,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everybody ... My name is Paul,i´m 18 Ys and I live in Brazil. I´m new around here so i would like to tell all of you guys that i´m very happy to join",
+            "messageBody": "<div id=\"ygrps-yiv-2006000975\">Hello everybody ...<br/>\nMy name is Paul,i´m 18 Ys and I live in Brazil.<br/>\nI´m new around here so i would like to tell all of you guys that i´m very<br/>\nhappy to join the samurai history.<br/>\nI love the japanese history.<br/>\nI would like to ask if one of you know the name of a site were I can find<br/>\na good program to view how is my name in japanese?<br/>\nTo view how it´s spell and the kanji form of it... <br/>\nOr maybe a site in the net were I could find a good name in japanese for<br/>\nme, due to my courage, strengh, etc... those kind of things.<br/>\nDoes anyone knows ????????<br/>\nPlease tell me......<br/>\nWell, that´s it.<br/>\n                           Paul<br/>\n<br/>\n<br/>\n<br/>\n------------------------------------------<br/>\nUse o melhor sistema de busca da Internet<br/>\nRadar UOL - <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.radaruol.com.br\">http://www.radaruol.com.br</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 492,
+    "nextTopicId": 495
+}

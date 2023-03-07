@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 211858766,
+            "authorName": "cannonfodder_1980",
+            "from": "&quot;cannonfodder_1980&quot; &lt;cannonfodder_1980@...&gt;",
+            "profile": "cannonfodder_1980",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hey Clive",
+            "postDate": "1106393452",
+            "msgId": 6599,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNzdGRoYytkZnZyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 6598,
+            "nextInTime": 6600,
+            "topicId": 6599,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Clive, Clive can you offer and adv on books or internet sites that can provide reading as to identify a good sword, Also is there any books or site that",
+            "messageBody": "<div id=\"ygrps-yiv-170109426\">Hi Clive,<br/>\n<br/>\nClive can you offer and adv on books or internet sites that can <br/>\nprovide reading as to identify a good sword, Also is there any books <br/>\nor site that provide the info on the life of a samurai?<br/>\n<br/>\nThanks Mark</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6575,
+    "nextTopicId": 6600
+}

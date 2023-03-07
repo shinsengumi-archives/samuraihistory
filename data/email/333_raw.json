@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "amphipolis@yahoo.com",
+    "from": "&quot;amphipolis@...&quot; &lt;amphipolis@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "01EBiq9uu3jWd_7jna7uSGfGisYSmDwxHlfVZvBzau2bkIIDyEmI9rpPH9b81B6FuMNIStfUAKFGc6mJKryn4KtxMlx7rXqUlV4zaPBKEsN90BL9",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "musashi site",
+    "postDate": "1001369680",
+    "msgId": 333,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDAwMGIwMWMxNDU0NiQ0ZWRmYzY4MCRiYTYwNDJjM0BMb2NhbEhvc3Q+"
+    },
+    "prevInTopic": 310,
+    "nextInTopic": 334,
+    "prevInTime": 332,
+    "nextInTime": 334,
+    "topicId": 310,
+    "numMessagesInTopic": 4,
+    "msgSnippet": "Hi folks, Please let me know if the Musashi site: www.crosswinds.net/~musashi1584/ is on line again. thanks, amph.",
+    "rawEmail": "Return-Path: &lt;xgl1972@...&gt;\r\nX-Sender: xgl1972@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (EGP: mail-7_3_2_2); 24 Sep 2001 22:21:07 -0000\r\nReceived: (qmail 32287 invoked from network); 24 Sep 2001 22:15:25 -0000\r\nReceived: from unknown (10.1.10.27)\n  by 10.1.1.223 with QMQP; 24 Sep 2001 22:15:25 -0000\r\nReceived: from unknown (HELO tesla.spark.net.gr) (195.66.98.22)\n  by mta2 with SMTP; 24 Sep 2001 22:15:59 -0000\r\nReceived: from LocalHost (ppp186.the.spark.net.gr [195.66.96.186])\n\tby tesla.spark.net.gr (8.11.4/8.11.4) with SMTP id f8OMGhk18243\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Tue, 25 Sep 2001 01:16:43 +0300 (EET DST)\r\nMessage-ID: &lt;000b01c14546$4edfc680$ba6042c3@LocalHost&gt;\r\nTo: &quot;SAMURAI HISTORY&quot; &lt;samuraihistory@yahoogroups.com&gt;\r\nSubject: musashi site\r\nDate: Tue, 25 Sep 2001 01:14:40 +0300\r\nMIME-Version: 1.0\r\nContent-Type: text/plain;\n\tcharset=&quot;iso-8859-7&quot;\r\nContent-Transfer-Encoding: 7bit\r\nX-Priority: 3\r\nX-MSMail-Priority: Normal\r\nX-Mailer: Microsoft Outlook Express 5.00.2615.200\r\nX-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200\r\nX-eGroups-From: &quot;amphipolis@...&quot; &lt;xgl1972@...&gt;\r\nFrom: &quot;amphipolis@...&quot; &lt;amphipolis@...&gt;\r\n\r\nHi folks,\nPlease let me know if the Musashi site:\nwww.crosswinds.net/~musashi1584/\nis on line again.\n\nthanks,\namph.\n\n\n"
+}

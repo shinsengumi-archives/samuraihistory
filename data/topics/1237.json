@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 448294,
+            "authorName": "Anthony J. Bryant",
+            "from": "&quot;Anthony J. Bryant&quot; &lt;ajbryant@...&gt;",
+            "profile": "sengokudaimyo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Book question - The Yamato Dynasty, by Sterling  Seagrave",
+            "postDate": "1037917813",
+            "msgId": 1246,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNEREQ1RTc2LjhEODY5NEM3QGluZGlhbmEuZWR1Pg==",
+                "referencesHeader": "PGFyYmlqdCsyY21nQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1239,
+            "nextInTopic": 0,
+            "prevInTime": 1245,
+            "nextInTime": 1247,
+            "topicId": 1237,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Personal opinion: the book is trash, useful only for propping up a too-short table leg or holding a door open. If you want to read a *good* book that s a ",
+            "messageBody": "<div id=\"ygrps-yiv-103204941\">iganokami wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; The Yamato Dynasty: The Secret History of Japan&#39;s Imperial Family<br/>\n&gt; By Sterling Seagrave<br/>\n&gt;<br/>\n&gt; I&#39;ve seen reviews about this book, ranging from &#39;amazing revelations<br/>\n&gt; on the imperial family&#39; to &#39;it is complete and utter trash&#39;.  Anyone<br/>\n&gt; here actually read this?<br/>\n<br/>\n </span></blockquote>Personal opinion: the book is trash, useful only for propping up a too-short<br/>\ntable leg or holding a door open. If you want to read a *good* book that&#39;s a<br/>\nbit expose-like, try Bix&#39;s &quot;Hirohito.&quot; That one won a pile of awards and is<br/>\nuniversally regarded.<br/>\n<br/>\n<br/>\nTony</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 120699816,
+            "authorName": "William letham",
+            "from": "&quot;William letham&quot; &lt;mickey.letham@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Book question - The Yamato Dynasty, by Sterling Seagrave",
+            "postDate": "1037710394",
+            "msgId": 1239,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDgwMWMyOGZjYSRhMDJmMTBjMCQ1MjIwMTZkYkBmbXY+",
+                "referencesHeader": "PGFyYmlqdCsyY21nQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1237,
+            "nextInTopic": 1246,
+            "prevInTime": 1238,
+            "nextInTime": 1240,
+            "topicId": 1237,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I read it. while its not completely utter trash it leans on conjecture and rumor and not hard facts. It would be better to read Herbert Bix s Hirohito for some",
+            "messageBody": "<div id=\"ygrps-yiv-771496597\">I read it. while its not completely utter trash it leans on conjecture and<br/>\nrumor and not hard facts. It would be better to read Herbert Bix&#39;s Hirohito<br/>\nfor some balance.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 63629217,
+            "authorName": "iganokami",
+            "from": "&quot;iganokami&quot; &lt;fredjnsn@...&gt;",
+            "profile": "iganokami",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Book question - The Yamato Dynasty, by Sterling Seagrave",
+            "postDate": "1037651389",
+            "msgId": 1237,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFyYmlqdCsyY21nQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1239,
+            "prevInTime": 1236,
+            "nextInTime": 1238,
+            "topicId": 1237,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Yamato Dynasty: The Secret History of Japan s Imperial Family By Sterling Seagrave I ve seen reviews about this book, ranging from amazing revelations on",
+            "messageBody": "<div id=\"ygrps-yiv-2042603310\">The Yamato Dynasty: The Secret History of Japan&#39;s Imperial Family <br/>\nBy Sterling Seagrave<br/>\n<br/>\nI&#39;ve seen reviews about this book, ranging from &#39;amazing revelations <br/>\non the imperial family&#39; to &#39;it is complete and utter trash&#39;.  Anyone <br/>\nhere actually read this?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1219,
+    "nextTopicId": 1235
+}

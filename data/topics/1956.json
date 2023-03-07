@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 2682610,
+            "authorName": "serizawakamo",
+            "from": "&quot;serizawakamo&quot; &lt;serizawakamo@...&gt;",
+            "profile": "serizawakamo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Saito Hajime & OKita Soji",
+            "postDate": "1057607649",
+            "msgId": 1963,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJlY2o1MSsxbThqQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGJlM3NkNytpY242QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1956,
+            "nextInTopic": 0,
+            "prevInTime": 1962,
+            "nextInTime": 1964,
+            "topicId": 1956,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yes, Saito Hajime is a real person and the info presented in Rurouni Kenshin is quite accurate. And the info on Okita Souji is also correct. Serizawa Kamo ... ",
+            "messageBody": "<div id=\"ygrps-yiv-523506365\">Yes, Saito Hajime is a real person and the info presented in Rurouni <br/>\nKenshin is quite accurate.<br/>\n<br/>\nAnd the info on Okita Souji is also correct.<br/>\n<br/>\nSerizawa Kamo<br/>\n<br/>\n<blockquote><span title=\"qreply\"> --- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Scott&quot; &lt;scottc_4@h...&gt; wrote:<br/>\n&gt; I am a psuedo Fan of Rurouni Kenshin.  I like the show but I dont <br/>\ngo <br/>\n&gt; out of my way to make sure I watch it.  But I do remember Saito <br/>\n&gt; Hajime being a character from the series, and someone on here was <br/>\n&gt; writing about him.  Was he a real person that used to be a member <br/>\nof <br/>\n&gt; the Shinsengumi?  And about another Shinsengumi member.  Okita Soji <br/>\n&gt; who is a major character in the movie Gohatto.  I have a friend <br/>\nthat <br/>\n&gt; told me he is very popluar in Japan, and they even sell dolls of <br/>\n&gt; him.  Also she told me that he died of consumption before the <br/>\n&gt; revolution ever happened.  Can anyone confrim of correct these? </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 21382476,
+            "authorName": "Scott",
+            "from": "&quot;Scott&quot; &lt;scottc_4@...&gt;",
+            "profile": "Scott19NY",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Saito Hajime & OKita Soji",
+            "postDate": "1057322215",
+            "msgId": 1956,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJlM3NkNytpY242QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1963,
+            "prevInTime": 1955,
+            "nextInTime": 1957,
+            "topicId": 1956,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am a psuedo Fan of Rurouni Kenshin.  I like the show but I dont go out of my way to make sure I watch it.  But I do remember Saito Hajime being a character",
+            "messageBody": "<div id=\"ygrps-yiv-1260495940\">I am a psuedo Fan of Rurouni Kenshin.  I like the show but I dont go <br/>\nout of my way to make sure I watch it.  But I do remember Saito <br/>\nHajime being a character from the series, and someone on here was <br/>\nwriting about him.  Was he a real person that used to be a member of <br/>\nthe Shinsengumi?  And about another Shinsengumi member.  Okita Soji <br/>\nwho is a major character in the movie Gohatto.  I have a friend that <br/>\ntold me he is very popluar in Japan, and they even sell dolls of <br/>\nhim.  Also she told me that he died of consumption before the <br/>\nrevolution ever happened.  Can anyone confrim of correct these?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1959,
+    "nextTopicId": 1940
+}

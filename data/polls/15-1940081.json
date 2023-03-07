@@ -1,0 +1,121 @@
+{
+    "groupName": "samuraihistory",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1940081,
+    "listId": 2247946,
+    "dateCreated": 1124313110,
+    "userIdCreated": 145759856,
+    "dateEnd": 1133517540,
+    "sendToId": "GROUP",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "I am interested in writing a story for the 2006 Samurai \nFiction contest (identities not revealed)",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 14231556,
+            "selectionText": "Yes",
+            "selections": 7,
+            "responses": [
+                {
+                    "selectionId": 14231556,
+                    "surveyId": 1940081,
+                    "userId": 78149821,
+                    "guid": "3WQGBBDQGSVSQPLTX7KZABQKII",
+                    "nickname": "thebigz_or",
+                    "email": "thebigz_or@yahoo.com"
+                },
+                {
+                    "selectionId": 14231556,
+                    "surveyId": 1940081,
+                    "userId": 235897988,
+                    "guid": "D5ZPDDREKPZB5QY5ZCC73QAMZU",
+                    "nickname": "onnagozen",
+                    "email": "gozen@email2me.net"
+                },
+                {
+                    "selectionId": 14231556,
+                    "surveyId": 1940081,
+                    "userId": 118974519,
+                    "guid": "JE2NSCEXM3OS7QNVK4IFNVHPQQ",
+                    "nickname": "johntwo8",
+                    "email": "johntwo8@yahoo.com"
+                },
+                {
+                    "selectionId": 14231556,
+                    "surveyId": 1940081,
+                    "userId": 235634502,
+                    "email": "timssinned@yahoo.com"
+                },
+                {
+                    "selectionId": 14231556,
+                    "surveyId": 1940081,
+                    "userId": 101560437,
+                    "email": "takayama_hara@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14231557,
+            "selectionText": "No",
+            "selections": 3,
+            "responses": [
+                {
+                    "selectionId": 14231557,
+                    "surveyId": 1940081,
+                    "userId": 6183419,
+                    "nickname": "andre_guelmann",
+                    "email": "andre@guelmann.com"
+                },
+                {
+                    "selectionId": 14231557,
+                    "surveyId": 1940081,
+                    "userId": 134498325,
+                    "guid": "4VSHFJOK6YORMB73Z6XO4T7HLI",
+                    "nickname": "soshuju",
+                    "email": "junkmail@toryu-mon.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 14231558,
+            "selectionText": "Not sure yet",
+            "selections": 4,
+            "responses": [
+                {
+                    "selectionId": 14231558,
+                    "surveyId": 1940081,
+                    "userId": 77493421,
+                    "guid": "K5XB5CIPSHWU4FEANZFKSY3QIQ",
+                    "nickname": "gojiraxena",
+                    "email": "gojiraxena@yahoo.com"
+                },
+                {
+                    "selectionId": 14231558,
+                    "surveyId": 1940081,
+                    "userId": 244256767,
+                    "nickname": "sfenella",
+                    "email": "shannon_fenella@hotmail.com"
+                },
+                {
+                    "selectionId": 14231558,
+                    "surveyId": 1940081,
+                    "userId": 35241915,
+                    "guid": "BNCJREYPG5ORPZL6BCRSRP2JCA",
+                    "nickname": "nappy_ski_dude",
+                    "email": "tcma66@hotmail.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 14,
+    "previousSurveyId": 1940087,
+    "nextSurveyId": 1911577
+}

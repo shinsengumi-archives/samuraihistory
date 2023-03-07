@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] could use some help",
+            "postDate": "1071711661",
+            "msgId": 2901,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDMTQ4QzA4LTMwRkItMTFEOC1CNDdFLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGJxbW5wbCtrdXQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 2629,
+            "nextInTopic": 0,
+            "prevInTime": 2900,
+            "nextInTime": 2902,
+            "topicId": 2629,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Lane- I cannot point you to a specific book but would look for books on religious practice in the Meiji period. At that time there was a resurgence of Shinto,",
+            "messageBody": "<div id=\"ygrps-yiv-1851195810\">Lane-<br/>\nI cannot point you to a specific book but would look for books on <br/>\nreligious practice in the Meiji period. At that time there was a <br/>\nresurgence of Shinto, a rejection of Buddhism and the influence of <br/>\nWestern practice. It follows that in a work on the subject, what had <br/>\ngone before would be examined as well...-t<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Wednesday, Dec 3, 2003, at 23:29 US/Pacific, Lane wrote:<br/>\n<br/>\n&gt; I&#39;m researching the burial practice for samurai. I need to write a<br/>\n&gt; paper and can&#39;t find any info on the net. I&#39;ve found plenty on<br/>\n&gt; japanese funeral services but i need to find out if it was the sme<br/>\n&gt; for the samurai. I&#39;ve heard of some being buried standingin full<br/>\n&gt; armour, but believe this was only for those of higher rank. All<br/>\n&gt; others were cremated. If anyone has any info on this subject i would<br/>\n&gt; greatly appreciate any help you could offer.<br/>\n&gt;<br/>\n&gt; Lane<br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&lt;image.tiff&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Samurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n&gt; ---<br/>\n&gt; To unsubscribe from this group, send an email to:<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n&gt;<br/>\n&gt;<br/>\n&gt;<br/>\n&gt; Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service.<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 88598610,
+            "authorName": "Lane",
+            "from": "&quot;Lane&quot; &lt;laf7773@...&gt;",
+            "profile": "laf7773",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "could use some help",
+            "postDate": "1070522997",
+            "msgId": 2629,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJxbW5wbCtrdXQ5QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2901,
+            "prevInTime": 2628,
+            "nextInTime": 2630,
+            "topicId": 2629,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m researching the burial practice for samurai. I need to write a paper and can t find any info on the net. I ve found plenty on japanese funeral services but",
+            "messageBody": "<div id=\"ygrps-yiv-1975924530\">I&#39;m researching the burial practice for samurai. I need to write a <br/>\npaper and can&#39;t find any info on the net. I&#39;ve found plenty on <br/>\njapanese funeral services but i need to find out if it was the sme <br/>\nfor the samurai. I&#39;ve heard of some being buried standingin full <br/>\narmour, but believe this was only for those of higher rank. All <br/>\nothers were cremated. If anyone has any info on this subject i would <br/>\ngreatly appreciate any help you could offer.<br/>\n<br/>\nLane</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2862,
+    "nextTopicId": 2897
+}

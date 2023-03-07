@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 160314779,
+            "authorName": "Steven Matsheshu",
+            "from": "&quot;Steven Matsheshu&quot; &lt;steven_matsheshu@...&gt;",
+            "profile": "steven_matsheshu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Reading the text",
+            "postDate": "1151071976",
+            "msgId": 8908,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGU3Z3N0OCs2OTE3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 8907,
+            "nextInTime": 8909,
+            "topicId": 8908,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am using shift JS for that page... if you use the link I supplied on the last post, you will get the text perfect...maybe yahoo just does not transfer",
+            "messageBody": "<div id=\"ygrps-yiv-1668381159\">I am using shift JS for that page...<br/>\n  <br/>\n if you use the link I supplied on the last post, you will get the <br/>\ntext perfect...maybe yahoo just does not transfer correctly?</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 8904,
+    "nextTopicId": 8902
+}

@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai-related news articles",
+            "postDate": "1037327612",
+            "msgId": 1230,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNERDQ1Q0Y4LkFCOTk4NDdCQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PGFxc3J0MSt1OWg4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1221,
+            "nextInTopic": 0,
+            "prevInTime": 1229,
+            "nextInTime": 1231,
+            "topicId": 1219,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Folk- Dropping off the list in order to leave Japan and start all over in California, Look forward to talking Samurai with all of you again in a few weeks",
+            "messageBody": "<div id=\"ygrps-yiv-1503998711\">Folk-<br/>\n    Dropping off the list in order to leave Japan and start all over in California, Look forward to<br/>\ntalking Samurai with all of you again in a few weeks time.<br/>\n<br/>\nTom</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 115026769,
+            "authorName": "Charisse Linsangan",
+            "from": "Charisse Linsangan &lt;cha_hogwarts@...&gt;",
+            "profile": "cha_hogwarts",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "[samuraihistory] question",
+            "postDate": "1037169702",
+            "msgId": 1221,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDIxMTEzMDY0MTQyLjIxOTM2LnFtYWlsQHdlYjE0NDA4Lm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGFxc3J0MSt1OWg4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1219,
+            "nextInTopic": 1230,
+            "prevInTime": 1220,
+            "nextInTime": 1222,
+            "topicId": 1219,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have a question. I heard about a woman named Tomoe Gozen unfortunately I do not know anything about her except that she is a woman-samurai...can anyone tell ",
+            "messageBody": "<div id=\"ygrps-yiv-473887093\">I have a question. I heard about a woman named Tomoe<br/>\nGozen unfortunately I do not know anything about her<br/>\nexcept that she is a woman-samurai...can anyone tell<br/>\nme more about Tomoe Gozen?<br/>\n-Polly<br/>\n<br/>\n__________________________________________________<br/>\nDo you Yahoo!?<br/>\nU2 on LAUNCH - Exclusive greatest hits videos<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://launch.yahoo.com/u2\">http://launch.yahoo.com/u2</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 117006241,
+            "authorName": "C.W.",
+            "from": "&quot;C.W.&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai-related news articles",
+            "postDate": "1037169377",
+            "msgId": 1219,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFxc3J0MSt1OWg4QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1221,
+            "prevInTime": 1218,
+            "nextInTime": 1220,
+            "topicId": 1219,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I ve updated the news section - http://www.samurai- archives.com/news.html - Due to lack of home internet access for about a month, I haven t been able to do",
+            "messageBody": "<div id=\"ygrps-yiv-1813823253\">I&#39;ve updated the &#39;news&#39; section - http://www.samurai-<br/>\narchives.com/news.html - Due to lack of home internet access for <br/>\nabout a month, I haven&#39;t been able to do much, but now I&#39;m back, so <br/>\ntake a look at the 3 newest articles, two from the yomiuri shimbun, <br/>\nand one from the Asahi shimbun. <br/>\nInteresting stuff.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1220,
+    "nextTopicId": 1237
+}

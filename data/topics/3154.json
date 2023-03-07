@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "~no kami vs. ~no suke",
+            "postDate": "1074233498",
+            "msgId": 3154,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJ1N3ZhcStkc2o3QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 3153,
+            "nextInTime": 3155,
+            "topicId": 3154,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I m examining titles right now, and I ve noticed that although almost all of the province names that show up as titles are followed by ~no kami , Kazusa and",
+            "messageBody": "<div id=\"ygrps-yiv-2137035176\">I&#39;m examining titles right now, and I&#39;ve noticed that although almost <br/>\nall of the province names that show up as titles are followed by &quot;~no <br/>\nkami&quot;, Kazusa and Kozuke all seem to be followed by &quot;~no Suke&quot;.  Is <br/>\nthere some reason why these two provinces are &#39;special&#39; (different)?<br/>\n<br/>\nthanks</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3151,
+    "nextTopicId": 2984
+}

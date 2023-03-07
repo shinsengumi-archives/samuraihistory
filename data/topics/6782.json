@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 188869672,
+            "authorName": "Shane Suebsahakarn",
+            "from": "&quot;Shane Suebsahakarn&quot; &lt;shanesuebsahakarn@...&gt;",
+            "profile": "naomasa298",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: OdaNobunaga.com...?",
+            "postDate": "1110020746",
+            "msgId": 6783,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwYzNxYStwOWZzQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGQwYm1hcCtxOGFoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6782,
+            "nextInTopic": 0,
+            "prevInTime": 6782,
+            "nextInTime": 6784,
+            "topicId": 6782,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Hacked, by the looks of things.",
+            "messageBody": "<div id=\"ygrps-yiv-390311522\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;Kitsuno&quot; &lt;samurai-<br/>\nlistowner@s...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; <br/>\n&gt; What happened to odanobunaga.com?<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.odanobunaga.com/\">http://www.odanobunaga.com/</a><br/>\n<br/>\n </span></blockquote>Hacked, by the looks of things.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "OdaNobunaga.com...?",
+            "postDate": "1110006937",
+            "msgId": 6782,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQwYm1hcCtxOGFoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6783,
+            "prevInTime": 6781,
+            "nextInTime": 6783,
+            "topicId": 6782,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "What happened to odanobunaga.com? http://www.odanobunaga.com/",
+            "messageBody": "<div id=\"ygrps-yiv-169514229\">What happened to odanobunaga.com?<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.odanobunaga.com/\">http://www.odanobunaga.com/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6780,
+    "nextTopicId": 6781
+}

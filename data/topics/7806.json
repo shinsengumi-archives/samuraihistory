@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Latest Sale at the Samurai Archives Store",
+            "postDate": "1128751024",
+            "msgId": 7806,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGRpN24zZytkNnBiQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7805,
+            "nextInTime": 7807,
+            "topicId": 7806,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Yet another sale at the Samurai Archives store: www.shopsamurai.com Coupon Code: Fall2 Offer: $2 off on Long Sleeve T, Jr Hoodie, Women s Raglan, Baseball ",
+            "messageBody": "<div id=\"ygrps-yiv-722651573\">Yet another sale at the Samurai Archives store:<br/>\n<br/>\nwww.shopsamurai.com<br/>\n<br/>\nCoupon Code: Fall2<br/>\nOffer: $2 off on Long Sleeve T, Jr Hoodie, Women&#39;s Raglan, Baseball <br/>\nJerseys, Hooded Sweatshirts, Sweatshirts<br/>\nDates: Oct 11  25 <br/>\n<br/>\nEnjoy!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7786,
+    "nextTopicId": 7803
+}

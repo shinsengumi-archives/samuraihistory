@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 111604313,
+            "authorName": "Riku",
+            "from": "&quot;Riku&quot; &lt;zeezee992001@...&gt;",
+            "profile": "zeezee992001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Insearch of information.",
+            "postDate": "1070943867",
+            "msgId": 2754,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGJyM2lwcis2NmtpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 2753,
+            "nextInTime": 2755,
+            "topicId": 2754,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am looking for any information dealing with the samurai warrior known as sakazumi Mozuo last name firt here, and the long Katana he used which was fordged",
+            "messageBody": "<div id=\"ygrps-yiv-710790459\">I am looking for any information dealing with the samurai warrior<br/>\nknown as &quot;sakazumi Mozuo&quot; last name firt here, and the long Katana he <br/>\nused which was fordged around 1750AD. <br/>\n  If you know where I can research and find out about him, and his <br/>\nhistory that would also be great.<br/>\n<br/>\nThank You<br/>\n<br/>\nRiku</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2611,
+    "nextTopicId": 2770
+}

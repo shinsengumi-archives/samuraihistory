@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 1935355,
+            "authorName": "Burker1@aol.com",
+            "from": "Burker1@...",
+            "profile": "burker94509",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] 47 RONIN",
+            "postDate": "1061964901",
+            "msgId": 2125,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDUwLjIxNTg1NTUwLjJjN2RhNjY1QGFvbC5jb20+"
+            },
+            "prevInTopic": 2112,
+            "nextInTopic": 0,
+            "prevInTime": 2124,
+            "nextInTime": 2126,
+            "topicId": 2100,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I haven t heard of this publication.  Can you tell us more about it?  Is there an index to it? I would love to know if there are any articles on the Satsuma",
+            "messageBody": "<div id=\"ygrps-yiv-630832234\">I haven&#39;t heard of this publication.  Can you tell us more about it?  Is <br/>\nthere an index to it?<br/>\n<br/>\nI would love to know if there are any articles on the Satsuma Rebellion of <br/>\n1877.<br/>\n<br/>\nBob Burke<br/>\n<br/>\nIn a message dated 8/26/03 7:23:47 AM, <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:mickey.letham@...\">mickey.letham@...</a> writes:<br/>\n<br/>\n&lt;&lt; There are two very good articles in the latest issues of Monumenta<br/>\n<br/>\nNipponica, numbers 58.1 and 58.2. This is the start of a series of articles<br/>\n<br/>\ncommemorating the 300 anniversary of the event. &gt;&gt;</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 120699816,
+            "authorName": "William&Mikiko Letham",
+            "from": "&quot;William&Mikiko Letham&quot; &lt;mickey.letham@...&gt;",
+            "profile": "samuraiwm",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] 47 RONIN",
+            "postDate": "1061907261",
+            "msgId": 2112,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNGQwMWMzNmJkYyQ1OGQ4NjY2MCQxYjIwMTZkYkBGTTEyNjAyNjc0Mj4=",
+                "referencesHeader": "PDAxZGIwMWMzNjc0YyRkNjc5ZmM4MCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 2100,
+            "nextInTopic": 2125,
+            "prevInTime": 2111,
+            "nextInTime": 2113,
+            "topicId": 2100,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There are two very good articles in the latest issues of Monumenta Nipponica, numbers 58.1 and 58.2. This is the start of a series of articles commemorating",
+            "messageBody": "<div id=\"ygrps-yiv-1096783811\">There are two very good articles in the latest issues of Monumenta<br/>\nNipponica, numbers 58.1 and 58.2. This is the start of a series of articles<br/>\ncommemorating the 300 anniversary of the event.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 135018472,
+            "authorName": "Matthew E. Hoyle",
+            "from": "&quot;Matthew E. Hoyle&quot; &lt;matthewhoyle@...&gt;",
+            "profile": "matthewhoyle2000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "47 RONIN",
+            "postDate": "1061405815",
+            "msgId": 2100,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAxZGIwMWMzNjc0YyRkNjc5ZmM4MCQ5N2NhZmVhOUBreXA0Pg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2112,
+            "prevInTime": 2099,
+            "nextInTime": 2101,
+            "topicId": 2100,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone reccommend a good source to read the original story of the 47 ronin ? Not the kabuki version. thanks, Matt [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-1373787688\">Can anyone reccommend a good source to read the original story of the 47<br/>\nronin ? Not the kabuki version.<br/>\n <br/>\nthanks, Matt<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 2042,
+    "nextTopicId": 2132
+}

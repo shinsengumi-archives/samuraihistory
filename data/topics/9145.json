@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 145759856,
+            "authorName": "Kitsuno",
+            "from": "&quot;Kitsuno&quot; &lt;samurai-listowner@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: Were samurais polygamous?",
+            "postDate": "1162005401",
+            "msgId": 9146,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVodWkycCt0ZGRlQGVHcm91cHMuY29tPg==",
+                "inReplyToHeader": "PGVoc2s5ZCtxYWhkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 9145,
+            "nextInTopic": 0,
+            "prevInTime": 9145,
+            "nextInTime": 9147,
+            "topicId": 9145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... A Samurai only had one real wife - the rest (if there were any) were just concubines. So it depends on your personal definition of the word polygamy .",
+            "messageBody": "<div id=\"ygrps-yiv-1429621611\">--- In <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>, &quot;NoNo&quot; &lt;nonojnet@...&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt;<br/>\n&gt; Hello everybody. I&#39;m reader of this formum many time ago and I never<br/>\n&gt; saw any coment about polygamy. I&#39;m confuse because I&#39;ve read opposites<br/>\n&gt; arguments in different fonts. Can anyone solve my doubt and<br/>\n&gt; contributes with any related bibliography?<br/>\n&gt; <br/>\n&gt; Thanks.<br/>\n&gt; <br/>\n&gt; (Sorry by my english)<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>A Samurai only had one &quot;real&quot; wife - the rest (if there were any) were<br/>\njust concubines. So it depends on your personal definition of the word<br/>\n&quot;polygamy&quot;.  If your definition only includes multiple wives, than in<br/>\nthat strict sense they were not polygamists.</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 257071481,
+            "authorName": "NoNo",
+            "from": "&quot;NoNo&quot; &lt;nonojnet@...&gt;",
+            "profile": "nonojnet",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Were samurais polygamous?",
+            "postDate": "1161942125",
+            "msgId": 9145,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVoc2s5ZCtxYWhkQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 9146,
+            "prevInTime": 9144,
+            "nextInTime": 9146,
+            "topicId": 9145,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello everybody. I m reader of this formum many time ago and I never saw any coment about polygamy. I m confuse because I ve read opposites arguments in",
+            "messageBody": "<div id=\"ygrps-yiv-1398275472\">Hello everybody. I&#39;m reader of this formum many time ago and I never<br/>\nsaw any coment about polygamy. I&#39;m confuse because I&#39;ve read opposites<br/>\narguments in different fonts. Can anyone solve my doubt and<br/>\ncontributes with any related bibliography?<br/>\n<br/>\nThanks.<br/>\n<br/>\n(Sorry by my english)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9135,
+    "nextTopicId": 9155
+}

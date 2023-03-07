@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117006241,
+            "authorName": "kitsuno",
+            "from": "&quot;kitsuno&quot; &lt;cewest@...&gt;",
+            "profile": "kitsuno",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives - Recent Updates",
+            "postDate": "1025485835",
+            "msgId": 911,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFmb2E2Yit1aWkwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 910,
+            "nextInTime": 912,
+            "topicId": 911,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "For anyone who hasn t taken a look at http://www.samurai-archives.com in a while, take a look at the featured articles section.  Quite a few articles have",
+            "messageBody": "<div id=\"ygrps-yiv-1263964555\">For anyone who hasn&#39;t taken a look at <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a> in a while, take a look at the &#39;featured articles&#39; section.  Quite a few articles have been submitted over the past 2 or 3 months.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 904,
+    "nextTopicId": 896
+}

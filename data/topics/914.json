@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 51106756,
+            "authorName": "shogun.uk",
+            "from": "&quot;shogun.uk&quot; &lt;shogun.uk@...&gt;",
+            "profile": "rodjohnson_uk",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Samurai wargaming castles",
+            "postDate": "1025629423",
+            "msgId": 922,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMWYwMWMyMjFlYSQ2ZDk3NmYyMCQ3MDhmZmVhOUBwaXJhdGU+",
+                "referencesHeader": "PGFmcHZuaCtwZWJnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 914,
+            "nextInTopic": 0,
+            "prevInTime": 921,
+            "nextInTime": 923,
+            "topicId": 914,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I am not a wargamer but have painted 15mm and 25mm figures for display. One company that I have found very useful (and helpful) are Village Green . They",
+            "messageBody": "<div id=\"ygrps-yiv-195477510\">I am not a wargamer but have painted 15mm and 25mm figures for display. One<br/>\ncompany that I have found very useful (and helpful) are &quot;Village Green&quot;.<br/>\nThey produce a series of resin cast &quot;Samurai&quot; bits...<br/>\n<br/>\nCheck it out:<br/>\n                        <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.apollo948.freeserve.co.uk/VG.html\">http://www.apollo948.freeserve.co.uk/VG.html</a><br/>\n<br/>\nRegards<br/>\n                            Rod<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message -----<br/>\nFrom: &quot;ggouveia312000&quot; &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:ggouveia@...\">ggouveia@...</a>&gt;<br/>\nTo: &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a>&gt;<br/>\nSent: Monday, July 01, 2002 5:24 PM<br/>\nSubject: [samuraihistory] Samurai wargaming castles<br/>\n<br/>\n<br/>\n&gt; Does anyone know of any good samurai wargaming model castles in card,<br/>\n&gt; metal etc???? for 6mm and 15mm scale???????<br/>\n&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 110648548,
+            "authorName": "ggouveia312000",
+            "from": "&quot;ggouveia312000&quot; &lt;ggouveia@...&gt;",
+            "profile": "ggouveia312000",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai wargaming castles",
+            "postDate": "1025540657",
+            "msgId": 914,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFmcHZuaCtwZWJnQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 922,
+            "prevInTime": 913,
+            "nextInTime": 915,
+            "topicId": 914,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Does anyone know of any good samurai wargaming model castles in card, metal etc???? for 6mm and 15mm scale???????",
+            "messageBody": "<div id=\"ygrps-yiv-609273296\">Does anyone know of any good samurai wargaming model castles in card, <br/>\nmetal etc???? for 6mm and 15mm scale???????</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 912,
+    "nextTopicId": 915
+}

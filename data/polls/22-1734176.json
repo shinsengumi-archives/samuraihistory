@@ -1,0 +1,70 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "bikerboy_20042000",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1734176,
+    "listId": 2247946,
+    "dateCreated": 1111866201,
+    "userIdCreated": 212254526,
+    "dateEnd": 0,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "Who was best?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12838725,
+            "selectionText": "ninja",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12838726,
+            "selectionText": "samurai",
+            "selections": 2,
+            "responses": [
+                {
+                    "selectionId": 12838726,
+                    "surveyId": 1734176,
+                    "userId": 220161532,
+                    "nickname": "obeso9",
+                    "email": "rsesma@sierranevada.edu"
+                },
+                {
+                    "selectionId": 12838726,
+                    "surveyId": 1734176,
+                    "userId": 219301262,
+                    "guid": "45DYYWYQLDLASO4O3VJFAGBPRI",
+                    "nickname": "ninja_20049",
+                    "email": "ninja_20049@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12838727,
+            "selectionText": "shogun",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 12838727,
+                    "surveyId": 1734176,
+                    "userId": 210287375,
+                    "guid": "B6S5HTS26MT6Z4ANERBZC2UCGM",
+                    "nickname": "war3271200",
+                    "email": "war3271200@yahoo.com"
+                }
+            ],
+            "voted": false
+        }
+    ],
+    "voteCount": 4,
+    "previousSurveyId": 1742803,
+    "nextSurveyId": 1725140
+}

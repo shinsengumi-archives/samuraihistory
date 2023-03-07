@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 2613231,
+            "authorName": "Mark E. Hall",
+            "from": "&quot;Mark E. Hall&quot; &lt;markhall@...&gt;",
+            "profile": "mhall940",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "RE: [samuraihistory] 2003 Taiga Drama",
+            "postDate": "1015769511",
+            "msgId": 656,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDMwMWMxYzgzZCQ4Y2U3MTgwMCRiNTE0ZDhjYkAwMTY4MDQzNz4=",
+                "inReplyToHeader": "PDAwMDAwMWMxYzgzNiRkOTllM2Q2MCQxZGI4OGJhM0BuZS5qcD4="
+            },
+            "prevInTopic": 654,
+            "nextInTopic": 0,
+            "prevInTime": 655,
+            "nextInTime": 657,
+            "topicId": 654,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Tokugawa Ieyasu. ... done Tokugawa ... anything ... It was on the news a week or two ago.  It s not on Ieyasu, I forget the name off the top of my head,",
+            "messageBody": "<div id=\"ygrps-yiv-1048206374\"><blockquote><span title=\"ireply\">&gt; <br/>\n&gt; I heard from a friend that next years NHK Taiga drama will be about<br/>\n </span></blockquote>Tokugawa Ieyasu.<br/>\n<blockquote><span title=\"ireply\"> &gt; She wasn&#39;t sure exactly. I thought it odd because they had already<br/>\n </span></blockquote>done Tokugawa<br/>\n<blockquote><span title=\"ireply\"> &gt; Ieyasu in 1983 as well as 2000s Aoi Tokugawa Sandai. Has anybody heard<br/>\n </span></blockquote>anything<br/>\n<blockquote><span title=\"ireply\"> &gt; about this?<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; [Non-text portions of this message have been removed]<br/>\n<br/>\n </span></blockquote>It was on the news a week or two ago.  It&#39;s not on Ieyasu, I forget the<br/>\nname off the top of my head, but it is about one of the legendary<br/>\nswordsmen...<br/>\n<br/>\nLater, MEH</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 43142711,
+            "authorName": "William Letham",
+            "from": "&quot;William Letham&quot; &lt;samuraiw@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "2003 Taiga Drama",
+            "postDate": "1015766083",
+            "msgId": 654,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMDAwMWMxYzgzNiRkOTllM2Q2MCQxZGI4OGJhM0BuZS5qcD4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 656,
+            "prevInTime": 653,
+            "nextInTime": 655,
+            "topicId": 654,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I heard from a friend that next years NHK Taiga drama will be about Tokugawa Ieyasu. She wasn t sure exactly. I thought it odd because they had already done",
+            "messageBody": "<div id=\"ygrps-yiv-1784758871\">I heard from a friend that next years NHK Taiga drama will be about Tokugawa Ieyasu. She wasn&#39;t sure exactly. I thought it odd because they had already done Tokugawa Ieyasu in 1983 as well as 2000s Aoi Tokugawa Sandai. Has anybody heard anything about this?<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 641,
+    "nextTopicId": 652
+}

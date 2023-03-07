@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "News from Japan",
+            "postDate": "1248312366",
+            "msgId": 9949,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEQ3OTNEQjZELTkzNzctNDE4My04MEE5LUVFQzhGMzYzMzg5NkB0b3J5dS1tb24uY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9948,
+            "nextInTime": 9950,
+            "topicId": 9949,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Sorry if this is old hat for some - http://www.soulsmithing.com/LIB/ARTICLES/NBSK/NBSKEN.html Lots of talk of this last Summer. Really just want to share my ",
+            "messageBody": "<div id=\"ygrps-yiv-1791964960\">Sorry if this is old hat for some -<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.soulsmithing.com/LIB/ARTICLES/NBSK/NBSKEN.html\">http://www.soulsmithing.com/LIB/ARTICLES/NBSK/NBSKEN.html</a><br/>\n<br/>\n\tLots of talk of this last Summer. Really just want to share my  <br/>\nfriends webpage with all, still under construction but looking very  <br/>\npromising.<br/>\nCheck it out,<br/>\n-t<br/>\n<br/>\nTom Helm<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a><br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9945,
+    "nextTopicId": 9950
+}

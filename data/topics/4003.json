@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 154585027,
+            "authorName": "deekinblu@aol.com",
+            "from": "deekinblu@...",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Re: Honour",
+            "postDate": "1080146598",
+            "msgId": 4003,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDM0MDg3RkM1LjU3Q0NDRUNCLjAyMkMyNzZCQGFvbC5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 4002,
+            "nextInTime": 4004,
+            "topicId": 4003,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi Brandon! Q: Why did the chicken cross the street? A: To get away from the suicidal chicken farmer!",
+            "messageBody": "<div id=\"ygrps-yiv-1953604349\">Hi Brandon!<br/>\n<br/>\nQ: Why did the chicken cross the street?<br/>\n<br/>\nA: To get away from the suicidal chicken farmer!</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 3998,
+    "nextTopicId": 4004
+}

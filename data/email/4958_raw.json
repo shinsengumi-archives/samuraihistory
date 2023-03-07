@@ -1,0 +1,31 @@
+{
+    "userId": 181581475,
+    "authorName": "Oyakata",
+    "from": "Oyakata &lt;oyakata@...&gt;",
+    "profile": "jckelly108",
+    "replyTo": "LIST",
+    "senderId": "i_Ljia7K0dNMRodG3KXy9nGmcdYWbLAUpJa8fXHIYtC5u32dHrua8Ysux1YfyOnad9weP0KLlW7EwFZ2Th8yhXJOM2qhCQCw",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "Re: [samuraihistory] Re: on encoding....",
+    "postDate": "1091366107",
+    "msgId": 4958,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDIwMDQwODAxMTMxNS5pNzFERjlJWjAxMjMyNUBtcy1zbXRwLTA0LWVyaTAub2hpb3JkYy5yci5jb20+",
+        "inReplyToHeader": "PDIwMDQwODAxMTIyMjQ1LjM2ODcwLnFtYWlsQHdlYjQxMzE1Lm1haWwueWFob28uY29tPg==",
+        "referencesHeader": "PGNlaWNmOSs0dXM5QGVHcm91cHMuY29tPgk8MjAwNDA4MDExMjIyNDUuMzY4NzAucW1haWxAd2ViNDEzMTUubWFpbC55YWhvby5jb20+"
+    },
+    "prevInTopic": 4957,
+    "nextInTopic": 4961,
+    "prevInTime": 4957,
+    "nextInTime": 4959,
+    "topicId": 4936,
+    "numMessagesInTopic": 19,
+    "msgSnippet": "... Nate, I ve noticed that alot about Yahoo groups. The main problem seems to be posting from the Yahoo website (as opposed to composing an email in an email",
+    "rawEmail": "Return-Path: &lt;oyakata@...&gt;\r\nX-Sender: oyakata@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nReceived: (qmail 91024 invoked from network); 1 Aug 2004 13:15:11 -0000\r\nReceived: from unknown (66.218.66.167)\n  by m22.grp.scd.yahoo.com with QMQP; 1 Aug 2004 13:15:11 -0000\r\nReceived: from unknown (HELO ms-smtp-04-eri0.ohiordc.rr.com) (65.24.5.138)\n  by mta6.grp.scd.yahoo.com with SMTP; 1 Aug 2004 13:15:11 -0000\r\nReceived: from D2XWF701 (cvg-166-244-175.cinci.rr.com [24.166.244.175])\n\tby ms-smtp-04-eri0.ohiordc.rr.com (8.12.10/8.12.7) with SMTP id i71DF9IZ012325\n\tfor &lt;samuraihistory@yahoogroups.com&gt;; Sun, 1 Aug 2004 09:15:09 -0400 (EDT)\r\nMessage-Id: &lt;200408011315.i71DF9IZ012325@...&gt;\r\nDate: Sun, 01 Aug 2004 09:15:07 -0400\r\nTo: samuraihistory@yahoogroups.com\r\nOrganization: OdaNobunaga.com\r\nIn-Reply-To: &lt;20040801122245.36870.qmail@...&gt;\r\nReferences: &lt;ceicf9+4us9@...&gt;\n\t&lt;20040801122245.36870.qmail@...&gt;\r\nX-Mailer: Datula version 1.51.06 for Windows\r\nMime-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-2022-JP\r\nX-Virus-Scanned: Symantec AntiVirus Scan Engine\r\nX-eGroups-Remote-IP: 65.24.5.138\r\nFrom: Oyakata &lt;oyakata@...&gt;\r\nSubject: Re: [samuraihistory] Re: on encoding....\r\nX-Yahoo-Group-Post: member; u=181581475\r\nX-Yahoo-Profile: jckelly108\r\n\r\nOn Sun, 1 Aug 2004 05:22:45 -0700 (PDT), Nate Ledbetter\u001b$B$5$s\u001b(B wrote:\n\n&gt;get the first message. Also, for some reason, the\n&gt;characters aren&#39;t coming out correctly, even though my\n&gt;encoding is set correctly, or it seems to be. \n\nNate,\nI&#39;ve noticed that alot about Yahoo groups. The main problem \nseems to be posting from the Yahoo website (as opposed to composing \nan email in an email program and sending it to the mailing list, like \nI&#39;m doing now).\n\nI think the main problem is that even if you can see Japanese on \nyour screen, Yahoo won&#39;t handle it properly. The person who is posting \nhas to make sure that they change the dialog box at the bottom of \nthe screen (the one that says &quot;What language is this post in?&quot;) from \nEnglish to Japanese.\n\nEven after doing that I think that Yahoo is notoriously bad at this. I \nthink that the only real way to solve it is to send an email from an \nemail program.\n\n--\nJay Kelly\noyakata@...\n\n"
+}

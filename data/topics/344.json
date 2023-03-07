@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "C.W.",
+            "from": "&quot;C.W.&quot; &lt;kitsuno@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "C6p8dil0jIhyd9_qcdL0YQAHzRskTd7n2DDglbYxPQBJbB0eHPubqxP_g1jDWqr2-zGZxLTSAmYYoCMfIVFZxM0iMQ",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Recent Updates - Samurai Archives",
+            "postDate": "1003104287",
+            "msgId": 344,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDlxZDk2dis2dnFoQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 343,
+            "nextInTime": 345,
+            "topicId": 344,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Updates as of 10-14-2001 Samurai Archives Japanese History Page http://www.samurai-archives.com ... Timelines specific to the Sanada, Takeda, and Mori have",
+            "messageBody": "<div id=\"ygrps-yiv-1338502560\">Updates as of 10-14-2001<br/>\nSamurai Archives Japanese History Page<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\n----------------------<br/>\n<br/>\nTimelines specific to the Sanada, Takeda, and Mori have been added in<br/>\nthe new &#39;Clan-Specific Timelines&#39; section:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com/clantime.html\">http://www.samurai-archives.com/clantime.html</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 303,
+    "nextTopicId": 345
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 10222348,
+            "authorName": "Carlos Belotti",
+            "from": "&quot;Carlos Belotti&quot; &lt;orion_of_newgenesis@...&gt;",
+            "profile": "orion_of_newgenesis",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] off topic",
+            "postDate": "1015533444",
+            "msgId": 651,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PE9FNzVvb1JQNUJFWVdER2Nwa0gwMDAxMTAzY0Bob3RtYWlsLmNvbT4=",
+                "referencesHeader": "PDAwNmIwMWMxYzIwNSQ2ZDM1MDFlMCQwMzVjZmVhOUBtYXF1aW5hPg=="
+            },
+            "prevInTopic": 641,
+            "nextInTopic": 0,
+            "prevInTime": 650,
+            "nextInTime": 652,
+            "topicId": 641,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... From: Diego M. Dell Era To: samuraihistory@yahoogroups.com Sent: Saturday, March 02, 2002 10:15 AM Subject: [samuraihistory] off topic Actually, there s at",
+            "messageBody": "<div id=\"ygrps-yiv-1475958633\"><blockquote><span title=\"qreply\">----- Original Message ----- <br/>\n  From: Diego M. Dell&#39;Era <br/>\n  To: <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory@yahoogroups.com\">samuraihistory@yahoogroups.com</a> <br/>\n  Sent: Saturday, March 02, 2002 10:15 AM<br/>\n  Subject: [samuraihistory] off topic<br/>\n<br/>\n<br/>\n  Actually, there&#39;s at least one more lurker from Argentina. <br/>\n<br/>\n  Saludos, che.<br/>\n  diego d.<br/>\n<br/>\n<br/>\n  Saludos Diego<br/>\n<br/>\n              Carlos<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 4208023,
+            "authorName": "Diego M. Dell&#39;Era",
+            "from": "&quot;Diego M. Dell&#39;Era&quot; &lt;dellerad@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "[samuraihistory] off topic",
+            "postDate": "1015085709",
+            "msgId": 641,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwNmIwMWMxYzIwNSQ2ZDM1MDFlMCQwMzVjZmVhOUBtYXF1aW5hPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 651,
+            "prevInTime": 640,
+            "nextInTime": 642,
+            "topicId": 641,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Actually, there s at least one more lurker from Argentina. Saludos, che. diego d. ... From: graciela mangione  ... japonesa?...yo",
+            "messageBody": "<div id=\"ygrps-yiv-1479649194\">Actually, there&#39;s at least one more lurker from Argentina. <br/>\n<br/>\nSaludos, che.<br/>\ndiego d.<br/>\n<br/>\n<blockquote><span title=\"qreply\"> ----- Original Message ----- <br/>\n From: graciela mangione &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:conniesosneado@...\">conniesosneado@...</a>&gt;<br/>\n <br/>\n &gt;  hola paisano!. que trae por aqui a dos adeptos a de cultura<br/>\n     japonesa?...yo no lo se, pero espero que hagamos buenas <br/>\n     migas! respondeme el mail cuando quieras.<br/>\n     grace </span></blockquote></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 645,
+    "nextTopicId": 654
+}

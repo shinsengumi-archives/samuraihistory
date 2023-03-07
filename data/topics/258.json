@@ -1,0 +1,37 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "TOM HELM",
+            "from": "TOM HELM &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "senderId": "eEmBETHzfejCboliyshA4arCuTkDLXkvA_CHv0u6jGEO5kopcVdkgqJ4H0LqvjMUnsFvw0eW_8k1xLVqDAu1uDHsviI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] A little digest from all the posts I&#39;m on about  the  Ninja straight blade sword...",
+            "postDate": "995772168",
+            "msgId": 258,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNCNUE0NzA2LjE3RjZGRDJEQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDAwYjUwMWMxMGU1YSQ3M2NhY2E4MCQ5ZmY1ODY5ZkBvZW1jb21wdXRlcj4gPDNCNThFRjc5LkEzNjBDMjUzQGZzaW5ldC5vci5qcD4gPDAwMTQwMWMxMTI2OSQwZjEyMmQwMCRiZWY1ODY5ZkBvZW1jb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 257,
+            "nextInTime": 259,
+            "topicId": 258,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Thanks-T",
+            "messageBody": "<div id=\"ygrps-yiv-747326577\">Eamon Murray wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt; Dear Mr. Helm,<br/>\n&gt;                         I&#39;m on many lists, and will forward your question to<br/>\n&gt; all the relevant lists I&#39;m on. You may get personal replies to your own<br/>\n&gt; mailbox, and If I spot any posts relevant on the other lists, I&#39;ll forward<br/>\n&gt; them to you through the samuraihistory list.<br/>\n&gt;<br/>\n&gt; Respectfully,<br/>\n&gt;<br/>\n&gt; E.<br/>\n&gt;<br/>\n<br/>\n </span></blockquote>Thanks-T</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 255,
+    "nextTopicId": 259
+}

@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 117084251,
+            "authorName": "devisofian &lt;devisofian@yahoo.com&gt;",
+            "from": "&quot;devisofian &lt;devisofian@...&gt;&quot; &lt;devisofian@...&gt;",
+            "profile": "devisofian",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "File/novel download",
+            "postDate": "1042707973",
+            "msgId": 1376,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGIwNXNtNStlZWRpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1375,
+            "nextInTime": 1377,
+            "topicId": 1376,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can anyone tell me where I can download a novel about samurai in English?. Especially about Yothsisune. I am working on a paper about him. Thank you very much ",
+            "messageBody": "<div id=\"ygrps-yiv-2082389560\">Can anyone tell me where I can download a novel about samurai in <br/>\nEnglish?. Especially about Yothsisune. I am working on a paper about <br/>\nhim. Thank you very much<br/>\n<br/>\n<br/>\nDevi Sofian</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1369,
+    "nextTopicId": 1373
+}

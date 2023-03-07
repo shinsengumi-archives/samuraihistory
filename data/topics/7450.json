@@ -1,0 +1,34 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 191242311,
+            "authorName": "Totok Sudarijanto",
+            "from": "&quot;Totok Sudarijanto&quot; &lt;totoks@...&gt;",
+            "profile": "samurai_iaijutsu",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Hello to everyone",
+            "postDate": "1123503223",
+            "msgId": 7450,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {},
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 7449,
+            "nextInTime": 7451,
+            "topicId": 7450,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "All, Hi, my name is Totok Sudarijanto from Indonesia. I am new at this mailing list. I am glad that I found this mailing list. Thanks. Regards, Practice is",
+            "messageBody": "<div id=\"ygrps-yiv-415601756\">All,<br/>\n <br/>\nHi, my name is Totok Sudarijanto from Indonesia. I am new at this mailing<br/>\nlist. I am glad that I found this mailing list.<br/>\n <br/>\nThanks.<br/>\nRegards,<br/>\n<br/>\n<br/>\n<br/>\n&quot;Practice is the only way that you will ever<br/>\ncome to understand what Bushido is about.&quot; <br/>\n<br/>\n <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 7437,
+    "nextTopicId": 7394
+}

@@ -1,0 +1,65 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Blade or sword Guard",
+            "postDate": "1029633352",
+            "msgId": 1106,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNENUVGNTQ3LkMzODIwOTNBQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PGFqaTdxMiszMTliQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 1099,
+            "nextInTopic": 0,
+            "prevInTime": 1105,
+            "nextInTime": 1107,
+            "topicId": 1099,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "The Japanese Sword Index http://home.earthlink.net/~steinrl/nihonto.htm http://www.geocities.com/alchemyst/nihonto.htm For tsuba, swords and all your nihonto",
+            "messageBody": "<div id=\"ygrps-yiv-1932499587\">The Japanese Sword Index<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://home.earthlink.net/~steinrl/nihonto.htm\">http://home.earthlink.net/~steinrl/nihonto.htm</a><br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.geocities.com/alchemyst/nihonto.htm\">http://www.geocities.com/alchemyst/nihonto.htm</a><br/>\n<br/>\nFor tsuba, swords and all your nihonto needs...T</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 41927015,
+            "authorName": "dogtessa2001",
+            "from": "&quot;dogtessa2001&quot; &lt;pettigrewsurfair@...&gt;",
+            "profile": "dogtessa2001",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Blade or sword Guard",
+            "postDate": "1029481090",
+            "msgId": 1099,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFqaTdxMiszMTliQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 1106,
+            "prevInTime": 1098,
+            "nextInTime": 1100,
+            "topicId": 1099,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "YO Any one know were i mite find info on sword guard, i have two and would like info. Cheers Joseph",
+            "messageBody": "<div id=\"ygrps-yiv-260541414\">YO&#39; Any one know were i mite find info on sword guard, i have two and <br/>\nwould like info. Cheers Joseph</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1038,
+    "nextTopicId": 1109
+}

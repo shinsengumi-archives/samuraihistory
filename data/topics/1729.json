@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 66485938,
+            "authorName": "friopoops",
+            "from": "&quot;friopoops&quot; &lt;sgmoore@...&gt;",
+            "profile": "friopoops",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "What Happened?",
+            "postDate": "1052566546",
+            "msgId": 1729,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGI5aW82aSttcWRzQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1728,
+            "nextInTime": 1730,
+            "topicId": 1729,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I just wanted to post this - for some reason Yahoo Groups had me turned off from receiving e-mails for a few days. They sent me an e-mail which I replied to",
+            "messageBody": "<div id=\"ygrps-yiv-943445461\">I just wanted to post this - for some reason Yahoo Groups had me <br/>\nturned off from receiving e-mails for a few days. They sent me an <br/>\ne-mail which I replied to and it is supposed to be fixed. So, I did <br/>\nnot receive by e-mail any of the postings from May 7 thru May 9. I <br/>\nwill go thru those postings now and respond if it is appropriate and <br/>\nI apologize if anyone was waiting for a response.<br/>\n<br/>\nScott</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1678,
+    "nextTopicId": 1732
+}

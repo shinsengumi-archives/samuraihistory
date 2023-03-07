@@ -1,0 +1,28 @@
+{
+    "userId": 0,
+    "authorName": "Christopher West",
+    "from": "&quot;Christopher West&quot; &lt;kitsuno@...&gt;",
+    "replyTo": "LIST",
+    "senderId": "L7iF2B3QoQ1TFBOq5u3muE1FSe-5GUOPbMVMLDNdY7tgbvUkxGW2OU5U-Ux3_C3JOv64gEEFiRs8ma9SBVVD3Nof11myfFKonDIrhboYknQ",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "0"
+    },
+    "subject": "the FIRST MESSAGE - Welcome",
+    "postDate": "969244375",
+    "msgId": 1,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PDhxM3VzbitoZXFoQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 0,
+    "prevInTime": 0,
+    "nextInTime": 2,
+    "topicId": 1,
+    "numMessagesInTopic": 1,
+    "msgSnippet": "This is the first post in what i hope will be a successful exchange of Japanese history via email.  This List Serve will focus on the Samurai of Japanese",
+    "rawEmail": "Return-Path: &lt;kitsuno@...&gt;\r\nReceived: (qmail 21624 invoked from network); 18 Sep 2000 02:33:02 -0000\r\nReceived: from unknown (10.1.10.142) by m1.onelist.org with QMQP; 18 Sep 2000 02:33:02 -0000\r\nReceived: from unknown (HELO mk.egroups.com) (10.1.1.30) by mta3 with SMTP; 18 Sep 2000 02:33:02 -0000\r\nX-eGroups-Return: kitsuno@...\r\nReceived: from [10.1.10.109] by mk.egroups.com with NNFMP; 18 Sep 2000 02:33:02 -0000\r\nDate: Mon, 18 Sep 2000 02:32:55 -0000\r\nTo: samuraihistory@egroups.com\r\nSubject: the FIRST MESSAGE - Welcome\r\nMessage-ID: &lt;8q3usn+heqh@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=ISO-8859-1\r\nContent-Length: 561\r\nX-Mailer: eGroups Message Poster\r\nFrom: &quot;Christopher West&quot; &lt;kitsuno@...&gt;\r\n\r\nThis is the first post in what i hope will be a successful exchange \nof Japanese history via email.  This List Serve will focus on the \nSamurai of Japanese history - feel free to post any questions or \ncomments on the subject of Japanese Samurai history.  Any other \nquestions falling outside the range of Samurai history in particular \nare welcome at the &#39;Samurai History&#39; Forum, at \nwww.delphi.com/samuraihistory/\n\nApparently Japanese fonts are also useable on this listserve, so feel \nfree to post in Japanese as well if necesary.\n\nThanks,\n\nModerator\nCEWest\n\n\n"
+}

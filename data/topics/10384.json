@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "4"
+            },
+            "subject": "Re: [samuraihistory] Hakama Question",
+            "postDate": "1321624461",
+            "msgId": 10390,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PEFFMzZEMkY2LUFFMjAtNDlCRC05ODgzLURERjJFNEZBQjE4M0B0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PGphMGdvbisyNTIwQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGphMGdvbisyNTIwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 10384,
+            "nextInTopic": 0,
+            "prevInTime": 10389,
+            "nextInTime": 10391,
+            "topicId": 10384,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Can t say I have ever translated a pair of hakama but I ll try; Raito-Bira! a registered trademark of Watanabe Kintaro manufacturing Sorry I cannot read the",
+            "messageBody": "<div id=\"ygrps-yiv-1415076790\">Can&#39;t say I have ever translated a pair of hakama but I&#39;ll try;<br/>\n\tRaito-Bira! a registered trademark of Watanabe Kintaro manufacturing<br/>\nSorry I cannot read the English...<br/>\n-t<br/>\nTom Helm<br/>\nwww.toryu-mon.com<br/>\n&quot;Moriamur, et in media arma ruamus&quot;<br/>\n- Vergil<br/>\n<br/>\n<br/>\n<br/>\n<blockquote><span title=\"qreply\"> On Nov 16, 2011, at 6:19 AM, Mark wrote:<br/>\n<br/>\n&gt;<br/>\n&gt; I need your Help for identyfiing these hkama Label<br/>\n&gt;<br/>\n&gt; <a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/files/Hakama%20Question/\">http://groups.yahoo.com/group/samuraihistory/files/Hakama%20Question/</a><br/>\n&gt;<br/>\n&gt; thx for your help<br/>\n&gt;<br/>\n&gt; Mark<br/>\n&gt;<br/>\n&gt; <br/>\n<br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed] </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 192915435,
+            "authorName": "Mark",
+            "from": "&quot;Mark&quot; &lt;smalscout@...&gt;",
+            "profile": "smalscout",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Hakama Question",
+            "postDate": "1321453143",
+            "msgId": 10384,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGphMGdvbisyNTIwQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 10390,
+            "prevInTime": 10383,
+            "nextInTime": 10385,
+            "topicId": 10384,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I need your Help for identyfiing these hkama Label http://groups.yahoo.com/group/samuraihistory/files/Hakama%20Question/ thx for your help Mark",
+            "messageBody": "<div id=\"ygrps-yiv-231877976\">I need your Help for identyfiing these hkama Label<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/files/Hakama%20Question/\">http://groups.yahoo.com/group/samuraihistory/files/Hakama%20Question/</a><br/>\n<br/>\nthx for your help<br/>\n<br/>\nMark</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10378,
+    "nextTopicId": 10379
+}

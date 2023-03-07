@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 49345167,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;toryu@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] Bookin&#39;",
+            "postDate": "1017802058",
+            "msgId": 692,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNDQUE2RDRCLjNDMTY1QzIwQGZzaW5ldC5vci5qcD4=",
+                "referencesHeader": "PDIwMDIwMzI3MDcwOTAxLjY1MDMucW1haWxAd2ViMTE0MDMubWFpbC55YWhvby5jb20+"
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 691,
+            "nextInTime": 693,
+            "topicId": 692,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have several books on swords and sword fittings for sale anyone interested in a list please contact me; toryu@fsinet.or.jp",
+            "messageBody": "<div id=\"ygrps-yiv-341047359\">I have several books on swords and sword fittings for sale anyone interested in a list please contact me; <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:toryu@...\">toryu@...</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 684,
+    "nextTopicId": 694
+}

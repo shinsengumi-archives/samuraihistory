@@ -1,0 +1,67 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 118292429,
+            "authorName": "004040",
+            "from": "004040 &lt;004040@...&gt;",
+            "profile": "oo4o4o",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "12"
+            },
+            "subject": "Re: [samuraihistory] whistling arrow",
+            "postDate": "1112260786",
+            "msgId": 6886,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDQyNEJDMEIyLjMwODAxMDJAYWx0ZXJuLm9yZz4=",
+                "inReplyToHeader": "PGQyZmpkNStuYXZtQGVHcm91cHMuY29tPg==",
+                "referencesHeader": "PGQyZmpkNStuYXZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 6879,
+            "nextInTopic": 0,
+            "prevInTime": 6885,
+            "nextInTime": 6887,
+            "topicId": 6879,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "... Kaburaya (whistleing arrow) ia a sort of arrow whose tip has hollow whistle made with hard stuffs like antler and a kind of magnolia.  It was originally",
+            "messageBody": "<div id=\"ygrps-yiv-418587538\">Rod Pavez wrote:<br/>\n<br/>\n<blockquote><span title=\"ireply\"> &gt;Hi there everybody:<br/>\n&gt;I&#39;ve got a question. I just had a look through one of the photoalbums <br/>\n&gt;for this forum and came across something called a whistling arrow. <br/>\n&gt;What exactly was the purpose of this?<br/>\n&gt;  <br/>\n&gt;<br/>\n </span></blockquote>Kaburaya (whistleing arrow) ia a sort of arrow whose tip has hollow<br/>\nwhistle made with hard stuffs like antler and a kind of magnolia.  It<br/>\nwas originally used to scare quarries by hunters and in Heian and<br/>\nKamakura era, when riding archers had tactical importance,  war was<br/>\nbegun with shout and exchange of kaburaya shooting.  Gradually<br/>\nriding archers had given its importance to infantry,  kaburaya dissaperaed<br/>\nin Muromachi era.<br/>\n<br/>\nNowadays, kaburaya is used in Yabusame that is samurai mounted<br/>\narchery rite dedicated to some shintou shrines.<br/>\n<br/>\n*Kaburaya<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www2.odn.ne.jp/yabusame-fg/karimata.jpg\">http://www2.odn.ne.jp/yabusame-fg/karimata.jpg</a><br/>\n<br/>\n*Yabusame<br/>\n  <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.shonan134.com/kamakura/yabusame/yabusame.html\">http://www.shonan134.com/kamakura/yabusame/yabusame.html</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 214272372,
+            "authorName": "Rod Pavez",
+            "from": "&quot;Rod Pavez&quot; &lt;grfkboyz@...&gt;",
+            "profile": "g3mneye",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "7"
+            },
+            "subject": "whistling arrow",
+            "postDate": "1112232165",
+            "msgId": 6879,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGQyZmpkNStuYXZtQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 6886,
+            "prevInTime": 6878,
+            "nextInTime": 6880,
+            "topicId": 6879,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there everybody: I ve got a question. I just had a look through one of the photoalbums for this forum and came across something called a whistling arrow. ",
+            "messageBody": "<div id=\"ygrps-yiv-354736520\">Hi there everybody:<br/>\nI&#39;ve got a question. I just had a look through one of the photoalbums <br/>\nfor this forum and came across something called a whistling arrow. <br/>\nWhat exactly was the purpose of this?<br/>\n<br/>\nLater,<br/>\nRod</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 6872,
+    "nextTopicId": 6889
+}

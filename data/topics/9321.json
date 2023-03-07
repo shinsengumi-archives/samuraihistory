@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 144806153,
+            "authorName": "David Larkins",
+            "from": "&quot;David Larkins&quot; &lt;dlarkins78@...&gt;",
+            "profile": "shiro4ever",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Image request",
+            "postDate": "1169596254",
+            "msgId": 9321,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwNjcwdSsxbHR2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9320,
+            "nextInTime": 9322,
+            "topicId": 9321,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi all, Long-time lurker, first-time poster. I m looking for images of peasants from around the time of the Sengoku period, in particular images of peasants",
+            "messageBody": "<div id=\"ygrps-yiv-881560215\">Hi all,<br/>\n<br/>\nLong-time lurker, first-time poster.<br/>\n<br/>\nI&#39;m looking for images of peasants from around the time of the Sengoku<br/>\nperiod, in particular images of peasants fighting with the Ikko-Ikki<br/>\narmies.<br/>\n<br/>\nMore broadly, does anyone have any good links to a repository of<br/>\ncontemporary (or nearso) illustrations of Sengoku-era battles?<br/>\n<br/>\nMany thanks!<br/>\nDavid</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9318,
+    "nextTopicId": 9311
+}

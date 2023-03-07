@@ -1,0 +1,95 @@
+{
+    "totalMsgInTopic": 3,
+    "messages": [
+        {
+            "userId": 1935355,
+            "authorName": "burker1@aol.com",
+            "from": "burker1@...",
+            "profile": "burker94509",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] The Last Samurai/Satsuma Rebellion",
+            "postDate": "1071718807",
+            "msgId": 2908,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFjZi4xNjUwODJmNC4yZDEyN2I5N0Bhb2wuY29tPg=="
+            },
+            "prevInTopic": 2904,
+            "nextInTopic": 0,
+            "prevInTime": 2907,
+            "nextInTime": 2909,
+            "topicId": 2722,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "There is something to be said for including at least part of the previous message.  I m afraid I have to ask the source for what ? Between work and home, I",
+            "messageBody": "<div id=\"ygrps-yiv-80811814\">There is something to be said for including at least part of the previous <br/>\nmessage.  I&#39;m afraid I have to ask &quot;the source for what&quot;?<br/>\n<br/>\nBetween work and home, I get well over 200 e-mails a day and I can&#39;t always <br/>\nremember what I&#39;ve written to whom.<br/>\n<br/>\nIf you will remind me of what I wrote, I&#39;d be happy to track down the source <br/>\nfor you.<br/>\n<br/>\nBob Burke<br/>\n<br/>\n<br/>\nIn a message dated 12/17/03 5:17:45 PM, <a rel=\"nofollow\" target=\"_blank\" href=\"mailto:junkmail@...\">junkmail@...</a> writes:<br/>\n<br/>\n&lt;&lt; Bob-<br/>\n    Tantalizing little piece, would love to know your source. Especially <br/>\nthe bit about the swords. Satsuma &quot;rebellion&quot; swords are often seen and <br/>\ndismissed for their low quality. I had however never heard that they <br/>\nwere from the arsenal at Kagoshima, which would add a delicious new <br/>\nwrinkle to the story...<br/>\n-t<br/>\n<blockquote><span title=\"qreply\">  &gt;&gt; </span></blockquote></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 134498325,
+            "authorName": "Tom Helm",
+            "from": "Tom Helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] The Last Samurai/Satsuma Rebellion",
+            "postDate": "1071713810",
+            "msgId": 2904,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDNENzk3REE5LTMxMDAtMTFEOC1CNDdFLTAwMDM5M0I1NkJDMEB0b3J5dS1tb24uY29tPg==",
+                "inReplyToHeader": "PDFhMC4xZTFlOTRkYS4yZDA1ODQwNEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 2722,
+            "nextInTopic": 2908,
+            "prevInTime": 2903,
+            "nextInTime": 2905,
+            "topicId": 2722,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Bob- Tantalizing little piece, would love to know your source. Especially the bit about the swords. Satsuma rebellion swords are often seen and dismissed for",
+            "messageBody": "<div id=\"ygrps-yiv-1652271863\">Bob-<br/>\n\tTantalizing little piece, would love to know your source. Especially <br/>\nthe bit about the swords. Satsuma &quot;rebellion&quot; swords are often seen and <br/>\ndismissed for their low quality. I had however never heard that they <br/>\nwere from the arsenal at Kagoshima, which would add a delicious new <br/>\nwrinkle to the story...<br/>\n-t</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 1935355,
+            "authorName": "burker1@aol.com",
+            "from": "burker1@...",
+            "profile": "burker94509",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The Last Samurai/Satsuma Rebellion",
+            "postDate": "1070868996",
+            "msgId": 2722,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDFhMC4xZTFlOTRkYS4yZDA1ODQwNEBhb2wuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 2904,
+            "prevInTime": 2721,
+            "nextInTime": 2723,
+            "topicId": 2722,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I can t remember if I have posted this link before or not, so if I have, please bear with me (although the newer members of the group may find it interesting).",
+            "messageBody": "<div id=\"ygrps-yiv-2059213664\">I can&#39;t remember if I have posted this link before or not, so if I have, <br/>\nplease bear with me (although the newer members of the group may find it <br/>\ninteresting).<br/>\n<br/>\nFollow this link and you will find an article I wrote back in 1991 about the <br/>\nhistorical Satsuma Rebellion (that&#39;s how long I&#39;ve been researching this <br/>\nperiod of Japanese history.<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.russojapanesewar.com/satsuma.html\">http://www.russojapanesewar.com/satsuma.html</a><br/>\n<br/>\nBob Burke</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1229,
+    "nextTopicId": 2916
+}

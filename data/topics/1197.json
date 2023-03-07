@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 115646007,
+            "authorName": "cepooooo",
+            "from": "&quot;cepooooo&quot; &lt;cepooooo@...&gt;",
+            "profile": "cepooooo",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Hajimemashite",
+            "postDate": "1036326755",
+            "msgId": 1197,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFxMzUxMytlZWdpQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1196,
+            "nextInTime": 1198,
+            "topicId": 1197,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hi there, My name is Cepo, I am a student (scholar?) at UHM, Honolulu. My Japanese History teacher is Dr.Paul Varley - he is awesome! I m glad I ve joined this",
+            "messageBody": "<div id=\"ygrps-yiv-1183366599\">Hi there,<br/>\nMy name is Cepo, I am a student (scholar?) at UHM, Honolulu. My <br/>\nJapanese History teacher is Dr.Paul Varley - he is awesome!<br/>\nI&#39;m glad I&#39;ve joined this group, and I hope to be able to give my <br/>\ncontribution.<br/>\nTill the next one...<br/>\nCepo</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1183,
+    "nextTopicId": 1196
+}

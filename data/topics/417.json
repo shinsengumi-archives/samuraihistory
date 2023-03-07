@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 89272809,
+            "authorName": "O&#39;Keefe",
+            "from": "&quot;O&#39;Keefe&quot; &lt;Viva77@...&gt;",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "",
+            "postDate": "1007502815",
+            "msgId": 417,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDAwMGIwMWMxN2QwZSQyM2VlMDRhMCRhMjA0ZmZkMUBjb21wdXRlcj4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 416,
+            "nextInTime": 418,
+            "topicId": 417,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Did the samurai from days of old tatoo thier person. I never  could find a reliable answer. Thanks p.s. if so what of [Non-text portions of this message have",
+            "messageBody": "<div id=\"ygrps-yiv-374335182\">Did the samurai from days of old tatoo thier person. I never  could find a reliable answer. Thanks p.s. if so what of <br/>\n<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 394,
+    "nextTopicId": 423
+}

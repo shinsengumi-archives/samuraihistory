@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 185728112,
+            "authorName": "David Erickson",
+            "from": "David Erickson &lt;samurai_daimyo2003@...&gt;",
+            "profile": "samurai_daimyo2003",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] myself",
+            "postDate": "1088547966",
+            "msgId": 4701,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwNjI5MjIyNjA2LjYxMzkyLnFtYWlsQHdlYjUwMDAzLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGNibnB2cCtydWwyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 4691,
+            "nextInTopic": 0,
+            "prevInTime": 4700,
+            "nextInTime": 4702,
+            "topicId": 4691,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello Joshua I am Takara , you will find a lot of information on this yahoo group enjoy. Takara No Tokugawa Daimyo of the Samurai Society ",
+            "messageBody": "<div id=\"ygrps-yiv-406118270\">Hello Joshua<br/>\nI am Takara , you will find a lot of information on this yahoo group enjoy. <br/>\n <br/>\nTakara No Tokugawa<br/>\nDaimyo of the Samurai Society<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://hstrial-derickson.homestead.com/samurai.html\">http://hstrial-derickson.homestead.com/samurai.html</a><br/>\n<br/>\nyukimura1990 &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:yukimura1990@...\">yukimura1990@...</a>&gt; wrote:<br/>\nmy name is joshua lee i was born in San Deigo and moved to nissouri <br/>\ni am 14 and have a really big facination with samurai<br/>\n<br/>\n<br/>\n<br/>\n<br/>\n---<br/>\nSamurai Archives: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.samurai-archives.com\">http://www.samurai-archives.com</a><br/>\nSamurai Archives store: <a rel=\"nofollow\" target=\"_blank\" href=\"http://www.cafeshops.com/samuraiarchives\">http://www.cafeshops.com/samuraiarchives</a><br/>\n--- <br/>\n<br/>\n<br/>\nYahoo! Groups SponsorADVERTISEMENT<br/>\n<br/>\n<br/>\n---------------------------------<br/>\nYahoo! Groups Links<br/>\n<br/>\n   To visit your group on the web, go to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://groups.yahoo.com/group/samuraihistory/\">http://groups.yahoo.com/group/samuraihistory/</a><br/>\n  <br/>\n   To unsubscribe from this group, send an email to:<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:samuraihistory-unsubscribe@yahoogroups.com\">samuraihistory-unsubscribe@yahoogroups.com</a><br/>\n  <br/>\n   Your use of Yahoo! Groups is subject to the Yahoo! Terms of Service. <br/>\n<br/>\n<br/>\n\t\t<br/>\n---------------------------------<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail - 50x more storage than other providers!<br/>\n<br/>\n[Non-text portions of this message have been removed]</div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 190423216,
+            "authorName": "yukimura1990",
+            "from": "&quot;yukimura1990&quot; &lt;yukimura1990@...&gt;",
+            "profile": "yukimura1990",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "myself",
+            "postDate": "1088383801",
+            "msgId": 4691,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGNibnB2cCtydWwyQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 4701,
+            "prevInTime": 4690,
+            "nextInTime": 4692,
+            "topicId": 4691,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "my name is joshua lee i was born in San Deigo and moved to nissouri i am 14 and have a really big facination with samurai",
+            "messageBody": "<div id=\"ygrps-yiv-1559661278\">my name is joshua lee i was born in San Deigo and moved to nissouri <br/>\ni am 14 and have a really big facination with samurai</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1339,
+    "nextTopicId": 4703
+}

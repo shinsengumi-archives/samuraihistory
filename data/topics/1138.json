@@ -1,0 +1,35 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 99725801,
+            "authorName": "thorpe75",
+            "from": "&quot;thorpe75&quot; &lt;oldcars4u@...&gt;",
+            "profile": "thorpe75",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "postDate": "1030708607",
+            "msgId": 1138,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGFrbm1odit1NmxrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1137,
+            "nextInTime": 1139,
+            "topicId": 1138,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Hello, I read that Emperor Gotoba became a priest/monk when he turned 23 years old.  I also understand that the Emperor was seen as a divine man. The name or",
+            "messageBody": "<div id=\"ygrps-yiv-419160218\">Hello,<br/>\n<br/>\nI read that Emperor Gotoba became a priest/monk when he turned 23 <br/>\nyears old.  I also understand that the Emperor was seen as a &quot;divine <br/>\nman.&quot;  <br/>\nThe name or title of Ji-Kyu seems to apply to priests in Gotoba&#39;s day <br/>\nand even today.<br/>\nIs it possible that Emperor Gotoba could have gone by the title of <br/>\nJi-Kyu Ichi?  (Meaning &quot;Number one Priest&quot;?)<br/>\n Thank you for your help, Jim</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1137,
+    "nextTopicId": 1140
+}

@@ -1,0 +1,66 @@
+{
+    "totalMsgInTopic": 2,
+    "messages": [
+        {
+            "userId": 61281048,
+            "authorName": "Nate Ledbetter",
+            "from": "Nate Ledbetter &lt;ltdomer98@...&gt;",
+            "profile": "ltdomer98",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Re: [samuraihistory] the history of the samrai",
+            "postDate": "1077762422",
+            "msgId": 3882,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDIwMDQwMjI2MDIyNzAyLjQ0MTIzLnFtYWlsQHdlYjQxMzAyLm1haWwueWFob28uY29tPg==",
+                "inReplyToHeader": "PGMxamdzNSs1dmo2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 3876,
+            "nextInTopic": 0,
+            "prevInTime": 3881,
+            "nextInTime": 3883,
+            "topicId": 3876,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Start with a book. You re not going to learn nearly enough to do what you want simply by asking people on this list. If you go to the samurai archives site ",
+            "messageBody": "<div id=\"ygrps-yiv-530455753\">Start with a book. You&#39;re not going to learn nearly<br/>\nenough to do what you want simply by asking people on<br/>\nthis list. If you go to the samurai archives site<br/>\n(www.samurai-archives.com), there is an excellent<br/>\nbibliography on there. Start with one of those books.<br/>\nANY OF THEM. Please.<br/>\n<br/>\nNate<br/>\n<br/>\n--- Joe &lt;<a rel=\"nofollow\" target=\"_blank\" href=\"mailto:gunblade007@...\">gunblade007@...</a>&gt; wrote:<br/>\n<blockquote><span title=\"ireply\"> &gt; hello i&#39;m Joe. i&#39;m interest in learning more about<br/>\n&gt; samurais in old <br/>\n&gt; japan.i&#39;m thinking about writing a story about a<br/>\n&gt; english man and a <br/>\n&gt; samurai and a chinese warrior. and they have many<br/>\n&gt; adventures <br/>\n&gt; together. but i need to learn about japan. like when<br/>\n&gt; did the english <br/>\n&gt; came. was there samurais back in the chinese dynasty<br/>\n&gt; days? thank you <br/>\n&gt; for your time.<br/>\n&gt; -Joe:)<br/>\n&gt; <br/>\n&gt; <br/>\n&gt; <br/>\n<br/>\n<br/>\n </span></blockquote>__________________________________<br/>\nDo you Yahoo!?<br/>\nYahoo! Mail SpamGuard - Read only the mail you want.<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://antispam.yahoo.com/tools\">http://antispam.yahoo.com/tools</a></div>",
+            "specialLinks": []
+        },
+        {
+            "userId": 12172230,
+            "authorName": "Joe",
+            "from": "&quot;Joe&quot; &lt;gunblade007@...&gt;",
+            "profile": "gunblade007",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "the history of the samrai",
+            "postDate": "1077757637",
+            "msgId": 3876,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGMxamdzNSs1dmo2QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 3882,
+            "prevInTime": 3875,
+            "nextInTime": 3877,
+            "topicId": 3876,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "hello i m Joe. i m interest in learning more about samurais in old japan.i m thinking about writing a story about a english man and a samurai and a chinese",
+            "messageBody": "<div id=\"ygrps-yiv-1718198092\">hello i&#39;m Joe. i&#39;m interest in learning more about samurais in old <br/>\njapan.i&#39;m thinking about writing a story about a english man and a <br/>\nsamurai and a chinese warrior. and they have many adventures <br/>\ntogether. but i need to learn about japan. like when did the english <br/>\ncame. was there samurais back in the chinese dynasty days? thank you <br/>\nfor your time.<br/>\n-Joe:)</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 689,
+    "nextTopicId": 3886
+}

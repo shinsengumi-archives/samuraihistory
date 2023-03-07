@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 134498325,
+            "authorName": "tom helm",
+            "from": "tom helm &lt;junkmail@...&gt;",
+            "profile": "soshuju",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "The last samurai",
+            "postDate": "1054601991",
+            "msgId": 1805,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGEwNTIxMDYwMGJiMDFhMjdmZjVlYkBbMTkyLjE2OC4xNzMuMTY2XT4="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 1804,
+            "nextInTime": 1806,
+            "topicId": 1805,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I have been chided, silently, by Bill, yes Glover was Scottish, the arms were American. and publicly, Lend lease was for the good guys. However that was our ",
+            "messageBody": "<div id=\"ygrps-yiv-1721001403\">I have been chided,<br/>\nsilently, by Bill, yes Glover was Scottish, the arms were American.<br/>\nand publicly, Lend lease was for the good guys. However that was our <br/>\ngovernment at work, the arms dealers were selling dive bombers to the <br/>\nNazies and submarines to the Japanese...<br/>\n-t</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 1789,
+    "nextTopicId": 1808
+}

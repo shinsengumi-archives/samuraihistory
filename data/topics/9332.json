@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 255329918,
+            "authorName": "Craig",
+            "from": "&quot;Craig&quot; &lt;foxes76133@...&gt;",
+            "profile": "the_katana_page",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "No need guys",
+            "postDate": "1170120058",
+            "msgId": 9332,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGVwbTZocStkYmFrQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 9331,
+            "nextInTime": 9333,
+            "topicId": 9332,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "I asked someone i knew for the info i asked you guys. He told me what i needed to know. Thanx anyway.",
+            "messageBody": "<div id=\"ygrps-yiv-1362855324\">I asked someone i knew for the info i asked you guys. He told me what <br/>\ni needed to know. Thanx anyway.</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 9330,
+    "nextTopicId": 9333
+}

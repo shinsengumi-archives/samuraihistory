@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 326666820,
+            "authorName": "Delwayne",
+            "from": "&quot;Delwayne&quot; &lt;delwayne@...&gt;",
+            "profile": "delwayne_a",
+            "replyTo": "LIST",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "6"
+            },
+            "subject": "Samurai Williams",
+            "postDate": "1313819767",
+            "msgId": 10353,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PGoybmk5bitxc2dhQGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 10352,
+            "nextInTime": 10354,
+            "topicId": 10353,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Has anyone read this book?  Samurai William By Giles Milton.  You ve seen the movie Shogun ?  Well, this is about the real William Adams known as Anjin-san .",
+            "messageBody": "<div id=\"ygrps-yiv-1618869823\">Has anyone read this book?  Samurai William<br/>\nBy Giles Milton.  You&#39;ve seen the movie &quot;Shogun&quot;?  Well, this is about the real William Adams known as &quot;Anjin-san&quot;.  Very interesting!  Lots of things that I didn&#39;t realize...<br/>\n   Anyone else read anything that I might have missed?...</div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 10345,
+    "nextTopicId": 10346
+}

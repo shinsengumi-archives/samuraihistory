@@ -1,0 +1,29 @@
+{
+    "userId": 556674432,
+    "authorName": "tachiyana",
+    "from": "&quot;tachiyana&quot; &lt;tanyatako@...&gt;",
+    "profile": "tachiyana",
+    "replyTo": "LIST",
+    "senderId": "l5r4q-F6gYQuwpGmHCRM4rQgKoGmRxu67qOulZg3o_pB5x01pstYYkaAuUU4eYmlK17pT3oAjv3PyvIgKLBE-KD_qDlr1L5y",
+    "spamInfo": {
+        "isSpam": false,
+        "reason": "3"
+    },
+    "subject": "Some art inspired by the awesome Samurai.",
+    "postDate": "1376913749",
+    "msgId": 10459,
+    "canDelete": false,
+    "contentTrasformed": false,
+    "systemMessage": false,
+    "headers": {
+        "messageIdInHeader": "PGt1dDFnbCt1aThmQGVHcm91cHMuY29tPg=="
+    },
+    "prevInTopic": 0,
+    "nextInTopic": 10461,
+    "prevInTime": 10458,
+    "nextInTime": 10460,
+    "topicId": 10459,
+    "numMessagesInTopic": 9,
+    "msgSnippet": "I d like to share some of my art, inspired by the awesome Samurai. My deviantart nickname is Duhvoina   . For example: Samurai",
+    "rawEmail": "Return-Path: &lt;tanyatako@...&gt;\r\nReceived: (qmail 81310 invoked by uid 102); 23 Sep 2013 03:02:27 -0000\r\nReceived: from unknown (HELO mtaq1.grp.bf1.yahoo.com) (10.193.84.32)\n  by m7.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 03:02:27 -0000\r\nReceived: (qmail 32380 invoked from network); 23 Sep 2013 03:02:27 -0000\r\nReceived: from unknown (HELO n6-vm8.bullet.mail.bf1.yahoo.com) (72.30.234.95)\n  by mtaq1.grp.bf1.yahoo.com with SMTP; 23 Sep 2013 03:02:27 -0000\r\nDKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1379905347; bh=kynmzpXv3cyzgugfMqBALrNW/gzuUJoJxQ8PTPC0QDk=; h=Received:Received:Received:X-Sender:X-Apparently-To:X-Received:X-Received:X-Received:X-Received:X-Received:X-Received:Date:Message-ID:User-Agent:MIME-Version:X-Mailer:X-Yahoo-Newman-Property:X-Originating-IP:X-eGroups-Msg-Info:X-Yahoo-Post-IP:From:Subject:X-Yahoo-Group-Post:X-Yahoo-Profile:Content-Type:Content-Transfer-Encoding:X-YGroups-SubInfo:To:Sender:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:X-eGroups-Approved-By:X-eGroups-Auth; b=g6OiMac3mcu77upQBCJrmvgx9wcOj+0BNXQ8XNbNQ+otDRIANwj2Zn7Hh17BbNYz3eAE9sfq/pXysQaxrs3kJF9tEFhpOOQnJoiilPRWb2JdiH6VavRd7GIoXEMPbZrRsmwOqOvFBnBaY9g7w6q5HqFvC2N0Chh25mShMn/8K0Q=\r\nReceived: from [66.196.81.176] by n6.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:27 -0000\r\nReceived: from [10.193.242.234] by t6.bullet.mail.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:27 -0000\r\nReceived: from [127.0.0.1] by gapi7.grp.bf1.yahoo.com with NNFMP; 23 Sep 2013 03:02:27 -0000\r\nX-Sender: tanyatako@...\r\nX-Apparently-To: samuraihistory@yahoogroups.com\r\nX-Received: (qmail 8433 invoked by uid 102); 19 Aug 2013 12:02:32 -0000\r\nX-Received: from unknown (HELO mtaq2.grp.bf1.yahoo.com) (10.193.84.33)\n  by m5.grp.bf1.yahoo.com with SMTP; 19 Aug 2013 12:02:32 -0000\r\nX-Received: (qmail 20022 invoked from network); 19 Aug 2013 12:02:32 -0000\r\nX-Received: from unknown (HELO ng1-vm1.bullet.mail.ne1.yahoo.com) (98.138.214.230)\n  by mtaq2.grp.bf1.yahoo.com with SMTP; 19 Aug 2013 12:02:32 -0000\r\nX-Received: from [98.138.217.180] by ng1.bullet.mail.ne1.yahoo.com with NNFMP; 19 Aug 2013 12:02:31 -0000\r\nX-Received: from [10.193.94.43] by tg5.bullet.mail.ne1.yahoo.com with NNFMP; 19 Aug 2013 12:02:31 -0000\r\nDate: Mon, 19 Aug 2013 12:02:29 -0000\r\nMessage-ID: &lt;kut1gl+ui8f@...&gt;\r\nUser-Agent: eGroups-EW/0.82\r\nMIME-Version: 1.0\r\nX-Mailer: Yahoo Groups Message Poster\r\nX-Yahoo-Newman-Property: groups-compose\r\nX-eGroups-Msg-Info: 2:3:4:0:0\r\nFrom: &quot;tachiyana&quot; &lt;tanyatako@...&gt;\r\nSubject: Some art inspired by the awesome Samurai.\r\nX-Yahoo-Group-Post: member; u=556674432; y=3oX9ipc0BJue1aGMyL2bF8Ja1HzbG-cO5NIsi2rlMCdWMXg58QDWgRRXsUFzntDtx9rMEOhDXv4ywPU\r\nX-Yahoo-Profile: tachiyana\r\nContent-Type: text/plain; charset=US-ASCII\r\nContent-Transfer-Encoding: 7bit\r\nTo: samuraihistory@yahoogroups.com\r\nX-Yahoo-Newman-Property: groups-system\r\nX-Yahoo-Newman-Id: groups-system\r\nX-eGroups-Approved-By: kitsuno via web; 22 Sep 2013 20:02:27 -0000\r\n\r\nI&#39;d like to share some of my art, inspired by the awesome Samurai. My\ndeviantart nickname is Duhvoina &lt;http://duhvoina.deviantart.com&gt;  . For\nexample: Samurai Spirits\n&lt;http://duhvoina.deviantart.com/art/Samurai-Spirits-394213790&gt; , Way of\nAscension\n&lt;http://duhvoina.deviantart.com/art/Way-of-Ascension-317784502&gt;  ,\nTakeda Shingen\n&lt;http://duhvoina.deviantart.com/art/Takeda-Shingen-390776397&gt;  , Like\nSakura Petals\n&lt;http://duhvoina.deviantart.com/art/Like-sakura-petals-317780007&gt;  , Zen\nand the Sword\n&lt;http://duhvoina.deviantart.com/art/Zen-and-the-Sword-are-One-317781921&gt;\nHope you enjoy!Thank you.\n\n\n\n\n\n\n[Non-text portions of this message have been removed]\n\n\n\n"
+}

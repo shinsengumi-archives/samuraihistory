@@ -1,0 +1,61 @@
+{
+    "groupName": "samuraihistory",
+    "creator": "ninja_20049",
+    "viewerNickname": "amyyu123@hotmail.com",
+    "surveyId": 1742803,
+    "listId": 2247946,
+    "dateCreated": 1112237501,
+    "userIdCreated": 219301262,
+    "dateEnd": 1113199140,
+    "sendToId": "CREATOR",
+    "resultsId": "COUNTS",
+    "visibleId": "ALWAYS",
+    "statusId": "DISABLED",
+    "isCreator": false,
+    "surveyText": "who was your fave. samurai from 1285 till 1562?",
+    "flagBits": 0,
+    "multiResponse": false,
+    "addOptions": false,
+    "selections": [
+        {
+            "selectionId": 12897058,
+            "selectionText": "ADACHI YASUMORI",
+            "selections": 1,
+            "responses": [
+                {
+                    "selectionId": 12897058,
+                    "surveyId": 1742803,
+                    "userId": 219301262,
+                    "guid": "45DYYWYQLDLASO4O3VJFAGBPRI",
+                    "nickname": "ninja_20049",
+                    "email": "ninja_20049@yahoo.com"
+                }
+            ],
+            "voted": false
+        },
+        {
+            "selectionId": 12897059,
+            "selectionText": "AKAMATSU MITSUSUKE",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12897060,
+            "selectionText": "AKECHI MITSUHIDE",
+            "selections": 1,
+            "responses": [],
+            "voted": false
+        },
+        {
+            "selectionId": 12897061,
+            "selectionText": "AMAKO AKIHISA",
+            "selections": 0,
+            "responses": [],
+            "voted": false
+        }
+    ],
+    "voteCount": 2,
+    "previousSurveyId": 1742834,
+    "nextSurveyId": 1734176
+}

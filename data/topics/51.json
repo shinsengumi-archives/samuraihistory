@@ -1,0 +1,36 @@
+{
+    "totalMsgInTopic": 1,
+    "messages": [
+        {
+            "userId": 0,
+            "authorName": "kitsuno@teleport.com",
+            "from": "kitsuno@...",
+            "replyTo": "LIST",
+            "senderId": "Zl-4Ionm5ncjWrbgWrt9McWQFa18bWEIlSAJZb2UJIpWHR_Q3Yl2UTvDVaQnWEN-dRcqHulQOYm7CtI",
+            "spamInfo": {
+                "isSpam": false,
+                "reason": "0"
+            },
+            "subject": "Samurai Archives status",
+            "postDate": "979937514",
+            "msgId": 51,
+            "canDelete": false,
+            "contentTrasformed": false,
+            "systemMessage": false,
+            "headers": {
+                "messageIdInHeader": "PDk0YTlkYSs3bGZ0QGVHcm91cHMuY29tPg=="
+            },
+            "prevInTopic": 0,
+            "nextInTopic": 0,
+            "prevInTime": 50,
+            "nextInTime": 52,
+            "topicId": 51,
+            "numMessagesInTopic": 0,
+            "msgSnippet": "Since the server change over we haven t been able to add any updates.  The setup is expected to be completed today, but we won t know for sure for a day or two",
+            "messageBody": "<div id=\"ygrps-yiv-944192484\">Since the server change over we haven&#39;t been able to add any <br/>\nupdates.  The setup is expected to be completed today, but we won&#39;t <br/>\nknow for sure for a day or two - - after that, we should be able to <br/>\nget some updates put up.  Thanks for your patience, all.<br/>\n<br/>\nc.west<br/>\n<br/>\n<a rel=\"nofollow\" target=\"_blank\" href=\"http://www.techjapanese.com/samurai/\">http://www.techjapanese.com/samurai/</a></div>",
+            "specialLinks": []
+        }
+    ],
+    "prevTopicId": 16,
+    "nextTopicId": 47
+}
