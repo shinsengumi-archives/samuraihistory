@@ -152,7 +152,7 @@ def gen(group):
     f = open(topicIdsFile)
     topicIds = json.load(f)
     f.close()
-    topicIds.sort(reverse=True)
+    topicIds.sort(reverse=False)
     if isTest:
         topicIds = testTids
 
