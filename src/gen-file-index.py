@@ -65,7 +65,8 @@ def getFilesInDirectory(type, content, group, path, dir, metadata, lev):
         
     print(metadata, dir)
     content = content + '<h'+str(lev)+' id="'+dir+'">' + metadata[nameKey] + '</h'+str(lev)+'>\n'
-    content = content + '<p>'+metadata['description']+'</p>\n'
+    if 'description' in metadata and metadata['description'] != "":
+        content = content + '<p>'+metadata['description']+'</p>\n'
     if type == 'photos':
         content = content+'<div style="display: flex; flex-direction: row; flex-wrap: wrap;">\n'
     
@@ -112,7 +113,9 @@ def gen(type, group):
         if isdir(group+path):
             content, added = getFilesInDirectory(type, content, group, path, file, md, 3)
             if added:
-                desc = md['description']
+                desc = ''
+                if 'description' in md:
+                    desc = md['description']
                 if desc != '':
                     desc = ' - ' + desc
                 nav = nav + '<li>'+'<a href="#'+file+'">'+md[nameKey]+'</a>'+desc+'</li>\n'
